@@ -1,0 +1,4 @@
+usage: "Utilizzo: $0 <tipo progetto> <nome progetto>"
+cmdDesc: "Crea nuovo componente"
+typeDesc: "Tipo di progetto (css o js)"
+nameDesc: "Nome del progetto"

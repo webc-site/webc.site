@@ -1,0 +1,4 @@
+usage: "Használat: $0 <projekt típusa> <projekt neve>"
+cmdDesc: "Új komponens létrehozása"
+typeDesc: "Projekt típusa (css vagy js)"
+nameDesc: "Projekt neve"

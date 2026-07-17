@@ -1,0 +1,38 @@
+basicTitle: Grunnstíll
+bold: Djarft
+italic: skáletrun
+del: yfirstrikað
+inlineCode: innbyggður kóða
+linkPrefix: Það er texti fyrir og eftir hlekkinn, ss
+link: Opinber vefsíða Sameinuðu þjóðanna
+linkSuffix: er hlekkur.
+quoteSingle: Þetta er tilvitnun í einni línu.
+quoteMultiLine1: Þetta er marglína tilvitnun.
+quoteMultiLine2: Sjónræn áhrif til að sýna marglínu tilvísanir.
+note: Almenn skilaboð og athugasemdir
+tip: Ábendingar og gagnleg ráð
+important: Mikilvægar ábendingar og áhyggjur
+warning: Hættuviðvaranir og varúðarráðstafanir
+caution: VIÐVÖRUN UM HÆTTU OG MIKILHÆTTU
+listTitle: Tilvitnanir og listar
+taskTitle: verkefnalista
+todoItem: Þetta er óunnið CSS verkefni
+doneItem: Þetta er lokið CSS verkefni
+ulItem1: Óraðað fyrsta atriði
+ulSubItem1: Óraðað undirlið eitt
+ulSubItem2: Óraðaður undirliður tvö
+ulItem2: Óraðað annað atriði
+olItem1: Pantaði fyrsta hlutinn
+olSubItem1: Pantaði hlut eitt
+olSubItem2: Pantaði undirlið tvö
+olItem2: Pantað annað tímabil
+tableTitle: blað
+col1: verkefni
+col2: ríki
+col3: skora
+row1Col1: kyrrstöðu
+row1Col2: Lokið
+row2Col1: streymi
+row2Col2: Rending
+codeTitle: kóða blokk
+imageTitle: mynd

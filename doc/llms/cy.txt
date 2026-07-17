@@ -1,0 +1,54 @@
+[BoxX](../../src/BoxX/i18n/cy/README.md) : Creu ac arddangos haenen naid gyda botwm cau
+[Code](../../src/Code/i18n/cy/README.md) : botwm cod
+[Copy](../../src/Copy/i18n/cy/README.md) : Copïo testun i'r clipfwrdd
+[Edit](../../src/Edit/i18n/cy/README.md) : botwm golygu
+[HtmDemo](../../src/HtmDemo/i18n/cy/README.md) : Dadfygio cod HTML a JS ar-lein
+[I18n](../../src/I18n/i18n/cy/README.md) : Botymau a ffenestri naid ar gyfer newid ieithoedd rhyngwyneb
+[MdStream](../../src/MdStream/i18n/cy/README.md) : Ffrydio rendrad o destun Markdown
+[Nav](../../src/Nav/i18n/cy/README.md) : Bar llywio uchaf sy'n cwympo neu'n ehangu'n awtomatig pan fydd y dudalen yn sgrolio
+[NavL](../../src/NavL/i18n/cy/README.md) : Newid y ddewislen llywio a'r botwm dychwelyd yn awtomatig
+[NavMenu](../../src/NavMenu/i18n/cy/README.md) : Dewislen llywio wedi'i haddasu i wahanol feintiau sgrin
+[SelectBtn](../../src/SelectBtn/i18n/cy/README.md) : Cyfuniad o gwymplen blwch dewis a botwm
+[TabSelect](../../src/TabSelect/i18n/cy/README.md) : Tudalen tab gyda dewisiad cwymplen
+[Btn](../../src/Btn/i18n/cy/README.md) : Botwm cyffredin a botwm eicon crwn
+[Card](../../src/Card/i18n/cy/README.md) : Cerdyn capsiwl gyda saeth dde wedi'i harddangos yn yr ataliad
+[H1Txt](../../src/H1Txt/i18n/cy/README.md) : Teitl gwead a disgrifiad
+[Ing](../../src/Ing/i18n/cy/README.md) : Dangosydd statws llwytho neu brosesu
+[Input](../../src/Input/i18n/cy/README.md) : Blwch mewnbwn sy'n newid cyflwr dalfan yn awtomatig
+[Kv](../../src/Kv/i18n/cy/README.md) : pâr gwerth allweddol
+[Lg](../../src/Lg/i18n/cy/README.md) : Cefndir gwydr barugog ac effaith amlygu ymyl
+[MdCss](../../src/MdCss/i18n/cy/README.md) : Arddulliau teipograffeg wedi'u hoptimeiddio ar gyfer profiad darllen
+[NavALi](../../src/NavALi/i18n/cy/README.md) : Arddull rhestr cyswllt bar llywio
+[O](../../src/O/i18n/cy/README.md) : Tynnwch logo dot gwag o flaen yr elfen
+[Toast](../../src/Toast/i18n/cy/README.md) : Ffenestr naid brydlon ar ymyl y dudalen
+[404](../../src/404/i18n/cy/README.md) : Nid yw'r llwybr yn bodoli tudalen neges gwall
+[Back](../../src/Back/i18n/cy/README.md) : botwm yn ôl
+[Box](../../src/Box/i18n/cy/README.md) : Creu ac arddangos haenen naid
+[CardLi](../../src/CardLi/i18n/cy/README.md) : Llwytho ac arddangos rhestr cardiau yn anghydamserol
+[Md](../../src/Md/i18n/cy/README.md) : Dosrannu a rendr testun Markdown yn ddiogel i HTML.
+[Pophover](../../src/Pophover/i18n/cy/README.md) : swigen fel y bo'r angen yn brydlon
+[Scroll](../../src/Scroll/i18n/cy/README.md) : bar sgrolio rhithwir
+[Select](../../src/Select/i18n/cy/README.md) : Dewisiad cwymplen, lled yn addasu i eitem gyfredol
+[Side](../../src/Side/i18n/cy/README.md) : Paneli drôr sy'n llithro allan o'r ochr
+[Tab](../../src/Tab/i18n/cy/README.md) : Tabiau y gellir eu newid
+[On](../cy/js/On.md) : Monitro digwyddiad rhwymo swp
+[Toast](../cy/js/Toast.md) : Tost anogwr neges pop-up
+[a](../cy/js/a.md) : Digwyddiadau clicio cyswllt rhyng-gipio byd-eang
+[c-t](../cy/js/c-t.md) : Rhyngwladoli HTML
+[demo](../cy/js/demo.md) : Cychwyniad tudalen demo
+[dom](../cy/js/dom.md) : Dogfennu byrfoddau newidiol a swyddogaethau llwybr byr
+[dom/header](../cy/js/dom/header.md) : Creu strwythur DOM y bar pennawd
+[fetch](../cy/js/fetch.md) : Swyddogaeth offeryn cais rhwydwaith yn seiliedig ar amgáu nôl
+[fetchLang](../cy/js/fetchLang.md) : Llwytho pecynnau iaith yn anghydamserol a rhwymo galwadau diweddaru
+[hashActive](../cy/js/hashActive.md) : Amlygiad cyswllt llywio yn seiliedig ar angorau URL a sgrolio porth gwylio
+[i18n](../cy/js/i18n.md) : Rheoli statws aml-iaith a monitro newid
+[i18n/init](../cy/js/i18n/init.md) : Cyfluniad cychwyniad aml-iaith a llwytho
+[i18n/store](../cy/js/i18n/store.md) : Rheoli storfa leol amlieithog
+[icoTip](../cy/js/icoTip.md) : Diffinio a chofrestru elfen eicon gydag awgrymiadau rhyngwladoli
+[md/htm](../cy/js/md/htm.md) : Markdown testun i llinyn HTML
+[md/safeHtm](../cy/js/md/safeHtm.md) : Markdown testun i HTML diogel
+[md/streamRender](../cy/js/md/streamRender.md) : Rendro ffrydio Markdown
+[parentScroll](../cy/js/parentScroll.md) : Sicrhewch yr elfen cynhwysydd sgrolio hynafiad
+[rmWait](../cy/js/rmWait.md) : Tynnwch y dudalen animeiddiad aros llwytho cychwynnol
+[route](../cy/js/route.md) : Rheolaeth llwybro pen blaen un dudalen
+[sandbox](../cy/js/sandbox.md) : Elfen arfer cynhwysydd blwch tywod ar gyfer llwytho a rhedeg is-fodiwlau ar wahân

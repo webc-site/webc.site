@@ -1,0 +1,4 @@
+usage: "Použití: $0 [cesta součásti]"
+cmdDesc: "Spusťte vývojový server pro komponentu WebC"
+pathDesc: "Cesta komponenty WebC (například src/Box, můžete také napsat pole)"
+notFound: "Chyba: Komponenta neexistuje"

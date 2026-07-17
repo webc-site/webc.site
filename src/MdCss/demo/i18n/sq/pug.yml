@@ -1,0 +1,38 @@
+basicTitle: Stili bazë
+bold: E guximshme
+italic: kursive
+del: grevë
+inlineCode: kodi inline
+linkPrefix: Ka tekst para dhe pas lidhjes, si p.sh
+link: Faqja zyrtare e Kombeve të Bashkuara
+linkSuffix: është një lidhje.
+quoteSingle: Ky është një citat me një rresht.
+quoteMultiLine1: Ky është një citat me shumë rreshta.
+quoteMultiLine2: Një efekt vizual për shfaqjen e referencave me shumë rreshta.
+note: Mesazhe dhe shënime të përgjithshme
+tip: Këshilla dhe këshilla të dobishme
+important: Këshilla dhe shqetësime të rëndësishme
+warning: Paralajmërimet e rrezikut dhe masat paraprake
+caution: PARALAJMËRIM RREZIK DHE RREZIK EKSTREM
+listTitle: Kuotat dhe listat
+taskTitle: lista e detyrave
+todoItem: Kjo është një detyrë e papërfunduar CSS
+doneItem: Kjo është një detyrë e përfunduar CSS
+ulItem1: Artikulli i parë i pa porositur
+ulSubItem1: Nën-artikull i parenditur
+ulSubItem2: Nënseksioni dy i pa renditur
+ulItem2: Artikulli i dytë i pa renditur
+olItem1: Porosi artikullin e parë
+olSubItem1: Porosi artikullin një
+olSubItem2: Urdhëroi nënpikën dy
+olItem2: Urdhëroi mandatin e dytë
+tableTitle: fletë
+col1: projekti
+col2: shteti
+col3: pikë
+row1Col1: statike
+row1Col2: E përfunduar
+row2Col1: transmetim
+row2Col2: Rendering
+codeTitle: bllok kodi
+imageTitle: foto

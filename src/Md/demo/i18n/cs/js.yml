@@ -1,0 +1,60 @@
+mdContent: |
+  # Prezentační dokument Markdown
+  Toto je ukázka **statického vykreslování**.
+  ## Základní styl
+  - **tučné** a *kurzíva*
+  - ~~přeškrtnutí~~
+  - `inline_code` vložený kód
+  - [Oficiální stránky Organizace spojených národů](https://un.org) Ukázka odkazu
+  ## Citáty a seznamy
+  > Toto je jednořádková citace.
+
+  > Toto je víceřádkový citát.
+  > Vizuální efekt pro zobrazení víceřádkových odkazů.
+
+  - Neobjednané první zboží
+    - Neuspořádaná podpoložka jedna
+    - Neuspořádaná podpoložka dvě
+  - Neobjednaná druhá položka
+
+  > [!NOTE]
+  > `> [!NOTE]` Obecné zprávy a poznámky
+
+  > [!TIP]
+  > `> [!TIP]` Tipy a užitečné tipy
+
+  > [!IMPORTANT]
+  > `> [!IMPORTANT]` Důležité tipy a obavy
+
+  > [!WARNING]
+  > `> [!WARNING]` Upozornění na rizika a poznámky
+
+  > [!CAUTION]
+  > `> [!CAUTION]` NEBEZPEČÍ A EXTRÉMNÍ RIZIKO VAROVÁNÍ
+
+  ---
+
+  ## seznam úkolů
+  - [ ] Toto je nedokončený seznam úkolů
+  - [x] Toto je dokončený úkol se seznamem
+  - [X] Toto je dokončený úkol se seznamem (velké X)
+
+  ---
+
+  1. Objednaná první položka
+     1. Objednaná položka jedna
+     2. Objednaná podpoložka dvě
+  2. Objednaný druhý termín
+  ## list
+  | projekt | stát | skóre |
+  | :--- | :---: | ---: |
+  | statický | Dokončeno | 100 |
+  | streamování | Vykreslování | 95 |
+  ## blok kódu
+  ```js
+  const hello = () => {
+    console.log("Hello, WebC!");
+  };
+  ```
+  ## obrázek
+  ![Demo obrázek](https://i-01.eu.org/demo-green.avif)

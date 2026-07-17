@@ -1,0 +1,4 @@
+default: Alapértelmezett gomb
+main: fő gomb
+link: link gomb
+icon: Ikon gomb (.BtnC)

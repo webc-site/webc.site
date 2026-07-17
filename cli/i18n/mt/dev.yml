@@ -1,0 +1,4 @@
+usage: "Użu: $0 [mogħdija tal-komponent]"
+cmdDesc: "Ibda s-server tal-iżvilupp għall-komponent WebC"
+pathDesc: "Il-mogħdija tal-komponent WebC (per eżempju, src/Box, tista 'wkoll tikteb kaxxa)"
+notFound: "Żball: Komponent ma jeżistix"

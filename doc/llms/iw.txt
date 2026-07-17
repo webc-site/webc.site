@@ -1,0 +1,54 @@
+[BoxX](../../src/BoxX/i18n/iw/README.md) : צור והצג שכבה קופצת עם כפתור סגירה
+[Code](../../src/Code/i18n/iw/README.md) : כפתור קוד
+[Copy](../../src/Copy/i18n/iw/README.md) : העתק טקסט ללוח
+[Edit](../../src/Edit/i18n/iw/README.md) : כפתור עריכה
+[HtmDemo](../../src/HtmDemo/i18n/iw/README.md) : איתור באגים בקוד HTML ו-JS באינטרנט
+[I18n](../../src/I18n/i18n/iw/README.md) : לחצנים וחלונות קופצים להחלפת שפות ממשק
+[MdStream](../../src/MdStream/i18n/iw/README.md) : עיבוד סטרימינג של טקסט Markdown
+[Nav](../../src/Nav/i18n/iw/README.md) : סרגל הניווט העליון שמתכווץ או מתרחב באופן אוטומטי כאשר הדף גולש
+[NavL](../../src/NavL/i18n/iw/README.md) : החלף אוטומטית את תפריט הניווט וכפתור החזרה
+[NavMenu](../../src/NavMenu/i18n/iw/README.md) : תפריט ניווט מותאם לגדלי מסך שונים
+[SelectBtn](../../src/SelectBtn/i18n/iw/README.md) : שילוב של תיבת בחירה נפתחת וכפתור
+[TabSelect](../../src/TabSelect/i18n/iw/README.md) : דף כרטיסייה עם בחירה נפתחת
+[Btn](../../src/Btn/i18n/iw/README.md) : כפתור רגיל וכפתור אייקון עגול
+[Card](../../src/Card/i18n/iw/README.md) : כרטיס קפסולה עם חץ ימינה מוצג בהשעיה
+[H1Txt](../../src/H1Txt/i18n/iw/README.md) : כותרת ותיאור מרקם
+[Ing](../../src/Ing/i18n/iw/README.md) : מחוון של מצב טעינה או עיבוד
+[Input](../../src/Input/i18n/iw/README.md) : תיבת קלט שמחליפה אוטומטית מצב מציין מיקום
+[Kv](../../src/Kv/i18n/iw/README.md) : צמד ערכי מפתח
+[Lg](../../src/Lg/i18n/iw/README.md) : רקע זכוכית חלבית ואפקט הדגשת קצה
+[MdCss](../../src/MdCss/i18n/iw/README.md) : סגנונות טיפוגרפיה מותאמים לחוויית קריאה
+[NavALi](../../src/NavALi/i18n/iw/README.md) : סגנון רשימת קישורים בסרגל הניווט
+[O](../../src/O/i18n/iw/README.md) : צייר לוגו נקודה חלולה מול האלמנט
+[Toast](../../src/Toast/i18n/iw/README.md) : חלון מוקפץ בקשה בקצה העמוד
+[404](../../src/404/i18n/iw/README.md) : הנתיב אינו קיים דף הודעת שגיאה
+[Back](../../src/Back/i18n/iw/README.md) : כפתור חזרה
+[Box](../../src/Box/i18n/iw/README.md) : צור והצג שכבת קופץ
+[CardLi](../../src/CardLi/i18n/iw/README.md) : טען והצג את רשימת הכרטיסים באופן אסינכרוני
+[Md](../../src/Md/i18n/iw/README.md) : ניתוח ועיבוד בטוח של טקסט Markdown ל-HTML.
+[Pophover](../../src/Pophover/i18n/iw/README.md) : הודעת בועה צפה
+[Scroll](../../src/Scroll/i18n/iw/README.md) : פס גלילה וירטואלי
+[Select](../../src/Select/i18n/iw/README.md) : בחירה נפתחת, רוחב מתאים לפריט הנוכחי
+[Side](../../src/Side/i18n/iw/README.md) : לוחות מגירות המחליקים החוצה מהצד
+[Tab](../../src/Tab/i18n/iw/README.md) : כרטיסיות שניתן להחליף ביניהן
+[On](../iw/js/On.md) : ניטור אירועי קשירת אצווה
+[Toast](../iw/js/Toast.md) : הודעה מוקפצת טוסט
+[a](../iw/js/a.md) : ליירט אירועי קליקים על קישורים באופן גלובלי
+[c-t](../iw/js/c-t.md) : בינאום HTML
+[demo](../iw/js/demo.md) : אתחול דף הדגמה
+[dom](../iw/js/dom.md) : קיצורי מסמך משתנים ופונקציות קיצור
+[dom/header](../iw/js/dom/header.md) : צור את מבנה ה-DOM של שורת הכותרת
+[fetch](../iw/js/fetch.md) : פונקציית כלי בקשת רשת המבוססת על אחזור אנקפסולציה
+[fetchLang](../iw/js/fetchLang.md) : טען חבילות שפה באופן אסינכרוני ואגד התקשרויות חוזרות של עדכונים
+[hashActive](../iw/js/hashActive.md) : הדגשת קישורי ניווט בהתבסס על עוגני כתובת URL וגלילה של נקודת מבט
+[i18n](../iw/js/i18n.md) : ניהול סטטוס רב שפות וניטור שינויים
+[i18n/init](../iw/js/i18n/init.md) : תצורת אתחול וטעינה מרובת שפות
+[i18n/store](../iw/js/i18n/store.md) : ניהול אחסון מקומי רב לשוני
+[icoTip](../iw/js/icoTip.md) : הגדר ורשום רכיב סמל עם רמזים לבינלאומיות
+[md/htm](../iw/js/md/htm.md) : סימון טקסט למחרוזת HTML
+[md/safeHtm](../iw/js/md/safeHtm.md) : סימון טקסט ל-HTML בטוח
+[md/streamRender](../iw/js/md/streamRender.md) : עיבוד סטרימינג של סימון
+[parentScroll](../iw/js/parentScroll.md) : קבל את אלמנט מיכל הגלילה הקדמוני
+[rmWait](../iw/js/rmWait.md) : הסר את הנפשה הממתינה לטעינה ראשונית
+[route](../iw/js/route.md) : ניהול ניתוב מול עמוד בודד
+[sandbox](../iw/js/sandbox.md) : רכיב מותאם אישית של מיכל ארגז חול לטעינה והרצה של תת-מודולים בבידוד

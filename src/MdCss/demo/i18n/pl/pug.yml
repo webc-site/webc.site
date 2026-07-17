@@ -1,0 +1,38 @@
+basicTitle: Podstawowy styl
+bold: Pogrubiony
+italic: kursywa
+del: przekreślenie
+inlineCode: kod wbudowany
+linkPrefix: Przed i po linku znajduje się tekst, np
+link: Oficjalna strona Organizacji Narodów Zjednoczonych
+linkSuffix: jest linkiem.
+quoteSingle: To jest cytat z jednej linijki.
+quoteMultiLine1: To jest cytat wielowierszowy.
+quoteMultiLine2: Efekt wizualny do wyświetlania odniesień wielowierszowych.
+note: Ogólne wiadomości i notatki
+tip: Wskazówki i przydatne wskazówki
+important: Ważne wskazówki i wątpliwości
+warning: Ostrzeżenia o ryzyku i środki ostrożności
+caution: OSTRZEŻENIE O NIEBEZPIECZEŃSTWIE I EKSTRA RYZYKU
+listTitle: Cytaty i listy
+taskTitle: lista zadań
+todoItem: To jest niedokończone zadanie CSS
+doneItem: To jest ukończone zadanie CSS
+ulItem1: Nieuporządkowany pierwszy przedmiot
+ulSubItem1: Nieuporządkowany podpunkt pierwszy
+ulSubItem2: Nieuporządkowany podpunkt drugi
+ulItem2: Nieuporządkowany drugi przedmiot
+olItem1: Zamówiłem pierwszą rzecz
+olSubItem1: Zamówiony przedmiot numer jeden
+olSubItem2: Zamówiłem podpunkt drugi
+olItem2: Zamówiony drugi termin
+tableTitle: arkusz
+col1: projekt
+col2: państwo
+col3: wynik
+row1Col1: statyczny
+row1Col2: Zakończony
+row2Col1: przesyłanie strumieniowe
+row2Col2: Wykonanie
+codeTitle: blok kodu
+imageTitle: zdjęcie

@@ -1,0 +1,60 @@
+mdContent: |
+  # Markdown pristatymo dokumentas
+  Tai **statinio atvaizdavimo** demonstracija.
+  ## Pagrindinis stilius
+  - **Paryškintas** ir *kursyvas*
+  - ~~perbraukimas~~
+  - `inline_code` eilutinis kodas
+  - [Jungtinių Tautų oficiali svetainė](https://un.org) Nuorodos demonstravimas
+  ## Citatos ir sąrašai
+  > Tai vienos eilutės citata.
+
+  > Tai kelių eilučių citata.
+  > Vaizdinis efektas kelių eilučių nuorodoms rodyti.
+
+  - Neužsakyta pirmoji prekė
+    - Neužsakytas pirmas poskyris
+    - Neužsakytas antrasis punktas
+  - Neužsakyta antra prekė
+
+  > [!NOTE]
+  > `> [!NOTE]` Bendrieji pranešimai ir pastabos
+
+  > [!TIP]
+  > `> [!TIP]` Patarimai ir naudingi patarimai
+
+  > [!IMPORTANT]
+  > `> [!IMPORTANT]` Svarbūs patarimai ir rūpesčiai
+
+  > [!WARNING]
+  > `> [!WARNING]` Įspėjimai ir pastabos apie riziką
+
+  > [!CAUTION]
+  > `> [!CAUTION]` ĮSPĖJIMAS DĖL PAVOJUS IR YPATINGOS RIZIKOS
+
+  ---
+
+  ## užduočių sąrašas
+  - [ ] Tai nebaigtas užduočių sąrašas
+  - [x] Tai užbaigta sąrašo užduotis
+  - [X] Tai užbaigta sąrašo užduotis (didžioji raidė X)
+
+  ---
+
+  1. Užsakyta pirmoji prekė
+     1. Užsakyta viena prekė
+     2. Užsakyta antra dalis
+  2. Užsakyta antrai kadencijai
+  ## lapas
+  | projektą | valstybė | balas |
+  | :--- | :---: | ---: |
+  | statinis | Užbaigta | 100 |
+  | transliacija | Atvaizdavimas | 95 |
+  ## kodo blokas
+  ```js
+  const hello = () => {
+    console.log("Hello, WebC!");
+  };
+  ```
+  ## paveikslėlį
+  ![Demo nuotrauka](https://i-01.eu.org/demo-green.avif)

@@ -1,0 +1,38 @@
+basicTitle: Oinarrizko estiloa
+bold: Lodia
+italic: letra etzana
+del: markatu
+inlineCode: lerroko kodea
+linkPrefix: Estekaren aurretik eta ondoren testua dago, adibidez
+link: Nazio Batuen webgune ofiziala
+linkSuffix: lotura bat da.
+quoteSingle: Hau lerro bakarreko komatxo bat da.
+quoteMultiLine1: Hau lerro anitzeko aurrekontua da.
+quoteMultiLine2: Lerro anitzeko erreferentziak bistaratzeko efektu bisuala.
+note: Mezu eta ohar orokorrak
+tip: Aholkuak eta aholku erabilgarriak
+important: Aholku eta kezka garrantzitsuak
+warning: Arrisku-abisuak eta neurriak
+caution: ARRISKU ETA MUTURREKO ARRISKUAREN ABISUA
+listTitle: Aipamenak eta Zerrendak
+taskTitle: zereginen zerrenda
+todoItem: Amaitu gabeko CSS zeregina da
+doneItem: Hau amaitutako CSS zeregina da
+ulItem1: Ordenatu gabeko lehen elementua
+ulSubItem1: Ordenatu gabeko azpielementua
+ulSubItem2: Ordenatu gabeko bigarren azpielementua
+ulItem2: Ordenatu gabeko bigarren elementua
+olItem1: Lehen elementua eskatu du
+olSubItem1: Elementu bat agindua
+olSubItem2: Bigarren azpielementua agindua
+olItem2: Bigarren agintaldia agindua
+tableTitle: fitxa
+col1: proiektua
+col2: estatua
+col3: puntuazioa
+row1Col1: estatikoa
+row1Col2: Osatua
+row2Col1: streaming
+row2Col2: Errendatzea
+codeTitle: kodea blokea
+imageTitle: irudia

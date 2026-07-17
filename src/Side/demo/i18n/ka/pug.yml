@@ -1,0 +1,46 @@
+open: გახსენით გვერდითი ზოლი
+userName: გიკი უოკერი
+userTitle: უფროსი ვებ დიზაინერი
+statFollowers: აბონენტი
+statFollowing: ფოკუსირება
+statProjects: პროექტი
+groupCore: ძირითადი ფუნქციები
+groupSystem: სისტემის მართვა
+groupData: მონაცემთა ანალიზი
+groupCollaboration: გუნდური მუშაობა
+widgetTitle: შენახვის ადგილის გამოყენება
+widgetTasks: ჩემი დავალებები
+task1: სრული Side ინტერაქტიული განვითარება
+task2: დიზაინი თხევადი ვიზუალური ესთეტიკა
+task3: კომპონენტების გამოყენებადობისა და დეტალების ოპტიმიზაცია
+navHome: დაფის საწყისი გვერდი
+navProfile: პერსონალური ცენტრი
+navSettings: სისტემის პარამეტრები
+navMessages: საიტის სიახლეები
+navNotifications: შეტყობინების შეხსენება
+navPrivacy: კონფიდენციალურობა და უსაფრთხოება
+navHelp: დახმარება და გამოხმაურება
+navAnalytics: ანალიზის ანგარიში
+navCloud: ღრუბლოვანი საცავი
+navTeam: გუნდის წევრი
+navTasks: დავალების კოორდინაცია
+logout: გასვლა
+upgradeTitle: გადადით პროფესიონალურ გამოცემაზე
+upgradeDesc: განბლოკეთ შეუზღუდავი ღრუბლოვანი მეხსიერება და გაფართოებული თანამშრომლობა
+upgradeBtn: განაახლეთ ახლავე
+task4: გადახედეთ PR ვალდებულებებს და შეაერთეთ ფილიალები
+task5: დაწერეთ WebC-ის ახალი ვერსიის გამოშვების ჟურნალი
+widgetOnline: ონლაინ გუნდის წევრები
+member1: ლიზა
+member2: დავით
+member3: ანა
+statusOnline: ონლაინ
+statusOffline: ხაზგარეშე
+statusBusy: დაკავებულია
+widgetFiles: ბოლო ფაილები
+file1: პროდუქტის დიზაინის სპეციფიკაცია v2.4.pdf
+file2: 2026 Q3 გეგმის პროექტი.docx
+file3: კომპონენტის ანიმაციის ჩვენება.mp4
+tagDesign: დიზაინი
+tagDev: განავითაროს
+tagPm: პროდუქტი

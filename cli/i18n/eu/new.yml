@@ -1,0 +1,4 @@
+usage: "Erabilera: $0 <proiektu mota> <proiektuaren izena>"
+cmdDesc: "Sortu osagai berria"
+typeDesc: "Proiektu mota (css edo js)"
+nameDesc: "Proiektuaren izena"

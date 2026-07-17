@@ -1,0 +1,4 @@
+usage: "Verwendung: $0 <Projekttyp> <Projektname>"
+cmdDesc: "Neue Komponente erstellen"
+typeDesc: "Projekttyp (CSS oder JS)"
+nameDesc: "Projektname"

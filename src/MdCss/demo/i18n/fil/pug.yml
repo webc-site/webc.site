@@ -1,0 +1,38 @@
+basicTitle: Pangunahing istilo
+bold: Matapang
+italic: italics
+del: strikethrough
+inlineCode: inline na code
+linkPrefix: May text bago at pagkatapos ng link, tulad ng
+link: Opisyal na website ng United Nations
+linkSuffix: ay isang link.
+quoteSingle: Ito ay isang solong linya na quote.
+quoteMultiLine1: Ito ay isang multi-line na quote.
+quoteMultiLine2: Isang visual effect para sa pagpapakita ng mga multi-line na sanggunian.
+note: Mga pangkalahatang mensahe at tala
+tip: Mga tip at kapaki-pakinabang na tip
+important: Mga mahahalagang tip at alalahanin
+warning: Mga babala sa panganib at pag-iingat
+caution: PANGANIB AT MATIBAY NA PANGANIB NA BABALA
+listTitle: Mga Quote at Listahan
+taskTitle: listahan ng gawain
+todoItem: Ito ay isang hindi natapos na gawain ng CSS
+doneItem: Ito ay isang nakumpletong gawain ng CSS
+ulItem1: Unordered unang item
+ulSubItem1: Unordered subitem one
+ulSubItem2: Hindi nakaayos na subitem na dalawa
+ulItem2: Hindi na-order ang pangalawang item
+olItem1: Nag-order ng unang item
+olSubItem1: Nag-order ng isang item
+olSubItem2: Nag-order ng subitem na dalawa
+olItem2: Inutusan ang pangalawang termino
+tableTitle: sheet
+col1: proyekto
+col2: estado
+col3: puntos
+row1Col1: static
+row1Col2: Nakumpleto
+row2Col1: streaming
+row2Col2: Nagre-render
+codeTitle: bloke ng code
+imageTitle: larawan

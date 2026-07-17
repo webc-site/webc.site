@@ -1,0 +1,9 @@
+language: bahasa
+os: sistem
+about: tentang
+jsInfo: JavaScript adalah bahasa skrip yang banyak digunakan dalam pengembangan web sisi klien.
+rsInfo: Rust adalah bahasa pemrograman sistem yang berfokus pada keamanan, kecepatan, dan konkurensi.
+pyInfo: Python adalah bahasa pemrograman komputer yang berorientasi objek dan ditafsirkan.
+macInfo: macOS adalah sistem operasi grafis berbasis Unix yang dikembangkan oleh Apple.
+winInfo: Windows adalah sistem operasi komputer pribadi yang banyak digunakan yang dikembangkan oleh Microsoft Corporation.
+aboutInfo: Kami berkomitmen untuk mengembangkan komponen front-end open source berkualitas tinggi, dan Anda dipersilakan untuk berpartisipasi.

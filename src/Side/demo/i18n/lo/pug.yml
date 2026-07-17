@@ -1,0 +1,46 @@
+open: ເປີດແຖບດ້ານຂ້າງ
+userName: Geek Walker
+userTitle: ຜູ້ອອກແບບເວັບອາວຸໂສ
+statFollowers: ຜູ້ຈອງ
+statFollowing: ສຸມໃສ່
+statProjects: ໂຄງການ
+groupCore: ຫນ້າທີ່ຫຼັກ
+groupSystem: ການຄຸ້ມຄອງລະບົບ
+groupData: ການວິເຄາະຂໍ້ມູນ
+groupCollaboration: ການເຮັດວຽກເປັນທີມ
+widgetTitle: ການນໍາໃຊ້ພື້ນທີ່ເກັບຮັກສາ
+widgetTasks: ວຽກງານທີ່ຕ້ອງເຮັດຂອງຂ້ອຍ
+task1: ພັດທະນາແບບໂຕ້ຕອບດ້ານຂ້າງໃຫ້ສົມບູນ
+task2: ການອອກແບບຄວາມງາມທາງດ້ານສາຍຕາ
+task3: ເພີ່ມປະສິດທິພາບການໃຊ້ງານຂອງອົງປະກອບ ແລະລາຍລະອຽດ
+navHome: ໜ້າຫຼັກ Dashboard
+navProfile: ສູນສ່ວນຕົວ
+navSettings: ການຕັ້ງຄ່າລະບົບ
+navMessages: ຂ່າວເວັບໄຊ
+navNotifications: ການແຈ້ງເຕືອນ
+navPrivacy: ຄວາມເປັນສ່ວນຕົວ ແລະຄວາມປອດໄພ
+navHelp: ຊ່ວຍ​ເຫຼືອ​ແລະ​ຄໍາ​ຄຶດ​ຄໍາ​ເຫັນ​
+navAnalytics: ບົດ​ລາຍ​ງານ​ການ​ວິ​ເຄາະ​
+navCloud: ພື້ນທີ່ເກັບຂໍ້ມູນຄລາວ
+navTeam: ສະມາຊິກທີມ
+navTasks: ການປະສານງານວຽກງານ
+logout: ອອກຈາກລະບົບ
+upgradeTitle: ອັບເກຣດເປັນສະບັບມືອາຊີບ
+upgradeDesc: ປົດລັອກບ່ອນຈັດເກັບຂໍ້ມູນຄລາວບໍ່ຈຳກັດ ແລະ ການຮ່ວມມືຂັ້ນສູງ
+upgradeBtn: ອັບເກຣດດຽວນີ້
+task4: ທົບທວນຄືນ PR commits ແລະ merge ສາຂາ
+task5: ຂຽນບັນທຶກການປ່ອຍເວີຊັນໃຫມ່ຂອງ WebC
+widgetOnline: ສະມາຊິກທີມງານອອນໄລນ໌
+member1: ລີຊາ
+member2: ດາວິດ
+member3: ແອນນາ
+statusOnline: ອອນໄລນ໌
+statusOffline: ອອບໄລນ໌
+statusBusy: ບໍ່ຫວ່າງ
+widgetFiles: ໄຟລ໌ຫຼ້າສຸດ
+file1: ລາຍລະອຽດການອອກແບບຜະລິດຕະພັນ v2.4.pdf
+file2: 2026 Q3 ຮ່າງ Plan.docx
+file3: ອົງປະກອບພາບເຄື່ອນໄຫວ demonstration.mp4
+tagDesign: ການອອກແບບ
+tagDev: ພັດທະນາ
+tagPm: ຜະ​ລິດ​ຕະ​ພັນ
