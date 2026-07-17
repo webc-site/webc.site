@@ -1,0 +1,4 @@
+usage: "Utilizare: $0 <tip proiect> <nume proiect>"
+cmdDesc: "Creați o nouă componentă"
+typeDesc: "Tip de proiect (css sau js)"
+nameDesc: "Numele proiectului"

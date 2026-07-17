@@ -1,0 +1,4 @@
+usage: "Cách sử dụng: $0 [đường dẫn thành phần]"
+cmdDesc: "Khởi động máy chủ phát triển cho thành phần WebC"
+pathDesc: "Đường dẫn của thành phần WebC (ví dụ: src/Box, bạn cũng có thể viết box)"
+notFound: "Lỗi: Thành phần không tồn tại"

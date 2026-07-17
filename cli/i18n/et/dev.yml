@@ -1,0 +1,4 @@
+usage: "Kasutamine: $0 [komponendi tee]"
+cmdDesc: "Käivitage WebC komponendi arendusserver"
+pathDesc: "WebC komponendi tee (näiteks src/Box, võid ka kasti kirjutada)"
+notFound: "Viga: komponenti pole olemas"

@@ -1,0 +1,54 @@
+[BoxX](../../src/BoxX/i18n/lv/README.md) : Izveidojiet un parādiet uznirstošo slāni ar aizvēršanas pogu
+[Code](../../src/Code/i18n/lv/README.md) : koda poga
+[Copy](../../src/Copy/i18n/lv/README.md) : Kopējiet tekstu starpliktuvē
+[Edit](../../src/Edit/i18n/lv/README.md) : Lapas vai dokumenta rediģēšanas poga
+[HtmDemo](../../src/HtmDemo/i18n/lv/README.md) : HTML un JS koda atkļūdošana tiešsaistē
+[I18n](../../src/I18n/i18n/lv/README.md) : Pogas un uznirstošie logi interfeisa valodu pārslēgšanai
+[MdStream](../../src/MdStream/i18n/lv/README.md) : Markdown teksta straumēšanas renderēšana
+[Nav](../../src/Nav/i18n/lv/README.md) : Augšējā navigācijas josla, kas automātiski sakļaujas vai izvēršas, ritinot lapu
+[NavL](../../src/NavL/i18n/lv/README.md) : Automātiski pārslēdziet navigācijas izvēlni un atgriešanas pogu
+[NavMenu](../../src/NavMenu/i18n/lv/README.md) : Navigācijas izvēlne pielāgota dažādiem ekrāna izmēriem
+[SelectBtn](../../src/SelectBtn/i18n/lv/README.md) : Nolaižamā izvēles lodziņa un pogas kombinācija
+[TabSelect](../../src/TabSelect/i18n/lv/README.md) : Cilnes lapa ar nolaižamo izvēlni
+[Btn](../../src/Btn/i18n/lv/README.md) : Parasta poga un apaļa ikonas poga
+[Card](../../src/Card/i18n/lv/README.md) : Kapsulas karte ar suspensijā attēlotu labo bultiņu
+[H1Txt](../../src/H1Txt/i18n/lv/README.md) : Tekstūras nosaukums un apraksts
+[Ing](../../src/Ing/i18n/lv/README.md) : Iekraušanas vai apstrādes statusa indikators
+[Input](../../src/Input/i18n/lv/README.md) : Ievades lodziņš, kas automātiski pārslēdz viettura stāvokli
+[Kv](../../src/Kv/i18n/lv/README.md) : atslēgu vērtību pāris
+[Lg](../../src/Lg/i18n/lv/README.md) : Matēta stikla fons un malu izcelšanas efekts
+[MdCss](../../src/MdCss/i18n/lv/README.md) : Tipogrāfijas stili, kas optimizēti lasīšanas pieredzei
+[NavALi](../../src/NavALi/i18n/lv/README.md) : Navigācijas joslas saišu saraksta stils
+[O](../../src/O/i18n/lv/README.md) : Elementa priekšā uzzīmējiet dobu punktu logotipu
+[Toast](../../src/Toast/i18n/lv/README.md) : Uzvednes uznirstošais logs lapas malā
+[404](../../src/404/i18n/lv/README.md) : Ceļš nepastāv kļūdas ziņojuma lapa
+[Back](../../src/Back/i18n/lv/README.md) : poga atpakaļ
+[Box](../../src/Box/i18n/lv/README.md) : Izveidojiet un parādiet uznirstošo slāni
+[CardLi](../../src/CardLi/i18n/lv/README.md) : Asinhroni ielādējiet un parādiet karšu sarakstu
+[Md](../../src/Md/i18n/lv/README.md) : Droši parsējiet un renderējiet Markdown tekstu HTML formātā.
+[Pophover](../../src/Pophover/i18n/lv/README.md) : peldoša burbuļa uzvedne
+[Scroll](../../src/Scroll/i18n/lv/README.md) : virtuālā ritjosla
+[Select](../../src/Select/i18n/lv/README.md) : Nolaižamā izvēle, platums pielāgojas pašreizējam vienumam
+[Side](../../src/Side/i18n/lv/README.md) : No sāniem izbīdāmi atvilktņu paneļi
+[Tab](../../src/Tab/i18n/lv/README.md) : Pārslēdzamas cilnes
+[On](../lv/js/On.md) : Pakešu saistīšanas notikumu uzraudzība
+[Toast](../lv/js/Toast.md) : Toast uznirstošā ziņojuma uzvedne
+[a](../lv/js/a.md) : Globāli pārtver saišu klikšķu notikumus
+[c-t](../lv/js/c-t.md) : HTML internacionalizācija
+[demo](../lv/js/demo.md) : Demo lapas inicializācija
+[dom](../lv/js/dom.md) : Dokumentējiet mainīgo saīsinājumus un īsinājumtaustiņu funkcijas
+[dom/header](../lv/js/dom/header.md) : Izveidojiet galvenes joslas DOM struktūru
+[fetch](../lv/js/fetch.md) : Tīkla pieprasījuma rīka funkcija, kuras pamatā ir iekapsulēšana
+[fetchLang](../lv/js/fetchLang.md) : Asinhroni ielādējiet valodu pakotnes un saistiet atjauninājumu atzvanus
+[hashActive](../lv/js/hashActive.md) : Navigācijas saišu izcelšana, pamatojoties uz URL enkuriem un skatvietas ritināšanu
+[i18n](../lv/js/i18n.md) : Daudzvalodu statusa pārvaldība un izmaiņu uzraudzība
+[i18n/init](../lv/js/i18n/init.md) : Vairāku valodu inicializācijas konfigurācija un ielāde
+[i18n/store](../lv/js/i18n/store.md) : Daudzvalodu vietējās krātuves pārvaldība
+[icoTip](../lv/js/icoTip.md) : Definējiet un reģistrējiet ikonas komponentu ar internacionalizācijas padomiem
+[md/htm](../lv/js/md/htm.md) : Atzīmes teksts uz HTML virkni
+[md/safeHtm](../lv/js/md/safeHtm.md) : Atzīmējiet tekstu drošā HTML formātā
+[md/streamRender](../lv/js/md/streamRender.md) : Markdown straumēšanas renderēšana
+[parentScroll](../lv/js/parentScroll.md) : Iegūstiet priekšteča ritināšanas konteinera elementu
+[rmWait](../lv/js/rmWait.md) : Noņemiet lapas sākotnējās ielādes gaidīšanas animāciju
+[route](../lv/js/route.md) : Vienas lapas priekšgala maršrutēšanas pārvaldība
+[sandbox](../lv/js/sandbox.md) : Smilškastes konteinera pielāgots komponents apakšmoduļu ielādei un darbināšanai atsevišķi

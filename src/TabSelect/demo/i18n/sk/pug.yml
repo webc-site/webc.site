@@ -1,0 +1,9 @@
+language: jazyk
+os: systému
+about: o
+jsInfo: JavaScript je skriptovací jazyk široko používaný pri vývoji webových aplikácií na strane klienta.
+rsInfo: Rust je systémový programovací jazyk zameraný na bezpečnosť, rýchlosť a súbežnosť.
+pyInfo: Python je objektovo orientovaný interpretovaný počítačový programovací jazyk.
+macInfo: macOS je grafický operačný systém založený na Unixe vyvinutý spoločnosťou Apple.
+winInfo: Windows je široko používaný operačný systém pre osobné počítače vyvinutý spoločnosťou Microsoft Corporation.
+aboutInfo: Zaviazali sme sa vyvíjať vysokokvalitné front-endové komponenty s otvoreným zdrojom a ste vítaní, aby ste sa zúčastnili.

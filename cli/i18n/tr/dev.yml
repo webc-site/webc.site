@@ -1,0 +1,4 @@
+usage: "Kullanım: $0 [bileşen yolu]"
+cmdDesc: "WebC bileşeni için geliştirme sunucusunu başlatın"
+pathDesc: "WebC bileşeninin yolu (örneğin, src/Box, kutu da yazabilirsiniz)"
+notFound: "Hata: Bileşen mevcut değil"

@@ -1,0 +1,7 @@
+desc: Tự động xác định và chuyển sang hiển thị menu điều hướng hoặc nút quay lại dựa trên lộ trình hiện tại
+desktop_title: Màn hình máy tính để bàn
+desktop_desc: Khi ở trong lộ trình menu đã khai báo, hiển thị các ô mục menu; nếu không thì hiển thị nút quay lại
+mobile_title: Màn hình di động
+mobile_desc: Khi ở trong lộ trình menu đã khai báo, thu gọn thành nút biểu tượng và hỗ trợ trượt menu; mặt khác sẽ hiển thị nút quay lại
+normal_state: Trạng thái điều hướng (c-nav-menu)
+back_state: Trạng thái dự phòng (c-back)

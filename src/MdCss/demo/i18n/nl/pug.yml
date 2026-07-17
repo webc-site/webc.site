@@ -1,0 +1,38 @@
+basicTitle: Basisstijl
+bold: Vetgedrukt
+italic: cursief
+del: doorhalen
+inlineCode: inline-code
+linkPrefix: Er staat tekst voor en na de link, zoals
+link: Officiële website van de Verenigde Naties
+linkSuffix: is een koppeling.
+quoteSingle: Dit is een citaat van één regel.
+quoteMultiLine1: Dit is een citaat van meerdere regels.
+quoteMultiLine2: Een visueel effect voor het weergeven van meerregelige verwijzingen.
+note: Algemene berichten en opmerkingen
+tip: Tips en handige tips
+important: Belangrijke tips en zorgen
+warning: Risicowaarschuwingen en voorzorgsmaatregelen
+caution: GEVAAR EN EXTREEM RISICO WAARSCHUWING
+listTitle: Citaten en lijsten
+taskTitle: takenlijst
+todoItem: Dit is een onvoltooide CSS-taak
+doneItem: Dit is een voltooide CSS-taak
+ulItem1: Niet besteld eerste artikel
+ulSubItem1: Ongeordend subitem één
+ulSubItem2: Ongeordend subitem twee
+ulItem2: Onbesteld tweede artikel
+olItem1: Eerste artikel besteld
+olSubItem1: Artikel één besteld
+olSubItem2: Subitem twee besteld
+olItem2: Tweede termijn besteld
+tableTitle: laken
+col1: project
+col2: staat
+col3: scoren
+row1Col1: statisch
+row1Col2: Voltooid
+row2Col1: streamen
+row2Col2: Weergave
+codeTitle: code blok
+imageTitle: afbeelding

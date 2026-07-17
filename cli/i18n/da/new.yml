@@ -1,0 +1,4 @@
+usage: "Anvendelse: $0 <projekttype> <projektnavn>"
+cmdDesc: "Opret ny komponent"
+typeDesc: "Projekttype (css eller js)"
+nameDesc: "Projektnavn"

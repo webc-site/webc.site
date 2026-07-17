@@ -1,0 +1,4 @@
+usage: "Gebruik: $0 <projektipe> <projeknaam>"
+cmdDesc: "Skep nuwe komponent"
+typeDesc: "Projektipe (css of js)"
+nameDesc: "Projek naam"

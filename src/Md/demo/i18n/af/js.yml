@@ -1,0 +1,60 @@
+mdContent: |
+  # Markdown-aanbiedingsdokument
+  Dit is 'n **statiese weergawe**-demonstrasie.
+  ## Basiese styl
+  - **vet** en *kursief*
+  - ~~deurtrek~~
+  - `inline_code` inlyn kode
+  - [Verenigde Nasies se amptelike webwerf](https://un.org) Skakeldemonstrasie
+  ## Aanhalings en lyste
+  > Dit is 'n enkele reël aanhaling.
+
+  > Dit is 'n multi-reël aanhaling.
+  > 'n Visuele effek vir die vertoon van multi-lyn verwysings.
+
+  - Ongeordende eerste item
+    - Ongeordende subitem een
+    - Ongeordende subitem twee
+  - Ongeordende tweede item
+
+  > [!NOTE]
+  > `> [!NOTE]` Algemene boodskappe en notas
+
+  > [!TIP]
+  > `> [!TIP]` Wenke en nuttige wenke
+
+  > [!IMPORTANT]
+  > `> [!IMPORTANT]` Belangrike wenke en bekommernisse
+
+  > [!WARNING]
+  > `> [!WARNING]` Risiko waarskuwings en notas
+
+  > [!CAUTION]
+  > `> [!CAUTION]` GEVAAR EN UITERSTE RISIKO WAARSKUWING
+
+  ---
+
+  ## taaklys
+  - [ ] Dit is 'n onvoltooide lys take
+  - [x] Dit is 'n voltooide lystaak
+  - [X] Dit is 'n voltooide lystaak (hoofletter X)
+
+  ---
+
+  1. Eerste item bestel
+     1. Bestel item een
+     2. Bestel subitem twee
+  2. Tweede kwartaal bestel
+  ## blad
+  | projek | staat | telling |
+  | :--- | :---: | ---: |
+  | staties | Voltooi | 100 |
+  | stroom | Weervertoning | 95 |
+  ## kode blok
+  ```js
+  const hello = () => {
+    console.log("Hello, WebC!");
+  };
+  ```
+  ## prentjie
+  ![Demo prentjie](https://i-01.eu.org/demo-green.avif)

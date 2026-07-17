@@ -1,0 +1,4 @@
+usage: "Lietošana: $0 <projekta veids> <projekta nosaukums>"
+cmdDesc: "Izveidojiet jaunu komponentu"
+typeDesc: "Projekta veids (css vai js)"
+nameDesc: "Projekta nosaukums"

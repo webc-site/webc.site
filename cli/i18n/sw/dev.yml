@@ -1,0 +1,4 @@
+usage: "Matumizi: $0 [njia ya sehemu]"
+cmdDesc: "Anzisha seva ya ukuzaji ya sehemu ya WebC"
+pathDesc: "Njia ya sehemu ya WebC (kwa mfano, src/Box, unaweza pia kuandika kisanduku)"
+notFound: "Hitilafu: Kijenzi hakipo"

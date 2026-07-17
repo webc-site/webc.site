@@ -1,0 +1,7 @@
+desc: Automaticky určit a přepnout na zobrazení navigační nabídky nebo tlačítka Zpět na základě aktuální trasy
+desktop_title: Stolní displej
+desktop_desc: Když jste v deklarované trase nabídky, zobrazte dlaždice položek nabídky; jinak zobrazte tlačítko zpět
+mobile_title: Mobilní displej
+mobile_desc: Když jste v deklarované trase nabídky, sbalí se do tlačítka ikony a podporuje vysouvání nabídky; jinak zobrazí tlačítko Zpět
+normal_state: Stav navigace (c-nav-menu)
+back_state: Záložní stav (c-back)
