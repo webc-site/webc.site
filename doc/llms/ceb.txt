@@ -1,0 +1,54 @@
+[BoxX](../../src/BoxX/i18n/ceb/README.md) : Paghimo ug pagpakita og popup layer nga adunay close button
+[Code](../../src/Code/i18n/ceb/README.md) : buton sa code
+[Copy](../../src/Copy/i18n/ceb/README.md) : Kopyaha ang teksto sa clipboard
+[Edit](../../src/Edit/i18n/ceb/README.md) : buton sa pag-edit
+[HtmDemo](../../src/HtmDemo/i18n/ceb/README.md) : Pag-debug sa HTML ug JS code online
+[I18n](../../src/I18n/i18n/ceb/README.md) : Mga buton ug mga pop-up nga bintana para sa pagbalhin sa mga pinulongan sa interface
+[MdStream](../../src/MdStream/i18n/ceb/README.md) : Streaming rendering sa Markdown nga teksto
+[Nav](../../src/Nav/i18n/ceb/README.md) : Ibabaw nga navigation bar nga awtomatik nga mo-collapse o molapad kung mag-scroll ang panid
+[NavL](../../src/NavL/i18n/ceb/README.md) : Awtomatikong ibalhin ang menu sa nabigasyon ug buton sa pagbalik
+[NavMenu](../../src/NavMenu/i18n/ceb/README.md) : Ang menu sa nabigasyon gipahiangay sa lainlaing gidak-on sa screen
+[SelectBtn](../../src/SelectBtn/i18n/ceb/README.md) : Kombinasyon sa drop-down nga kahon sa pagpili ug buton
+[TabSelect](../../src/TabSelect/i18n/ceb/README.md) : Tab page nga adunay drop-down nga pagpili
+[Btn](../../src/Btn/i18n/ceb/README.md) : Ordinaryo nga buton ug lingin nga buton sa icon
+[Card](../../src/Card/i18n/ceb/README.md) : Capsule card nga adunay tuo nga pana nga gipakita sa suspension
+[H1Txt](../../src/H1Txt/i18n/ceb/README.md) : Titulo ug deskripsyon sa texture
+[Ing](../../src/Ing/i18n/ceb/README.md) : Timailhan sa loading o pagproseso sa kahimtang
+[Input](../../src/Input/i18n/ceb/README.md) : Ang kahon sa pag-input nga awtomatikong nagbalhin sa kahimtang sa placeholder
+[Kv](../../src/Kv/i18n/ceb/README.md) : key nga pares nga bili
+[Lg](../../src/Lg/i18n/ceb/README.md) : Frosted glass nga background ug edge highlight effect
+[MdCss](../../src/MdCss/i18n/ceb/README.md) : Ang mga istilo sa typography na-optimize alang sa kasinatian sa pagbasa
+[NavALi](../../src/NavALi/i18n/ceb/README.md) : Estilo sa listahan sa link sa navigation bar
+[O](../../src/O/i18n/ceb/README.md) : Pagdrowing og hollow dot logo atubangan sa elemento
+[Toast](../../src/Toast/i18n/ceb/README.md) : Pag-aghat sa pop-up nga bintana sa kilid sa panid
+[404](../../src/404/i18n/ceb/README.md) : Ang dalan wala maglungtad nga panid sa mensahe sa sayup
+[Back](../../src/Back/i18n/ceb/README.md) : back button
+[Box](../../src/Box/i18n/ceb/README.md) : Paghimo ug ipakita ang popup layer
+[CardLi](../../src/CardLi/i18n/ceb/README.md) : I-load ug ipakita ang lista sa kard nga asynchronous
+[Md](../../src/Md/i18n/ceb/README.md) : Luwas nga i-parse ug i-render ang Markdown nga teksto sa HTML.
+[Pophover](../../src/Pophover/i18n/ceb/README.md) : naglutaw nga bubble prompt
+[Scroll](../../src/Scroll/i18n/ceb/README.md) : virtual nga scroll bar
+[Select](../../src/Select/i18n/ceb/README.md) : Ang pagpili sa drop-down, ang gilapdon mohaum sa kasamtangan nga butang
+[Side](../../src/Side/i18n/ceb/README.md) : Mga panel sa drawer nga nag-slide gikan sa kilid
+[Tab](../../src/Tab/i18n/ceb/README.md) : Mabalhin nga mga tab
+[On](../ceb/js/On.md) : Pag-monitor sa panghitabo sa batch binding
+[Toast](../ceb/js/Toast.md) : Toast pop-up nga mensahe prompt
+[a](../ceb/js/a.md) : Tibuok kalibutan nga intercept link click nga mga panghitabo
+[c-t](../ceb/js/c-t.md) : internasyonalisasyon sa HTML
+[demo](../ceb/js/demo.md) : Pagsugod sa panid sa demo
+[dom](../ceb/js/dom.md) : Idokumento ang variable abbreviation ug shortcut functions
+[dom/header](../ceb/js/dom/header.md) : Paghimo sa header bar DOM nga istruktura
+[fetch](../ceb/js/fetch.md) : Ang function sa tool sa paghangyo sa network base sa pagkuha sa encapsulation
+[fetchLang](../ceb/js/fetchLang.md) : Asynchronous nga pag-load sa mga pack sa pinulongan ug pagbugkos sa mga callback sa update
+[hashActive](../ceb/js/hashActive.md) : Pag-highlight sa link sa nabigasyon base sa mga anchor sa URL ug pag-scroll sa viewport
+[i18n](../ceb/js/i18n.md) : Pagdumala sa status sa daghang pinulongan ug pag-monitor sa pagbag-o
+[i18n/init](../ceb/js/i18n/init.md) : Multi-language initialization configuration ug loading
+[i18n/store](../ceb/js/i18n/store.md) : Multilingual nga lokal nga pagdumala sa pagtipig
+[icoTip](../ceb/js/icoTip.md) : Ipasabut ug irehistro ang usa ka sangkap sa icon nga adunay mga pahiwatig sa internasyonalisasyon
+[md/htm](../ceb/js/md/htm.md) : Markdown nga teksto sa HTML string
+[md/safeHtm](../ceb/js/md/safeHtm.md) : Markdown nga teksto sa luwas nga HTML
+[md/streamRender](../ceb/js/md/streamRender.md) : Markdown streaming rendering
+[parentScroll](../ceb/js/parentScroll.md) : Kuhaa ang ancestor scroll container element
+[rmWait](../ceb/js/rmWait.md) : Kuhaa ang inisyal nga pagkarga sa naghulat nga animation sa panid
+[route](../ceb/js/route.md) : Usa ka panid sa atubangan-katapusan nga pagdumala sa ruta
+[sandbox](../ceb/js/sandbox.md) : Sandbox container custom component para sa loading ug running submodules sa isolation

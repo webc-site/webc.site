@@ -1,0 +1,4 @@
+usage: "Cách sử dụng: $0 <loại dự án> <tên dự án>"
+cmdDesc: "Tạo thành phần mới"
+typeDesc: "Loại dự án (css hoặc js)"
+nameDesc: "Tên dự án"

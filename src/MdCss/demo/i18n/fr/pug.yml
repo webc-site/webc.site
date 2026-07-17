@@ -1,0 +1,38 @@
+basicTitle: Style de base
+bold: Audacieux
+italic: italique
+del: barré
+inlineCode: code en ligne
+linkPrefix: Il y a du texte avant et après le lien, tel que
+link: Site officiel des Nations Unies
+linkSuffix: est un lien.
+quoteSingle: Il s’agit d’une citation sur une seule ligne.
+quoteMultiLine1: Il s'agit d'une citation sur plusieurs lignes.
+quoteMultiLine2: Un effet visuel pour afficher des références multilignes.
+note: Messages et notes généraux
+tip: Astuces et conseils utiles
+important: Conseils et préoccupations importants
+warning: Avertissements sur les risques et précautions
+caution: AVERTISSEMENT DE DANGER ET DE RISQUE EXTRÊME
+listTitle: Citations et listes
+taskTitle: liste de tâches
+todoItem: Il s'agit d'une tâche CSS inachevée
+doneItem: Ceci est une tâche CSS terminée
+ulItem1: Premier article non commandé
+ulSubItem1: Sous-élément un non ordonné
+ulSubItem2: Sous-élément deux non ordonné
+ulItem2: Deuxième article non commandé
+olItem1: Premier article commandé
+olSubItem1: Article 1 commandé
+olSubItem2: J'ai commandé le deuxième article
+olItem2: Deuxième mandat ordonné
+tableTitle: feuille
+col1: projet
+col2: État
+col3: score
+row1Col1: statique
+row1Col2: Complété
+row2Col1: streaming
+row2Col2: Rendu
+codeTitle: bloc de code
+imageTitle: image

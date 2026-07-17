@@ -1,0 +1,7 @@
+desc: Nemtokake lan ngalih kanthi otomatis kanggo nampilake menu navigasi utawa tombol bali adhedhasar rute saiki
+desktop_title: Tampilan desktop
+desktop_desc: Nalika ing rute menu sing diumumake, nampilake kothak item menu; digunakake nampilake tombol bali
+mobile_title: Tampilan seluler
+mobile_desc: Nalika ing rute menu ngumumaké, ambruk menyang tombol lambang lan ndhukung ngusapake metu menu; digunakake nampilake tombol bali
+normal_state: Status navigasi (c-nav-menu)
+back_state: Status mundur (c-back)

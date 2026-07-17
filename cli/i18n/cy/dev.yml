@@ -1,0 +1,4 @@
+usage: "Defnydd: $0 [llwybr cydran]"
+cmdDesc: "Dechreuwch y gweinydd datblygu ar gyfer y gydran WebC"
+pathDesc: "Llwybr cydran WebC (er enghraifft, src/Box, gallwch hefyd ysgrifennu blwch)"
+notFound: "Gwall: Nid yw'r gydran yn bodoli"

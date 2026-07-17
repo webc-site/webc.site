@@ -1,0 +1,38 @@
+basicTitle: Grunnleggende stil
+bold: Fet
+italic: kursiv
+del: gjennomstreking
+inlineCode: innebygd kode
+linkPrefix: Det er tekst før og etter lenken, som f.eks
+link: FNs offisielle nettsted
+linkSuffix: er en lenke.
+quoteSingle: Dette er et sitat på én linje.
+quoteMultiLine1: Dette er et sitat med flere linjer.
+quoteMultiLine2: En visuell effekt for å vise referanser med flere linjer.
+note: Generelle meldinger og notater
+tip: Tips og nyttige tips
+important: Viktige tips og bekymringer
+warning: Risikoadvarsler og forholdsregler
+caution: FARE OG EKSTREM RISIKO ADVARSEL
+listTitle: Sitater og lister
+taskTitle: oppgaveliste
+todoItem: Dette er en uferdig CSS-oppgave
+doneItem: Dette er en fullført CSS-oppgave
+ulItem1: Ubestilt første vare
+ulSubItem1: Uordnet underelement én
+ulSubItem2: Uordnet underpost to
+ulItem2: Ubestilt andre vare
+olItem1: Bestilte første vare
+olSubItem1: Bestilte vare en
+olSubItem2: Bestilte underelement to
+olItem2: Bestilt andre termin
+tableTitle: ark
+col1: prosjekt
+col2: tilstand
+col3: score
+row1Col1: statisk
+row1Col2: Fullført
+row2Col1: streaming
+row2Col2: Gjengivelse
+codeTitle: kodeblokk
+imageTitle: bilde

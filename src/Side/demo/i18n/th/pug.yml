@@ -1,0 +1,46 @@
+open: เปิดแถบด้านข้าง
+userName: กี๊ก วอล์คเกอร์
+userTitle: นักออกแบบเว็บไซต์อาวุโส
+statFollowers: สมาชิก
+statFollowing: มุ่งเน้นไปที่
+statProjects: โครงการ
+groupCore: ฟังก์ชั่นหลัก
+groupSystem: การจัดการระบบ
+groupData: การวิเคราะห์ข้อมูล
+groupCollaboration: การทำงานเป็นทีม
+widgetTitle: การใช้พื้นที่จัดเก็บข้อมูล
+widgetTasks: งานที่ต้องทำของฉัน
+task1: การพัฒนาเชิงโต้ตอบด้านข้างที่สมบูรณ์
+task2: ออกแบบความสวยงามของภาพของเหลว
+task3: ปรับการใช้งานและรายละเอียดส่วนประกอบให้เหมาะสม
+navHome: หน้าแรกของแดชบอร์ด
+navProfile: ศูนย์ส่วนบุคคล
+navSettings: การตั้งค่าระบบ
+navMessages: ข่าวเว็บไซต์
+navNotifications: การแจ้งเตือน
+navPrivacy: ความเป็นส่วนตัวและความปลอดภัย
+navHelp: ความช่วยเหลือและข้อเสนอแนะ
+navAnalytics: รายงานการวิเคราะห์
+navCloud: พื้นที่เก็บข้อมูลบนคลาวด์
+navTeam: สมาชิกในทีม
+navTasks: การประสานงานงาน
+logout: ออกจากระบบ
+upgradeTitle: อัปเกรดเป็นรุ่นมืออาชีพ
+upgradeDesc: ปลดล็อกพื้นที่เก็บข้อมูลบนคลาวด์ไม่จำกัดและการทำงานร่วมกันขั้นสูง
+upgradeBtn: อัพเกรดตอนนี้
+task4: ตรวจสอบข้อตกลง PR และรวมสาขา
+task5: เขียนบันทึกการเปิดตัวเวอร์ชันใหม่ของ WebC
+widgetOnline: สมาชิกในทีมออนไลน์
+member1: ลิซ่า
+member2: เดวิด
+member3: แอนนา
+statusOnline: ออนไลน์
+statusOffline: ออฟไลน์
+statusBusy: ยุ่ง
+widgetFiles: ไฟล์ล่าสุด
+file1: ข้อกำหนดการออกแบบผลิตภัณฑ์ v2.4.pdf
+file2: ร่างแผนไตรมาสที่ 3 ปี 2026.docx
+file3: การสาธิตภาพเคลื่อนไหวส่วนประกอบ.mp4
+tagDesign: ออกแบบ
+tagDev: พัฒนา
+tagPm: ผลิตภัณฑ์

@@ -1,0 +1,38 @@
+basicTitle: Asosiy uslub
+bold: Qalin
+italic: kursiv
+del: chizilgan
+inlineCode: inline kod
+linkPrefix: kabi havoladan oldin va keyin matn mavjud
+link: Birlashgan Millatlar Tashkilotining rasmiy sayti
+linkSuffix: havola hisoblanadi.
+quoteSingle: Bu bitta qatorli iqtibos.
+quoteMultiLine1: Bu ko'p qatorli iqtibos.
+quoteMultiLine2: Ko'p qatorli havolalarni ko'rsatish uchun vizual effekt.
+note: Umumiy xabarlar va eslatmalar
+tip: Maslahatlar va foydali maslahatlar
+important: Muhim maslahatlar va tashvishlar
+warning: Xavf haqida ogohlantirishlar va ehtiyot choralari
+caution: XAVF VA O'TA XAVF OGOHLANTIRISH
+listTitle: Iqtibos va ro'yxatlar
+taskTitle: vazifalar ro'yxati
+todoItem: Bu tugallanmagan CSS vazifasi
+doneItem: Bu tugallangan CSS vazifasi
+ulItem1: Tartibsiz birinchi element
+ulSubItem1: Tartibsiz pastki element
+ulSubItem2: Tartibsiz ikkinchi kichik band
+ulItem2: Tartibsiz ikkinchi element
+olItem1: Buyurtma qilingan birinchi mahsulot
+olSubItem1: Buyurtma qilingan birinchi narsa
+olSubItem2: Buyurtma qilingan ikkinchi kichik band
+olItem2: Ikkinchi muddatga buyurtma berildi
+tableTitle: varaq
+col1: loyiha
+col2: davlat
+col3: Xol
+row1Col1: statik
+row1Col2: Bajarildi
+row2Col1: oqim
+row2Col2: Renderlash
+codeTitle: kod bloki
+imageTitle: rasm

@@ -1,0 +1,4 @@
+usage: "Utilizare: $0 [calea componentei]"
+cmdDesc: "Porniți serverul de dezvoltare pentru componenta WebC"
+pathDesc: "Calea componentei WebC (de exemplu, src/Box, puteți scrie și caseta)"
+notFound: "Eroare: componenta nu există"

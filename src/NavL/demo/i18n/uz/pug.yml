@@ -1,0 +1,7 @@
+desc: Joriy marshrut asosida navigatsiya menyusi yoki orqaga tugmani ko'rsatish uchun avtomatik aniqlash va o'tish
+desktop_title: Ish stoli displeyi
+desktop_desc: E'lon qilingan menyu marshrutida bo'lganingizda, menyu elementlari plitkalarini ko'rsating; aks holda orqaga tugmani ko'rsating
+mobile_title: Mobil displey
+mobile_desc: E'lon qilingan menyu marshrutida bo'lganida, piktogramma tugmachasiga tushadi va menyudan tashqariga chiqishni qo'llab-quvvatlaydi; aks holda orqaga tugmani ko'rsatadi
+normal_state: Navigatsiya holati (c-nav-menyu)
+back_state: Orqaga qaytish holati (c-back)

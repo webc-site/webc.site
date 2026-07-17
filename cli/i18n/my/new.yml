@@ -1,0 +1,4 @@
+usage: "အသုံးပြုမှု- $0 <project type> <project name>"
+cmdDesc: "အစိတ်အပိုင်းအသစ်ဖန်တီးပါ။"
+typeDesc: "ပရောဂျက်အမျိုးအစား (css သို့မဟုတ် js)"
+nameDesc: "ပရောဂျက်အမည်"

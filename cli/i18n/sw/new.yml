@@ -1,0 +1,4 @@
+usage: "Matumizi: $0 <project type> <project name>"
+cmdDesc: "Unda sehemu mpya"
+typeDesc: "Aina ya mradi (css au js)"
+nameDesc: "Jina la mradi"

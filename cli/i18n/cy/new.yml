@@ -1,0 +1,4 @@
+usage: "Defnydd: $0 <math o brosiect> <enw'r prosiect>"
+cmdDesc: "Creu cydran newydd"
+typeDesc: "Math o brosiect (css neu js)"
+nameDesc: "Enw'r prosiect"

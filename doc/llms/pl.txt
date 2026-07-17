@@ -1,0 +1,54 @@
+[BoxX](../../src/BoxX/i18n/pl/README.md) : Utwórz i wyświetl warstwę wyskakującą z przyciskiem zamykania
+[Code](../../src/Code/i18n/pl/README.md) : przycisk kodu
+[Copy](../../src/Copy/i18n/pl/README.md) : Skopiuj tekst do schowka
+[Edit](../../src/Edit/i18n/pl/README.md) : przycisk edycji
+[HtmDemo](../../src/HtmDemo/i18n/pl/README.md) : Debugowanie kodu HTML i JS online
+[I18n](../../src/I18n/i18n/pl/README.md) : Przyciski i wyskakujące okienka do zmiany języka interfejsu
+[MdStream](../../src/MdStream/i18n/pl/README.md) : Przesyłanie strumieniowe renderowania tekstu Markdown
+[Nav](../../src/Nav/i18n/pl/README.md) : Górny pasek nawigacyjny, który automatycznie zwija się lub rozwija podczas przewijania strony
+[NavL](../../src/NavL/i18n/pl/README.md) : Automatycznie przełączaj menu nawigacyjne i przycisk powrotu
+[NavMenu](../../src/NavMenu/i18n/pl/README.md) : Menu nawigacyjne dostosowane do różnych rozmiarów ekranów
+[SelectBtn](../../src/SelectBtn/i18n/pl/README.md) : Połączenie rozwijanego pola wyboru i przycisku
+[TabSelect](../../src/TabSelect/i18n/pl/README.md) : Strona karty z rozwijanym wyborem
+[Btn](../../src/Btn/i18n/pl/README.md) : Zwykły przycisk i okrągły przycisk z ikoną
+[Card](../../src/Card/i18n/pl/README.md) : Karta kapsułki ze strzałką w prawo wyświetlaną w zawieszeniu
+[H1Txt](../../src/H1Txt/i18n/pl/README.md) : Tytuł i opis tekstury
+[Ing](../../src/Ing/i18n/pl/README.md) : Wskaźnik stanu załadunku lub przetwarzania
+[Input](../../src/Input/i18n/pl/README.md) : Pole wprowadzania, które automatycznie przełącza stan symbolu zastępczego
+[Kv](../../src/Kv/i18n/pl/README.md) : para klucz-wartość
+[Lg](../../src/Lg/i18n/pl/README.md) : Efekt podświetlenia tła i krawędzi z matowego szkła
+[MdCss](../../src/MdCss/i18n/pl/README.md) : Style typografii zoptymalizowane pod kątem czytania
+[NavALi](../../src/NavALi/i18n/pl/README.md) : Styl listy łączy paska nawigacji
+[O](../../src/O/i18n/pl/README.md) : Narysuj logo w postaci pustej kropki przed elementem
+[Toast](../../src/Toast/i18n/pl/README.md) : Wyskakujące okienko podpowiedzi na krawędzi strony
+[404](../../src/404/i18n/pl/README.md) : Ścieżka nie istnieje, strona z komunikatem o błędzie
+[Back](../../src/Back/i18n/pl/README.md) : przycisk wstecz
+[Box](../../src/Box/i18n/pl/README.md) : Utwórz i wyświetl warstwę wyskakującą
+[CardLi](../../src/CardLi/i18n/pl/README.md) : Ładuj i wyświetlaj listę kart asynchronicznie
+[Md](../../src/Md/i18n/pl/README.md) : Bezpiecznie analizuj i renderuj tekst Markdown do formatu HTML.
+[Pophover](../../src/Pophover/i18n/pl/README.md) : monit o pływającą bańkę
+[Scroll](../../src/Scroll/i18n/pl/README.md) : wirtualny pasek przewijania
+[Select](../../src/Select/i18n/pl/README.md) : Wybór rozwijany, szerokość dostosowuje się do bieżącego elementu
+[Side](../../src/Side/i18n/pl/README.md) : Panele szuflad wysuwane z boku
+[Tab](../../src/Tab/i18n/pl/README.md) : Przełączane zakładki
+[On](../pl/js/On.md) : Monitorowanie zdarzeń wiązania wsadowego
+[Toast](../pl/js/Toast.md) : Wyskakujący komunikat z prośbą o wyświetlenie toastu
+[a](../pl/js/a.md) : Globalnie przechwytuj zdarzenia kliknięcia linku
+[c-t](../pl/js/c-t.md) : Internacjonalizacja HTML
+[demo](../pl/js/demo.md) : Inicjalizacja strony demonstracyjnej
+[dom](../pl/js/dom.md) : Dokumentuj skróty zmiennych i funkcje skrótów
+[dom/header](../pl/js/dom/header.md) : Utwórz strukturę DOM paska nagłówka
+[fetch](../pl/js/fetch.md) : Funkcja narzędzia żądania sieciowego oparta na enkapsulacji pobierania
+[fetchLang](../pl/js/fetchLang.md) : Asynchronicznie ładuj pakiety językowe i wiąż wywołania zwrotne aktualizacji
+[hashActive](../pl/js/hashActive.md) : Podświetlanie linków nawigacyjnych w oparciu o zakotwiczenia URL i przewijanie rzutni
+[i18n](../pl/js/i18n.md) : Wielojęzyczne zarządzanie statusem i monitorowanie zmian
+[i18n/init](../pl/js/i18n/init.md) : Wielojęzyczna konfiguracja inicjalizacji i ładowanie
+[i18n/store](../pl/js/i18n/store.md) : Wielojęzyczne zarządzanie lokalną pamięcią masową
+[icoTip](../pl/js/icoTip.md) : Zdefiniuj i zarejestruj komponent ikony ze wskazówkami dotyczącymi internacjonalizacji
+[md/htm](../pl/js/md/htm.md) : Tekst Markdown do ciągu HTML
+[md/safeHtm](../pl/js/md/safeHtm.md) : Markdown tekstu do bezpiecznego kodu HTML
+[md/streamRender](../pl/js/md/streamRender.md) : Renderowanie strumieniowe Markdown
+[parentScroll](../pl/js/parentScroll.md) : Pobierz element kontenera przewijania przodka
+[rmWait](../pl/js/rmWait.md) : Usuń animację oczekiwania na początkowe ładowanie strony
+[route](../pl/js/route.md) : Zarządzanie routingiem z poziomu jednej strony
+[sandbox](../pl/js/sandbox.md) : Niestandardowy komponent kontenera piaskownicy do ładowania i uruchamiania podmodułów w izolacji

@@ -1,0 +1,4 @@
+usage: "Användning: $0 [komponentsökväg]"
+cmdDesc: "Starta utvecklingsservern för WebC-komponenten"
+pathDesc: "Sökvägen till WebC-komponenten (till exempel src/Box, du kan också skriva ruta)"
+notFound: "Fel: Komponenten finns inte"

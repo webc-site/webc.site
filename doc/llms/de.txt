@@ -1,0 +1,54 @@
+[BoxX](../../src/BoxX/i18n/de/README.md) : Erstellen Sie eine Popup-Ebene mit einer Schaltfläche zum Schließen und zeigen Sie sie an
+[Code](../../src/Code/i18n/de/README.md) : Code-Taste
+[Copy](../../src/Copy/i18n/de/README.md) : Text in die Zwischenablage kopieren
+[Edit](../../src/Edit/i18n/de/README.md) : Bearbeiten-Schaltfläche
+[HtmDemo](../../src/HtmDemo/i18n/de/README.md) : HTML- und JS-Code online debuggen
+[I18n](../../src/I18n/i18n/de/README.md) : Schaltflächen und Popup-Fenster zum Wechseln der Schnittstellensprachen
+[MdStream](../../src/MdStream/i18n/de/README.md) : Streaming-Rendering von Markdown-Text
+[Nav](../../src/Nav/i18n/de/README.md) : Obere Navigationsleiste, die beim Scrollen der Seite automatisch minimiert oder erweitert wird
+[NavL](../../src/NavL/i18n/de/README.md) : Navigationsmenü und Zurück-Taste automatisch wechseln
+[NavMenu](../../src/NavMenu/i18n/de/README.md) : Navigationsmenü angepasst an verschiedene Bildschirmgrößen
+[SelectBtn](../../src/SelectBtn/i18n/de/README.md) : Kombination aus Dropdown-Auswahlfeld und Schaltfläche
+[TabSelect](../../src/TabSelect/i18n/de/README.md) : Registerkartenseite mit Dropdown-Auswahl
+[Btn](../../src/Btn/i18n/de/README.md) : Gewöhnlicher Knopf und runder Symbolknopf
+[Card](../../src/Card/i18n/de/README.md) : Kapselkarte mit Pfeil nach rechts in der Schwebe
+[H1Txt](../../src/H1Txt/i18n/de/README.md) : Titel und Beschreibung der Textur
+[Ing](../../src/Ing/i18n/de/README.md) : Anzeige des Lade- oder Bearbeitungsstatus
+[Input](../../src/Input/i18n/de/README.md) : Eingabefeld, das den Platzhalterstatus automatisch wechselt
+[Kv](../../src/Kv/i18n/de/README.md) : Schlüssel-Wert-Paar
+[Lg](../../src/Lg/i18n/de/README.md) : Mattierter Glashintergrund und Rand-Highlight-Effekt
+[MdCss](../../src/MdCss/i18n/de/README.md) : Für das Leseerlebnis optimierte Typografiestile
+[NavALi](../../src/NavALi/i18n/de/README.md) : Stil der Linkliste der Navigationsleiste
+[O](../../src/O/i18n/de/README.md) : Zeichnen Sie ein hohles Punktlogo vor das Element
+[Toast](../../src/Toast/i18n/de/README.md) : Eingabeaufforderungs-Popup-Fenster am Rand der Seite
+[404](../../src/404/i18n/de/README.md) : Fehlermeldungsseite „Pfad existiert nicht“.
+[Back](../../src/Back/i18n/de/README.md) : Zurück-Taste
+[Box](../../src/Box/i18n/de/README.md) : Popup-Ebene erstellen und anzeigen
+[CardLi](../../src/CardLi/i18n/de/README.md) : Kartenliste asynchron laden und anzeigen
+[Md](../../src/Md/i18n/de/README.md) : Analysieren und rendern Sie Markdown-Text sicher in HTML.
+[Pophover](../../src/Pophover/i18n/de/README.md) : Eingabeaufforderung für schwebende Blasen
+[Scroll](../../src/Scroll/i18n/de/README.md) : virtuelle Bildlaufleiste
+[Select](../../src/Select/i18n/de/README.md) : Dropdown-Auswahl, Breite passt sich dem aktuellen Artikel an
+[Side](../../src/Side/i18n/de/README.md) : Seitlich herausziehbare Schubladenpaneele
+[Tab](../../src/Tab/i18n/de/README.md) : Umschaltbare Registerkarten
+[On](../de/js/On.md) : Überwachung von Batch-Bindungsereignissen
+[Toast](../de/js/Toast.md) : Popup-Meldung zum Toasten
+[a](../de/js/a.md) : Link-Klick-Ereignisse global abfangen
+[c-t](../de/js/c-t.md) : HTML-Internationalisierung
+[demo](../de/js/demo.md) : Initialisierung der Demoseite
+[dom](../de/js/dom.md) : Abkürzungen und Verknüpfungsfunktionen für Dokumentvariablen
+[dom/header](../de/js/dom/header.md) : Erstellen Sie die DOM-Struktur der Kopfleiste
+[fetch](../de/js/fetch.md) : Funktion des Netzwerkanforderungstools basierend auf der Abrufkapselung
+[fetchLang](../de/js/fetchLang.md) : Laden Sie Sprachpakete asynchron und binden Sie Update-Rückrufe
+[hashActive](../de/js/hashActive.md) : Hervorhebung von Navigationslinks basierend auf URL-Ankern und Scrollen im Ansichtsfenster
+[i18n](../de/js/i18n.md) : Mehrsprachige Statusverwaltung und Änderungsüberwachung
+[i18n/init](../de/js/i18n/init.md) : Konfiguration und Laden der mehrsprachigen Initialisierung
+[i18n/store](../de/js/i18n/store.md) : Mehrsprachige lokale Speicherverwaltung
+[icoTip](../de/js/icoTip.md) : Definieren und registrieren Sie eine Symbolkomponente mit Internationalisierungshinweisen
+[md/htm](../de/js/md/htm.md) : Markdown-Text in HTML-String
+[md/safeHtm](../de/js/md/safeHtm.md) : Text in sicheres HTML umwandeln
+[md/streamRender](../de/js/md/streamRender.md) : Markdown-Streaming-Rendering
+[parentScroll](../de/js/parentScroll.md) : Holen Sie sich das Vorfahren-Scroll-Containerelement
+[rmWait](../de/js/rmWait.md) : Entfernen Sie die Warteanimation beim ersten Laden der Seite
+[route](../de/js/route.md) : Einseitiges Front-End-Routing-Management
+[sandbox](../de/js/sandbox.md) : Benutzerdefinierte Sandbox-Containerkomponente zum isolierten Laden und Ausführen von Submodulen

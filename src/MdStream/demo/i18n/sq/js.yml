@@ -1,0 +1,60 @@
+mdContent: |
+  # Dokumenti i prezantimit Markdown
+  Ky është një demonstrim i Rendering Streaming.
+  ## Stili bazë
+  - **Bold** dhe *Italic*
+  - ~~goditje~~
+  - `inline_code` kod inline
+  - [United United Nations website zyrtar](https://un.org) Demonstrimi i lidhjes
+  ## Kuotat dhe listat
+  > Ky është një citat me një rresht.
+
+  > Ky është një citat me shumë rreshta.
+  > Një efekt vizual për shfaqjen e referencave me shumë rreshta.
+
+  - Artikulli i parë i pa porositur
+    - Nën-artikull i parenditur
+    - Nënseksioni dy i pa renditur
+  - Artikulli i dytë i pa renditur
+
+  > [!NOTE]
+  > `> [!NOTE]` Mesazhe dhe shënime të përgjithshme
+
+  > [!TIP]
+  > `> [!TIP]` Këshilla dhe këshilla të dobishme
+
+  > [!IMPORTANT]
+  > `> [!IMPORTANT]` Këshilla dhe shqetësime të rëndësishme
+
+  > [!WARNING]
+  > `> [!WARNING]` Paralajmërimet dhe shënimet e rrezikut
+
+  > [!CAUTION]
+  > `> [!CAUTION]` PARALAJMËRIM RREZIK DHE RREZIK EKSTREM
+
+  ---
+
+  ## lista e detyrave
+  - [ ] Kjo është një detyrë e papërfunduar transmetimi
+  - [x] Kjo është një detyrë e përfunduar e transmetimit
+  - [X] Kjo është një detyrë e përfunduar transmetimi (kapitali X)
+
+  ---
+
+  1. Porosi artikullin e parë
+     1. Porosi artikullin një
+     2. Urdhëroi nënpikën dy
+  2. Urdhëroi mandatin e dytë
+  ## fletë
+  | Detyrë | shteti | orarin |
+  | :--- | :---: | ---: |
+  | Detyra e parë | E përfunduar | 100% |
+  | Detyra 2 | në zhvillim e sipër | 50% |
+  ## bllok kodi
+  ```js
+  const hello = () => {
+    console.log("Hello, WebC!");
+  };
+  ```
+  ## foto
+  ![Foto demo](https://i-01.eu.org/demo-green.avif)

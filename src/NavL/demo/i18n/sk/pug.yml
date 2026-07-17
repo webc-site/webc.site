@@ -1,0 +1,7 @@
+desc: Automaticky určiť a prepnúť zobrazenie navigačnej ponuky alebo tlačidla späť na základe aktuálnej trasy
+desktop_title: Displej pracovnej plochy
+desktop_desc: Keď ste v deklarovanej trase ponuky, zobrazte dlaždice položiek ponuky; inak zobrazte tlačidlo späť
+mobile_title: Mobilný displej
+mobile_desc: Keď ste v deklarovanej trase ponuky, zbalí sa do tlačidla ikony a podporuje vysúvanie ponuky; inak zobrazí tlačidlo späť
+normal_state: Stav navigácie (c-nav-menu)
+back_state: Záložný stav (c-back)
