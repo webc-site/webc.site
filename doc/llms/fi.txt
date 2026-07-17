@@ -1,0 +1,54 @@
+[BoxX](../../src/BoxX/i18n/fi/README.md) : Luo ja näytä ponnahdusikkuna taso sulkemispainikkeella
+[Code](../../src/Code/i18n/fi/README.md) : koodipainike
+[Copy](../../src/Copy/i18n/fi/README.md) : Kopioi teksti leikepöydälle
+[Edit](../../src/Edit/i18n/fi/README.md) : muokkauspainiketta
+[HtmDemo](../../src/HtmDemo/i18n/fi/README.md) : HTML- ja JS-koodin virheenkorjaus verkossa
+[I18n](../../src/I18n/i18n/fi/README.md) : Painikkeet ja ponnahdusikkunat käyttöliittymän kielten vaihtamiseen
+[MdStream](../../src/MdStream/i18n/fi/README.md) : Markdown-tekstin suoratoisto
+[Nav](../../src/Nav/i18n/fi/README.md) : Ylänavigointipalkki, joka kutistuu tai laajenee automaattisesti, kun sivua vieritetään
+[NavL](../../src/NavL/i18n/fi/README.md) : Vaihda automaattisesti navigointivalikkoa ja paluupainiketta
+[NavMenu](../../src/NavMenu/i18n/fi/README.md) : Navigointivalikko mukautettu eri näyttökokoihin
+[SelectBtn](../../src/SelectBtn/i18n/fi/README.md) : Pudotusvalikon valintaruudun ja painikkeen yhdistelmä
+[TabSelect](../../src/TabSelect/i18n/fi/README.md) : Välilehti, jossa on avattava valinta
+[Btn](../../src/Btn/i18n/fi/README.md) : Tavallinen painike ja pyöreä kuvakepainike
+[Card](../../src/Card/i18n/fi/README.md) : Kapselikortti, jossa on oikea nuoli suspensiossa
+[H1Txt](../../src/H1Txt/i18n/fi/README.md) : Tekstuurin otsikko ja kuvaus
+[Ing](../../src/Ing/i18n/fi/README.md) : Latauksen tai käsittelyn tilan ilmaisin
+[Input](../../src/Input/i18n/fi/README.md) : Syöttöruutu, joka vaihtaa automaattisesti paikkamerkkitilan
+[Kv](../../src/Kv/i18n/fi/README.md) : avainarvopari
+[Lg](../../src/Lg/i18n/fi/README.md) : Himmeä lasi tausta ja reunan korostustehoste
+[MdCss](../../src/MdCss/i18n/fi/README.md) : Lukukokemukseen optimoidut typografiset tyylit
+[NavALi](../../src/NavALi/i18n/fi/README.md) : Navigointipalkin linkkiluettelon tyyli
+[O](../../src/O/i18n/fi/README.md) : Piirrä ontto pistelogo elementin eteen
+[Toast](../../src/Toast/i18n/fi/README.md) : Ponnahdusikkuna sivun reunassa
+[404](../../src/404/i18n/fi/README.md) : Polkua ei ole olemassa virheilmoitussivua
+[Back](../../src/Back/i18n/fi/README.md) : takaisin-painiketta
+[Box](../../src/Box/i18n/fi/README.md) : Luo ja näytä ponnahdusikkuna
+[CardLi](../../src/CardLi/i18n/fi/README.md) : Lataa ja näytä korttiluettelo asynkronisesti
+[Md](../../src/Md/i18n/fi/README.md) : Jäsennä ja renderöi Markdown-teksti turvallisesti HTML-muotoon.
+[Pophover](../../src/Pophover/i18n/fi/README.md) : kelluva kupla kehote
+[Scroll](../../src/Scroll/i18n/fi/README.md) : virtuaalinen vierityspalkki
+[Select](../../src/Select/i18n/fi/README.md) : Valinta alasvetovalikosta, leveys mukautuu nykyiseen kohteeseen
+[Side](../../src/Side/i18n/fi/README.md) : Sivulta ulos liukuvat laatikostopaneelit
+[Tab](../../src/Tab/i18n/fi/README.md) : Vaihdettavat välilehdet
+[On](../fi/js/On.md) : Erän sitomistapahtuman seuranta
+[Toast](../fi/js/Toast.md) : Toast-ponnahdusviestikehote
+[a](../fi/js/a.md) : Globaalisti siepata linkin napsautustapahtumat
+[c-t](../fi/js/c-t.md) : HTML:n kansainvälistyminen
+[demo](../fi/js/demo.md) : Esittelysivun alustus
+[dom](../fi/js/dom.md) : Dokumentoi muuttujien lyhenteet ja pikakuvaketoiminnot
+[dom/header](../fi/js/dom/header.md) : Luo otsikkopalkin DOM-rakenne
+[fetch](../fi/js/fetch.md) : Verkkopyyntötyökalutoiminto, joka perustuu haun kapselointiin
+[fetchLang](../fi/js/fetchLang.md) : Lataa asynkronisesti kielipaketteja ja sido päivityskutsuja
+[hashActive](../fi/js/hashActive.md) : Navigointilinkin korostus URL-ankkureiden ja näkymän vierityksen perusteella
+[i18n](../fi/js/i18n.md) : Monikielinen tilanhallinta ja muutosten seuranta
+[i18n/init](../fi/js/i18n/init.md) : Monikielinen alustusmääritys ja lataus
+[i18n/store](../fi/js/i18n/store.md) : Monikielinen paikallinen tallennustilan hallinta
+[icoTip](../fi/js/icoTip.md) : Määritä ja rekisteröi ikonikomponentti kansainvälistymisvinkkeineen
+[md/htm](../fi/js/md/htm.md) : Merkintäteksti HTML-merkkijonoon
+[md/safeHtm](../fi/js/md/safeHtm.md) : Merkitse teksti turvalliseen HTML:ään
+[md/streamRender](../fi/js/md/streamRender.md) : Markdown-suoratoisto
+[parentScroll](../fi/js/parentScroll.md) : Hanki esivanhempien vierityssäiliöelementti
+[rmWait](../fi/js/rmWait.md) : Poista sivun alkulatauksen odotusanimaatio
+[route](../fi/js/route.md) : Yhden sivun käyttöliittymän reitityksen hallinta
+[sandbox](../fi/js/sandbox.md) : Sandbox-säiliön mukautettu komponentti alimoduulien lataamiseen ja suorittamiseen erillään

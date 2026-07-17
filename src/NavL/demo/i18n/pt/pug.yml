@@ -1,0 +1,7 @@
+desc: Determinar e alternar automaticamente para exibir o menu de navegação ou o botão Voltar com base na rota atual
+desktop_title: Exibição na área de trabalho
+desktop_desc: Quando estiver na rota do menu declarada, exiba os blocos dos itens do menu; caso contrário, exiba o botão Voltar
+mobile_title: Exibição móvel
+mobile_desc: Quando na rota do menu declarada, se transforma em um botão de ícone e suporta o deslizamento do menu; caso contrário, exibe um botão Voltar
+normal_state: Status de navegação (menu c-nav)
+back_state: Status de reserva (c-back)

@@ -1,0 +1,38 @@
+basicTitle: 기본 스타일
+bold: 용감한
+italic: 이탤릭체
+del: 취소선
+inlineCode: 인라인 코드
+linkPrefix: 링크 앞뒤에 다음과 같은 텍스트가 있습니다.
+link: 유엔 공식 홈페이지
+linkSuffix: 링크입니다.
+quoteSingle: 이것은 한 줄짜리 인용문입니다.
+quoteMultiLine1: 이것은 여러 줄의 인용문입니다.
+quoteMultiLine2: 여러 줄 참조를 표시하기 위한 시각적 효과입니다.
+note: 일반 메시지 및 메모
+tip: 팁과 유용한 팁
+important: 중요한 팁과 우려 사항
+warning: 위험 경고 및 예방 조치
+caution: 위험 및 극심한 위험 경고
+listTitle: 견적 및 목록
+taskTitle: 작업 목록
+todoItem: 이것은 끝나지 않은 CSS 작업입니다
+doneItem: 완료된 CSS 작업입니다.
+ulItem1: 주문되지 않은 첫 번째 항목
+ulSubItem1: 순서가 지정되지 않은 하위 항목 1
+ulSubItem2: 순서가 지정되지 않은 하위 항목 2
+ulItem2: 주문되지 않은 두 번째 항목
+olItem1: 첫 번째 항목 주문
+olSubItem1: 주문한 상품 1개
+olSubItem2: 하위 항목 2를 주문함
+olItem2: 2학기 주문
+tableTitle: 시트
+col1: 프로젝트
+col2: 상태
+col3: 점수
+row1Col1: 공전
+row1Col2: 완전한
+row2Col1: 스트리밍
+row2Col2: 표현
+codeTitle: 코드 블록
+imageTitle: 그림

@@ -1,0 +1,60 @@
+mdContent: |
+  # Markdown-presentatiedocument
+  Dit is een demonstratie van **statische weergave**.
+  ## Basisstijl
+  - **Vet** en *Cursief*
+  - ~~doorhalen~~
+  - `inline_code` inlinecode
+  - [Officiële website van de Verenigde Naties](https://un.org) Linkdemonstratie
+  ## Citaten en lijsten
+  > Dit is een citaat van één regel.
+
+  > Dit is een citaat van meerdere regels.
+  > Een visueel effect voor het weergeven van meerregelige verwijzingen.
+
+  - Niet besteld eerste artikel
+    - Ongeordend subitem één
+    - Ongeordend subitem twee
+  - Onbesteld tweede artikel
+
+  > [!NOTE]
+  > `> [!NOTE]` Algemene berichten en opmerkingen
+
+  > [!TIP]
+  > `> [!TIP]` Tips en nuttige tips
+
+  > [!IMPORTANT]
+  > `> [!IMPORTANT]` Belangrijke tips en zorgen
+
+  > [!WARNING]
+  > `> [!WARNING]` Risicowaarschuwingen en -opmerkingen
+
+  > [!CAUTION]
+  > `> [!CAUTION]` WAARSCHUWING VOOR GEVAAR EN EXTREEM RISICO
+
+  ---
+
+  ## takenlijst
+  - [ ] Dit is een onvoltooide lijst met taken
+  - [x] Dit is een voltooide lijsttaak
+  - [X] Dit is een voltooide lijsttaak (hoofdletter X)
+
+  ---
+
+  1. Eerste artikel besteld
+     1. Artikel één besteld
+     2. Subitem twee besteld
+  2. Tweede termijn besteld
+  ## laken
+  | project | staat | scoren |
+  | :--- | :---: | ---: |
+  | statisch | Voltooid | 100 |
+  | streamen | Weergave | 95 |
+  ## code blok
+  ```js
+  const hello = () => {
+    console.log("Hello, WebC!");
+  };
+  ```
+  ## afbeelding
+  ![Demofoto](https://i-01.eu.org/demo-green.avif)

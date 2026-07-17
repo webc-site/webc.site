@@ -1,0 +1,4 @@
+usage: "İstifadə: $0 [komponent yolu]"
+cmdDesc: "WebC komponenti üçün inkişaf serverini işə salın"
+pathDesc: "WebC komponentinin yolu (məsələn, src/Box, qutunu da yaza bilərsiniz)"
+notFound: "Xəta: Komponent mövcud deyil"

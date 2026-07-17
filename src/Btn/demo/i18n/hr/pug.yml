@@ -1,0 +1,4 @@
+default: Zadani gumb
+main: glavni gumb
+link: gumb poveznice
+icon: Gumb ikone (.BtnC)

@@ -1,0 +1,4 @@
+usage: "Użycie: $0 [ścieżka komponentu]"
+cmdDesc: "Uruchom serwer programistyczny dla komponentu WebC"
+pathDesc: "Ścieżka komponentu WebC (na przykład src/Box, możesz także wpisać box)"
+notFound: "Błąd: Komponent nie istnieje"

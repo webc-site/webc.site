@@ -1,0 +1,38 @@
+basicTitle: Gaya dasar
+bold: Berani
+italic: huruf miring
+del: dicoret
+inlineCode: kode sebaris
+linkPrefix: Ada teks sebelum dan sesudah link, seperti
+link: Situs resmi PBB
+linkSuffix: adalah tautan.
+quoteSingle: Ini adalah kutipan satu baris.
+quoteMultiLine1: Ini adalah kutipan multi-baris.
+quoteMultiLine2: Efek visual untuk menampilkan referensi multi-baris.
+note: Pesan dan catatan umum
+tip: Kiat dan tip berguna
+important: Kiat dan kekhawatiran penting
+warning: Peringatan risiko dan tindakan pencegahan
+caution: PERINGATAN BAHAYA DAN RISIKO EKSTRIM
+listTitle: Kutipan dan Daftar
+taskTitle: daftar tugas
+todoItem: Ini adalah tugas CSS yang belum selesai
+doneItem: Ini adalah tugas CSS yang telah selesai
+ulItem1: Item pertama yang tidak diurutkan
+ulSubItem1: Subitem satu tidak berurutan
+ulSubItem2: Subitem dua tidak berurutan
+ulItem2: Item kedua tidak berurutan
+olItem1: Barang pertama yang dipesan
+olSubItem1: Barang yang dipesan satu
+olSubItem2: Memesan subitem dua
+olItem2: Memesan periode kedua
+tableTitle: lembaran
+col1: proyek
+col2: negara
+col3: skor
+row1Col1: statis
+row1Col2: Selesai
+row2Col1: mengalir
+row2Col2: Render
+codeTitle: blok kode
+imageTitle: gambar

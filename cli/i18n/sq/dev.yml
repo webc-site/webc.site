@@ -1,0 +1,4 @@
+usage: "Përdorimi: $0 [shtegu i komponentit]"
+cmdDesc: "Nisni serverin e zhvillimit për komponentin WebC"
+pathDesc: "Rruga e komponentit WebC (për shembull, src/Box, mund të shkruani edhe kuti)"
+notFound: "Gabim: Komponenti nuk ekziston"

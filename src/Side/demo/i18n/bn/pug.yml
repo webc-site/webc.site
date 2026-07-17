@@ -1,0 +1,46 @@
+open: সাইডবার খুলুন
+userName: গিক ওয়াকার
+userTitle: সিনিয়র ওয়েব ডিজাইনার
+statFollowers: গ্রাহক
+statFollowing: উপর ফোকাস
+statProjects: প্রকল্প
+groupCore: মূল ফাংশন
+groupSystem: সিস্টেম ব্যবস্থাপনা
+groupData: তথ্য বিশ্লেষণ
+groupCollaboration: টিমওয়ার্ক
+widgetTitle: স্টোরেজ স্পেস ব্যবহার
+widgetTasks: আমার করণীয় কাজ
+task1: সম্পূর্ণ পার্শ্ব ইন্টারেক্টিভ উন্নয়ন
+task2: ডিজাইন তরল চাক্ষুষ নন্দনতত্ব
+task3: উপাদান ব্যবহারযোগ্যতা এবং বিবরণ অপ্টিমাইজ করুন
+navHome: ড্যাশবোর্ড হোম পেজ
+navProfile: ব্যক্তিগত কেন্দ্র
+navSettings: সিস্টেম সেটিংস
+navMessages: সাইটের খবর
+navNotifications: বিজ্ঞপ্তি অনুস্মারক
+navPrivacy: গোপনীয়তা এবং নিরাপত্তা
+navHelp: সাহায্য এবং প্রতিক্রিয়া
+navAnalytics: বিশ্লেষণ রিপোর্ট
+navCloud: ক্লাউড স্টোরেজ স্পেস
+navTeam: দলের সদস্য
+navTasks: টাস্ক সমন্বয়
+logout: লগ আউট করুন
+upgradeTitle: পেশাদার সংস্করণে আপগ্রেড করুন
+upgradeDesc: আনলিমিটেড ক্লাউড স্টোরেজ এবং উন্নত সহযোগিতা আনলক করুন
+upgradeBtn: এখন আপগ্রেড করুন
+task4: পিআর কমিট পর্যালোচনা করুন এবং শাখা একত্রিত করুন
+task5: WebC এর একটি নতুন সংস্করণ প্রকাশ লগ লিখুন
+widgetOnline: অনলাইন দলের সদস্যরা
+member1: লিসা
+member2: ডেভিড
+member3: আনা
+statusOnline: অনলাইন
+statusOffline: অফলাইন
+statusBusy: ব্যস্ত
+widgetFiles: সাম্প্রতিক ফাইল
+file1: পণ্য ডিজাইন স্পেসিফিকেশন v2.4.pdf
+file2: 2026 Q3 খসড়া Plan.docx
+file3: কম্পোনেন্ট অ্যানিমেশন প্রদর্শন.mp4
+tagDesign: নকশা
+tagDev: বিকাশ
+tagPm: পণ্য

@@ -1,0 +1,4 @@
+usage: "Benotzung: $0 <Projettyp> <Projetnumm>"
+cmdDesc: "Schafen nei Komponent"
+typeDesc: "Projekttyp (css oder js)"
+nameDesc: "Projet Numm"

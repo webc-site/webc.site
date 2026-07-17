@@ -1,0 +1,60 @@
+mdContent: |
+  # Markdown kynningarskjal
+  Þetta er sýnikennsla á streymandi flutningi.
+  ## Grunnstíll
+  - **Djarfur** og *skáletraður*
+  - ~~yfirstrik~~
+  - `inline_code` innbyggður kóða
+  - [Opinber vefsíða Sameinuðu þjóðanna](https://un.org) Tenglasýning
+  ## Tilvitnanir og listar
+  > Þetta er tilvitnun í einni línu.
+
+  > Þetta er marglína tilvitnun.
+  > Sjónræn áhrif til að sýna marglínu tilvísanir.
+
+  - Óraðað fyrsta atriði
+    - Óraðað undirlið eitt
+    - Óraðaður undirliður tvö
+  - Óraðað annað atriði
+
+  > [!NOTE]
+  > `> [!NOTE]` Almenn skilaboð og athugasemdir
+
+  > [!TIP]
+  > `> [!TIP]` Ábendingar og gagnleg ráð
+
+  > [!IMPORTANT]
+  > `> [!IMPORTANT]` Mikilvægar ábendingar og áhyggjur
+
+  > [!WARNING]
+  > `> [!WARNING]` Áhættuviðvaranir og athugasemdir
+
+  > [!CAUTION]
+  > `> [!CAUTION]` VIÐVÖRUN UM HÆTTU OG MIKILHÆTTU
+
+  ---
+
+  ## verkefnalista
+  - [ ] Þetta er óunnið streymisverkefni
+  - [x] Þetta er lokið streymisverkefni
+  - [X] Þetta er lokið streymisverkefni (hástafur X)
+
+  ---
+
+  1. Pantaði fyrsta hlutinn
+     1. Pantaði hlut eitt
+     2. Pantaði undirlið tvö
+  2. Pantað annað tímabil
+  ## blað
+  | Verkefni | ríki | áætlun |
+  | :--- | :---: | ---: |
+  | Verkefni eitt | Lokið | 100% |
+  | Verkefni 2 | í gangi | 50% |
+  ## kóða blokk
+  ```js
+  const hello = () => {
+    console.log("Hello, WebC!");
+  };
+  ```
+  ## mynd
+  ![Demo mynd](https://i-01.eu.org/demo-green.avif)

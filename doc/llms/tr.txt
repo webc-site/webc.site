@@ -1,0 +1,54 @@
+[BoxX](../../src/BoxX/i18n/tr/README.md) : Kapat düğmesiyle açılır bir katman oluşturun ve görüntüleyin
+[Code](../../src/Code/i18n/tr/README.md) : kod düğmesi
+[Copy](../../src/Copy/i18n/tr/README.md) : Metni panoya kopyala
+[Edit](../../src/Edit/i18n/tr/README.md) : düzenle düğmesi
+[HtmDemo](../../src/HtmDemo/i18n/tr/README.md) : HTML ve JS kodunda çevrimiçi hata ayıklama
+[I18n](../../src/I18n/i18n/tr/README.md) : Arayüz dillerini değiştirmek için düğmeler ve açılır pencereler
+[MdStream](../../src/MdStream/i18n/tr/README.md) : Markdown metninin akış halinde oluşturulması
+[Nav](../../src/Nav/i18n/tr/README.md) : Sayfa kaydırıldığında otomatik olarak daraltılan veya genişleyen üst gezinme çubuğu
+[NavL](../../src/NavL/i18n/tr/README.md) : Gezinme menüsünü ve geri dönüş düğmesini otomatik olarak değiştir
+[NavMenu](../../src/NavMenu/i18n/tr/README.md) : Farklı ekran boyutlarına uyarlanmış gezinme menüsü
+[SelectBtn](../../src/SelectBtn/i18n/tr/README.md) : Açılır seçim kutusu ve düğmenin birleşimi
+[TabSelect](../../src/TabSelect/i18n/tr/README.md) : Açılır seçimli sekme sayfası
+[Btn](../../src/Btn/i18n/tr/README.md) : Sıradan düğme ve yuvarlak simge düğmesi
+[Card](../../src/Card/i18n/tr/README.md) : Askıda sağ ok gösterilen kapsül kartı
+[H1Txt](../../src/H1Txt/i18n/tr/README.md) : Doku başlığı ve açıklaması
+[Ing](../../src/Ing/i18n/tr/README.md) : Yükleme veya işleme durumu göstergesi
+[Input](../../src/Input/i18n/tr/README.md) : Yer tutucu durumunu otomatik olarak değiştiren giriş kutusu
+[Kv](../../src/Kv/i18n/tr/README.md) : anahtar değer çifti
+[Lg](../../src/Lg/i18n/tr/README.md) : Buzlu cam arka plan ve kenar vurgulama efekti
+[MdCss](../../src/MdCss/i18n/tr/README.md) : Okuma deneyimi için optimize edilmiş tipografi stilleri
+[NavALi](../../src/NavALi/i18n/tr/README.md) : Gezinme çubuğu bağlantı listesi stili
+[O](../../src/O/i18n/tr/README.md) : Öğenin önüne içi boş bir nokta logosu çizin
+[Toast](../../src/Toast/i18n/tr/README.md) : Sayfanın kenarındaki açılır pencereyi sor
+[404](../../src/404/i18n/tr/README.md) : Yol mevcut değil hata mesajı sayfası
+[Back](../../src/Back/i18n/tr/README.md) : geri düğmesi
+[Box](../../src/Box/i18n/tr/README.md) : Açılır katman oluşturma ve görüntüleme
+[CardLi](../../src/CardLi/i18n/tr/README.md) : Kart listesini eşzamansız olarak yükleme ve görüntüleme
+[Md](../../src/Md/i18n/tr/README.md) : Markdown metnini güvenli bir şekilde ayrıştırın ve HTML'ye dönüştürün.
+[Pophover](../../src/Pophover/i18n/tr/README.md) : yüzen kabarcık istemi
+[Scroll](../../src/Scroll/i18n/tr/README.md) : sanal kaydırma çubuğu
+[Select](../../src/Select/i18n/tr/README.md) : Açılan seçim, genişlik geçerli öğeye uyarlanır
+[Side](../../src/Side/i18n/tr/README.md) : Yandan dışarı kayan çekmece panelleri
+[Tab](../../src/Tab/i18n/tr/README.md) : Değiştirilebilir sekmeler
+[On](../tr/js/On.md) : Toplu bağlama olayı izleme
+[Toast](../tr/js/Toast.md) : Tost açılır mesajı istemi
+[a](../tr/js/a.md) : Bağlantı tıklama etkinliklerini küresel olarak engelleme
+[c-t](../tr/js/c-t.md) : HTML'nin uluslararası hale getirilmesi
+[demo](../tr/js/demo.md) : Demo sayfasının başlatılması
+[dom](../tr/js/dom.md) : Belge değişkeni kısaltmaları ve kısayol işlevleri
+[dom/header](../tr/js/dom/header.md) : Başlık çubuğu DOM yapısını oluşturma
+[fetch](../tr/js/fetch.md) : Getirme kapsüllemesine dayalı ağ istek aracı işlevi
+[fetchLang](../tr/js/fetchLang.md) : Dil paketlerini eşzamansız olarak yükleyin ve güncelleme geri çağrılarını bağlayın
+[hashActive](../tr/js/hashActive.md) : URL bağlantılarına ve görüntü alanı kaydırmasına dayalı olarak gezinme bağlantısı vurgulama
+[i18n](../tr/js/i18n.md) : Çoklu dil durum yönetimi ve değişiklik izleme
+[i18n/init](../tr/js/i18n/init.md) : Çoklu dil başlatma yapılandırması ve yükleme
+[i18n/store](../tr/js/i18n/store.md) : Çok dilli yerel depolama yönetimi
+[icoTip](../tr/js/icoTip.md) : Uluslararasılaştırma ipuçlarıyla bir simge bileşenini tanımlayın ve kaydedin
+[md/htm](../tr/js/md/htm.md) : Metni HTML dizesine işaretleme
+[md/safeHtm](../tr/js/md/safeHtm.md) : Metni güvenli HTML'ye işaretleme
+[md/streamRender](../tr/js/md/streamRender.md) : Markdown akış oluşturma
+[parentScroll](../tr/js/parentScroll.md) : Ata kaydırma kapsayıcı öğesini alın
+[rmWait](../tr/js/rmWait.md) : Sayfanın ilk yükleme bekleme animasyonunu kaldırın
+[route](../tr/js/route.md) : Tek sayfa ön uç yönlendirme yönetimi
+[sandbox](../tr/js/sandbox.md) : Alt modülleri ayrı ayrı yüklemek ve çalıştırmak için korumalı alan konteyneri özel bileşeni

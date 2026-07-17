@@ -1,0 +1,46 @@
+open: Seitenleiste öffnen
+userName: Geek Walker
+userTitle: Leitender Webdesigner
+statFollowers: Teilnehmer
+statFollowing: konzentrieren Sie sich auf
+statProjects: Projekt
+groupCore: Kernfunktionen
+groupSystem: Systemverwaltung
+groupData: Datenanalyse
+groupCollaboration: Teamarbeit
+widgetTitle: Speicherplatznutzung
+widgetTasks: Meine Aufgaben
+task1: Komplette interaktive Side-Entwicklung
+task2: Design Flüssige visuelle Ästhetik
+task3: Optimieren Sie die Benutzerfreundlichkeit und Details der Komponenten
+navHome: Dashboard-Startseite
+navProfile: Persönliches Zentrum
+navSettings: Systemeinstellungen
+navMessages: Site-Neuigkeiten
+navNotifications: Benachrichtigungserinnerung
+navPrivacy: Privatsphäre und Sicherheit
+navHelp: Hilfe und Feedback
+navAnalytics: Analysebericht
+navCloud: Cloud-Speicherplatz
+navTeam: Teammitglied
+navTasks: Aufgabenkoordination
+logout: Abmelden
+upgradeTitle: Upgrade auf Professional Edition
+upgradeDesc: Schalten Sie unbegrenzten Cloud-Speicher und erweiterte Zusammenarbeit frei
+upgradeBtn: Jetzt upgraden
+task4: Überprüfen Sie PR-Commits und führen Sie Zweige zusammen
+task5: Schreiben Sie ein Veröffentlichungsprotokoll für eine neue Version von WebC
+widgetOnline: Online-Teammitglieder
+member1: Lisa
+member2: David
+member3: Anna
+statusOnline: online
+statusOffline: Offline
+statusBusy: Beschäftigt
+widgetFiles: Aktuelle Dateien
+file1: Produktdesignspezifikation v2.4.pdf
+file2: Planentwurf Q3 2026.docx
+file3: Demonstration der Komponentenanimation.mp4
+tagDesign: Design
+tagDev: entwickeln
+tagPm: Produkt

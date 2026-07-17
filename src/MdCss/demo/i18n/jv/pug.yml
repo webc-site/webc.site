@@ -1,0 +1,38 @@
+basicTitle: Gaya dhasar
+bold: Kandel
+italic: miring
+del: strikethrough
+inlineCode: kode inline
+linkPrefix: Ana teks sadurunge lan sawise link, kayata
+link: Situs web resmi PBB
+linkSuffix: punika link.
+quoteSingle: Iki minangka kutipan siji baris.
+quoteMultiLine1: Iki minangka kutipan multi-line.
+quoteMultiLine2: Efek visual kanggo nampilake referensi multi-line.
+note: Pesen umum lan cathetan
+tip: Tips lan tips migunani
+important: Tips lan uneg-uneg penting
+warning: Bebaya resiko lan pancegahan
+caution: PÈNGET BAHAYA LAN RISIKO ESREM
+listTitle: Quotes lan Dhaptar
+taskTitle: dhaftar tugas
+todoItem: Iki minangka tugas CSS sing durung rampung
+doneItem: Iki minangka tugas CSS sing wis rampung
+ulItem1: Item pisanan sing ora dipesen
+ulSubItem1: Unordered subitem siji
+ulSubItem2: Unordered subitem loro
+ulItem2: Item kapindho sing ora dipesen
+olItem1: Dipesan item pisanan
+olSubItem1: pesen item siji
+olSubItem2: Mesen subitem loro
+olItem2: Didhawuhi istilah kapindho
+tableTitle: lembaran
+col1: proyek
+col2: negara
+col3: skor
+row1Col1: statis
+row1Col2: Rampung
+row2Col1: streaming
+row2Col2: Rendering
+codeTitle: kode blok
+imageTitle: gambar
