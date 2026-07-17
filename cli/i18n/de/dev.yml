@@ -1,0 +1,4 @@
+usage: "Verwendung: $0 [Komponentenpfad]"
+cmdDesc: "Starten Sie den Entwicklungsserver für die WebC-Komponente"
+pathDesc: "Der Pfad der WebC-Komponente (z. B. src/Box, Sie können auch box schreiben)"
+notFound: "Fehler: Komponente existiert nicht"

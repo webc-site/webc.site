@@ -1,0 +1,4 @@
+usage: "Naudojimas: $0 <projekto tipas> <projekto pavadinimas>"
+cmdDesc: "Sukurkite naują komponentą"
+typeDesc: "Projekto tipas (css arba js)"
+nameDesc: "Projekto pavadinimas"

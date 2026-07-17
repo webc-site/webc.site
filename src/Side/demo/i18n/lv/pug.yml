@@ -1,0 +1,46 @@
+open: Atvērt sānjoslu
+userName: Gīks Vokers
+userTitle: Vecākais tīmekļa dizainers
+statFollowers: Abonents
+statFollowing: koncentrēties uz
+statProjects: projektu
+groupCore: Pamatfunkcijas
+groupSystem: Sistēmas vadība
+groupData: datu analīze
+groupCollaboration: Komandas darbs
+widgetTitle: Uzglabāšanas telpas izmantošana
+widgetTasks: Mani veicamie uzdevumi
+task1: Pilnīga Side interaktīva izstrāde
+task2: Dizains Šķidra vizuālā estētika
+task3: Optimizējiet komponentu lietojamību un detaļas
+navHome: Informācijas paneļa sākumlapa
+navProfile: Personīgais centrs
+navSettings: Sistēmas iestatījumi
+navMessages: Vietnes jaunumi
+navNotifications: Paziņojuma atgādinājums
+navPrivacy: Privātums un drošība
+navHelp: Palīdzība un atsauksmes
+navAnalytics: analīzes ziņojums
+navCloud: Mākoņu krātuves vieta
+navTeam: komandas biedrs
+navTasks: Uzdevuma koordinēšana
+logout: Atteikties
+upgradeTitle: Jauniniet uz Professional Edition
+upgradeDesc: Atbloķējiet neierobežotu mākoņkrātuvi un uzlabotu sadarbību
+upgradeBtn: Jauniniet tūlīt
+task4: Pārskatiet PR saistības un apvienojiet filiāles
+task5: Uzrakstiet WebC jaunas versijas izlaišanas žurnālu
+widgetOnline: Tiešsaistes komandas dalībnieki
+member1: Liza
+member2: deivids
+member3: Anna
+statusOnline: tiešsaistē
+statusOffline: Bezsaistē
+statusBusy: Aizņemts
+widgetFiles: jaunākie faili
+file1: Produkta dizaina specifikācija v2.4.pdf
+file2: 2026. gada 3. ceturkšņa plāna projekts.docx
+file3: Komponentu animācijas demonstrācija.mp4
+tagDesign: dizains
+tagDev: attīstīties
+tagPm: produkts

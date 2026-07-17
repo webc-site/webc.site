@@ -1,0 +1,7 @@
+desc: Iddetermina awtomatikament u taqleb biex turi l-menu tan-navigazzjoni jew il-buttuna lura bbażata fuq ir-rotta attwali
+desktop_title: Display tad-desktop
+desktop_desc: Meta fir-rotta tal-menu ddikjarata, uri l-madum tal-oġġetti tal-menu; inkella turi l-buttuna lura
+mobile_title: Display mobbli
+mobile_desc: Meta tkun fir-rotta tal-menu ddikjarata, tiġġarraf f'buttuna tal-ikona u tappoġġja li tiżżerżaq 'il barra mill-menu; inkella juri buttuna lura
+normal_state: Stat tan-navigazzjoni (c-nav-menu)
+back_state: Stat ta' riżerva (c-back)

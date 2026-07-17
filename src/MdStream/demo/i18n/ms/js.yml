@@ -1,0 +1,60 @@
+mdContent: |
+  # Dokumen pembentangan markdown
+  Ini ialah demonstrasi Penstriman Rendering.
+  ## Gaya asas
+  - **Tebal** dan *Italik*
+  - ~~tembus~~
+  - `inline_code` kod sebaris
+  - [Laman web rasmi Pertubuhan Bangsa-Bangsa Bersatu](https://un.org) Pautan demonstrasi
+  ## Petikan dan Senarai
+  > Ini adalah petikan satu baris.
+
+  > Ini adalah petikan berbilang baris.
+  > Kesan visual untuk memaparkan rujukan berbilang baris.
+
+  - Item pertama tidak dipesan
+    - Subitem satu tidak tertib
+    - Subitem dua tidak tertib
+  - Item kedua yang tidak dipesan
+
+  > [!NOTE]
+  > `> [!NOTE]` Mesej dan nota am
+
+  > [!TIP]
+  > `> [!TIP]` Petua dan petua berguna
+
+  > [!IMPORTANT]
+  > `> [!IMPORTANT]` Petua dan kebimbangan penting
+
+  > [!WARNING]
+  > `> [!WARNING]` Amaran dan Nota Risiko
+
+  > [!CAUTION]
+  > `> [!CAUTION]` AMARAN BAHAYA DAN RISIKO MELAMPAU
+
+  ---
+
+  ## senarai tugas
+  - [ ] Ini adalah tugas penstriman yang belum selesai
+  - [x] Ini adalah tugas penstriman yang telah selesai
+  - [X] Ini ialah tugas penstriman yang lengkap (modal X)
+
+  ---
+
+  1. Tempahan item pertama
+     1. Memesan item satu
+     2. Memesan subperkara dua
+  2. Dipesan penggal kedua
+  ## lembaran
+  | Tugasan | negeri | jadual |
+  | :--- | :---: | ---: |
+  | Tugasan satu | Selesai | 100% |
+  | Tugasan 2 | sedang berjalan | 50% |
+  ## blok kod
+  ```js
+  const hello = () => {
+    console.log("Hello, WebC!");
+  };
+  ```
+  ## gambar
+  ![Gambar demo](https://i-01.eu.org/demo-green.avif)

@@ -1,0 +1,4 @@
+usage: "Penggunaan: $0 [jalur komponen]"
+cmdDesc: "Mulai server pengembangan untuk komponen WebC"
+pathDesc: "Jalur komponen WebC (misalnya, src/Box, Anda juga dapat menulis kotak)"
+notFound: "Kesalahan: Komponen tidak ada"

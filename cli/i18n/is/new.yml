@@ -1,0 +1,4 @@
+usage: "Notkun: $0 <gerð verkefnis> <heiti verkefnis>"
+cmdDesc: "Búðu til nýjan íhlut"
+typeDesc: "Verkefnagerð (css eða js)"
+nameDesc: "Heiti verkefnis"

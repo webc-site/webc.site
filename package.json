@@ -1,0 +1,37 @@
+{
+  "name": "webc.site",
+  "version": "0.2.29",
+  "description": "webc.site : Frontend component library for AI development",
+  "homepage": "https://github.com/webc-site/webc.site",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webc-site/webc.site.git"
+  },
+  "type": "module",
+  "scripts": {
+    "prepare": "husky"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@1-/minify_size": "^0.1.7",
+    "@3-/log": "^0.1.9",
+    "@3-/read": "^0.1.4",
+    "@3-/zx": "^0.1.18",
+    "@minify-html/node": "^0.18.1",
+    "@webc.site/cli": "file:./cli/",
+    "husky": "^9.1.7",
+    "js-yaml": "^5.2.1",
+    "jscpd": "^5.0.12",
+    "knip": "^6.27.0",
+    "lint-staged": "^17.0.8",
+    "npm-check-updates": "^22.2.9",
+    "oxfmt": "^0.59.0",
+    "oxlint": "^1.74.0"
+  },
+  "lint-staged": {
+    "**/*.svg": "./cli/src/lint/svg.js",
+    "**/*.styl": "./cli/src/lint/styl.js",
+    "**/I18N.js": "./cli/src/lint/i18n.js",
+    "!(src/_/**/*).js": "./cli/src/lint/fix.js"
+  }
+}

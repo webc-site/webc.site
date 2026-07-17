@@ -1,0 +1,4 @@
+usage: "用法: $0 [组件路径]"
+cmdDesc: "启动 WebC 组件的开发服务器"
+pathDesc: "WebC 组件的路径 (例如 src/Box ，写 box 亦可)"
+notFound: "错误: 组件不存在"

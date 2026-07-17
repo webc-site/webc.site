@@ -1,0 +1,4 @@
+usage: "Paggamit: $0 <uri ng proyekto> <pangalan ng proyekto>"
+cmdDesc: "Lumikha ng bagong bahagi"
+typeDesc: "Uri ng proyekto (css o js)"
+nameDesc: "Pangalan ng proyekto"

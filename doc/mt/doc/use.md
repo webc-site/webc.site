@@ -1,0 +1,1 @@
+# Uża komponenti

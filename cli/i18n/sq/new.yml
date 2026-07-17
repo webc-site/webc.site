@@ -1,0 +1,4 @@
+usage: "Përdorimi: $0 <lloji i projektit> <emri i projektit>"
+cmdDesc: "Krijo një komponent të ri"
+typeDesc: "Lloji i projektit (css ose js)"
+nameDesc: "Emri i projektit"

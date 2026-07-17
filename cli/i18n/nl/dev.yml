@@ -1,0 +1,4 @@
+usage: "Gebruik: $0 [componentpad]"
+cmdDesc: "Start de ontwikkelingsserver voor de WebC-component"
+pathDesc: "Het pad van de WebC-component (bijvoorbeeld src/Box, u kunt ook box schrijven)"
+notFound: "Fout: Component bestaat niet"

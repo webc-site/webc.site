@@ -1,0 +1,4 @@
+usage: "Ús: $0 [camí del component]"
+cmdDesc: "Inicieu el servidor de desenvolupament per al component WebC"
+pathDesc: "El camí del component WebC (per exemple, src/Box, també podeu escriure box)"
+notFound: "Error: el component no existeix"

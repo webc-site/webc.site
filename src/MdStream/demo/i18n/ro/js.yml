@@ -1,0 +1,60 @@
+mdContent: |
+  # Document de prezentare Markdown
+  Aceasta este o demonstrație a redării în flux.
+  ## Stilul de bază
+  - **Aldine** și *Italică*
+  - ~~strecurat~~
+  - `inline_code` cod inline
+  - [Site-ul oficial al Națiunilor Unite](https://un.org) Link demonstrație
+  ## Citate și liste
+  > Acesta este un citat cu o singură linie.
+
+  > Acesta este un citat cu mai multe rânduri.
+  > Un efect vizual pentru afișarea referințelor pe mai multe linii.
+
+  - Primul articol necomandat
+    - Subarticolul unu neordonat
+    - Subarticolul doi neordonat
+  - Al doilea articol necomandat
+
+  > [!NOTE]
+  > `> [!NOTE]` Mesaje și note generale
+
+  > [!TIP]
+  > `> [!TIP]` Sfaturi și sfaturi utile
+
+  > [!IMPORTANT]
+  > `> [!IMPORTANT]` Sfaturi și preocupări importante
+
+  > [!WARNING]
+  > `> [!WARNING]` Avertismente și note de risc
+
+  > [!CAUTION]
+  > `> [!CAUTION]` AVERTISMENT DE PERICOL ȘI RISC EXTREM
+
+  ---
+
+  ## lista de sarcini
+  - [ ] Aceasta este o sarcină de streaming neterminată
+  - [x] Aceasta este o sarcină de streaming finalizată
+  - [X] Aceasta este o sarcină de streaming finalizată (X majusculă)
+
+  ---
+
+  1. Primul articol comandat
+     1. Articol comandat unu
+     2. A comandat subarticolul doi
+  2. Al doilea mandat comandat
+  ## foaie
+  | Sarcină | stat | programa |
+  | :--- | :---: | ---: |
+  | Sarcina unu | Terminat | 100% |
+  | Sarcina 2 | în curs | 50% |
+  ## bloc de cod
+  ```js
+  const hello = () => {
+    console.log("Hello, WebC!");
+  };
+  ```
+  ## imagine
+  ![Poza demo](https://i-01.eu.org/demo-green.avif)

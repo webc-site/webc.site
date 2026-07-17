@@ -1,0 +1,54 @@
+[BoxX](../../src/BoxX/i18n/km/README.md) : បង្កើត និងបង្ហាញស្រទាប់លេចឡើងដោយប្រើប៊ូតុងបិទ
+[Code](../../src/Code/i18n/km/README.md) : ប៊ូតុងកូដ
+[Copy](../../src/Copy/i18n/km/README.md) : ចម្លងអត្ថបទទៅក្ដារតម្បៀតខ្ទាស់
+[Edit](../../src/Edit/i18n/km/README.md) : ប៊ូតុងកែសម្រួលទំព័រ ឬឯកសារ
+[HtmDemo](../../src/HtmDemo/i18n/km/README.md) : បំបាត់កំហុស HTML និង JS លើបណ្តាញ
+[I18n](../../src/I18n/i18n/km/README.md) : ប៊ូតុង និងបង្អួចលេចឡើងសម្រាប់ប្តូរភាសាចំណុចប្រទាក់
+[MdStream](../../src/MdStream/i18n/km/README.md) : ស្ទ្រីមបង្ហាញអត្ថបទ Markdown
+[Nav](../../src/Nav/i18n/km/README.md) : របាររុករកកំពូលដែលបង្រួម ឬពង្រីកដោយស្វ័យប្រវត្តិ នៅពេលទំព័ររមូរ
+[NavL](../../src/NavL/i18n/km/README.md) : ប្តូរម៉ឺនុយរុករក និងប៊ូតុងត្រឡប់ដោយស្វ័យប្រវត្តិ
+[NavMenu](../../src/NavMenu/i18n/km/README.md) : ម៉ឺនុយ​រុករក​សម្រប​តាម​ទំហំ​អេក្រង់​ផ្សេងៗ
+[SelectBtn](../../src/SelectBtn/i18n/km/README.md) : ការរួមបញ្ចូលគ្នានៃប្រអប់ជ្រើសរើសទម្លាក់ចុះ និងប៊ូតុង
+[TabSelect](../../src/TabSelect/i18n/km/README.md) : ទំព័រផ្ទាំងដែលមានជម្រើសទម្លាក់ចុះ
+[Btn](../../src/Btn/i18n/km/README.md) : ប៊ូតុងធម្មតា និងប៊ូតុងរូបតំណាងមូល
+[Card](../../src/Card/i18n/km/README.md) : កាត Capsule ដែលមានព្រួញខាងស្តាំបង្ហាញនៅក្នុងការព្យួរ
+[H1Txt](../../src/H1Txt/i18n/km/README.md) : ចំណងជើងវាយនភាព និងការពិពណ៌នា
+[Ing](../../src/Ing/i18n/km/README.md) : សូចនាករនៃស្ថានភាពផ្ទុកឬដំណើរការ
+[Input](../../src/Input/i18n/km/README.md) : ប្រអប់បញ្ចូលដែលប្តូរស្ថានភាពកន្លែងដាក់ដោយស្វ័យប្រវត្តិ
+[Kv](../../src/Kv/i18n/km/README.md) : គូតម្លៃសំខាន់
+[Lg](../../src/Lg/i18n/km/README.md) : ផ្ទៃខាងក្រោយកញ្ចក់សាយ និងឥទ្ធិពលបន្លិចគែម
+[MdCss](../../src/MdCss/i18n/km/README.md) : រចនាប័ទ្មវាយអក្សរត្រូវបានធ្វើឱ្យប្រសើរសម្រាប់បទពិសោធន៍អាន
+[NavALi](../../src/NavALi/i18n/km/README.md) : រចនាប័ទ្មបញ្ជីតំណរបាររុករក
+[O](../../src/O/i18n/km/README.md) : គូររូបសញ្ញាចំណុចប្រហោងនៅពីមុខធាតុ
+[Toast](../../src/Toast/i18n/km/README.md) : ជម្រុញបង្អួចលេចឡើងនៅគែមទំព័រ
+[404](../../src/404/i18n/km/README.md) : ផ្លូវមិនមានទំព័រសារកំហុសទេ។
+[Back](../../src/Back/i18n/km/README.md) : ប៊ូតុងថយក្រោយ
+[Box](../../src/Box/i18n/km/README.md) : បង្កើត និងបង្ហាញស្រទាប់លេចឡើង
+[CardLi](../../src/CardLi/i18n/km/README.md) : ផ្ទុក និងបង្ហាញបញ្ជីកាតដោយអសមកាល
+[Md](../../src/Md/i18n/km/README.md) : ញែកដោយសុវត្ថិភាព និងបង្ហាញអត្ថបទ Markdown ទៅជា HTML ។
+[Pophover](../../src/Pophover/i18n/km/README.md) : ប្រអប់បញ្ចូលពពុះអណ្តែត
+[Scroll](../../src/Scroll/i18n/km/README.md) : របាររមូរនិម្មិត
+[Select](../../src/Select/i18n/km/README.md) : ការជ្រើសរើសទម្លាក់ចុះ ទទឹងសម្របទៅនឹងធាតុបច្ចុប្បន្ន
+[Side](../../src/Side/i18n/km/README.md) : បន្ទះក្តារដែលរុញចេញពីចំហៀង
+[Tab](../../src/Tab/i18n/km/README.md) : ផ្ទាំងដែលអាចប្តូរបាន។
+[On](../km/js/On.md) : ការត្រួតពិនិត្យព្រឹត្តិការណ៍ចងជាបាច់
+[Toast](../km/js/Toast.md) : Toast សារលេចឡើង
+[a](../km/js/a.md) : ស្ទាក់ចាប់ព្រឹត្តិការណ៍ចុចតំណជាសកល
+[c-t](../km/js/c-t.md) : HTML អន្តរជាតិ
+[demo](../km/js/demo.md) : ការចាប់ផ្តើមទំព័រសាកល្បង
+[dom](../km/js/dom.md) : ឯកសារអក្សរកាត់អថេរ និងមុខងារផ្លូវកាត់
+[dom/header](../km/js/dom/header.md) : បង្កើតរចនាសម្ព័ន្ធ DOM របារក្បាល
+[fetch](../km/js/fetch.md) : មុខងារ​ឧបករណ៍​សំណើ​បណ្តាញ​ដែល​ផ្អែក​លើ​ការ​ប្រមូល​យក
+[fetchLang](../km/js/fetchLang.md) : ផ្ទុកកញ្ចប់ភាសាដោយអសមកាល និងចងការហៅត្រលប់ក្រោយបច្ចុប្បន្នភាព
+[hashActive](../km/js/hashActive.md) : ការបន្លិចតំណរុករកដោយផ្អែកលើយុថ្កា URL និងការរមូរច្រកទិដ្ឋភាព
+[i18n](../km/js/i18n.md) : ការគ្រប់គ្រងស្ថានភាពពហុភាសា និងការត្រួតពិនិត្យការផ្លាស់ប្តូរ
+[i18n/init](../km/js/i18n/init.md) : ការកំណត់រចនាសម្ព័ន្ធការចាប់ផ្ដើមពហុភាសា និងការផ្ទុក
+[i18n/store](../km/js/i18n/store.md) : ការគ្រប់គ្រងការផ្ទុកមូលដ្ឋានពហុភាសា
+[icoTip](../km/js/icoTip.md) : កំណត់ និងចុះឈ្មោះសមាសភាគរូបតំណាងជាមួយនឹងការណែនាំអំពីអន្តរភាវូបនីយកម្ម
+[md/htm](../km/js/md/htm.md) : សម្គាល់អត្ថបទទៅជាខ្សែអក្សរ HTML
+[md/safeHtm](../km/js/md/safeHtm.md) : អត្ថបទ Markdown ទៅ HTML សុវត្ថិភាព
+[md/streamRender](../km/js/md/streamRender.md) : ការបង្ហាញការស្ទ្រីម Markdown
+[parentScroll](../km/js/parentScroll.md) : ទទួលបានធាតុកុងតឺន័ររមូរដូនតា
+[rmWait](../km/js/rmWait.md) : លុប​ទំព័រ​ដែល​កំពុង​ផ្ទុក​ចលនា​រង់ចាំ​ដំបូង
+[route](../km/js/route.md) : ការគ្រប់គ្រងការនាំផ្លូវផ្នែកខាងមុខតែមួយទំព័រ
+[sandbox](../km/js/sandbox.md) : សមាសភាគផ្ទាល់ខ្លួនរបស់ធុង Sandbox សម្រាប់ផ្ទុក និងដំណើរការម៉ូឌុលរងក្នុងភាពឯកោ

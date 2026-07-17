@@ -1,0 +1,4 @@
+usage: "Käyttö: $0 [komponenttipolku]"
+cmdDesc: "Käynnistä WebC-komponentin kehityspalvelin"
+pathDesc: "WebC-komponentin polku (esim. src/Box, voit myös kirjoittaa laatikon)"
+notFound: "Virhe: Komponenttia ei ole olemassa"

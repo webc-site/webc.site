@@ -1,0 +1,4 @@
+default: Pulsante predefinito
+main: pulsante principale
+link: pulsante di collegamento
+icon: Pulsante icona (.BtnC)

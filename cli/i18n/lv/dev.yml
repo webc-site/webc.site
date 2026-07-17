@@ -1,0 +1,4 @@
+usage: "Lietojums: $0 [komponenta ceļš]"
+cmdDesc: "Sāciet WebC komponenta izstrādes serveri"
+pathDesc: "WebC komponenta ceļš (piemēram, src/Box, varat arī rakstīt lodziņu)"
+notFound: "Kļūda: komponents neeksistē"
