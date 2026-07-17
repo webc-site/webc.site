@@ -1,0 +1,7 @@
+desc: Bestem og bytt automatisk for å vise navigasjonsmenyen eller tilbakeknappen basert på gjeldende rute
+desktop_title: Skrivebordsskjerm
+desktop_desc: Når du er i den deklarerte menyruten, vis menyelementene; ellers viser tilbake-knappen
+mobile_title: Mobil skjerm
+mobile_desc: Når du er i den deklarerte menyruten, kollapser den til en ikonknapp og støtter å skyve ut menyen; ellers viser en tilbake-knapp
+normal_state: Navigasjonsstatus (c-nav-meny)
+back_state: Reservestatus (c-back)

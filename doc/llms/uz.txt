@@ -1,0 +1,54 @@
+[BoxX](../../src/BoxX/i18n/uz/README.md) : Yopish tugmasi bilan qalqib chiquvchi qatlamni yarating va ko'rsating
+[Code](../../src/Code/i18n/uz/README.md) : kod tugmasi
+[Copy](../../src/Copy/i18n/uz/README.md) : Matnni vaqtinchalik xotiraga nusxalash
+[Edit](../../src/Edit/i18n/uz/README.md) : tahrirlash tugmasi
+[HtmDemo](../../src/HtmDemo/i18n/uz/README.md) : HTML va JS kodini onlayn tuzatish
+[I18n](../../src/I18n/i18n/uz/README.md) : Interfeys tillarini almashtirish uchun tugmalar va qalqib chiquvchi oynalar
+[MdStream](../../src/MdStream/i18n/uz/README.md) : Markdown matnining oqimli ko'rsatilishi
+[Nav](../../src/Nav/i18n/uz/README.md) : Sahifani aylantirganda avtomatik ravishda yiqilib yoki kengaytiriladigan yuqori navigatsiya paneli
+[NavL](../../src/NavL/i18n/uz/README.md) : Navigatsiya menyusini va qaytish tugmasini avtomatik ravishda almashtirish
+[NavMenu](../../src/NavMenu/i18n/uz/README.md) : Turli xil ekran o'lchamlariga moslashtirilgan navigatsiya menyusi
+[SelectBtn](../../src/SelectBtn/i18n/uz/README.md) : Ochiladigan tanlash oynasi va tugma birikmasi
+[TabSelect](../../src/TabSelect/i18n/uz/README.md) : Ochiladigan tanlovga ega tab sahifasi
+[Btn](../../src/Btn/i18n/uz/README.md) : Oddiy tugma va dumaloq belgi tugmasi
+[Card](../../src/Card/i18n/uz/README.md) : O'ngga strelkali kapsula kartasi suspenziyada ko'rsatilgan
+[H1Txt](../../src/H1Txt/i18n/uz/README.md) : Tekstura nomi va tavsifi
+[Ing](../../src/Ing/i18n/uz/README.md) : Yuklash yoki ishlov berish holati ko'rsatkichi
+[Input](../../src/Input/i18n/uz/README.md) : To'ldiruvchi holatini avtomatik ravishda almashtiruvchi kirish oynasi
+[Kv](../../src/Kv/i18n/uz/README.md) : kalit qiymat juftligi
+[Lg](../../src/Lg/i18n/uz/README.md) : Muzli shisha fon va chekka ta'kidlash effekti
+[MdCss](../../src/MdCss/i18n/uz/README.md) : O'qish tajribasi uchun optimallashtirilgan tipografiya uslublari
+[NavALi](../../src/NavALi/i18n/uz/README.md) : Navigatsiya paneli havolalar roʻyxati uslubi
+[O](../../src/O/i18n/uz/README.md) : Element oldida ichi bo'sh nuqta logotipini chizing
+[Toast](../../src/Toast/i18n/uz/README.md) : Sahifaning chetida qalqib chiquvchi oyna
+[404](../../src/404/i18n/uz/README.md) : Yo‘l xato xabari sahifasi mavjud emas
+[Back](../../src/Back/i18n/uz/README.md) : orqaga tugmasi
+[Box](../../src/Box/i18n/uz/README.md) : Qalqib chiquvchi qatlamni yarating va ko'rsating
+[CardLi](../../src/CardLi/i18n/uz/README.md) : Karta ro'yxatini asinxron tarzda yuklang va ko'rsating
+[Md](../../src/Md/i18n/uz/README.md) : Markdown matnini HTMLga xavfsiz tahlil qiling va ko'rsating.
+[Pophover](../../src/Pophover/i18n/uz/README.md) : suzuvchi pufak so'rovi
+[Scroll](../../src/Scroll/i18n/uz/README.md) : virtual aylantirish paneli
+[Select](../../src/Select/i18n/uz/README.md) : Ochiladigan tanlov, kenglik joriy elementga moslashadi
+[Side](../../src/Side/i18n/uz/README.md) : Yon tomondan chiqib ketadigan tortma panellari
+[Tab](../../src/Tab/i18n/uz/README.md) : O'zgaruvchan yorliqlar
+[On](../uz/js/On.md) : To'plamni ulash hodisasi monitoringi
+[Toast](../uz/js/Toast.md) : Qalqib chiquvchi xabar so'rovi
+[a](../uz/js/a.md) : Global miqyosda havolani bosish hodisalarini to'xtatadi
+[c-t](../uz/js/c-t.md) : HTMLni xalqarolashtirish
+[demo](../uz/js/demo.md) : Demo sahifani ishga tushirish
+[dom](../uz/js/dom.md) : Hujjat o'zgaruvchan qisqartmalar va yorliq funktsiyalari
+[dom/header](../uz/js/dom/header.md) : Sarlavha paneli DOM strukturasini yarating
+[fetch](../uz/js/fetch.md) : Inkapsulyatsiyani olishga asoslangan tarmoq so'rovi vositasi funksiyasi
+[fetchLang](../uz/js/fetchLang.md) : Til paketlarini asinxron yuklang va yangilanishlarni qayta qo'ng'iroqlarni bog'lang
+[hashActive](../uz/js/hashActive.md) : URL langarlari va koʻrish maydonini aylantirish asosida navigatsiya havolasini ajratib koʻrsatish
+[i18n](../uz/js/i18n.md) : Ko'p tilli holatni boshqarish va o'zgarishlar monitoringi
+[i18n/init](../uz/js/i18n/init.md) : Ko'p tilli ishga tushirish konfiguratsiyasi va yuklash
+[i18n/store](../uz/js/i18n/store.md) : Ko'p tilli mahalliy saqlash boshqaruvi
+[icoTip](../uz/js/icoTip.md) : Xalqarolashtirish bo'yicha maslahatlar bilan belgi komponentini belgilang va ro'yxatdan o'tkazing
+[md/htm](../uz/js/md/htm.md) : Matnni HTML qatoriga belgilash
+[md/safeHtm](../uz/js/md/safeHtm.md) : Xavfsiz HTML uchun markdown matn
+[md/streamRender](../uz/js/md/streamRender.md) : Markdown oqimli renderlash
+[parentScroll](../uz/js/parentScroll.md) : Ajdodni aylantirish konteyner elementini oling
+[rmWait](../uz/js/rmWait.md) : Sahifaning dastlabki yuklanishi kutilayotgan animatsiyani olib tashlang
+[route](../uz/js/route.md) : Bir sahifali frontend marshrutlashni boshqarish
+[sandbox](../uz/js/sandbox.md) : Submodullarni alohida yuklash va ishga tushirish uchun Sandbox konteynerining maxsus komponenti

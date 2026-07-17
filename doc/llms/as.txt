@@ -1,0 +1,54 @@
+[BoxX](../../src/BoxX/i18n/as/README.md) : এটা বন্ধ বুটামৰ সৈতে এটা পপআপ স্তৰ সৃষ্টি আৰু প্ৰদৰ্শন কৰক
+[Code](../../src/Code/i18n/as/README.md) : ক'ড বুটাম
+[Copy](../../src/Copy/i18n/as/README.md) : লিখনী ক্লিপবোৰ্ডলৈ কপি কৰক
+[Edit](../../src/Edit/i18n/as/README.md) : সম্পাদনা বুটাম
+[HtmDemo](../../src/HtmDemo/i18n/as/README.md) : HTML আৰু JS ক'ড অনলাইনত ডিবাগিং কৰা
+[I18n](../../src/I18n/i18n/as/README.md) : আন্তঃপৃষ্ঠ ভাষা সলনি কৰাৰ বাবে বুটাম আৰু পপ-আপ উইণ্ড'সমূহ
+[MdStream](../../src/MdStream/i18n/as/README.md) : মাৰ্কডাউন টেক্সটৰ ষ্ট্ৰীমিং ৰেণ্ডাৰ
+[Nav](../../src/Nav/i18n/as/README.md) : শীৰ্ষ নেভিগেচন বাৰ যি পৃষ্ঠা স্ক্ৰল কৰাৰ সময়ত স্বয়ংক্ৰিয়ভাৱে সংকুচিত বা প্ৰসাৰিত হয়
+[NavL](../../src/NavL/i18n/as/README.md) : স্বয়ংক্ৰিয়ভাৱে নেভিগেচন মেনু আৰু উভতি অহা বুটাম সলনি কৰক
+[NavMenu](../../src/NavMenu/i18n/as/README.md) : বিভিন্ন পৰ্দাৰ আকাৰৰ সৈতে খাপ খুৱাই লোৱা নেভিগেচন মেনু
+[SelectBtn](../../src/SelectBtn/i18n/as/README.md) : ড্ৰপ-ডাউন নিৰ্বাচন বাকচ আৰু বুটামৰ সংমিশ্ৰণ
+[TabSelect](../../src/TabSelect/i18n/as/README.md) : ড্ৰপ-ডাউন নিৰ্বাচনৰ সৈতে টেব পৃষ্ঠা
+[Btn](../../src/Btn/i18n/as/README.md) : সাধাৰণ বুটাম আৰু ঘূৰণীয়া আইকন বুটাম
+[Card](../../src/Card/i18n/as/README.md) : সোঁ কাঁড় চিহ্নৰ সৈতে কেপচুল কাৰ্ড ঝুলনত প্ৰদৰ্শিত
+[H1Txt](../../src/H1Txt/i18n/as/README.md) : টেক্সচাৰৰ শিৰোনাম আৰু বিৱৰণ
+[Ing](../../src/Ing/i18n/as/README.md) : লোডিং বা প্ৰচেছিং অৱস্থাৰ সূচক
+[Input](../../src/Input/i18n/as/README.md) : ইনপুট বাকচ যি স্বয়ংক্ৰিয়ভাৱে প্লেচহোল্ডাৰৰ অৱস্থা সলনি কৰে
+[Kv](../../src/Kv/i18n/as/README.md) : কী মান যোৰ
+[Lg](../../src/Lg/i18n/as/README.md) : ফ্ৰষ্টেড গ্লাছ বেকগ্ৰাউণ্ড আৰু এজ হাইলাইট ইফেক্ট
+[MdCss](../../src/MdCss/i18n/as/README.md) : পঢ়াৰ অভিজ্ঞতাৰ বাবে অনুকূলিত টাইপোগ্ৰাফী শৈলী
+[NavALi](../../src/NavALi/i18n/as/README.md) : নেভিগেচন বাৰ লিংক তালিকা শৈলী
+[O](../../src/O/i18n/as/README.md) : উপাদানটোৰ সন্মুখত এটা ফুটা বিন্দুৰ ল’গ’ আঁকক
+[Toast](../../src/Toast/i18n/as/README.md) : পৃষ্ঠাৰ প্ৰান্তত পপ-আপ উইণ্ড' প্ৰমপ্ট কৰক
+[404](../../src/404/i18n/as/README.md) : পথৰ অস্তিত্ব নাই ভুল বাৰ্তা পৃষ্ঠা
+[Back](../../src/Back/i18n/as/README.md) : বেক বুটাম
+[Box](../../src/Box/i18n/as/README.md) : পপআপ স্তৰ সৃষ্টি আৰু প্ৰদৰ্শন কৰক
+[CardLi](../../src/CardLi/i18n/as/README.md) : কাৰ্ড তালিকা এচিনক্ৰ'নাছভাৱে লোড আৰু প্ৰদৰ্শন কৰক
+[Md](../../src/Md/i18n/as/README.md) : মাৰ্কডাউন লিখনীক নিৰাপদে বিশ্লেষণ আৰু HTML লৈ ৰেণ্ডাৰ কৰক।
+[Pophover](../../src/Pophover/i18n/as/README.md) : ভাসমান বাবল প্ৰমপ্ট
+[Scroll](../../src/Scroll/i18n/as/README.md) : ভাৰ্চুৱেল স্ক্ৰল বাৰ
+[Select](../../src/Select/i18n/as/README.md) : ড্ৰপ-ডাউন নিৰ্বাচন, প্ৰস্থ বৰ্তমান বস্তুৰ সৈতে খাপ খায়
+[Side](../../src/Side/i18n/as/README.md) : কাষৰ পৰা ওলাই যোৱা ড্ৰয়াৰ পেনেল
+[Tab](../../src/Tab/i18n/as/README.md) : চুইচযোগ্য টেবসমূহ
+[On](../as/js/On.md) : বেচ বাইণ্ডিং ইভেন্ট নিৰীক্ষণ
+[Toast](../as/js/Toast.md) : টোষ্ট পপ-আপ বাৰ্তা প্ৰমপ্ট
+[a](../as/js/a.md) : গ্লোবেলভাৱে লিংক ক্লিক ইভেন্টসমূহ আটক কৰে
+[c-t](../as/js/c-t.md) : HTML আন্তৰ্জাতিককৰণ
+[demo](../as/js/demo.md) : ডেমো পৃষ্ঠা আৰম্ভণি
+[dom](../as/js/dom.md) : চলক সংক্ষিপ্তকৰণ আৰু চৰ্টকাট ফাংচনসমূহ নথিভুক্ত কৰক
+[dom/header](../as/js/dom/header.md) : হেডাৰ বাৰ DOM গঠন সৃষ্টি কৰক
+[fetch](../as/js/fetch.md) : নে'টৱৰ্ক অনুৰোধ সঁজুলি কাৰ্য্য ফেচ এনকেপচুলেচনৰ ওপৰত ভিত্তি কৰি
+[fetchLang](../as/js/fetchLang.md) : ভাষা পেকসমূহ এচিনক্ৰ'নাছভাৱে লোড কৰক আৰু আপডেইট কলবেকসমূহ বান্ধক
+[hashActive](../as/js/hashActive.md) : URL এংকৰ আৰু দৰ্শনপৰ্ট স্ক্ৰলিঙৰ ওপৰত ভিত্তি কৰি নেভিগেচন লিংক হাইলাইটিং
+[i18n](../as/js/i18n.md) : বহুভাষাৰ অৱস্থা ব্যৱস্থাপনা আৰু পৰিৱৰ্তন নিৰীক্ষণ
+[i18n/init](../as/js/i18n/init.md) : বহু-ভাষা আৰম্ভণি বিন্যাস আৰু লোডিং
+[i18n/store](../as/js/i18n/store.md) : বহুভাষিক স্থানীয় সংৰক্ষণ ব্যৱস্থাপনা
+[icoTip](../as/js/icoTip.md) : আন্তৰ্জাতিককৰণৰ ইংগিতৰ সৈতে এটা আইকন উপাদান সংজ্ঞায়িত আৰু পঞ্জীয়ন কৰক
+[md/htm](../as/js/md/htm.md) : HTML ষ্ট্ৰিংলৈ লিখনী মাৰ্কডাউন কৰক
+[md/safeHtm](../as/js/md/safeHtm.md) : নিৰাপদ HTML লৈ লিখনী মাৰ্কডাউন কৰক
+[md/streamRender](../as/js/md/streamRender.md) : মাৰ্কডাউন ষ্ট্ৰীমিং ৰেণ্ডাৰ
+[parentScroll](../as/js/parentScroll.md) : পূৰ্বপুৰুষ স্ক্ৰল পাত্ৰ উপাদান লাভ কৰক
+[rmWait](../as/js/rmWait.md) : পৃষ্ঠাৰ প্ৰাৰম্ভিক লোডিং অপেক্ষাৰত এনিমেচন আঁতৰাওক
+[route](../as/js/route.md) : একক পৃষ্ঠাৰ ফ্ৰন্ট-এণ্ড ৰাউটিং ব্যৱস্থাপনা
+[sandbox](../as/js/sandbox.md) : পৃথকে উপমডিউলসমূহ লোড আৰু চলোৱাৰ বাবে ছেণ্ডবক্স কণ্টেইনাৰ স্বনিৰ্বাচিত উপাদান

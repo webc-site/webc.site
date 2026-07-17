@@ -1,0 +1,60 @@
+mdContent: |
+  # Dokumen presentasi penurunan harga
+  Ini adalah demonstrasi Streaming Rendering.
+  ## Gaya dasar
+  - **Tebal** dan *Miring*
+  - ~~coret~~
+  - `inline_code` kode sebaris
+  - [Situs web resmi Perserikatan Bangsa-Bangsa](https://un.org) Tautan demonstrasi
+  ## Kutipan dan Daftar
+  > Ini adalah kutipan satu baris.
+
+  > Ini adalah kutipan multi-baris.
+  > Efek visual untuk menampilkan referensi multi-baris.
+
+  - Item pertama yang tidak diurutkan
+    - Subitem satu tidak berurutan
+    - Subitem dua tidak berurutan
+  - Item kedua tidak berurutan
+
+  > [!NOTE]
+  > `> [!NOTE]` Pesan dan catatan umum
+
+  > [!TIP]
+  > `> [!TIP]` Kiat dan kiat bermanfaat
+
+  > [!IMPORTANT]
+  > `> [!IMPORTANT]` Tips dan kekhawatiran penting
+
+  > [!WARNING]
+  > `> [!WARNING]` Peringatan dan Catatan Risiko
+
+  > [!CAUTION]
+  > `> [!CAUTION]` PERINGATAN BAHAYA DAN RISIKO EKSTRIM
+
+  ---
+
+  ## daftar tugas
+  - [ ] Ini adalah tugas streaming yang belum selesai
+  - [x] Ini adalah tugas streaming yang selesai
+  - [X] Ini adalah tugas streaming yang telah selesai (huruf kapital X)
+
+  ---
+
+  1. Barang pertama yang dipesan
+     1. Barang yang dipesan satu
+     2. Memesan subitem dua
+  2. Memesan periode kedua
+  ## lembaran
+  | Tugas | negara | jadwal |
+  | :--- | :---: | ---: |
+  | Tugas satu | Selesai | 100% |
+  | Tugas 2 | sedang berlangsung | 50% |
+  ## blok kode
+  ```js
+  const hello = () => {
+    console.log("Hello, WebC!");
+  };
+  ```
+  ## gambar
+  ![Gambar demo](https://i-01.eu.org/demo-green.avif)

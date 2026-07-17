@@ -1,0 +1,54 @@
+[BoxX](../../src/BoxX/i18n/sl/README.md) : Ustvarite in prikažite pojavno plast z gumbom za zapiranje
+[Code](../../src/Code/i18n/sl/README.md) : kodni gumb
+[Copy](../../src/Copy/i18n/sl/README.md) : Kopiraj besedilo v odložišče
+[Edit](../../src/Edit/i18n/sl/README.md) : gumb za urejanje
+[HtmDemo](../../src/HtmDemo/i18n/sl/README.md) : Spletno odpravljanje napak v kodi HTML in JS
+[I18n](../../src/I18n/i18n/sl/README.md) : Gumbi in pojavna okna za preklapljanje med jeziki vmesnika
+[MdStream](../../src/MdStream/i18n/sl/README.md) : Pretočno upodabljanje besedila Markdown
+[Nav](../../src/Nav/i18n/sl/README.md) : Zgornja navigacijska vrstica, ki se samodejno strne ali razširi, ko se stran premika
+[NavL](../../src/NavL/i18n/sl/README.md) : Samodejno preklopi navigacijski meni in gumb za vrnitev
+[NavMenu](../../src/NavMenu/i18n/sl/README.md) : Navigacijski meni prilagojen različnim velikostim zaslona
+[SelectBtn](../../src/SelectBtn/i18n/sl/README.md) : Kombinacija spustnega izbirnega polja in gumba
+[TabSelect](../../src/TabSelect/i18n/sl/README.md) : Zavihek s spustnim izborom
+[Btn](../../src/Btn/i18n/sl/README.md) : Navaden gumb in gumb z okroglo ikono
+[Card](../../src/Card/i18n/sl/README.md) : Kartica kapsule s puščico desno, prikazano v obesu
+[H1Txt](../../src/H1Txt/i18n/sl/README.md) : Naslov in opis teksture
+[Ing](../../src/Ing/i18n/sl/README.md) : Indikator stanja nalaganja ali obdelave
+[Input](../../src/Input/i18n/sl/README.md) : Vnosno polje, ki samodejno preklopi stanje ograde
+[Kv](../../src/Kv/i18n/sl/README.md) : par ključev vrednosti
+[Lg](../../src/Lg/i18n/sl/README.md) : Učinek osvetlitve ozadja in robov iz motnega stekla
+[MdCss](../../src/MdCss/i18n/sl/README.md) : Slogi tipografije, optimizirani za bralno izkušnjo
+[NavALi](../../src/NavALi/i18n/sl/README.md) : Slog seznama povezav navigacijske vrstice
+[O](../../src/O/i18n/sl/README.md) : Narišite logotip z votlo piko pred elementom
+[Toast](../../src/Toast/i18n/sl/README.md) : Pojavno okno s pozivom na robu strani
+[404](../../src/404/i18n/sl/README.md) : Pot ne obstaja stran s sporočilom o napaki
+[Back](../../src/Back/i18n/sl/README.md) : gumb nazaj
+[Box](../../src/Box/i18n/sl/README.md) : Ustvarite in prikažite pojavno plast
+[CardLi](../../src/CardLi/i18n/sl/README.md) : Asinhrono nalaganje in prikaz seznama kartic
+[Md](../../src/Md/i18n/sl/README.md) : Varno razčlenite in upodabljajte Markdown besedilo v HTML.
+[Pophover](../../src/Pophover/i18n/sl/README.md) : poziv za plavajoči oblaček
+[Scroll](../../src/Scroll/i18n/sl/README.md) : virtualni drsni trak
+[Select](../../src/Select/i18n/sl/README.md) : Spustni izbor, širina se prilagodi trenutnemu elementu
+[Side](../../src/Side/i18n/sl/README.md) : Stransko izvlečne plošče predalov
+[Tab](../../src/Tab/i18n/sl/README.md) : Preklopljivi zavihki
+[On](../sl/js/On.md) : Spremljanje dogodkov paketne vezave
+[Toast](../sl/js/Toast.md) : Poziv za pojavno sporočilo Toast
+[a](../sl/js/a.md) : Globalno prestrezi dogodke klikov povezav
+[c-t](../sl/js/c-t.md) : Internacionalizacija HTML
+[demo](../sl/js/demo.md) : Inicializacija predstavitvene strani
+[dom](../sl/js/dom.md) : Okrajšave spremenljivk dokumenta in funkcije bližnjic
+[dom/header](../sl/js/dom/header.md) : Ustvarite strukturo DOM naslovne vrstice
+[fetch](../sl/js/fetch.md) : Funkcija orodja za omrežne zahteve, ki temelji na enkapsulaciji pridobivanja
+[fetchLang](../sl/js/fetchLang.md) : Asinhrono nalaganje jezikovnih paketov in povezovanje povratnih klicev posodobitve
+[hashActive](../sl/js/hashActive.md) : Označevanje navigacijskih povezav na podlagi sider URL-jev in pomikanja po vidnem polju
+[i18n](../sl/js/i18n.md) : Večjezično upravljanje stanja in spremljanje sprememb
+[i18n/init](../sl/js/i18n/init.md) : Konfiguracija in nalaganje večjezične inicializacije
+[i18n/store](../sl/js/i18n/store.md) : Večjezično lokalno upravljanje shranjevanja
+[icoTip](../sl/js/icoTip.md) : Definirajte in registrirajte komponento ikone z namigi za internacionalizacijo
+[md/htm](../sl/js/md/htm.md) : Markdown besedilo v niz HTML
+[md/safeHtm](../sl/js/md/safeHtm.md) : Markdown besedilo v varen HTML
+[md/streamRender](../sl/js/md/streamRender.md) : Markdown pretočno upodabljanje
+[parentScroll](../sl/js/parentScroll.md) : Pridobite element vsebnika drsnega prednika
+[rmWait](../sl/js/rmWait.md) : Odstranite čakajočo animacijo pri začetnem nalaganju strani
+[route](../sl/js/route.md) : Enostransko upravljanje usmerjanja na sprednji strani
+[sandbox](../sl/js/sandbox.md) : Komponenta vsebnika peskovnika po meri za nalaganje in izvajanje podmodulov v izolaciji

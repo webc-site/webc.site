@@ -1,0 +1,7 @@
+desc: Déterminer et basculer automatiquement pour afficher le menu de navigation ou le bouton de retour en fonction de l'itinéraire actuel
+desktop_title: Écran de bureau
+desktop_desc: Lorsque vous êtes dans l'itinéraire de menu déclaré, affichez les vignettes des éléments de menu ; sinon afficher le bouton retour
+mobile_title: Affichage mobile
+mobile_desc: Dans l'itinéraire de menu déclaré, se réduit en un bouton d'icône et permet de faire glisser le menu ; sinon affiche un bouton de retour
+normal_state: Statut de navigation (menu c-nav)
+back_state: Statut de secours (c-back)

@@ -1,0 +1,4 @@
+usage: "Kasutamine: $0 <projekti tüüp> <projekti nimi>"
+cmdDesc: "Loo uus komponent"
+typeDesc: "Projekti tüüp (css või js)"
+nameDesc: "Projekti nimi"

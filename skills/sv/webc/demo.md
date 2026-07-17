@@ -1,0 +1,35 @@
+# Demo
+
+Se `src/BoxX/demo` och utveckla en demo av komponenten i `src/component name/demo/`
+
+`demo/_.pug`, demoundermall
+
+Endast minimalistiska komponenttaggar ingår, ingen fullständig sida krävs och import av stilar och skript är förbjuden. Ramverket kommer automatiskt att injicera (som `demo/_.styl`, `demo/_.js`).
+
+Skriv inte en titel (skriv till exempel inte xxx demo), skriv inte komponentens namn, introducera inte komponenten, skriv bara statusen för demoanvändningsfallet (om det inte finns någon status, skriv ingen titel)
+
+Rotelementet i `_.pug` använder `main.demo.Lg` , som har definierat stilen i `demo/_.styl` och definierar inte stilen för `main.demo.Lg` själv.
+
+Behållaren för visningskomponenten ska vara i linje med `main.demo.Lg`, och det ska inte finnas några `margin` och `padding` mellan dem, eftersom `main.demo` själv redan har ställt in `padding` och att ställa in den tom kommer att upprepas.
+
+`demo/_.styl` Om det bara finns en visningskomponent kommer dess behållare inte att ha en yttre ram, och bara inställd `max-width` (eftersom presentationsbehållaren automatiskt lägger till en yttre ram). Om det finns flera kan behållaren separeras med en yttre ram.
+
+Skriv inte `img` i `demo/_.pug`, använd `demo/_.styl` för att ställa in bakgrundsbilden
+
+Om komponenten har flera formulär, vänligen visa dem i ordning (som laddning, tom data, data, misslyckad, etc.), flexibel vertikal layout
+
+`demo/_.styl`: `stylus` stil på demosidan, följ kodspecifikationerna och designestetiken för [./styl.md](./styl.md)
+
+Skriv inte `@import '../_.styl'` för att importera komponenten som ska demonstreras, den injiceras automatiskt
+
+Importera `@import '../../Btn/_.styl'` i `demo/_.styl` och använd `.Btn`
+
+`demo/_.js`: Anropa skriptet, format `export default (root) => { ... }`, parameter `root` är värden (`document` eller rotelementet för sandlådebehållaren)
+
+`D.createElement` är förbjudet, använd `newEl` som nämns av [./js.md](./js.md)
+
+`js` är förbjudet för användning i `c-t` och för internationalisering `fLang`
+
+Om `../_.js` (`../_.js` ska visa själva komponenten, måste de beroende komponenterna som krävs av andra demos fortfarande importeras) krävs bara `import` och inget specifikt innehåll importeras, vilket kan utelämnas (ramverket kommer automatiskt att injicera det)
+
+`pug` Du behöver inte importera `js` och `styl` , ramverket kommer automatiskt att injicera dem

@@ -1,0 +1,4 @@
+usage: "Kullanım: $0 <proje türü> <proje adı>"
+cmdDesc: "Yeni bileşen oluştur"
+typeDesc: "Proje türü (css veya js)"
+nameDesc: "Proje adı"

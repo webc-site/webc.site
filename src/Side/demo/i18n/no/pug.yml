@@ -1,0 +1,46 @@
+open: Åpne sidepanelet
+userName: Geek Walker
+userTitle: Senior webdesigner
+statFollowers: Abonnent
+statFollowing: fokusere på
+statProjects: prosjekt
+groupCore: Kjernefunksjoner
+groupSystem: Systemadministrasjon
+groupData: dataanalyse
+groupCollaboration: Teamarbeid
+widgetTitle: Bruk av lagringsplass
+widgetTasks: Mine gjøremålsoppgaver
+task1: Komplett Side interaktiv utvikling
+task2: Design Flytende visuell estetikk
+task3: Optimaliser komponentbrukbarhet og detaljer
+navHome: Dashboard Hjemmeside
+navProfile: Personlig senter
+navSettings: Systeminnstillinger
+navMessages: Nettstedsnyheter
+navNotifications: Varslingspåminnelse
+navPrivacy: Personvern og sikkerhet
+navHelp: Hjelp og tilbakemeldinger
+navAnalytics: analyserapport
+navCloud: Skylagringsplass
+navTeam: teammedlem
+navTasks: Oppgavekoordinering
+logout: Logg ut
+upgradeTitle: Oppgrader til Professional Edition
+upgradeDesc: Lås opp ubegrenset skylagring og avansert samarbeid
+upgradeBtn: Oppgrader nå
+task4: Gjennomgå PR-forpliktelser og slå sammen grener
+task5: Skriv en ny versjonsutgivelseslogg av WebC
+widgetOnline: Online teammedlemmer
+member1: Lisa
+member2: david
+member3: Anna
+statusOnline: online
+statusOffline: Frakoblet
+statusBusy: Travel
+widgetFiles: nylige filer
+file1: Produktdesignspesifikasjon v2.4.pdf
+file2: 2026 Q3 Draft Plan.docx
+file3: Komponentanimasjon demonstrasjon.mp4
+tagDesign: design
+tagDev: utvikle
+tagPm: produkt

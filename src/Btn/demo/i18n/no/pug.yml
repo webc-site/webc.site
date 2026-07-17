@@ -1,0 +1,4 @@
+default: Standardknapp
+main: hovedknappen
+link: link-knappen
+icon: Ikonknapp (.BtnC)

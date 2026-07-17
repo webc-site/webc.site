@@ -1,0 +1,7 @@
+desc: Determina i canvia automàticament per mostrar el menú de navegació o el botó enrere en funció de la ruta actual
+desktop_title: Pantalla d'escriptori
+desktop_desc: Quan estiguis a la ruta del menú declarada, mostra les fitxes dels elements del menú; en cas contrari, mostra el botó enrere
+mobile_title: Pantalla mòbil
+mobile_desc: Quan es troba a la ruta del menú declarada, es desploma en un botó d'icona i admet lliscar el menú; en cas contrari, mostra un botó enrere
+normal_state: Estat de la navegació (c-nav-menu)
+back_state: Estat de reserva (c-back)

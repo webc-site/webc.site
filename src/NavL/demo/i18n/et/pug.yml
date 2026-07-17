@@ -1,0 +1,7 @@
+desc: Määrake ja lülituge navigeerimismenüü või tagasinupu kuvamiseks automaatselt praeguse marsruudi põhjal
+desktop_title: Töölaua ekraan
+desktop_desc: Kui olete deklareeritud menüü marsruudil, kuvage menüüelemendid paanid; muul juhul kuvage tagasinupp
+mobile_title: Mobiilne ekraan
+mobile_desc: Kui olete deklareeritud menüü marsruudil, vajub ikooni nupuks ja toetab menüüst välja libistamist; vastasel juhul kuvab tagasinupu
+normal_state: Navigeerimise olek (c-nav-menu)
+back_state: Varu olek (c-back)

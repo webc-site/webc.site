@@ -1,0 +1,60 @@
+mdContent: |
+  # Dokument prezentacyjny Markdown
+  To jest demonstracja renderowania strumieniowego.
+  ## Podstawowy styl
+  - **Pogrubienie** i *Kursywa*
+  - ~~przekreślenie~~
+  - `inline_code` kod wbudowany
+  - [Oficjalna strona Organizacji Narodów Zjednoczonych](https://un.org) Link do demonstracji
+  ## Cytaty i listy
+  > To jest cytat z jednej linijki.
+
+  > To jest cytat wielowierszowy.
+  > Efekt wizualny do wyświetlania odniesień wielowierszowych.
+
+  - Nieuporządkowany pierwszy przedmiot
+    - Nieuporządkowany podpunkt pierwszy
+    - Nieuporządkowany podpunkt drugi
+  - Nieuporządkowany drugi przedmiot
+
+  > [!NOTE]
+  > `> [!NOTE]` Wiadomości ogólne i notatki
+
+  > [!TIP]
+  > `> [!TIP]` Wskazówki i pomocne wskazówki
+
+  > [!IMPORTANT]
+  > `> [!IMPORTANT]` Ważne wskazówki i wątpliwości
+
+  > [!WARNING]
+  > `> [!WARNING]` Ostrzeżenia i uwagi dotyczące ryzyka
+
+  > [!CAUTION]
+  > `> [!CAUTION]` NIEBEZPIECZEŃSTWO I EKSTRA RYZYKO OSTRZEŻENIE
+
+  ---
+
+  ## lista zadań
+  - [ ] To niedokończone zadanie przesyłania strumieniowego
+  - [x] To jest ukończone zadanie przesyłania strumieniowego
+  - [X] To jest ukończone zadanie przesyłania strumieniowego (duże X)
+
+  ---
+
+  1. Zamówiłem pierwszą rzecz
+     1. Zamówiony przedmiot numer jeden
+     2. Zamówiłem podpunkt drugi
+  2. Zamówiony drugi termin
+  ## arkusz
+  | Zadanie | państwo | harmonogram |
+  | :--- | :---: | ---: |
+  | Zadanie pierwsze | Zakończony | 100% |
+  | Zadanie 2 | w toku | 50% |
+  ## blok kodu
+  ```js
+  const hello = () => {
+    console.log("Hello, WebC!");
+  };
+  ```
+  ## zdjęcie
+  ![Zdjęcie demonstracyjne](https://i-01.eu.org/demo-green.avif)
