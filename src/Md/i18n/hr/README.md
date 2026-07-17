@@ -22,13 +22,13 @@ Ovo je dio Markdown sadržaja
 
 <script type="module">
   const el = document.querySelector("#md-el");
-  el.textContent = "#Novi naslov\nNovi sadržaj";
+  el.value = "#Novi naslov\nNovi sadržaj";
 </script>
 ```
 
 ## Parametri sučelja
 
-Proslijedite Markdown tekst izravno unutar oznake (kao zadani utor) ili ažurirajte dinamički putem `textContent`.
+Proslijedite Markdown tekst izravno unutar oznake (kao zadani utor) ili ažurirajte dinamički putem `value`.
 
 ## Opis stila
 

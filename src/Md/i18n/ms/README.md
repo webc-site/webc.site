@@ -22,13 +22,13 @@ Ini adalah sebahagian daripada kandungan Markdown
 
 <script type="module">
   const el = document.querySelector("#md-el");
-  el.textContent = "#Tajuk baharu\nKandungan baharu";
+  el.value = "#Tajuk baharu\nKandungan baharu";
 </script>
 ```
 
 ## Parameter antara muka
 
-Hantar teks Markdown terus dalam teg (sebagai slot lalai), atau kemas kini secara dinamik melalui `textContent`.
+Hantar teks Markdown terus dalam teg (sebagai slot lalai), atau kemas kini secara dinamik melalui `value`.
 
 ## Penerangan gaya
 

@@ -1,7 +1,7 @@
 [BoxX](../../src/BoxX/i18n/sd/README.md) : هڪ بند بٽڻ سان هڪ پاپ اپ پرت ٺاهيو ۽ ڏيکاريو
 [Code](../../src/Code/i18n/sd/README.md) : ڪوڊ بٽڻ
 [Copy](../../src/Copy/i18n/sd/README.md) : ڪلپ بورڊ تي متن نقل ڪريو
-[Edit](../../src/Edit/i18n/sd/README.md) : صفحو يا دستاويز جي تبديلي بٽڻ
+[Edit](../../src/Edit/i18n/sd/README.md) : تبديلي جو بٽڻ
 [HtmDemo](../../src/HtmDemo/i18n/sd/README.md) : ڊيبگنگ HTML ۽ JS ڪوڊ آن لائن
 [I18n](../../src/I18n/i18n/sd/README.md) : انٽرفيس ٻولين کي مٽائڻ لاءِ بٽڻ ۽ پاپ اپ ونڊوز
 [MdStream](../../src/MdStream/i18n/sd/README.md) : مارڪ ڊائون متن جي اسٽريمنگ رينڊرنگ

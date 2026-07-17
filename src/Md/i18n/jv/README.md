@@ -22,13 +22,13 @@ Iki minangka potongan konten Markdown
 
 <script type="module">
   const el = document.querySelector("#md-el");
-  el.textContent = "#Judul anyar\nKonten anyar";
+  el.value = "#Judul anyar\nKonten anyar";
 </script>
 ```
 
 ## Paramèter antarmuka
 
-Lebokake teks Markdown langsung ing tag (minangka slot standar), utawa nganyari kanthi dinamis liwat `textContent`.
+Lebokake teks Markdown langsung ing tag (minangka slot standar), utawa nganyari kanthi dinamis liwat `value`.
 
 ## Katrangan gaya
 

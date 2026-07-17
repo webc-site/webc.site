@@ -22,13 +22,13 @@
 
 <script type="module">
   const el = document.querySelector("#md-el");
-  el.textContent = "# 新標題\n新內容";
+  el.value = "# 新標題\n新內容";
 </script>
 ```
 
 ## 介面參數
 
-直接在標籤內傳入 Markdown 文字（作為預設 slot），或透過 `textContent` 動態更新。
+直接在標籤內傳入 Markdown 文字（作為預設 slot），或透過 `value` 動態更新。
 
 ## 樣式說明
 

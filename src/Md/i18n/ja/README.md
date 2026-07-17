@@ -22,13 +22,13 @@
 
 <script type="module">
   const el = document.querySelector("#md-el");
-  el.textContent = "#新しいタイトル\n新しいコンテンツ";
+  el.value = "#新しいタイトル\n新しいコンテンツ";
 </script>
 ```
 
 ## インターフェースパラメータ
 
-Markdown テキストをタグ内で直接渡すか (デフォルトのスロットとして)、`textContent` を介して動的に更新します。
+Markdown テキストをタグ内で直接渡すか (デフォルトのスロットとして)、`value` を介して動的に更新します。
 
 ## スタイルの説明
 

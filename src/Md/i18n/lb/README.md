@@ -22,13 +22,13 @@ Dëst ass e Stéck Markdown Inhalt
 
 <script type="module">
   const el = document.querySelector("#md-el");
-  el.textContent = "#Neien Titel\nNeien Inhalt";
+  el.value = "#Neien Titel\nNeien Inhalt";
 </script>
 ```
 
 ## Interface Parameteren
 
-Gitt Markdown Text direkt am Tag (als Standard Slot), oder aktualiséieren dynamesch iwwer `textContent`.
+Gitt Markdown Text direkt am Tag (als Standard Slot), oder aktualiséieren dynamesch iwwer `value`.
 
 ## Style Beschreiwung
 

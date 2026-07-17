@@ -1,7 +1,7 @@
 [BoxX](../../src/BoxX/i18n/be/README.md) : Стварыце і пакажыце ўсплывальны пласт з кнопкай закрыцця
 [Code](../../src/Code/i18n/be/README.md) : кнопка кода
 [Copy](../../src/Copy/i18n/be/README.md) : Скапіраваць тэкст у буфер абмену
-[Edit](../../src/Edit/i18n/be/README.md) : Кнопка рэдагавання старонкі або дакумента
+[Edit](../../src/Edit/i18n/be/README.md) : кнопка рэдагавання
 [HtmDemo](../../src/HtmDemo/i18n/be/README.md) : Адладка кода HTML і JS онлайн
 [I18n](../../src/I18n/i18n/be/README.md) : Кнопкі і ўсплывальныя вокны для пераключэння моў інтэрфейсу
 [MdStream](../../src/MdStream/i18n/be/README.md) : Патокавы рэндэрынг тэксту Markdown

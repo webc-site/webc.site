@@ -1,7 +1,7 @@
 [BoxX](../../src/BoxX/i18n/bs/README.md) : Kreirajte i prikažite iskačući sloj sa dugmetom za zatvaranje
 [Code](../../src/Code/i18n/bs/README.md) : dugme koda
 [Copy](../../src/Copy/i18n/bs/README.md) : Kopirajte tekst u međuspremnik
-[Edit](../../src/Edit/i18n/bs/README.md) : Dugme za uređivanje stranice ili dokumenta
+[Edit](../../src/Edit/i18n/bs/README.md) : dugme za uređivanje
 [HtmDemo](../../src/HtmDemo/i18n/bs/README.md) : Otklanjanje grešaka u HTML i JS kodu na mreži
 [I18n](../../src/I18n/i18n/bs/README.md) : Dugmad i iskačući prozori za promjenu jezika interfejsa
 [MdStream](../../src/MdStream/i18n/bs/README.md) : Streaming rendering Markdown teksta

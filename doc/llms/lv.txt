@@ -1,7 +1,7 @@
 [BoxX](../../src/BoxX/i18n/lv/README.md) : Izveidojiet un parādiet uznirstošo slāni ar aizvēršanas pogu
 [Code](../../src/Code/i18n/lv/README.md) : koda poga
 [Copy](../../src/Copy/i18n/lv/README.md) : Kopējiet tekstu starpliktuvē
-[Edit](../../src/Edit/i18n/lv/README.md) : Lapas vai dokumenta rediģēšanas poga
+[Edit](../../src/Edit/i18n/lv/README.md) : rediģēšanas poga
 [HtmDemo](../../src/HtmDemo/i18n/lv/README.md) : HTML un JS koda atkļūdošana tiešsaistē
 [I18n](../../src/I18n/i18n/lv/README.md) : Pogas un uznirstošie logi interfeisa valodu pārslēgšanai
 [MdStream](../../src/MdStream/i18n/lv/README.md) : Markdown teksta straumēšanas renderēšana

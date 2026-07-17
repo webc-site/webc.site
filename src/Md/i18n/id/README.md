@@ -22,13 +22,13 @@ Ini adalah bagian dari konten penurunan harga
 
 <script type="module">
   const el = document.querySelector("#md-el");
-  el.textContent = "#Judul baru\nKonten baru";
+  el.value = "#Judul baru\nKonten baru";
 </script>
 ```
 
 ## Parameter antarmuka
 
-Teruskan teks Markdown langsung dalam tag (sebagai slot default), atau perbarui secara dinamis melalui `textContent`.
+Teruskan teks Markdown langsung dalam tag (sebagai slot default), atau perbarui secara dinamis melalui `value`.
 
 ## Deskripsi gaya
 

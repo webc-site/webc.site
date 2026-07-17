@@ -22,13 +22,13 @@
 
 <script type="module">
   const el = document.querySelector("#md-el");
-  el.textContent = "#Jauns nosaukums\nJauns saturs";
+  el.value = "#Jauns nosaukums\nJauns saturs";
 </script>
 ```
 
 ## Interfeisa parametri
 
-Ievietojiet Markdown tekstu tieši tagā (kā noklusējuma vietu) vai dinamiski atjauniniet, izmantojot `textContent`.
+Ievietojiet Markdown tekstu tieši tagā (kā noklusējuma vietu) vai dinamiski atjauniniet, izmantojot `value`.
 
 ## Stila apraksts
 

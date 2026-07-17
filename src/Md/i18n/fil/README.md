@@ -22,13 +22,13 @@ Ito ay isang piraso ng Markdown na nilalaman
 
 <script type="module">
   const el = document.querySelector("#md-el");
-  el.textContent = "#Bagong pamagat\nBagong nilalaman";
+  el.value = "#Bagong pamagat\nBagong nilalaman";
 </script>
 ```
 
 ## Mga parameter ng interface
 
-Direktang ipasa ang Markdown text sa loob ng tag (bilang default na slot), o dynamic na mag-update sa pamamagitan ng `textContent`.
+Direktang ipasa ang Markdown text sa loob ng tag (bilang default na slot), o dynamic na mag-update sa pamamagitan ng `value`.
 
 ## Paglalarawan ng istilo
 

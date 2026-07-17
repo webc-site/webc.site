@@ -22,13 +22,13 @@ Din hija biċċa kontenut ta' Markdown
 
 <script type="module">
   const el = document.querySelector("#md-el");
-  el.textContent = "#Titolu ġdid\nKontenut ġdid";
+  el.value = "#Titolu ġdid\nKontenut ġdid";
 </script>
 ```
 
 ## Parametri tal-interface
 
-Għaddi t-test Markdown direttament fit-tikketta (bħala slot default), jew aġġorna b'mod dinamiku permezz ta' `textContent`.
+Għaddi t-test Markdown direttament fit-tikketta (bħala slot default), jew aġġorna b'mod dinamiku permezz ta' `value`.
 
 ## Deskrizzjoni tal-istil
 

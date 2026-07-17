@@ -22,13 +22,13 @@
 
 <script type="module">
   const el = document.querySelector("#md-el");
-  el.textContent = "#새 제목\n새 콘텐츠";
+  el.value = "#새 제목\n새 콘텐츠";
 </script>
 ```
 
 ## 인터페이스 매개변수
 
-태그 내에서 직접 Markdown 텍스트를 전달하거나(기본 슬롯으로) `textContent`을 통해 동적으로 업데이트하세요.
+태그 내에서 직접 Markdown 텍스트를 전달하거나(기본 슬롯으로) `value`을 통해 동적으로 업데이트하세요.
 
 ## 스타일 설명
 

@@ -1,7 +1,7 @@
 [BoxX](../../src/BoxX/i18n/as/README.md) : এটা বন্ধ বুটামৰ সৈতে এটা পপআপ স্তৰ সৃষ্টি আৰু প্ৰদৰ্শন কৰক
 [Code](../../src/Code/i18n/as/README.md) : ক'ড বুটাম
 [Copy](../../src/Copy/i18n/as/README.md) : লিখনী ক্লিপবোৰ্ডলৈ কপি কৰক
-[Edit](../../src/Edit/i18n/as/README.md) : পৃষ্ঠা বা দস্তাবেজ সম্পাদনা বুটাম
+[Edit](../../src/Edit/i18n/as/README.md) : সম্পাদনা বুটাম
 [HtmDemo](../../src/HtmDemo/i18n/as/README.md) : HTML আৰু JS ক'ড অনলাইনত ডিবাগিং কৰা
 [I18n](../../src/I18n/i18n/as/README.md) : আন্তঃপৃষ্ঠ ভাষা সলনি কৰাৰ বাবে বুটাম আৰু পপ-আপ উইণ্ড'সমূহ
 [MdStream](../../src/MdStream/i18n/as/README.md) : মাৰ্কডাউন টেক্সটৰ ষ্ট্ৰীমিং ৰেণ্ডাৰ

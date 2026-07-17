@@ -22,13 +22,13 @@
 
 <script type="module">
   const el = document.querySelector("#md-el");
-  el.textContent = "#Tiêu đề mới\nNội dung mới";
+  el.value = "#Tiêu đề mới\nNội dung mới";
 </script>
 ```
 
 ## Thông số giao diện
 
-Truyền văn bản Markdown trực tiếp vào thẻ (dưới dạng vị trí mặc định) hoặc cập nhật động qua `textContent`.
+Truyền văn bản Markdown trực tiếp vào thẻ (dưới dạng vị trí mặc định) hoặc cập nhật động qua `value`.
 
 ## Mô tả phong cách
 

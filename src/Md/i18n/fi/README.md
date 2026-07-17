@@ -22,13 +22,13 @@ Tämä on osa Markdownin sisältöä
 
 <script type="module">
   const el = document.querySelector("#md-el");
-  el.textContent = "#Uusi otsikko\nUusi sisältö";
+  el.value = "#Uusi otsikko\nUusi sisältö";
 </script>
 ```
 
 ## Käyttöliittymän parametrit
 
-Lisää Markdown-teksti suoraan tunnisteeseen (oletuspaikkana) tai päivitä dynaamisesti `textContent`:n kautta.
+Lisää Markdown-teksti suoraan tunnisteeseen (oletuspaikkana) tai päivitä dynaamisesti `value`:n kautta.
 
 ## Tyylin kuvaus
 

@@ -22,13 +22,13 @@ Esta é unha peza de contido Markdown
 
 <script type="module">
   const el = document.querySelector("#md-el");
-  el.textContent = "#Novo título\nNovo contido";
+  el.value = "#Novo título\nNovo contido";
 </script>
 ```
 
 ## Parámetros da interface
 
-Pasa texto de Markdown directamente dentro da etiqueta (como espazo predeterminado) ou actualiza de forma dinámica a través de `textContent`.
+Pasa texto de Markdown directamente dentro da etiqueta (como espazo predeterminado) ou actualiza de forma dinámica a través de `value`.
 
 ## Descrición do estilo
 

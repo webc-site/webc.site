@@ -22,13 +22,13 @@ Bu Markdown tarkibining bir qismi
 
 <script type="module">
   const el = document.querySelector("#md-el");
-  el.textContent = "#Yangi sarlavha\nYangi tarkib";
+  el.value = "#Yangi sarlavha\nYangi tarkib";
 </script>
 ```
 
 ## Interfeys parametrlari
 
-Markdown matnini toʻgʻridan-toʻgʻri teg ichida (standart slot sifatida) kiriting yoki `textContent` orqali dinamik ravishda yangilang.
+Markdown matnini toʻgʻridan-toʻgʻri teg ichida (standart slot sifatida) kiriting yoki `value` orqali dinamik ravishda yangilang.
 
 ## Uslub tavsifi
 

@@ -22,13 +22,13 @@ Ceci est un morceau de contenu Markdown
 
 <script type="module">
   const el = document.querySelector("#md-el");
-  el.textContent = "#Nouveau titre\nNouveau contenu";
+  el.value = "#Nouveau titre\nNouveau contenu";
 </script>
 ```
 
 ## Paramètres d'interface
 
-Transmettez le texte Markdown directement dans la balise (comme emplacement par défaut) ou mettez à jour dynamiquement via `textContent`.
+Transmettez le texte Markdown directement dans la balise (comme emplacement par défaut) ou mettez à jour dynamiquement via `value`.
 
 ## Description du style
 

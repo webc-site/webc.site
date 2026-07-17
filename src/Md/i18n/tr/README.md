@@ -22,13 +22,13 @@ Bu bir Markdown içeriğidir
 
 <script type="module">
   const el = document.querySelector("#md-el");
-  el.textContent = "#Yeni başlık\nYeni içerik";
+  el.value = "#Yeni başlık\nYeni içerik";
 </script>
 ```
 
 ## Arayüz parametreleri
 
-Markdown metnini doğrudan etiketin içine aktarın (varsayılan yuva olarak) veya `textContent` aracılığıyla dinamik olarak güncelleyin.
+Markdown metnini doğrudan etiketin içine aktarın (varsayılan yuva olarak) veya `value` aracılığıyla dinamik olarak güncelleyin.
 
 ## Stil açıklaması
 

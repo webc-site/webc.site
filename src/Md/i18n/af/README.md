@@ -22,13 +22,13 @@ Dit is 'n stukkie Markdown-inhoud
 
 <script type="module">
   const el = document.querySelector("#md-el");
-  el.textContent = "#Nuwe titel\nNuwe inhoud";
+  el.value = "#Nuwe titel\nNuwe inhoud";
 </script>
 ```
 
 ## Interface parameters
 
-Gee Markdown-teks direk binne die merker in (as die verstekgleuf), of dateer dinamies op via `textContent`.
+Gee Markdown-teks direk binne die merker in (as die verstekgleuf), of dateer dinamies op via `value`.
 
 ## Styl beskrywing
 

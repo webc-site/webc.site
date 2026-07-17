@@ -22,13 +22,13 @@ Aceasta este o bucată de conținut Markdown
 
 <script type="module">
   const el = document.querySelector("#md-el");
-  el.textContent = "#Titlu nou\nConținut nou";
+  el.value = "#Titlu nou\nConținut nou";
 </script>
 ```
 
 ## Parametrii interfeței
 
-Introduceți textul Markdown direct în etichetă (ca spațiu prestabilit) sau actualizați dinamic prin `textContent`.
+Introduceți textul Markdown direct în etichetă (ca spațiu prestabilit) sau actualizați dinamic prin `value`.
 
 ## Descrierea stilului
 

@@ -1,7 +1,7 @@
 [BoxX](../../src/BoxX/i18n/or/README.md) : ଏକ ବନ୍ଦ ବଟନ୍ ସହିତ ଏକ ପପ୍ଅପ୍ ସ୍ତର ସୃଷ୍ଟି ଏବଂ ପ୍ରଦର୍ଶନ କରନ୍ତୁ |
 [Code](../../src/Code/i18n/or/README.md) : କୋଡ୍ ବଟନ୍
 [Copy](../../src/Copy/i18n/or/README.md) : କ୍ଲିପବୋର୍ଡରେ ପାଠ କପି କରନ୍ତୁ |
-[Edit](../../src/Edit/i18n/or/README.md) : ପୃଷ୍ଠା କିମ୍ବା ଡକ୍ୟୁମେଣ୍ଟ୍ ଏଡିଟ୍ ବଟନ୍ |
+[Edit](../../src/Edit/i18n/or/README.md) : ବଟନ୍ ସଂପାଦନ କରନ୍ତୁ |
 [HtmDemo](../../src/HtmDemo/i18n/or/README.md) : ଅନଲାଇନରେ HTML ଏବଂ JS କୋଡ୍ ଡିବଗ୍ କରିବା |
 [I18n](../../src/I18n/i18n/or/README.md) : ଇଣ୍ଟରଫେସ୍ ଭାଷା ବଦଳାଇବା ପାଇଁ ବଟନ୍ ଏବଂ ପପ୍-ଅପ୍ ୱିଣ୍ଡୋ |
 [MdStream](../../src/MdStream/i18n/or/README.md) : ମାର୍କଡାଉନ୍ ପାଠ୍ୟର ଷ୍ଟ୍ରିମିଂ ରେଣ୍ଡରିଂ |

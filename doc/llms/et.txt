@@ -1,7 +1,7 @@
 [BoxX](../../src/BoxX/i18n/et/README.md) : Looge ja kuvage sulgemisnupuga hüpikaknakiht
 [Code](../../src/Code/i18n/et/README.md) : koodi nupp
 [Copy](../../src/Copy/i18n/et/README.md) : Kopeerige tekst lõikelauale
-[Edit](../../src/Edit/i18n/et/README.md) : Lehekülje või dokumendi redigeerimise nupp
+[Edit](../../src/Edit/i18n/et/README.md) : redigeerimisnupp
 [HtmDemo](../../src/HtmDemo/i18n/et/README.md) : HTML- ja JS-koodi silumine võrgus
 [I18n](../../src/I18n/i18n/et/README.md) : Nupud ja hüpikaknad liidese keelte vahetamiseks
 [MdStream](../../src/MdStream/i18n/et/README.md) : Markdowni teksti voogesitus

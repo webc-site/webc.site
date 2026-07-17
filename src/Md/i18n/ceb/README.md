@@ -22,13 +22,13 @@ Kini usa ka piraso sa Markdown content
 
 <script type="module">
   const el = document.querySelector("#md-el");
-  el.textContent = "#Bag-ong titulo\nBag-ong sulod";
+  el.value = "#Bag-ong titulo\nBag-ong sulod";
 </script>
 ```
 
 ## Mga parametro sa interface
 
-Ipasa ang Markdown nga teksto diretso sa sulod sa tag (isip default slot), o i-update sa dinamikong paagi pinaagi sa `textContent`.
+Ipasa ang Markdown nga teksto diretso sa sulod sa tag (isip default slot), o i-update sa dinamikong paagi pinaagi sa `value`.
 
 ## Deskripsyon sa estilo
 

@@ -22,13 +22,13 @@ To je del vsebine Markdown
 
 <script type="module">
   const el = document.querySelector("#md-el");
-  el.textContent = "#Nov naslov\nNova vsebina";
+  el.value = "#Nov naslov\nNova vsebina";
 </script>
 ```
 
 ## Parametri vmesnika
 
-Besedilo Markdown posredujte neposredno znotraj oznake (kot privzeta reža) ali pa ga dinamično posodobite prek `textContent`.
+Besedilo Markdown posredujte neposredno znotraj oznake (kot privzeta reža) ali pa ga dinamično posodobite prek `value`.
 
 ## Opis sloga
 

@@ -22,13 +22,13 @@
 
 <script type="module">
   const el = document.querySelector("#md-el");
-  el.textContent = "#Nýr titill\nNýtt efni";
+  el.value = "#Nýr titill\nNýtt efni";
 </script>
 ```
 
 ## Viðmótsbreytur
 
-Sendu Markdown-texta beint inn í merkið (sem sjálfgefinn rauf), eða uppfærðu á virkan hátt með `textContent`.
+Sendu Markdown-texta beint inn í merkið (sem sjálfgefinn rauf), eða uppfærðu á virkan hátt með `value`.
 
 ## Stíllýsing
 

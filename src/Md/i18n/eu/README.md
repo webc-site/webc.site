@@ -22,13 +22,13 @@ Markdown edukiaren zati bat da
 
 <script type="module">
   const el = document.querySelector("#md-el");
-  el.textContent = "#Izenburu berria\nEduki berria";
+  el.value = "#Izenburu berria\nEduki berria";
 </script>
 ```
 
 ## Interfazearen parametroak
 
-Idatzi Markdown testua zuzenean etiketaren barruan (zirrikitu lehenetsi gisa), edo eguneratu dinamikoki `textContent` bidez.
+Idatzi Markdown testua zuzenean etiketaren barruan (zirrikitu lehenetsi gisa), edo eguneratu dinamikoki `value` bidez.
 
 ## Estiloaren deskribapena
 

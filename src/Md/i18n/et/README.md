@@ -22,13 +22,13 @@ See on osa Markdowni sisust
 
 <script type="module">
   const el = document.querySelector("#md-el");
-  el.textContent = "#Uus pealkiri\nUus sisu";
+  el.value = "#Uus pealkiri\nUus sisu";
 </script>
 ```
 
 ## Liidese parameetrid
 
-Edastage Markdowni tekst otse märgendis (vaikepesa) või värskendage dünaamiliselt `textContent` kaudu.
+Edastage Markdowni tekst otse märgendis (vaikepesa) või värskendage dünaamiliselt `value` kaudu.
 
 ## Stiili kirjeldus
 

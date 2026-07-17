@@ -1,7 +1,7 @@
 [BoxX](../../src/BoxX/i18n/km/README.md) : បង្កើត និងបង្ហាញស្រទាប់លេចឡើងដោយប្រើប៊ូតុងបិទ
 [Code](../../src/Code/i18n/km/README.md) : ប៊ូតុងកូដ
 [Copy](../../src/Copy/i18n/km/README.md) : ចម្លងអត្ថបទទៅក្ដារតម្បៀតខ្ទាស់
-[Edit](../../src/Edit/i18n/km/README.md) : ប៊ូតុងកែសម្រួលទំព័រ ឬឯកសារ
+[Edit](../../src/Edit/i18n/km/README.md) : ប៊ូតុងកែសម្រួល
 [HtmDemo](../../src/HtmDemo/i18n/km/README.md) : បំបាត់កំហុស HTML និង JS លើបណ្តាញ
 [I18n](../../src/I18n/i18n/km/README.md) : ប៊ូតុង និងបង្អួចលេចឡើងសម្រាប់ប្តូរភាសាចំណុចប្រទាក់
 [MdStream](../../src/MdStream/i18n/km/README.md) : ស្ទ្រីមបង្ហាញអត្ថបទ Markdown

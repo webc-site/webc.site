@@ -22,13 +22,13 @@ Ez a Markdown tartalom egy darabja
 
 <script type="module">
   const el = document.querySelector("#md-el");
-  el.textContent = "#Új cím\nÚj tartalom";
+  el.value = "#Új cím\nÚj tartalom";
 </script>
 ```
 
 ## Interfész paraméterei
 
-Adja meg a Markdown szöveget közvetlenül a címkén belül (alapértelmezett helyként), vagy frissítse dinamikusan a `textContent` segítségével.
+Adja meg a Markdown szöveget közvetlenül a címkén belül (alapértelmezett helyként), vagy frissítse dinamikusan a `value` segítségével.
 
 ## Stílusleírás
 

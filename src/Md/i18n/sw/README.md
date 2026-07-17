@@ -22,13 +22,13 @@ Hiki ni kipande cha maudhui ya Markdown
 
 <script type="module">
   const el = document.querySelector("#md-el");
-  el.textContent = "#Kichwa kipya\nMaudhui mapya";
+  el.value = "#Kichwa kipya\nMaudhui mapya";
 </script>
 ```
 
 ## Vigezo vya interface
 
-Pitisha maandishi ya Markdown moja kwa moja ndani ya lebo (kama nafasi chaguomsingi), au usasishe kwa nguvu kupitia `textContent`.
+Pitisha maandishi ya Markdown moja kwa moja ndani ya lebo (kama nafasi chaguomsingi), au usasishe kwa nguvu kupitia `value`.
 
 ## Maelezo ya mtindo
 

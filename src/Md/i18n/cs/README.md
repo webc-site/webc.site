@@ -22,13 +22,13 @@ Toto je část obsahu Markdown
 
 <script type="module">
   const el = document.querySelector("#md-el");
-  el.textContent = "#Nový název\nNový obsah";
+  el.value = "#Nový název\nNový obsah";
 </script>
 ```
 
 ## Parametry rozhraní
 
-Předejte text Markdown přímo do značky (jako výchozí blok), nebo aktualizujte dynamicky pomocí `textContent`.
+Předejte text Markdown přímo do značky (jako výchozí blok), nebo aktualizujte dynamicky pomocí `value`.
 
 ## Popis stylu
 

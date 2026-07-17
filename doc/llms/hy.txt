@@ -1,7 +1,7 @@
 [BoxX](../../src/BoxX/i18n/hy/README.md) : Ստեղծեք և ցուցադրեք թռուցիկ շերտ փակման կոճակով
 [Code](../../src/Code/i18n/hy/README.md) : կոդը կոճակը
 [Copy](../../src/Copy/i18n/hy/README.md) : Պատճենել տեքստը clipboard-ում
-[Edit](../../src/Edit/i18n/hy/README.md) : Էջի կամ փաստաթղթի խմբագրման կոճակ
+[Edit](../../src/Edit/i18n/hy/README.md) : խմբագրել կոճակը
 [HtmDemo](../../src/HtmDemo/i18n/hy/README.md) : HTML և JS կոդի վրիպազերծում առցանց
 [I18n](../../src/I18n/i18n/hy/README.md) : Կոճակներ և բացվող պատուհաններ՝ ինտերֆեյսի լեզուները փոխելու համար
 [MdStream](../../src/MdStream/i18n/hy/README.md) : Markdown տեքստի հոսքային մատուցում

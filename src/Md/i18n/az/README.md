@@ -22,13 +22,13 @@ Bu Markdown məzmununun bir hissəsidir
 
 <script type="module">
   const el = document.querySelector("#md-el");
-  el.textContent = "#Yeni başlıq\nYeni məzmun";
+  el.value = "#Yeni başlıq\nYeni məzmun";
 </script>
 ```
 
 ## İnterfeys parametrləri
 
-Markdown mətnini birbaşa teq daxilində keçirin (defolt slot kimi) və ya `textContent` vasitəsilə dinamik olaraq yeniləyin.
+Markdown mətnini birbaşa teq daxilində keçirin (defolt slot kimi) və ya `value` vasitəsilə dinamik olaraq yeniləyin.
 
 ## Stil təsviri
 

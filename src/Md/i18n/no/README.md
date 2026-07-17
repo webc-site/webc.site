@@ -22,13 +22,13 @@ Dette er et stykke Markdown-innhold
 
 <script type="module">
   const el = document.querySelector("#md-el");
-  el.textContent = "#Ny tittel\nNytt innhold";
+  el.value = "#Ny tittel\nNytt innhold";
 </script>
 ```
 
 ## Grensesnittparametere
 
-Send inn Markdown-tekst direkte i taggen (som standardplass), eller oppdater dynamisk via `textContent`.
+Send inn Markdown-tekst direkte i taggen (som standardplass), eller oppdater dynamisk via `value`.
 
 ## Stilbeskrivelse
 

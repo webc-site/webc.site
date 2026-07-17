@@ -22,13 +22,13 @@ Tai yra Markdown turinio dalis
 
 <script type="module">
   const el = document.querySelector("#md-el");
-  el.textContent = "#Naujas pavadinimas\nNaujas turinys";
+  el.value = "#Naujas pavadinimas\nNaujas turinys";
 </script>
 ```
 
 ## Sąsajos parametrai
 
-Įveskite žymėjimo tekstą tiesiai žymoje (kaip numatytąją sritį) arba dinamiškai atnaujinkite naudodami `textContent`.
+Įveskite žymėjimo tekstą tiesiai žymoje (kaip numatytąją sritį) arba dinamiškai atnaujinkite naudodami `value`.
 
 ## Stiliaus aprašymas
 

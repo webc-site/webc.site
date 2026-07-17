@@ -22,13 +22,13 @@
 
 <script type="module">
   const el = document.querySelector("#md-el");
-  el.textContent = "#כותרת חדשה\nתוכן חדש";
+  el.value = "#כותרת חדשה\nתוכן חדש";
 </script>
 ```
 
 ## פרמטרים של ממשק
 
-העבר טקסט Markdown ישירות בתוך התג (כמשבצת ברירת המחדל), או עדכן באופן דינמי באמצעות `textContent`.
+העבר טקסט Markdown ישירות בתוך התג (כמשבצת ברירת המחדל), או עדכן באופן דינמי באמצעות `value`.
 
 ## תיאור סגנון
 

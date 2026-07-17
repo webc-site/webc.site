@@ -22,13 +22,13 @@ Kjo është një pjesë e përmbajtjes së Markdown
 
 <script type="module">
   const el = document.querySelector("#md-el");
-  el.textContent = "#Titulli i ri\nPërmbajtje e re";
+  el.value = "#Titulli i ri\nPërmbajtje e re";
 </script>
 ```
 
 ## Parametrat e ndërfaqes
 
-Kaloni në tekstin Markdown direkt brenda etiketës (si slot i paracaktuar), ose përditësoni në mënyrë dinamike nëpërmjet `textContent`.
+Kaloni në tekstin Markdown direkt brenda etiketës (si slot i paracaktuar), ose përditësoni në mënyrë dinamike nëpërmjet `value`.
 
 ## Përshkrimi i stilit
 

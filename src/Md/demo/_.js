@@ -8,7 +8,7 @@ export default (root) => {
   fLang((i18n) => {
     const md_content = i18n[MD_CONTENT];
     if (static_el) {
-      static_el.textContent = md_content;
+      static_el.value = md_content;
     }
   });
 };

@@ -22,13 +22,13 @@ Dyma ddarn o gynnwys Markdown
 
 <script type="module">
   const el = document.querySelector("#md-el");
-  el.textContent = "#Teitl newydd\nCynnwys newydd";
+  el.value = "#Teitl newydd\nCynnwys newydd";
 </script>
 ```
 
 ## Paramedrau rhyngwyneb
 
-Pasiwch destun Markdown yn uniongyrchol o fewn y tag (fel y slot rhagosodedig), neu diweddarwch yn ddeinamig trwy `textContent`.
+Pasiwch destun Markdown yn uniongyrchol o fewn y tag (fel y slot rhagosodedig), neu diweddarwch yn ddeinamig trwy `value`.
 
 ## Disgrifiad arddull
 
