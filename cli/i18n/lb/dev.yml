@@ -1,0 +1,4 @@
+usage: "Benotzen: $0 [Komponent Wee]"
+cmdDesc: "Start den Entwécklungsserver fir de WebC Komponent"
+pathDesc: "De Wee vun der WebC Komponent (zum Beispill, src / Box, Dir kënnt och Këscht schreiwen)"
+notFound: "Feeler: Komponent existéiert net"

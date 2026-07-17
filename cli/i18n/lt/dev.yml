@@ -1,0 +1,4 @@
+usage: "Naudojimas: $0 [komponento kelias]"
+cmdDesc: "Paleiskite WebC komponento kūrimo serverį"
+pathDesc: "WebC komponento kelias (pavyzdžiui, src/Box, taip pat galite rašyti langelį)"
+notFound: "Klaida: komponentas neegzistuoja"

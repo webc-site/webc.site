@@ -1,0 +1,38 @@
+basicTitle: मूळ शैली
+bold: ठळक
+italic: तिर्यक
+del: स्ट्राइकथ्रू
+inlineCode: इनलाइन कोड
+linkPrefix: दुव्याच्या आधी आणि नंतर मजकूर आहे, जसे की
+link: संयुक्त राष्ट्रांची अधिकृत वेबसाइट
+linkSuffix: एक दुवा आहे.
+quoteSingle: हा एकच ओळीचा कोट आहे.
+quoteMultiLine1: हे एक मल्टी-लाइन कोट आहे.
+quoteMultiLine2: मल्टी-लाइन संदर्भ प्रदर्शित करण्यासाठी दृश्य प्रभाव.
+note: सामान्य संदेश आणि नोट्स
+tip: टिपा आणि उपयुक्त टिपा
+important: महत्वाच्या टिपा आणि चिंता
+warning: जोखीम चेतावणी आणि खबरदारी
+caution: धोका आणि अत्यंत जोखमीची चेतावणी
+listTitle: कोट्स आणि याद्या
+taskTitle: कार्य सूची
+todoItem: हे एक अपूर्ण CSS कार्य आहे
+doneItem: हे पूर्ण झालेले CSS कार्य आहे
+ulItem1: अक्रमित पहिला आयटम
+ulSubItem1: अक्रमित subitem एक
+ulSubItem2: अक्रमित उप आयटम दोन
+ulItem2: अक्रमित दुसरा आयटम
+olItem1: पहिला आयटम ऑर्डर केला
+olSubItem1: ऑर्डर केलेला आयटम एक
+olSubItem2: उप आयटम दोन ऑर्डर केले
+olItem2: दुसऱ्या टर्मची ऑर्डर दिली
+tableTitle: पत्रक
+col1: प्रकल्प
+col2: राज्य
+col3: स्कोअर
+row1Col1: स्थिर
+row1Col2: पूर्ण झाले
+row2Col1: प्रवाह
+row2Col2: प्रस्तुतीकरण
+codeTitle: कोड ब्लॉक
+imageTitle: चित्र

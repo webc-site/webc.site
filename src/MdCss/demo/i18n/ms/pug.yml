@@ -1,0 +1,38 @@
+basicTitle: Gaya asas
+bold: berani
+italic: huruf condong
+del: tembus
+inlineCode: kod sebaris
+linkPrefix: Terdapat teks sebelum dan selepas pautan, seperti
+link: Laman web rasmi Pertubuhan Bangsa-Bangsa Bersatu
+linkSuffix: adalah pautan.
+quoteSingle: Ini adalah petikan satu baris.
+quoteMultiLine1: Ini adalah petikan berbilang baris.
+quoteMultiLine2: Kesan visual untuk memaparkan rujukan berbilang baris.
+note: Mesej dan nota am
+tip: Petua dan petua berguna
+important: Petua dan kebimbangan penting
+warning: Amaran risiko dan langkah berjaga-jaga
+caution: AMARAN BAHAYA DAN RISIKO MELAMPAU
+listTitle: Petikan dan Senarai
+taskTitle: senarai tugas
+todoItem: Ini adalah tugas CSS yang belum selesai
+doneItem: Ini adalah tugas CSS yang telah selesai
+ulItem1: Item pertama tidak dipesan
+ulSubItem1: Subitem satu tidak tertib
+ulSubItem2: Subitem dua tidak tertib
+ulItem2: Item kedua yang tidak dipesan
+olItem1: Tempahan item pertama
+olSubItem1: Memesan item satu
+olSubItem2: Memesan subperkara dua
+olItem2: Dipesan penggal kedua
+tableTitle: lembaran
+col1: projek
+col2: negeri
+col3: skor
+row1Col1: statik
+row1Col2: Selesai
+row2Col1: penstriman
+row2Col2: Penyampaian
+codeTitle: blok kod
+imageTitle: gambar

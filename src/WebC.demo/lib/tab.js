@@ -1,0 +1,96 @@
+import "../../TabSelect/_.js";
+import "../../Select/_.js";
+import { newLi, newEl } from "../../js/dom.js";
+import "../../Copy/_.js";
+import { ONLINE, LOCAL } from "../I18N.js";
+import { HOST_LI, jsdUrl, PKG_VER } from "./JSD.js";
+import { On } from "../../js/On.js";
+
+const KEY = "webcDemoUse",
+  PKG_CMD = {
+    bun: "bun x @webc.site/cli add ",
+    npx: "npx @webc.site/cli add ",
+    deno: "deno run -A npm:@webc.site/cli add "
+  },
+  A = 0,
+  PRE = 1,
+  VAL = 2,
+  SET_TXT = 3,
+  SET_LANG = 4;
+
+export default () => {
+  const makeTab = (type, options_li) => {
+      const [a, pre, code] = newLi("a", "b", "code"),
+        span = newEl("span"),
+        select = newEl("c-select"),
+        copy = newEl("c-copy");
+
+      options_li.forEach((v) => {
+        const opt = newEl("option");
+        opt.value = opt.textContent = v;
+        select.append(opt);
+      });
+
+      a.setAttribute("value", type);
+      a.append(span, select);
+
+      pre.setAttribute("slot", type);
+      pre.append(code, copy);
+
+      return [
+        a,
+        pre,
+        () => select.value,
+        (txt) => {
+          code.textContent = txt;
+        },
+        (txt) => {
+          span.textContent = txt;
+        }
+      ];
+    },
+    online = makeTab("online", HOST_LI),
+    local = makeTab("local", ["bun", "npx", "deno"]),
+    [tab_el, tab_nav] = newLi("c-tab-select", "nav");
+
+  let current_name = "",
+    has_js = false;
+
+  tab_el.setAttribute("key", KEY);
+  tab_el.setAttribute("value", "online/" + HOST_LI[0]);
+
+  tab_nav.append(online[A], local[A]);
+  tab_el.append(tab_nav, online[PRE], local[PRE]);
+
+  const updateDisplay = () => {
+      if (!current_name) return;
+
+      const host = online[VAL](),
+        pkg = local[VAL](),
+        jsd = jsdUrl(host);
+
+      online[SET_TXT](
+        '<link rel="stylesheet" href="' +
+          jsd +
+          current_name +
+          '/_.css">' +
+          (has_js
+            ? '\n<script type="module">import "' + jsd + current_name + '/_.js"</script>'
+            : "")
+      );
+      local[SET_TXT]((PKG_CMD[pkg] || "") + PKG_VER + "/" + current_name);
+    },
+    render = (name, has_js_flag) => {
+      current_name = name;
+      has_js = has_js_flag;
+      updateDisplay();
+    },
+    updateLang = (i18n) => {
+      online[SET_LANG](i18n[ONLINE]);
+      local[SET_LANG](i18n[LOCAL]);
+    };
+
+  On(tab_el, { change: updateDisplay });
+
+  return [tab_el, render, updateLang];
+};

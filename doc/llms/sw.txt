@@ -1,0 +1,54 @@
+[BoxX](../../src/BoxX/i18n/sw/README.md) : Unda na uonyeshe safu ibukizi na kitufe cha kufunga
+[Code](../../src/Code/i18n/sw/README.md) : kitufe cha nambari
+[Copy](../../src/Copy/i18n/sw/README.md) : Nakili maandishi kwenye ubao wa kunakili
+[Edit](../../src/Edit/i18n/sw/README.md) : kitufe cha kuhariri
+[HtmDemo](../../src/HtmDemo/i18n/sw/README.md) : Kutatua HTML na msimbo wa JS mtandaoni
+[I18n](../../src/I18n/i18n/sw/README.md) : Vifungo na madirisha ibukizi kwa kubadili lugha za kiolesura
+[MdStream](../../src/MdStream/i18n/sw/README.md) : Utoaji wa mtiririko wa maandishi ya Markdown
+[Nav](../../src/Nav/i18n/sw/README.md) : Upau wa kusogeza wa juu ambao huporomoka au kupanuka kiotomatiki ukurasa unaposonga
+[NavL](../../src/NavL/i18n/sw/README.md) : Badili menyu ya kusogeza na kitufe cha kurudi kiotomatiki
+[NavMenu](../../src/NavMenu/i18n/sw/README.md) : Menyu ya kusogeza imebadilishwa kwa ukubwa tofauti wa skrini
+[SelectBtn](../../src/SelectBtn/i18n/sw/README.md) : Mchanganyiko wa kisanduku cha uteuzi kunjuzi na kitufe
+[TabSelect](../../src/TabSelect/i18n/sw/README.md) : Ukurasa wa kichupo ulio na chaguo kunjuzi
+[Btn](../../src/Btn/i18n/sw/README.md) : Kitufe cha kawaida na kitufe cha ikoni ya pande zote
+[Card](../../src/Card/i18n/sw/README.md) : Kadi ya kibonge yenye mshale wa kulia unaoonyeshwa kwa kusimamishwa
+[H1Txt](../../src/H1Txt/i18n/sw/README.md) : Kichwa cha muundo na maelezo
+[Ing](../../src/Ing/i18n/sw/README.md) : Kiashiria cha hali ya upakiaji au usindikaji
+[Input](../../src/Input/i18n/sw/README.md) : Kisanduku cha kuingiza ambacho hubadilisha kiotomati hali ya kishika nafasi
+[Kv](../../src/Kv/i18n/sw/README.md) : jozi ya thamani muhimu
+[Lg](../../src/Lg/i18n/sw/README.md) : Mandharinyuma ya glasi iliyoganda na athari ya kuangazia makali
+[MdCss](../../src/MdCss/i18n/sw/README.md) : Mitindo ya uchapaji iliyoboreshwa kwa matumizi ya usomaji
+[NavALi](../../src/NavALi/i18n/sw/README.md) : Mtindo wa orodha ya upau wa kusogeza
+[O](../../src/O/i18n/sw/README.md) : Chora nembo ya nukta tupu mbele ya kipengele
+[Toast](../../src/Toast/i18n/sw/README.md) : Dirisha ibukizi la haraka kwenye ukingo wa ukurasa
+[404](../../src/404/i18n/sw/README.md) : Njia haipo ukurasa wa ujumbe wa hitilafu
+[Back](../../src/Back/i18n/sw/README.md) : kitufe cha nyuma
+[Box](../../src/Box/i18n/sw/README.md) : Unda na uonyeshe safu ibukizi
+[CardLi](../../src/CardLi/i18n/sw/README.md) : Pakia na uonyeshe orodha ya kadi bila mpangilio
+[Md](../../src/Md/i18n/sw/README.md) : Changanua na utoe maandishi ya Markdown kwa HTML kwa usalama.
+[Pophover](../../src/Pophover/i18n/sw/README.md) : haraka ya Bubble inayoelea
+[Scroll](../../src/Scroll/i18n/sw/README.md) : upau wa kusogeza wa mtandaoni
+[Select](../../src/Select/i18n/sw/README.md) : Chaguo kunjuzi, upana hubadilika kulingana na kipengee cha sasa
+[Side](../../src/Side/i18n/sw/README.md) : Paneli za droo zinazoteleza kutoka upande
+[Tab](../../src/Tab/i18n/sw/README.md) : Vichupo vinavyoweza kubadilishwa
+[On](../sw/js/On.md) : Ufuatiliaji wa tukio unaofunga bechi
+[Toast](../sw/js/Toast.md) : Ujumbe wa pop-up wa toast
+[a](../sw/js/a.md) : Kataza matukio ya kubofya kiungo duniani kote
+[c-t](../sw/js/c-t.md) : HTML kimataifa
+[demo](../sw/js/demo.md) : Uanzishaji wa ukurasa wa onyesho
+[dom](../sw/js/dom.md) : Vifupisho vya kutofautisha vya hati na vitendakazi vya njia za mkato
+[dom/header](../sw/js/dom/header.md) : Unda muundo wa upau wa kichwa wa DOM
+[fetch](../sw/js/fetch.md) : Utendakazi wa zana ya ombi la mtandao kulingana na usimbaji wa kuleta
+[fetchLang](../sw/js/fetchLang.md) : Pakia vifurushi vya lugha bila mpangilio na ufunge simu za kusasisha
+[hashActive](../sw/js/hashActive.md) : Uangaziaji wa kiungo cha kusogeza kulingana na nanga za URL na usogezaji wa kituo cha kutazama
+[i18n](../sw/js/i18n.md) : Usimamizi wa hali ya lugha nyingi na ufuatiliaji wa mabadiliko
+[i18n/init](../sw/js/i18n/init.md) : Usanidi na upakiaji wa uanzishaji wa lugha nyingi
+[i18n/store](../sw/js/i18n/store.md) : Usimamizi wa hifadhi ya ndani wa lugha nyingi
+[icoTip](../sw/js/icoTip.md) : Bainisha na usajili kijenzi cha ikoni na vidokezo vya utangazaji wa kimataifa
+[md/htm](../sw/js/md/htm.md) : Andika maandishi kwa mfuatano wa HTML
+[md/safeHtm](../sw/js/md/safeHtm.md) : Andika maandishi kwa HTML salama
+[md/streamRender](../sw/js/md/streamRender.md) : Utoaji wa kutiririsha Markdown
+[parentScroll](../sw/js/parentScroll.md) : Pata kipengee cha kontena cha kusogeza cha babu
+[rmWait](../sw/js/rmWait.md) : Ondoa uhuishaji wa upakiaji wa awali wa ukurasa
+[route](../sw/js/route.md) : Usimamizi wa uelekezaji wa ukurasa mmoja wa mwisho
+[sandbox](../sw/js/sandbox.md) : Sehemu maalum ya kontena ya Sandbox ya kupakia na kuendesha moduli ndogo kwa kutengwa

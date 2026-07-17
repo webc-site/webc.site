@@ -1,0 +1,7 @@
+desc: Automatycznie określ i przełącz wyświetlanie menu nawigacji lub przycisku Wstecz na podstawie bieżącej trasy
+desktop_title: Wyświetlacz pulpitu
+desktop_desc: Będąc w zadeklarowanej trasie menu, wyświetl kafelki pozycji menu; w przeciwnym razie wyświetl przycisk Wstecz
+mobile_title: Wyświetlacz mobilny
+mobile_desc: Będąc w zadeklarowanej trasie menu, zwija się w ikonę przycisku i obsługuje wysuwanie menu; w przeciwnym razie wyświetla przycisk Wstecz
+normal_state: Stan nawigacji (c-nav-menu)
+back_state: Stan awaryjny (c-back)

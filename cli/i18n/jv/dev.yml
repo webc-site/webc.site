@@ -1,0 +1,4 @@
+usage: "Dianggo: $0 [komponen path]"
+cmdDesc: "Miwiti server pangembangan kanggo komponen WebC"
+pathDesc: "Jalur komponen WebC (contone, src/Box, sampeyan uga bisa nulis kothak)"
+notFound: "Error: Komponen ora ana"

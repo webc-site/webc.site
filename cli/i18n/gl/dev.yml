@@ -1,0 +1,4 @@
+usage: "Uso: $0 [ruta de compoñente]"
+cmdDesc: "Inicie o servidor de desenvolvemento para o compoñente WebC"
+pathDesc: "A ruta do compoñente WebC (por exemplo, src/Box, tamén pode escribir caixa)"
+notFound: "Erro: o compoñente non existe"

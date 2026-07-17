@@ -1,0 +1,4 @@
+usage: "वापर: $0 <project type> <project name>"
+cmdDesc: "नवीन घटक तयार करा"
+typeDesc: "प्रकल्प प्रकार (सीएसएस किंवा जेएस)"
+nameDesc: "प्रकल्पाचे नाव"

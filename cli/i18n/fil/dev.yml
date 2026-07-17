@@ -1,0 +1,4 @@
+usage: "Paggamit: $0 [component path]"
+cmdDesc: "Simulan ang development server para sa bahagi ng WebC"
+pathDesc: "Ang landas ng bahagi ng WebC (halimbawa, src/Box, maaari mo ring isulat ang kahon)"
+notFound: "Error: Hindi umiiral ang bahagi"

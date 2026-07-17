@@ -1,0 +1,18 @@
+# කේත බොත්තම
+
+- කේත නිරූපක බොත්තම අඩංගු වේ
+- Mouse hover prompt code, බහු භාෂා සඳහා සහය දක්වයි
+
+## Demo භාවිතා කරන්න
+
+```html
+<c-code href="https://github.com"></c-code>
+
+<script type="module">
+import "webc.site/Code/_.js";
+</script>
+```
+
+## අතුරුමුහුණත් පරාමිතීන්
+
+සංරචක ලේබලය `<c-code>` වන අතර, කේත පැනීමේ ලිපිනය `href` ගුණාංගය හරහා වින්‍යාස කළ හැක.

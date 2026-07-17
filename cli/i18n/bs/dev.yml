@@ -1,0 +1,4 @@
+usage: "Upotreba: $0 [putanja komponente]"
+cmdDesc: "Pokrenite razvojni server za WebC komponentu"
+pathDesc: "Put WebC komponente (na primjer, src/Box, također možete napisati okvir)"
+notFound: "Greška: Komponenta ne postoji"

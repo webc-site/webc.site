@@ -1,0 +1,7 @@
+desc: Automatisch bepalen en overschakelen naar weergave van het navigatiemenu of de terugknop op basis van de huidige route
+desktop_title: Desktopweergave
+desktop_desc: Wanneer u zich in de aangegeven menuroute bevindt, geeft u de menu-itemtegels weer; geef anders de knop Terug weer
+mobile_title: Mobiel beeldscherm
+mobile_desc: Wanneer u zich in de opgegeven menuroute bevindt, wordt deze samengevouwen tot een pictogramknop en wordt het uitschuiven uit het menu ondersteund; anders wordt een terugknop weergegeven
+normal_state: Navigatiestatus (c-nav-menu)
+back_state: Terugvalstatus (c-back)

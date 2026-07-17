@@ -1,0 +1,54 @@
+[BoxX](../../src/BoxX/i18n/ar/README.md) : قم بإنشاء وعرض طبقة منبثقة باستخدام زر الإغلاق
+[Code](../../src/Code/i18n/ar/README.md) : زر الكود
+[Copy](../../src/Copy/i18n/ar/README.md) : نسخ النص إلى الحافظة
+[Edit](../../src/Edit/i18n/ar/README.md) : زر التحرير
+[HtmDemo](../../src/HtmDemo/i18n/ar/README.md) : تصحيح أخطاء كود HTML وJS عبر الإنترنت
+[I18n](../../src/I18n/i18n/ar/README.md) : الأزرار والنوافذ المنبثقة لتبديل لغات الواجهة
+[MdStream](../../src/MdStream/i18n/ar/README.md) : عرض متدفق للنص Markdown
+[Nav](../../src/Nav/i18n/ar/README.md) : شريط التنقل العلوي الذي يتم طيه أو توسيعه تلقائيًا عند تمرير الصفحة
+[NavL](../../src/NavL/i18n/ar/README.md) : تبديل قائمة التنقل وزر العودة تلقائيًا
+[NavMenu](../../src/NavMenu/i18n/ar/README.md) : قائمة التنقل تتكيف مع أحجام الشاشات المختلفة
+[SelectBtn](../../src/SelectBtn/i18n/ar/README.md) : مزيج من مربع الاختيار المنسدل والزر
+[TabSelect](../../src/TabSelect/i18n/ar/README.md) : صفحة علامة التبويب مع تحديد القائمة المنسدلة
+[Btn](../../src/Btn/i18n/ar/README.md) : زر عادي وزر أيقونة مستديرة
+[Card](../../src/Card/i18n/ar/README.md) : بطاقة كبسولة مع سهم لليمين معروضة في التعليق
+[H1Txt](../../src/H1Txt/i18n/ar/README.md) : عنوان الملمس والوصف
+[Ing](../../src/Ing/i18n/ar/README.md) : مؤشر لحالة التحميل أو المعالجة
+[Input](../../src/Input/i18n/ar/README.md) : مربع الإدخال الذي يقوم بتبديل حالة العنصر النائب تلقائيًا
+[Kv](../../src/Kv/i18n/ar/README.md) : زوج القيمة الرئيسية
+[Lg](../../src/Lg/i18n/ar/README.md) : خلفية زجاجية بلوري وتأثير تسليط الضوء على الحافة
+[MdCss](../../src/MdCss/i18n/ar/README.md) : أنماط الطباعة الأمثل لتجربة القراءة
+[NavALi](../../src/NavALi/i18n/ar/README.md) : نمط قائمة ارتباط شريط التنقل
+[O](../../src/O/i18n/ar/README.md) : ارسم شعارًا بنقطة مجوفة أمام العنصر
+[Toast](../../src/Toast/i18n/ar/README.md) : نافذة منبثقة موجهة على حافة الصفحة
+[404](../../src/404/i18n/ar/README.md) : المسار غير موجود في صفحة رسالة الخطأ
+[Back](../../src/Back/i18n/ar/README.md) : زر العودة
+[Box](../../src/Box/i18n/ar/README.md) : إنشاء وعرض الطبقة المنبثقة
+[CardLi](../../src/CardLi/i18n/ar/README.md) : تحميل وعرض قائمة البطاقات بشكل غير متزامن
+[Md](../../src/Md/i18n/ar/README.md) : تحليل نص Markdown وتقديمه بأمان إلى HTML.
+[Pophover](../../src/Pophover/i18n/ar/README.md) : موجه الفقاعة العائمة
+[Scroll](../../src/Scroll/i18n/ar/README.md) : شريط التمرير الظاهري
+[Select](../../src/Select/i18n/ar/README.md) : اختيار القائمة المنسدلة، يتكيف العرض مع العنصر الحالي
+[Side](../../src/Side/i18n/ar/README.md) : ألواح الأدراج التي تنزلق للخارج من الجانب
+[Tab](../../src/Tab/i18n/ar/README.md) : علامات تبويب قابلة للتحويل
+[On](../ar/js/On.md) : مراقبة أحداث ربط الدُفعات
+[Toast](../ar/js/Toast.md) : نخب رسالة منبثقة موجه
+[a](../ar/js/a.md) : اعتراض أحداث النقر على الارتباط عالميًا
+[c-t](../ar/js/c-t.md) : تدويل HTML
+[demo](../ar/js/demo.md) : تهيئة الصفحة التجريبية
+[dom](../ar/js/dom.md) : توثيق الاختصارات المتغيرة ووظائف الاختصار
+[dom/header](../ar/js/dom/header.md) : قم بإنشاء بنية DOM لشريط الرأس
+[fetch](../ar/js/fetch.md) : وظيفة أداة طلب الشبكة تعتمد على تغليف الجلب
+[fetchLang](../ar/js/fetchLang.md) : تحميل حزم اللغات بشكل غير متزامن وربط عمليات الاسترجاعات للتحديث
+[hashActive](../ar/js/hashActive.md) : تسليط الضوء على رابط التنقل بناءً على نقاط ربط URL وتمرير إطار العرض
+[i18n](../ar/js/i18n.md) : إدارة الحالة متعددة اللغات ومراقبة التغيير
+[i18n/init](../ar/js/i18n/init.md) : تكوين التهيئة والتحميل متعدد اللغات
+[i18n/store](../ar/js/i18n/store.md) : إدارة التخزين المحلي متعدد اللغات
+[icoTip](../ar/js/icoTip.md) : تحديد وتسجيل مكون الرمز مع تلميحات التدويل
+[md/htm](../ar/js/md/htm.md) : نص تخفيض السعر إلى سلسلة HTML
+[md/safeHtm](../ar/js/md/safeHtm.md) : نص تخفيض السعر إلى HTML آمن
+[md/streamRender](../ar/js/md/streamRender.md) : عرض تدفق Markdown
+[parentScroll](../ar/js/parentScroll.md) : احصل على عنصر حاوية التمرير السلف
+[rmWait](../ar/js/rmWait.md) : قم بإزالة الرسوم المتحركة التي تنتظر التحميل الأولي للصفحة
+[route](../ar/js/route.md) : إدارة توجيه الواجهة الأمامية لصفحة واحدة
+[sandbox](../ar/js/sandbox.md) : مكون مخصص لحاوية Sandbox لتحميل الوحدات الفرعية وتشغيلها بشكل منفصل

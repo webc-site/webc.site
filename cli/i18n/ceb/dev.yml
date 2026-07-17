@@ -1,0 +1,4 @@
+usage: "Paggamit: $0 [component path]"
+cmdDesc: "Sugdi ang development server alang sa WebC component"
+pathDesc: "Ang agianan sa WebC component (pananglitan, src/Box, mahimo usab nimo isulat ang kahon)"
+notFound: "Sayop: Wala ang sangkap"
