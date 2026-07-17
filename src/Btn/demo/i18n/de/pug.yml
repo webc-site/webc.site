@@ -1,0 +1,4 @@
+default: Standardschaltfläche
+main: Haupttaste
+link: Link-Button
+icon: Symbolschaltfläche (.BtnC)

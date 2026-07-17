@@ -1,0 +1,4 @@
+usage: "Použitie: $0 <typ projektu> <názov projektu>"
+cmdDesc: "Vytvorte nový komponent"
+typeDesc: "Typ projektu (css alebo js)"
+nameDesc: "Názov projektu"

@@ -1,0 +1,4 @@
+usage: "Paggamit: $0 <matang sa proyekto> <ngalan sa proyekto>"
+cmdDesc: "Paghimo bag-ong component"
+typeDesc: "Matang sa proyekto (css o js)"
+nameDesc: "Ngalan sa proyekto"

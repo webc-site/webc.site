@@ -1,0 +1,38 @@
+basicTitle: Stile essenziale
+bold: Grassetto
+italic: corsivo
+del: barrato
+inlineCode: codice in linea
+linkPrefix: C'è del testo prima e dopo il collegamento, come ad esempio
+link: Sito ufficiale delle Nazioni Unite
+linkSuffix: è un collegamento.
+quoteSingle: Questa è una citazione di una sola riga.
+quoteMultiLine1: Questa è una citazione su più righe.
+quoteMultiLine2: Un effetto visivo per la visualizzazione di riferimenti su più righe.
+note: Messaggi e note generali
+tip: Consigli e consigli utili
+important: Suggerimenti e preoccupazioni importanti
+warning: Avvertenze e precauzioni sui rischi
+caution: AVVERTENZA DI PERICOLO E RISCHIO ESTREMO
+listTitle: Citazioni ed elenchi
+taskTitle: elenco attività
+todoItem: Questa è un'attività CSS incompiuta
+doneItem: Questa è un'attività CSS completata
+ulItem1: Primo articolo non ordinato
+ulSubItem1: Elemento secondario uno non ordinato
+ulSubItem2: Elemento secondario due non ordinato
+ulItem2: Secondo articolo non ordinato
+olItem1: Primo articolo ordinato
+olSubItem1: Articolo ordinato uno
+olSubItem2: Articolo secondario ordinato due
+olItem2: Secondo mandato ordinato
+tableTitle: foglio
+col1: progetto
+col2: stato
+col3: punto
+row1Col1: statico
+row1Col2: Completato
+row2Col1: streaming
+row2Col2: Rendering
+codeTitle: blocco di codice
+imageTitle: immagine

@@ -1,0 +1,46 @@
+open: Otwórz pasek boczny
+userName: Geek Walker
+userTitle: Starszy projektant stron internetowych
+statFollowers: Abonent
+statFollowing: skupić się na
+statProjects: projekt
+groupCore: Podstawowe funkcje
+groupSystem: Zarządzanie systemem
+groupData: analiza danych
+groupCollaboration: Praca zespołowa
+widgetTitle: Wykorzystanie przestrzeni dyskowej
+widgetTasks: Moje zadania do wykonania
+task1: Kompletny interaktywny rozwój Side
+task2: Projekt Płynna estetyka wizualna
+task3: Zoptymalizuj użyteczność i szczegóły komponentów
+navHome: Strona główna panelu kontrolnego
+navProfile: Centrum osobiste
+navSettings: Ustawienia systemowe
+navMessages: Wiadomości z witryny
+navNotifications: Przypomnienie o powiadomieniu
+navPrivacy: Prywatność i bezpieczeństwo
+navHelp: Pomoc i opinie
+navAnalytics: raport z analizy
+navCloud: Miejsce do przechowywania w chmurze
+navTeam: członek zespołu
+navTasks: Koordynacja zadań
+logout: Wyloguj się
+upgradeTitle: Uaktualnij do wersji profesjonalnej
+upgradeDesc: Odblokuj nieograniczone miejsce w chmurze i zaawansowaną współpracę
+upgradeBtn: Uaktualnij teraz
+task4: Przejrzyj zobowiązania PR i połącz oddziały
+task5: Zapisz dziennik wydania nowej wersji WebC
+widgetOnline: Członkowie zespołu online
+member1: Lisa
+member2: Dawid
+member3: Anna
+statusOnline: w Internecie
+statusOffline: Nieaktywny
+statusBusy: Zajęty
+widgetFiles: najnowsze pliki
+file1: Specyfikacja projektu produktu v2.4.pdf
+file2: Projekt planu na trzeci kwartał 2026 r.docx
+file3: Demonstracja animacji komponentów.mp4
+tagDesign: projekt
+tagDev: rozwijać
+tagPm: produkt

@@ -1,0 +1,4 @@
+usage: "Użu: $0 <tip ta' proġett> <isem tal-proġett>"
+cmdDesc: "Oħloq komponent ġdid"
+typeDesc: "Tip ta' proġett (css jew js)"
+nameDesc: "Isem tal-proġett"

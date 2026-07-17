@@ -1,0 +1,4 @@
+usage: "استعمال: $0 <project type> <project name>"
+cmdDesc: "نیا جزو بنائیں"
+typeDesc: "پروجیکٹ کی قسم (سی ایس ایس یا جے ایس)"
+nameDesc: "پروجیکٹ کا نام"

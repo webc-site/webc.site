@@ -1,0 +1,54 @@
+[BoxX](../../src/BoxX/i18n/fa/README.md) : یک لایه بازشو با دکمه بستن ایجاد و نمایش دهید
+[Code](../../src/Code/i18n/fa/README.md) : دکمه کد
+[Copy](../../src/Copy/i18n/fa/README.md) : متن را در کلیپ بورد کپی کنید
+[Edit](../../src/Edit/i18n/fa/README.md) : دکمه ویرایش
+[HtmDemo](../../src/HtmDemo/i18n/fa/README.md) : اشکال زدایی کدهای HTML و JS به صورت آنلاین
+[I18n](../../src/I18n/i18n/fa/README.md) : دکمه ها و پنجره های پاپ آپ برای تغییر زبان های رابط
+[MdStream](../../src/MdStream/i18n/fa/README.md) : رندر جریانی متن Markdown
+[Nav](../../src/Nav/i18n/fa/README.md) : نوار پیمایش بالا که به طور خودکار با پیمایش صفحه جمع می‌شود یا بزرگ می‌شود
+[NavL](../../src/NavL/i18n/fa/README.md) : تغییر خودکار منوی ناوبری و دکمه بازگشت
+[NavMenu](../../src/NavMenu/i18n/fa/README.md) : منوی ناوبری متناسب با اندازه های مختلف صفحه نمایش
+[SelectBtn](../../src/SelectBtn/i18n/fa/README.md) : ترکیبی از جعبه انتخاب کشویی و دکمه
+[TabSelect](../../src/TabSelect/i18n/fa/README.md) : صفحه برگه با انتخاب کشویی
+[Btn](../../src/Btn/i18n/fa/README.md) : دکمه معمولی و دکمه آیکون گرد
+[Card](../../src/Card/i18n/fa/README.md) : کارت کپسول با فلش سمت راست در حالت تعلیق نمایش داده می شود
+[H1Txt](../../src/H1Txt/i18n/fa/README.md) : عنوان بافت و توضیحات
+[Ing](../../src/Ing/i18n/fa/README.md) : نشانگر وضعیت بارگیری یا پردازش
+[Input](../../src/Input/i18n/fa/README.md) : کادر ورودی که به طور خودکار وضعیت نگهدارنده مکان را تغییر می دهد
+[Kv](../../src/Kv/i18n/fa/README.md) : جفت ارزش کلیدی
+[Lg](../../src/Lg/i18n/fa/README.md) : پس زمینه شیشه مات و جلوه برجسته لبه
+[MdCss](../../src/MdCss/i18n/fa/README.md) : سبک های تایپوگرافی برای تجربه خواندن بهینه شده است
+[NavALi](../../src/NavALi/i18n/fa/README.md) : سبک لیست پیوند نوار پیمایش
+[O](../../src/O/i18n/fa/README.md) : یک لوگو نقطه توخالی در جلوی عنصر بکشید
+[Toast](../../src/Toast/i18n/fa/README.md) : پنجره پاپ آپ را در لبه صفحه نمایش دهید
+[404](../../src/404/i18n/fa/README.md) : مسیر وجود ندارد صفحه پیام خطا
+[Back](../../src/Back/i18n/fa/README.md) : دکمه برگشت
+[Box](../../src/Box/i18n/fa/README.md) : ایجاد و نمایش لایه بازشو
+[CardLi](../../src/CardLi/i18n/fa/README.md) : لیست کارت را به صورت ناهمزمان بارگیری و نمایش دهید
+[Md](../../src/Md/i18n/fa/README.md) : متن Markdown را با خیال راحت تجزیه و رندر کنید.
+[Pophover](../../src/Pophover/i18n/fa/README.md) : اعلان حباب شناور
+[Scroll](../../src/Scroll/i18n/fa/README.md) : نوار پیمایش مجازی
+[Select](../../src/Select/i18n/fa/README.md) : انتخاب کشویی، عرض با مورد فعلی سازگار می شود
+[Side](../../src/Side/i18n/fa/README.md) : پانل های کشو که از کناره بیرون می آیند
+[Tab](../../src/Tab/i18n/fa/README.md) : زبانه های قابل تعویض
+[On](../fa/js/On.md) : نظارت بر رویداد الزام آور دسته ای
+[Toast](../fa/js/Toast.md) : اعلان پیام پاپ آپ نان تست
+[a](../fa/js/a.md) : رهگیری جهانی رویدادهای کلیک پیوند
+[c-t](../fa/js/c-t.md) : بین المللی سازی HTML
+[demo](../fa/js/demo.md) : مقداردهی اولیه صفحه نمایشی
+[dom](../fa/js/dom.md) : اختصارات متغیر و توابع میانبر را مستند کنید
+[dom/header](../fa/js/dom/header.md) : ساختار DOM نوار هدر را ایجاد کنید
+[fetch](../fa/js/fetch.md) : عملکرد ابزار درخواست شبکه بر اساس کپسولاسیون واکشی
+[fetchLang](../fa/js/fetchLang.md) : بسته‌های زبان را به‌طور ناهمزمان بارگیری کنید و تماس‌های به‌روزرسانی را پیوند دهید
+[hashActive](../fa/js/hashActive.md) : برجسته کردن پیوند ناوبری بر اساس لنگرهای URL و پیمایش درگاه دید
+[i18n](../fa/js/i18n.md) : مدیریت وضعیت چند زبانه و نظارت بر تغییرات
+[i18n/init](../fa/js/i18n/init.md) : پیکربندی و بارگذاری مقداردهی اولیه چند زبانه
+[i18n/store](../fa/js/i18n/store.md) : مدیریت ذخیره سازی محلی چند زبانه
+[icoTip](../fa/js/icoTip.md) : یک جزء نماد را با نکات بین المللی تعریف و ثبت کنید
+[md/htm](../fa/js/md/htm.md) : علامت گذاری متن به رشته HTML
+[md/safeHtm](../fa/js/md/safeHtm.md) : علامت گذاری متن به HTML ایمن
+[md/streamRender](../fa/js/md/streamRender.md) : رندر جریان Markdown
+[parentScroll](../fa/js/parentScroll.md) : عنصر ظرف اسکرول اجداد را دریافت کنید
+[rmWait](../fa/js/rmWait.md) : انیمیشن انتظار بارگذاری اولیه صفحه را حذف کنید
+[route](../fa/js/route.md) : مدیریت مسیریابی جلویی تک صفحه ای
+[sandbox](../fa/js/sandbox.md) : جزء سفارشی کانتینر Sandbox برای بارگیری و اجرای زیر ماژول ها به صورت مجزا

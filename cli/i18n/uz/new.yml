@@ -1,0 +1,4 @@
+usage: "Foydalanish: $0 <loyiha turi> <loyiha nomi>"
+cmdDesc: "Yangi komponent yarating"
+typeDesc: "Loyiha turi (CSS yoki JS)"
+nameDesc: "Loyiha nomi"

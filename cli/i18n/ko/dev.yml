@@ -1,0 +1,4 @@
+usage: "사용법: $0 [컴포넌트 경로]"
+cmdDesc: "WebC 구성요소용 개발 서버 시작"
+pathDesc: "WebC 구성 요소의 경로(예: src/Box, box라고 쓸 수도 있음)"
+notFound: "오류: 구성요소가 존재하지 않습니다."

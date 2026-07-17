@@ -1,0 +1,54 @@
+[BoxX](../../src/BoxX/i18n/es/README.md) : Crear y mostrar una capa emergente con un botón de cerrar
+[Code](../../src/Code/i18n/es/README.md) : botón de código
+[Copy](../../src/Copy/i18n/es/README.md) : Copiar texto al portapapeles
+[Edit](../../src/Edit/i18n/es/README.md) : botón editar
+[HtmDemo](../../src/HtmDemo/i18n/es/README.md) : Depuración de código HTML y JS en línea
+[I18n](../../src/I18n/i18n/es/README.md) : Botones y ventanas emergentes para cambiar el idioma de la interfaz
+[MdStream](../../src/MdStream/i18n/es/README.md) : Representación en streaming de texto Markdown
+[Nav](../../src/Nav/i18n/es/README.md) : Barra de navegación superior que se contrae o expande automáticamente cuando se desplaza la página
+[NavL](../../src/NavL/i18n/es/README.md) : Cambiar automáticamente el menú de navegación y el botón de retorno
+[NavMenu](../../src/NavMenu/i18n/es/README.md) : Menú de navegación adaptado a diferentes tamaños de pantalla
+[SelectBtn](../../src/SelectBtn/i18n/es/README.md) : Combinación de cuadro de selección desplegable y botón
+[TabSelect](../../src/TabSelect/i18n/es/README.md) : Página de pestaña con selección desplegable
+[Btn](../../src/Btn/i18n/es/README.md) : Botón ordinario y botón de icono redondo.
+[Card](../../src/Card/i18n/es/README.md) : Tarjeta cápsula con flecha hacia la derecha mostrada en suspensión
+[H1Txt](../../src/H1Txt/i18n/es/README.md) : Título y descripción de la textura.
+[Ing](../../src/Ing/i18n/es/README.md) : Indicador de estado de carga o procesamiento.
+[Input](../../src/Input/i18n/es/README.md) : Cuadro de entrada que cambia automáticamente el estado del marcador de posición
+[Kv](../../src/Kv/i18n/es/README.md) : par clave-valor
+[Lg](../../src/Lg/i18n/es/README.md) : Fondo de vidrio esmerilado y efecto de resaltado de borde
+[MdCss](../../src/MdCss/i18n/es/README.md) : Estilos de tipografía optimizados para la experiencia de lectura.
+[NavALi](../../src/NavALi/i18n/es/README.md) : Estilo de lista de enlaces de la barra de navegación
+[O](../../src/O/i18n/es/README.md) : Dibuja un logotipo de punto hueco delante del elemento.
+[Toast](../../src/Toast/i18n/es/README.md) : Ventana emergente emergente en el borde de la página
+[404](../../src/404/i18n/es/README.md) : La ruta no existe página de mensaje de error
+[Back](../../src/Back/i18n/es/README.md) : botón de retroceso
+[Box](../../src/Box/i18n/es/README.md) : Crear y mostrar capa emergente
+[CardLi](../../src/CardLi/i18n/es/README.md) : Cargar y mostrar la lista de tarjetas de forma asincrónica
+[Md](../../src/Md/i18n/es/README.md) : Analice y renderice de forma segura texto Markdown a HTML.
+[Pophover](../../src/Pophover/i18n/es/README.md) : mensaje de burbuja flotante
+[Scroll](../../src/Scroll/i18n/es/README.md) : barra de desplazamiento virtual
+[Select](../../src/Select/i18n/es/README.md) : Selección desplegable, el ancho se adapta al elemento actual
+[Side](../../src/Side/i18n/es/README.md) : Paneles de cajones que se deslizan hacia afuera desde el costado
+[Tab](../../src/Tab/i18n/es/README.md) : Pestañas intercambiables
+[On](../es/js/On.md) : Monitoreo de eventos de enlace por lotes
+[Toast](../es/js/Toast.md) : Mensaje emergente de brindis
+[a](../es/js/a.md) : Interceptar globalmente eventos de clic en enlaces
+[c-t](../es/js/c-t.md) : Internacionalización HTML
+[demo](../es/js/demo.md) : Inicialización de la página de demostración
+[dom](../es/js/dom.md) : Documentar abreviaturas de variables y funciones de acceso directo
+[dom/header](../es/js/dom/header.md) : Crear la estructura DOM de la barra de encabezado
+[fetch](../es/js/fetch.md) : Función de herramienta de solicitud de red basada en encapsulación de recuperación
+[fetchLang](../es/js/fetchLang.md) : Cargue paquetes de idiomas de forma asincrónica y vincule devoluciones de llamadas de actualización
+[hashActive](../es/js/hashActive.md) : Resaltado de enlaces de navegación basado en anclajes de URL y desplazamiento en la ventana gráfica
+[i18n](../es/js/i18n.md) : Gestión de estado en varios idiomas y seguimiento de cambios
+[i18n/init](../es/js/i18n/init.md) : Configuración y carga de inicialización en varios idiomas
+[i18n/store](../es/js/i18n/store.md) : Gestión de almacenamiento local multilingüe
+[icoTip](../es/js/icoTip.md) : Definir y registrar un componente de icono con sugerencias de internacionalización.
+[md/htm](../es/js/md/htm.md) : Texto de rebajas a cadena HTML
+[md/safeHtm](../es/js/md/safeHtm.md) : Texto Markdown para HTML seguro
+[md/streamRender](../es/js/md/streamRender.md) : Representación de transmisión de rebajas
+[parentScroll](../es/js/parentScroll.md) : Obtener el elemento contenedor de desplazamiento de ancestros
+[rmWait](../es/js/rmWait.md) : Eliminar la animación de espera de carga inicial de la página
+[route](../es/js/route.md) : Gestión de enrutamiento front-end de una sola página
+[sandbox](../es/js/sandbox.md) : Componente personalizado del contenedor Sandbox para cargar y ejecutar submódulos de forma aislada

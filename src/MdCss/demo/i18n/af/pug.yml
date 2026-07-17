@@ -1,0 +1,38 @@
+basicTitle: Basiese styl
+bold: Vet
+italic: kursief
+del: deurhaal
+inlineCode: inlyn kode
+linkPrefix: Daar is teks voor en na die skakel, soos
+link: Verenigde Nasies se amptelike webwerf
+linkSuffix: is 'n skakel.
+quoteSingle: Dit is 'n enkele reël aanhaling.
+quoteMultiLine1: Dit is 'n multi-reël aanhaling.
+quoteMultiLine2: 'n Visuele effek vir die vertoon van multi-lyn verwysings.
+note: Algemene boodskappe en notas
+tip: Wenke en nuttige wenke
+important: Belangrike wenke en bekommernisse
+warning: Risiko waarskuwings en voorsorgmaatreëls
+caution: GEVAAR EN UITERSTE RISIKO WAARSKUWING
+listTitle: Aanhalings en lyste
+taskTitle: taaklys
+todoItem: Dit is 'n onvoltooide CSS-taak
+doneItem: Dit is 'n voltooide CSS-taak
+ulItem1: Ongeordende eerste item
+ulSubItem1: Ongeordende subitem een
+ulSubItem2: Ongeordende subitem twee
+ulItem2: Ongeordende tweede item
+olItem1: Eerste item bestel
+olSubItem1: Bestel item een
+olSubItem2: Bestel subitem twee
+olItem2: Tweede kwartaal bestel
+tableTitle: blad
+col1: projek
+col2: staat
+col3: telling
+row1Col1: staties
+row1Col2: Voltooi
+row2Col1: stroom
+row2Col2: Weervertoning
+codeTitle: kode blok
+imageTitle: prentjie

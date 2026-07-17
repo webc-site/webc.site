@@ -1,0 +1,4 @@
+usage: "Uporaba: $0 [pot komponente]"
+cmdDesc: "Zaženite razvojni strežnik za komponento WebC"
+pathDesc: "Pot komponente WebC (na primer src/Box, lahko napišete tudi box)"
+notFound: "Napaka: komponenta ne obstaja"

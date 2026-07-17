@@ -1,0 +1,4 @@
+usage: "İstifadə: $0 <layihə növü> <layihə adı>"
+cmdDesc: "Yeni komponent yaradın"
+typeDesc: "Layihə növü (css və ya js)"
+nameDesc: "Layihənin adı"
