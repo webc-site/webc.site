@@ -1,0 +1,4 @@
+usage: "Erabilera: $0 [osagaiaren bidea]"
+cmdDesc: "Hasi WebC osagaiaren garapen zerbitzaria"
+pathDesc: "WebC osagaiaren bidea (adibidez, src/Box, kutxa ere idatzi dezakezu)"
+notFound: "Errorea: osagaia ez dago"

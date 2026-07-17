@@ -1,0 +1,4 @@
+usage: "Bruk: $0 [komponentbane]"
+cmdDesc: "Start utviklingsserveren for WebC-komponenten"
+pathDesc: "Banen til WebC-komponenten (for eksempel src/Box, du kan også skrive boks)"
+notFound: "Feil: Komponent eksisterer ikke"

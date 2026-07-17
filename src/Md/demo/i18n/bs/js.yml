@@ -1,0 +1,60 @@
+mdContent: |
+  # Markdown prezentacijski dokument
+  Ovo je demonstracija **statičnog renderiranja**.
+  ## Osnovni stil
+  - **Podebljano** i *kurziv*
+  - ~~precrtano~~
+  - `inline_code` inline kod
+  - [Službena web stranica Ujedinjenih nacija](https://un.org) Demonstracija veze
+  ## Citati i liste
+  > Ovo je jednoredni citat.
+
+  > Ovo je višeredni citat.
+  > Vizualni efekat za prikaz višelinijskih referenci.
+
+  - Nenaručena prva stavka
+    - Nenaručena podstavka jedan
+    - Nenaručena podstavka dva
+  - Nenaručena druga stavka
+
+  > [!NOTE]
+  > `> [!NOTE]` Općenite poruke i bilješke
+
+  > [!TIP]
+  > `> [!TIP]` Savjeti i korisni savjeti
+
+  > [!IMPORTANT]
+  > `> [!IMPORTANT]` Važni savjeti i nedoumice
+
+  > [!WARNING]
+  > `> [!WARNING]` Upozorenja i napomene o rizicima
+
+  > [!CAUTION]
+  > `> [!CAUTION]` UPOZORENJE NA OPASNOST I EKSTREMNI RIZIK
+
+  ---
+
+  ## lista zadataka
+  - [ ] Ovo je nedovršena lista zadataka
+  - [x] Ovo je završen zadatak liste
+  - [X] Ovo je završen zadatak liste (velika slova X)
+
+  ---
+
+  1. Naručena prva stvar
+     1. Naručena stavka jedan
+     2. Naručena podstavka dva
+  2. Naručen drugi mandat
+  ## list
+  | projekat | stanje | rezultat |
+  | :--- | :---: | ---: |
+  | statički | Završeno | 100 |
+  | streaming | Rendering | 95 |
+  ## blok koda
+  ```js
+  const hello = () => {
+    console.log("Hello, WebC!");
+  };
+  ```
+  ## slika
+  ![Demo slika](https://i-01.eu.org/demo-green.avif)

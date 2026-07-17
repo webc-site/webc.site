@@ -1,0 +1,54 @@
+[BoxX](../../src/BoxX/i18n/ur/README.md) : بند بٹن کے ساتھ ایک پاپ اپ پرت بنائیں اور ڈسپلے کریں۔
+[Code](../../src/Code/i18n/ur/README.md) : کوڈ بٹن
+[Copy](../../src/Copy/i18n/ur/README.md) : متن کو کلپ بورڈ میں کاپی کریں۔
+[Edit](../../src/Edit/i18n/ur/README.md) : ترمیم کے بٹن
+[HtmDemo](../../src/HtmDemo/i18n/ur/README.md) : HTML اور JS کوڈ کو آن لائن ڈیبگ کرنا
+[I18n](../../src/I18n/i18n/ur/README.md) : انٹرفیس کی زبانوں کو تبدیل کرنے کے لیے بٹن اور پاپ اپ ونڈوز
+[MdStream](../../src/MdStream/i18n/ur/README.md) : مارک ڈاؤن ٹیکسٹ کی سٹریمنگ رینڈرنگ
+[Nav](../../src/Nav/i18n/ur/README.md) : ٹاپ نیویگیشن بار جو صفحہ سکرول ہونے پر خود بخود منہدم یا پھیل جاتا ہے۔
+[NavL](../../src/NavL/i18n/ur/README.md) : نیویگیشن مینو اور ریٹرن بٹن کو خودکار طور پر سوئچ کریں۔
+[NavMenu](../../src/NavMenu/i18n/ur/README.md) : نیویگیشن مینو اسکرین کے مختلف سائز کے مطابق ڈھال لیا گیا۔
+[SelectBtn](../../src/SelectBtn/i18n/ur/README.md) : ڈراپ ڈاؤن سلیکشن باکس اور بٹن کا امتزاج
+[TabSelect](../../src/TabSelect/i18n/ur/README.md) : ڈراپ ڈاؤن انتخاب کے ساتھ ٹیب صفحہ
+[Btn](../../src/Btn/i18n/ur/README.md) : عام بٹن اور گول آئیکن بٹن
+[Card](../../src/Card/i18n/ur/README.md) : دائیں تیر کے ساتھ کیپسول کارڈ معطلی میں دکھایا گیا ہے۔
+[H1Txt](../../src/H1Txt/i18n/ur/README.md) : ساخت کا عنوان اور تفصیل
+[Ing](../../src/Ing/i18n/ur/README.md) : لوڈنگ یا پروسیسنگ کی حیثیت کا اشارہ
+[Input](../../src/Input/i18n/ur/README.md) : ان پٹ باکس جو خود بخود پلیس ہولڈر کی حالت کو تبدیل کرتا ہے۔
+[Kv](../../src/Kv/i18n/ur/README.md) : کلیدی قدر جوڑی
+[Lg](../../src/Lg/i18n/ur/README.md) : فراسٹڈ شیشے کا پس منظر اور کنارے نمایاں اثر
+[MdCss](../../src/MdCss/i18n/ur/README.md) : نوع ٹائپ کی طرزیں پڑھنے کے تجربے کے لیے موزوں ہیں۔
+[NavALi](../../src/NavALi/i18n/ur/README.md) : نیویگیشن بار لنک لسٹ اسٹائل
+[O](../../src/O/i18n/ur/README.md) : عنصر کے سامنے ایک کھوکھلی ڈاٹ لوگو کھینچیں۔
+[Toast](../../src/Toast/i18n/ur/README.md) : صفحہ کے کنارے پر فوری پاپ اپ ونڈو
+[404](../../src/404/i18n/ur/README.md) : پاتھ موجود نہیں ہے غلطی کے پیغام کا صفحہ
+[Back](../../src/Back/i18n/ur/README.md) : واپس بٹن
+[Box](../../src/Box/i18n/ur/README.md) : پاپ اپ پرت بنائیں اور ڈسپلے کریں۔
+[CardLi](../../src/CardLi/i18n/ur/README.md) : کارڈ کی فہرست کو متضاد طور پر لوڈ اور ڈسپلے کریں۔
+[Md](../../src/Md/i18n/ur/README.md) : مارک ڈاؤن ٹیکسٹ کو HTML میں محفوظ طریقے سے پارس اور رینڈر کریں۔
+[Pophover](../../src/Pophover/i18n/ur/README.md) : تیرتا ہوا بلبلا پرامپٹ
+[Scroll](../../src/Scroll/i18n/ur/README.md) : ورچوئل اسکرول بار
+[Select](../../src/Select/i18n/ur/README.md) : ڈراپ ڈاؤن انتخاب، چوڑائی موجودہ آئٹم کے مطابق ہوتی ہے۔
+[Side](../../src/Side/i18n/ur/README.md) : دراز کے پینل جو سائیڈ سے باہر نکلتے ہیں۔
+[Tab](../../src/Tab/i18n/ur/README.md) : سوئچ ایبل ٹیبز
+[On](../ur/js/On.md) : بیچ بائنڈنگ ایونٹ کی نگرانی
+[Toast](../ur/js/Toast.md) : ٹوسٹ پاپ اپ میسج پرامپٹ
+[a](../ur/js/a.md) : عالمی سطح پر لنک کلک کے واقعات کو روکیں۔
+[c-t](../ur/js/c-t.md) : HTML بین الاقوامی کاری
+[demo](../ur/js/demo.md) : ڈیمو صفحہ کی شروعات
+[dom](../ur/js/dom.md) : دستاویز متغیر مخففات اور شارٹ کٹ فنکشنز
+[dom/header](../ur/js/dom/header.md) : ہیڈر بار DOM ڈھانچہ بنائیں
+[fetch](../ur/js/fetch.md) : نیٹ ورک کی درخواست کے آلے کا فنکشن بازیافت انکیپسولیشن پر مبنی ہے۔
+[fetchLang](../ur/js/fetchLang.md) : غیر مطابقت پذیر طور پر زبان کے پیک لوڈ کریں اور اپ ڈیٹ کال بیکس کو پابند کریں۔
+[hashActive](../ur/js/hashActive.md) : یو آر ایل اینکرز اور ویو پورٹ اسکرولنگ پر مبنی نیویگیشن لنک کو نمایاں کرنا
+[i18n](../ur/js/i18n.md) : کثیر زبان کی حیثیت کا انتظام اور تبدیلی کی نگرانی
+[i18n/init](../ur/js/i18n/init.md) : کثیر زبان کی ابتدائی ترتیب اور لوڈنگ
+[i18n/store](../ur/js/i18n/store.md) : کثیر لسانی مقامی اسٹوریج مینجمنٹ
+[icoTip](../ur/js/icoTip.md) : بین الاقوامی کاری کے اشارے کے ساتھ ایک آئیکن جزو کی وضاحت اور رجسٹر کریں۔
+[md/htm](../ur/js/md/htm.md) : HTML سٹرنگ میں متن کو نشان زد کریں۔
+[md/safeHtm](../ur/js/md/safeHtm.md) : محفوظ HTML میں متن کو نشان زد کریں۔
+[md/streamRender](../ur/js/md/streamRender.md) : مارک ڈاؤن اسٹریمنگ رینڈرنگ
+[parentScroll](../ur/js/parentScroll.md) : اجداد اسکرول کنٹینر عنصر حاصل کریں۔
+[rmWait](../ur/js/rmWait.md) : صفحہ کی ابتدائی لوڈنگ ویٹنگ اینیمیشن کو ہٹا دیں۔
+[route](../ur/js/route.md) : سنگل پیج فرنٹ اینڈ روٹنگ مینجمنٹ
+[sandbox](../ur/js/sandbox.md) : سینڈ باکس کنٹینر الگ تھلگ میں سب موڈیول لوڈ کرنے اور چلانے کے لیے حسب ضرورت جزو

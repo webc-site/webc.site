@@ -1,0 +1,4 @@
+usage: "Dianggo: $0 <jinis proyek> <jeneng proyek>"
+cmdDesc: "Nggawe komponen anyar"
+typeDesc: "Jinis proyek (css utawa js)"
+nameDesc: "Jeneng proyek"

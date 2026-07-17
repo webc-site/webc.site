@@ -1,0 +1,4 @@
+usage: "Notkun: $0 [slóð íhluta]"
+cmdDesc: "Ræstu þróunarþjóninn fyrir WebC íhlutinn"
+pathDesc: "Slóð WebC íhlutans (til dæmis src/Box, þú getur líka skrifað reit)"
+notFound: "Villa: Íhlutur er ekki til"

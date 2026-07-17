@@ -1,0 +1,1 @@
+# Notaðu íhluti

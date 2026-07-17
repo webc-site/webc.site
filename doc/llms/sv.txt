@@ -1,0 +1,54 @@
+[BoxX](../../src/BoxX/i18n/sv/README.md) : Skapa och visa ett popup-lager med en stängningsknapp
+[Code](../../src/Code/i18n/sv/README.md) : kodknapp
+[Copy](../../src/Copy/i18n/sv/README.md) : Kopiera text till urklipp
+[Edit](../../src/Edit/i18n/sv/README.md) : redigera knappen
+[HtmDemo](../../src/HtmDemo/i18n/sv/README.md) : Felsökning av HTML och JS-kod online
+[I18n](../../src/I18n/i18n/sv/README.md) : Knappar och popup-fönster för att byta gränssnittsspråk
+[MdStream](../../src/MdStream/i18n/sv/README.md) : Strömmande rendering av Markdown-text
+[Nav](../../src/Nav/i18n/sv/README.md) : Översta navigeringsfältet som automatiskt kollapsar eller expanderar när sidan rullar
+[NavL](../../src/NavL/i18n/sv/README.md) : Växla automatiskt navigationsmeny och returknapp
+[NavMenu](../../src/NavMenu/i18n/sv/README.md) : Navigationsmeny anpassad till olika skärmstorlekar
+[SelectBtn](../../src/SelectBtn/i18n/sv/README.md) : Kombination av rullgardinsvalsruta och knapp
+[TabSelect](../../src/TabSelect/i18n/sv/README.md) : Fliksida med rullgardinsval
+[Btn](../../src/Btn/i18n/sv/README.md) : Vanlig knapp och rund ikonknapp
+[Card](../../src/Card/i18n/sv/README.md) : Kapselkort med högerpil visas i suspension
+[H1Txt](../../src/H1Txt/i18n/sv/README.md) : Textur titel och beskrivning
+[Ing](../../src/Ing/i18n/sv/README.md) : Indikator för laddnings- eller bearbetningsstatus
+[Input](../../src/Input/i18n/sv/README.md) : Inmatningsruta som automatiskt byter platshållarstatus
+[Kv](../../src/Kv/i18n/sv/README.md) : nyckelvärdespar
+[Lg](../../src/Lg/i18n/sv/README.md) : Frostat glasbakgrund och kantmarkeringseffekt
+[MdCss](../../src/MdCss/i18n/sv/README.md) : Typografistilar optimerade för läsupplevelse
+[NavALi](../../src/NavALi/i18n/sv/README.md) : Länkliststil i navigeringsfältet
+[O](../../src/O/i18n/sv/README.md) : Rita en ihålig pricklogotyp framför elementet
+[Toast](../../src/Toast/i18n/sv/README.md) : Snabbfönster i kanten av sidan
+[404](../../src/404/i18n/sv/README.md) : Sökvägen finns inte felmeddelandesida
+[Back](../../src/Back/i18n/sv/README.md) : tillbaka-knappen
+[Box](../../src/Box/i18n/sv/README.md) : Skapa och visa popup-lager
+[CardLi](../../src/CardLi/i18n/sv/README.md) : Ladda och visa kortlistan asynkront
+[Md](../../src/Md/i18n/sv/README.md) : Analysera och återge Markdown-text på ett säkert sätt till HTML.
+[Pophover](../../src/Pophover/i18n/sv/README.md) : flytande bubbla prompt
+[Scroll](../../src/Scroll/i18n/sv/README.md) : virtuell rullningslist
+[Select](../../src/Select/i18n/sv/README.md) : Rullgardinsval, bredd anpassar sig till aktuellt objekt
+[Side](../../src/Side/i18n/sv/README.md) : Lådpaneler som glider ut från sidan
+[Tab](../../src/Tab/i18n/sv/README.md) : Växlingsbara flikar
+[On](../sv/js/On.md) : Övervakning av batchbindande händelser
+[Toast](../sv/js/Toast.md) : Toast popup-meddelande prompt
+[a](../sv/js/a.md) : Globalt fånga länkklickhändelser
+[c-t](../sv/js/c-t.md) : HTML internationalisering
+[demo](../sv/js/demo.md) : Initiering av demosidan
+[dom](../sv/js/dom.md) : Dokumentvariable förkortningar och genvägsfunktioner
+[dom/header](../sv/js/dom/header.md) : Skapa rubrikfältets DOM-struktur
+[fetch](../sv/js/fetch.md) : Nätverksbegäran verktygsfunktion baserad på hämta inkapsling
+[fetchLang](../sv/js/fetchLang.md) : Ladda språkpaket asynkront och bind uppdateringsåteruppringningar
+[hashActive](../sv/js/hashActive.md) : Markering av navigeringslänk baserad på URL-ankare och rullning av visningsport
+[i18n](../sv/js/i18n.md) : Flerspråkig statushantering och förändringsövervakning
+[i18n/init](../sv/js/i18n/init.md) : Flerspråkig initieringskonfiguration och laddning
+[i18n/store](../sv/js/i18n/store.md) : Flerspråkig lokal lagringshantering
+[icoTip](../sv/js/icoTip.md) : Definiera och registrera en ikonkomponent med internationaliseringstips
+[md/htm](../sv/js/md/htm.md) : Markdown-text till HTML-sträng
+[md/safeHtm](../sv/js/md/safeHtm.md) : Markdown-text till säker HTML
+[md/streamRender](../sv/js/md/streamRender.md) : Markdown streaming-rendering
+[parentScroll](../sv/js/parentScroll.md) : Skaffa elementet för förfadersrullningsbehållare
+[rmWait](../sv/js/rmWait.md) : Ta bort sidans initialladdning som väntar på animeringen
+[route](../sv/js/route.md) : En sidas front-end routinghantering
+[sandbox](../sv/js/sandbox.md) : Sandbox container anpassad komponent för att ladda och köra submoduler isolerat

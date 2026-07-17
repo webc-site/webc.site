@@ -1,0 +1,54 @@
+[BoxX](../../src/BoxX/i18n/et/README.md) : Looge ja kuvage sulgemisnupuga hüpikaknakiht
+[Code](../../src/Code/i18n/et/README.md) : koodi nupp
+[Copy](../../src/Copy/i18n/et/README.md) : Kopeerige tekst lõikelauale
+[Edit](../../src/Edit/i18n/et/README.md) : Lehekülje või dokumendi redigeerimise nupp
+[HtmDemo](../../src/HtmDemo/i18n/et/README.md) : HTML- ja JS-koodi silumine võrgus
+[I18n](../../src/I18n/i18n/et/README.md) : Nupud ja hüpikaknad liidese keelte vahetamiseks
+[MdStream](../../src/MdStream/i18n/et/README.md) : Markdowni teksti voogesitus
+[Nav](../../src/Nav/i18n/et/README.md) : Ülemine navigeerimisriba, mis lehe kerimisel automaatselt aheneb või laieneb
+[NavL](../../src/NavL/i18n/et/README.md) : Lülitage automaatselt navigeerimismenüü ja naasmisnupp
+[NavMenu](../../src/NavMenu/i18n/et/README.md) : Erinevatele ekraanisuurustele kohandatud navigeerimismenüü
+[SelectBtn](../../src/SelectBtn/i18n/et/README.md) : Rippmenüü valikukasti ja nupu kombinatsioon
+[TabSelect](../../src/TabSelect/i18n/et/README.md) : Vahekaart rippmenüü valikuga
+[Btn](../../src/Btn/i18n/et/README.md) : Tavaline nupp ja ümmargune ikooninupp
+[Card](../../src/Card/i18n/et/README.md) : Suspensioonis kuvatud paremnoolega kapslikaart
+[H1Txt](../../src/H1Txt/i18n/et/README.md) : Tekstuuri pealkiri ja kirjeldus
+[Ing](../../src/Ing/i18n/et/README.md) : Laadimise või töötlemise oleku indikaator
+[Input](../../src/Input/i18n/et/README.md) : Sisestuskast, mis vahetab automaatselt kohahoidja olekut
+[Kv](../../src/Kv/i18n/et/README.md) : võtmeväärtuste paar
+[Lg](../../src/Lg/i18n/et/README.md) : Mattklaasist taust ja servade esiletõstmise efekt
+[MdCss](../../src/MdCss/i18n/et/README.md) : Lugemiskogemuse jaoks optimeeritud tüpograafiastiilid
+[NavALi](../../src/NavALi/i18n/et/README.md) : Navigeerimisriba linkide loendi stiil
+[O](../../src/O/i18n/et/README.md) : Joonistage elemendi ette õõnsa punktiga logo
+[Toast](../../src/Toast/i18n/et/README.md) : Viip hüpikaken lehe servas
+[404](../../src/404/i18n/et/README.md) : Veateateleht ei ole teed
+[Back](../../src/Back/i18n/et/README.md) : tagasi nupp
+[Box](../../src/Box/i18n/et/README.md) : Looge ja kuvage hüpikaknakiht
+[CardLi](../../src/CardLi/i18n/et/README.md) : Laadige ja kuvage kaartide loend asünkroonselt
+[Md](../../src/Md/i18n/et/README.md) : Parsige ja renderdage Markdowni tekst turvaliselt HTML-i.
+[Pophover](../../src/Pophover/i18n/et/README.md) : ujuva mulli viip
+[Scroll](../../src/Scroll/i18n/et/README.md) : virtuaalne kerimisriba
+[Select](../../src/Select/i18n/et/README.md) : Rippmenüü valik, laius kohandub praeguse elemendiga
+[Side](../../src/Side/i18n/et/README.md) : Küljelt välja libisevad sahtlipaneelid
+[Tab](../../src/Tab/i18n/et/README.md) : Vahetatavad vahelehed
+[On](../et/js/On.md) : Partii sidumise sündmuste jälgimine
+[Toast](../et/js/Toast.md) : Röstsaibi hüpiksõnumi viip
+[a](../et/js/a.md) : Ülemaailmselt peatada lingil klõpsamise sündmusi
+[c-t](../et/js/c-t.md) : HTML-i rahvusvahelistumine
+[demo](../et/js/demo.md) : Demolehe initsialiseerimine
+[dom](../et/js/dom.md) : Dokumenteerige muutujate lühendid ja otseteede funktsioonid
+[dom/header](../et/js/dom/header.md) : Looge päiseriba DOM-struktuur
+[fetch](../et/js/fetch.md) : Võrgupäringu tööriista funktsioon, mis põhineb kapseldamisel
+[fetchLang](../et/js/fetchLang.md) : Laadige asünkroonselt keelepakette ja siduge värskenduste tagasihelistusi
+[hashActive](../et/js/hashActive.md) : Navigeerimislinkide esiletõstmine URL-i ankrute ja vaateava kerimise põhjal
+[i18n](../et/js/i18n.md) : Mitmekeelne olekuhaldus ja muudatuste jälgimine
+[i18n/init](../et/js/i18n/init.md) : Mitmekeelse lähtestamise konfigureerimine ja laadimine
+[i18n/store](../et/js/i18n/store.md) : Mitmekeelne kohaliku salvestusruumi haldus
+[icoTip](../et/js/icoTip.md) : Määratlege ja registreerige rahvusvahelistumise vihjetega ikoonikomponent
+[md/htm](../et/js/md/htm.md) : Märgistatav tekst HTML-stringiks
+[md/safeHtm](../et/js/md/safeHtm.md) : Märgista tekst turvaliseks HTML-iks
+[md/streamRender](../et/js/md/streamRender.md) : Markdowni voogesituse renderdamine
+[parentScroll](../et/js/parentScroll.md) : Hankige esivanemate kerimiskonteineri element
+[rmWait](../et/js/rmWait.md) : Eemaldage lehe esialgse laadimise ooteanimatsioon
+[route](../et/js/route.md) : Ühe lehe esiotsa marsruutimise haldus
+[sandbox](../et/js/sandbox.md) : Liivakasti konteineri kohandatud komponent alammoodulite eraldi laadimiseks ja käitamiseks

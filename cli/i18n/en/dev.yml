@@ -1,0 +1,4 @@
+usage: "Usage: $0 [component path]"
+cmdDesc: "Start the development server for the WebC component"
+pathDesc: "The path of the WebC component (for example, src/Box, you can also write box)"
+notFound: "Error: Component does not exist"

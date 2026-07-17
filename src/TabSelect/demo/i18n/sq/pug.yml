@@ -1,0 +1,9 @@
+language: gjuha
+os: sistemi
+about: rreth
+jsInfo: JavaScript është një gjuhë skriptimi e përdorur gjerësisht në zhvillimin e uebit nga ana e klientit.
+rsInfo: Rust është një gjuhë programimi sistemesh e fokusuar në sigurinë, shpejtësinë dhe konkurencën.
+pyInfo: Python është një gjuhë programimi kompjuterike e orientuar nga objekti, e interpretuar.
+macInfo: macOS është një sistem operativ grafik i bazuar në Unix i zhvilluar nga Apple.
+winInfo: Windows është një sistem operativ kompjuteri personal i përdorur gjerësisht i zhvilluar nga Microsoft Corporation.
+aboutInfo: Ne jemi të përkushtuar të zhvillojmë komponentë të përparme me burim të hapur me cilësi të lartë dhe jeni të mirëpritur të merrni pjesë.

@@ -1,0 +1,60 @@
+mdContent: |
+  # Hati ya uwasilishaji wa alama chini
+  Hili ni onyesho la **utoaji tuli**.
+  ## Mtindo wa msingi
+  - **Bold** na *Italiki*
+  - ~~strikethrough~~
+  - `inline_code` msimbo wa ndani
+  - [Tovuti rasmi ya Umoja wa Mataifa](https://un.org) Onyesho la kiungo
+  ## Nukuu na Orodha
+  > Hii ni nukuu ya mstari mmoja.
+
+  > Hii ni nukuu ya mistari mingi.
+  > Athari ya kuona ya kuonyesha marejeleo ya mistari mingi.
+
+  - Kipengee cha kwanza ambacho hakijaagizwa
+    - Kipengee kidogo ambacho hakijaagizwa
+    - Kipengee kidogo cha pili ambacho hakijaagizwa
+  - Kipengee cha pili ambacho hakijaagizwa
+
+  > [!NOTE]
+  > `> [!NOTE]` Ujumbe na madokezo ya jumla
+
+  > [!TIP]
+  > `> [!TIP]` Vidokezo na vidokezo muhimu
+
+  > [!IMPORTANT]
+  > `> [!IMPORTANT]` Vidokezo muhimu na wasiwasi
+
+  > [!WARNING]
+  > `> [!WARNING]` Maonyo na Vidokezo vya Hatari
+
+  > [!CAUTION]
+  > `> [!CAUTION]` ONYO LA HATARI NA HATARI KUBWA
+
+  ---
+
+  ## orodha ya kazi
+  - [ ] Hii ni orodha ya majukumu ambayo haijakamilika
+  - [x] Hii ni kazi ya orodha iliyokamilishwa
+  - [X] Hii ni kazi ya orodha iliyokamilishwa (mji mkuu X)
+
+  ---
+
+  1. Umeagiza bidhaa ya kwanza
+     1. Kipengee kimoja kilichoagizwa
+     2. Umeagiza kipengee kidogo cha pili
+  2. Imeagizwa muhula wa pili
+  ## karatasi
+  | mradi | jimbo | alama |
+  | :--- | :---: | ---: |
+  | tuli | Imekamilika | 100 |
+  | utiririshaji | Utoaji | 95 |
+  ## kizuizi cha nambari
+  ```js
+  const hello = () => {
+    console.log("Hello, WebC!");
+  };
+  ```
+  ## picha
+  ![Picha ya demo](https://i-01.eu.org/demo-green.avif)

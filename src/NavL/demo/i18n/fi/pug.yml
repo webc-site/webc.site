@@ -1,0 +1,7 @@
+desc: Määritä ja vaihda automaattisesti näyttämään navigointivalikko tai takaisin-painike nykyisen reitin perusteella
+desktop_title: Pöytäkoneen näyttö
+desktop_desc: Kun olet ilmoitettu valikkoreitillä, näytä valikon kohdat; muussa tapauksessa näytä takaisin-painike
+mobile_title: Mobiilinäyttö
+mobile_desc: Ilmoitetulla valikkoreitillä tiivistyy kuvakepainikkeeksi ja tukee valikon liukumista ulos; muuten näyttää takaisin-painikkeen
+normal_state: Navigoinnin tila (c-nav-valikko)
+back_state: Varatila (c-back)
