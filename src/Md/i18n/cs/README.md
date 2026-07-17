@@ -22,7 +22,7 @@ Toto je část obsahu Markdown
 
 <script type="module">
   const el = document.querySelector("#md-el");
-  el.value = "#Nový název\nNový obsah";
+  el.value = "#Nový titul\nNový obsah";
 </script>
 ```
 

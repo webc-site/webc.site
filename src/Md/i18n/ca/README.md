@@ -22,7 +22,7 @@ Aquest és un contingut de Markdown
 
 <script type="module">
   const el = document.querySelector("#md-el");
-  el.value = "#Títol nou\nContingut nou";
+  el.value = "#Nou títol\nNou contingut";
 </script>
 ```
 

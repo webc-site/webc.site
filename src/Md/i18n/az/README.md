@@ -28,7 +28,7 @@ Bu Markdown məzmununun bir hissəsidir
 
 ## İnterfeys parametrləri
 
-Markdown mətnini birbaşa teq daxilində keçirin (defolt slot kimi) və ya `value` vasitəsilə dinamik olaraq yeniləyin.
+Markdown mətnini birbaşa etiketin içərisinə daxil edin (default slot olaraq), və ya `value` vasitəsilə dinamik olaraq yeniləyin.
 
 ## Stil təsviri
 

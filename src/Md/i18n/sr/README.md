@@ -22,7 +22,7 @@
 
 <script type="module">
   const el = document.querySelector("#md-el");
-  ел.тектЦонтент = "#Нови наслов\нНови садржај";
+  ел.валуе = "#Нови наслов\нНови садржај";
 </script>
 ```
 

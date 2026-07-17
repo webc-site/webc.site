@@ -28,7 +28,7 @@ Este é um conteúdo do Markdown
 
 ## Parâmetros de interface
 
-Passe o texto do Markdown diretamente na tag (como espaço padrão) ou atualize dinamicamente via `value`.
+Passe o texto do Markdown diretamente na tag (como espaço padrão) ou atualize dinamicamente por meio de `value`.
 
 ## Descrição do estilo
 
