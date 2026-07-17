@@ -1,0 +1,54 @@
+[BoxX](../../src/BoxX/i18n/af/README.md) : Skep en vertoon 'n opspringlaag met 'n toemaakknoppie
+[Code](../../src/Code/i18n/af/README.md) : kode knoppie
+[Copy](../../src/Copy/i18n/af/README.md) : Kopieer teks na knipbord
+[Edit](../../src/Edit/i18n/af/README.md) : wysig knoppie
+[HtmDemo](../../src/HtmDemo/i18n/af/README.md) : Ontfout HTML- en JS-kode aanlyn
+[I18n](../../src/I18n/i18n/af/README.md) : Knoppies en opspringvensters om koppelvlaktale te verander
+[MdStream](../../src/MdStream/i18n/af/README.md) : Stroomweergawe van Markdown-teks
+[Nav](../../src/Nav/i18n/af/README.md) : Boonste navigasiebalk wat outomaties invou of uitbrei wanneer die bladsy blaai
+[NavL](../../src/NavL/i18n/af/README.md) : Skakel outomaties navigasiekieslys en terugkeer-knoppie
+[NavMenu](../../src/NavMenu/i18n/af/README.md) : Navigasiekieslys aangepas vir verskillende skermgroottes
+[SelectBtn](../../src/SelectBtn/i18n/af/README.md) : Kombinasie van aftreklys seleksie boks en knoppie
+[TabSelect](../../src/TabSelect/i18n/af/README.md) : Bladsy met aftreklys
+[Btn](../../src/Btn/i18n/af/README.md) : Gewone knoppie en ronde ikoonknoppie
+[Card](../../src/Card/i18n/af/README.md) : Kapsulekaart met regspyltjie vertoon in suspensie
+[H1Txt](../../src/H1Txt/i18n/af/README.md) : Tekstuur titel en beskrywing
+[Ing](../../src/Ing/i18n/af/README.md) : Aanwyser van laai of verwerking status
+[Input](../../src/Input/i18n/af/README.md) : Invoerkassie wat outomaties plekhouerstatus verander
+[Kv](../../src/Kv/i18n/af/README.md) : sleutelwaardepaar
+[Lg](../../src/Lg/i18n/af/README.md) : Matglas agtergrond en rand hoogtepunt effek
+[MdCss](../../src/MdCss/i18n/af/README.md) : Tipografiestyle geoptimaliseer vir leeservaring
+[NavALi](../../src/NavALi/i18n/af/README.md) : Navigasiebalkskakellysstyl
+[O](../../src/O/i18n/af/README.md) : Teken 'n hol kolletjie-logo voor die element
+[Toast](../../src/Toast/i18n/af/README.md) : Vinnige opspringvenster aan die rand van die bladsy
+[404](../../src/404/i18n/af/README.md) : Pad bestaan ​​nie foutboodskapbladsy nie
+[Back](../../src/Back/i18n/af/README.md) : terug knoppie
+[Box](../../src/Box/i18n/af/README.md) : Skep en vertoon opspringlaag
+[CardLi](../../src/CardLi/i18n/af/README.md) : Laai en vertoon kaartlys asinchronies
+[Md](../../src/Md/i18n/af/README.md) : Ontleed en lewer Markdown-teks veilig na HTML.
+[Pophover](../../src/Pophover/i18n/af/README.md) : drywende borrel-opdrag
+[Scroll](../../src/Scroll/i18n/af/README.md) : virtuele skuifbalk
+[Select](../../src/Select/i18n/af/README.md) : Aftreklys seleksie, breedte pas by huidige item aan
+[Side](../../src/Side/i18n/af/README.md) : Laaiepanele wat van die kant af uitskuif
+[Tab](../../src/Tab/i18n/af/README.md) : Skakelbare oortjies
+[On](../af/js/On.md) : Bondel binding gebeurtenis monitering
+[Toast](../af/js/Toast.md) : Roosterbrood-opspringboodskap-boodskap
+[a](../af/js/a.md) : Onderskep wêreldwyd skakelklikgebeure
+[c-t](../af/js/c-t.md) : HTML internasionalisering
+[demo](../af/js/demo.md) : Inisialisering van demo-bladsy
+[dom](../af/js/dom.md) : Dokumentveranderlike afkortings en kortpadfunksies
+[dom/header](../af/js/dom/header.md) : Skep die kopbalk DOM-struktuur
+[fetch](../af/js/fetch.md) : Netwerk versoek instrument funksie gebaseer op haal encapsulation
+[fetchLang](../af/js/fetchLang.md) : Laai taalpakkette asinchronies en bind opdatering-terugroepe
+[hashActive](../af/js/hashActive.md) : Navigasieskakelverligting gebaseer op URL-ankers en deurkykpoort-blaai
+[i18n](../af/js/i18n.md) : Multi-taal status bestuur en verandering monitering
+[i18n/init](../af/js/i18n/init.md) : Multi-taal inisialisering konfigurasie en laai
+[i18n/store](../af/js/i18n/store.md) : Meertalige plaaslike bergingsbestuur
+[icoTip](../af/js/icoTip.md) : Definieer en registreer 'n ikoonkomponent met internasionaliseringwenke
+[md/htm](../af/js/md/htm.md) : Markdown teks na HTML-string
+[md/safeHtm](../af/js/md/safeHtm.md) : Markdown teks na veilige HTML
+[md/streamRender](../af/js/md/streamRender.md) : Afmerk-stroomweergawe
+[parentScroll](../af/js/parentScroll.md) : Kry die voorouer-rolhouer-element
+[rmWait](../af/js/rmWait.md) : Verwyder die aanvanklike laai wag animasie van die bladsy
+[route](../af/js/route.md) : Enkelbladsy-voorkant-roetebestuur
+[sandbox](../af/js/sandbox.md) : Sandbox-houer pasgemaakte komponent vir die laai en hardloop van submodules in isolasie

@@ -1,0 +1,4 @@
+usage: "ઉપયોગ: $0 <project type> <project name>"
+cmdDesc: "નવા ઘટક બનાવો"
+typeDesc: "પ્રોજેક્ટ પ્રકાર (સીએસએસ અથવા જેએસ)"
+nameDesc: "પ્રોજેક્ટ નામ"

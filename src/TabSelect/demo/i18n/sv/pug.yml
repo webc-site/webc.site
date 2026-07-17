@@ -1,0 +1,9 @@
+language: språk
+os: system
+about: om
+jsInfo: JavaScript är ett skriptspråk som används ofta i webbutveckling på klientsidan.
+rsInfo: Rust är ett systemprogrammeringsspråk fokuserat på säkerhet, hastighet och samtidighet.
+pyInfo: Python är ett objektorienterat, tolkat datorprogrammeringsspråk.
+macInfo: macOS är ett Unix-baserat grafiskt operativsystem utvecklat av Apple.
+winInfo: Windows är ett flitigt använt operativsystem för persondatorer utvecklat av Microsoft Corporation.
+aboutInfo: Vi är engagerade i att utveckla högkvalitativa front-end-komponenter med öppen källkod, och du är välkommen att delta.

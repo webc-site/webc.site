@@ -1,0 +1,46 @@
+open: Kenar çubuğunu aç
+userName: İnek Yürüteç
+userTitle: Kıdemli web tasarımcısı
+statFollowers: Abone
+statFollowing: odaklan
+statProjects: proje
+groupCore: Temel işlevler
+groupSystem: Sistem yönetimi
+groupData: veri analizi
+groupCollaboration: Ekip çalışması
+widgetTitle: Depolama alanı kullanımı
+widgetTasks: Yapılacak görevlerim
+task1: Side interaktif gelişimini tamamlayın
+task2: Tasarım Sıvı görsel estetik
+task3: Bileşen kullanılabilirliğini ve ayrıntılarını optimize edin
+navHome: Kontrol Paneli Ana Sayfası
+navProfile: Kişisel Merkez
+navSettings: Sistem ayarları
+navMessages: Site haberleri
+navNotifications: Bildirim hatırlatıcısı
+navPrivacy: Gizlilik ve güvenlik
+navHelp: Yardım ve geri bildirim
+navAnalytics: analiz raporu
+navCloud: Bulut depolama alanı
+navTeam: ekip üyesi
+navTasks: Görev koordinasyonu
+logout: Oturumu kapat
+upgradeTitle: Profesyonel Sürüme Yükseltme
+upgradeDesc: Sınırsız bulut depolama alanının ve gelişmiş işbirliğinin kilidini açın
+upgradeBtn: Şimdi yükseltin
+task4: PR taahhütlerini gözden geçirin ve şubeleri birleştirin
+task5: WebC'nin yeni bir sürüm yayın günlüğünü yazın
+widgetOnline: Çevrimiçi ekip üyeleri
+member1: Lisa
+member2: David
+member3: Anna
+statusOnline: çevrimiçi
+statusOffline: Çevrimdışı
+statusBusy: Meşgul
+widgetFiles: son dosyalar
+file1: Ürün Tasarım Şartnamesi v2.4.pdf
+file2: 2026 3. Çeyrek Taslak Planı.docx
+file3: Bileşen animasyon gösterimi.mp4
+tagDesign: tasarım
+tagDev: geliştirmek
+tagPm: ürün

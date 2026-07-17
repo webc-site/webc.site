@@ -1,0 +1,4 @@
+default: デフォルトボタン
+main: メインボタン
+link: リンクボタン
+icon: アイコンボタン (.BtnC)

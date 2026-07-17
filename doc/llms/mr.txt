@@ -1,0 +1,54 @@
+[BoxX](../../src/BoxX/i18n/mr/README.md) : बंद करा बटणासह पॉपअप स्तर तयार करा आणि प्रदर्शित करा
+[Code](../../src/Code/i18n/mr/README.md) : कोड बटण
+[Copy](../../src/Copy/i18n/mr/README.md) : क्लिपबोर्डवर मजकूर कॉपी करा
+[Edit](../../src/Edit/i18n/mr/README.md) : संपादन बटण
+[HtmDemo](../../src/HtmDemo/i18n/mr/README.md) : HTML आणि JS कोड ऑनलाइन डीबग करणे
+[I18n](../../src/I18n/i18n/mr/README.md) : इंटरफेस भाषा बदलण्यासाठी बटणे आणि पॉप-अप विंडो
+[MdStream](../../src/MdStream/i18n/mr/README.md) : मार्कडाउन मजकूराचे स्ट्रीमिंग प्रस्तुतीकरण
+[Nav](../../src/Nav/i18n/mr/README.md) : शीर्ष नेव्हिगेशन बार जो पृष्ठ स्क्रोल केल्यावर आपोआप कोसळतो किंवा विस्तृत होतो
+[NavL](../../src/NavL/i18n/mr/README.md) : नेव्हिगेशन मेनू आणि रिटर्न बटण स्वयंचलितपणे स्विच करा
+[NavMenu](../../src/NavMenu/i18n/mr/README.md) : नेव्हिगेशन मेनू वेगवेगळ्या स्क्रीन आकारांमध्ये रुपांतरित केला
+[SelectBtn](../../src/SelectBtn/i18n/mr/README.md) : ड्रॉप-डाउन निवड बॉक्स आणि बटणाचे संयोजन
+[TabSelect](../../src/TabSelect/i18n/mr/README.md) : ड्रॉप-डाउन निवडीसह टॅब पृष्ठ
+[Btn](../../src/Btn/i18n/mr/README.md) : सामान्य बटण आणि गोल चिन्ह बटण
+[Card](../../src/Card/i18n/mr/README.md) : निलंबनामध्ये उजव्या बाणासह कॅप्सूल कार्ड प्रदर्शित केले आहे
+[H1Txt](../../src/H1Txt/i18n/mr/README.md) : पोत शीर्षक आणि वर्णन
+[Ing](../../src/Ing/i18n/mr/README.md) : लोडिंग किंवा प्रोसेसिंग स्थितीचे सूचक
+[Input](../../src/Input/i18n/mr/README.md) : इनपुट बॉक्स जो आपोआप प्लेसहोल्डर स्थिती बदलतो
+[Kv](../../src/Kv/i18n/mr/README.md) : की मूल्य जोडी
+[Lg](../../src/Lg/i18n/mr/README.md) : फ्रॉस्टेड ग्लास बॅकग्राउंड आणि एज हायलाइट इफेक्ट
+[MdCss](../../src/MdCss/i18n/mr/README.md) : वाचन अनुभवासाठी टायपोग्राफी शैली अनुकूलित
+[NavALi](../../src/NavALi/i18n/mr/README.md) : नेव्हिगेशन बार लिंक सूची शैली
+[O](../../src/O/i18n/mr/README.md) : घटकासमोर एक पोकळ बिंदू लोगो काढा
+[Toast](../../src/Toast/i18n/mr/README.md) : पृष्ठाच्या काठावर प्रॉम्प्ट पॉप-अप विंडो
+[404](../../src/404/i18n/mr/README.md) : पथ त्रुटी संदेश पृष्ठ अस्तित्वात नाही
+[Back](../../src/Back/i18n/mr/README.md) : मागे बटण
+[Box](../../src/Box/i18n/mr/README.md) : पॉपअप स्तर तयार करा आणि प्रदर्शित करा
+[CardLi](../../src/CardLi/i18n/mr/README.md) : लोड करा आणि कार्ड सूची असिंक्रोनसपणे प्रदर्शित करा
+[Md](../../src/Md/i18n/mr/README.md) : मार्कडाउन मजकूर HTML वर सुरक्षितपणे पार्स करा आणि रेंडर करा.
+[Pophover](../../src/Pophover/i18n/mr/README.md) : फ्लोटिंग बबल प्रॉम्प्ट
+[Scroll](../../src/Scroll/i18n/mr/README.md) : आभासी स्क्रोल बार
+[Select](../../src/Select/i18n/mr/README.md) : ड्रॉप-डाउन निवड, रुंदी वर्तमान आयटमशी जुळवून घेते
+[Side](../../src/Side/i18n/mr/README.md) : ड्रॉवर पॅनेल जे बाजूला सरकतात
+[Tab](../../src/Tab/i18n/mr/README.md) : स्विच करण्यायोग्य टॅब
+[On](../mr/js/On.md) : बॅच बंधनकारक घटना निरीक्षण
+[Toast](../mr/js/Toast.md) : टोस्ट पॉप-अप संदेश प्रॉम्प्ट
+[a](../mr/js/a.md) : जागतिक स्तरावर लिंक क्लिक इव्हेंट्समध्ये व्यत्यय आणा
+[c-t](../mr/js/c-t.md) : HTML आंतरराष्ट्रीयीकरण
+[demo](../mr/js/demo.md) : डेमो पृष्ठ आरंभीकरण
+[dom](../mr/js/dom.md) : दस्तऐवज व्हेरिएबल संक्षेप आणि शॉर्टकट कार्ये
+[dom/header](../mr/js/dom/header.md) : शीर्षलेख बार DOM रचना तयार करा
+[fetch](../mr/js/fetch.md) : नेटवर्क रिक्वेस्ट टूल फंक्शन फेच एन्कॅप्स्युलेशनवर आधारित आहे
+[fetchLang](../mr/js/fetchLang.md) : असिंक्रोनसपणे भाषा पॅक लोड करा आणि अपडेट कॉलबॅक बाइंड करा
+[hashActive](../mr/js/hashActive.md) : URL अँकर आणि व्ह्यूपोर्ट स्क्रोलिंगवर आधारित नेव्हिगेशन लिंक हायलाइटिंग
+[i18n](../mr/js/i18n.md) : बहु-भाषा स्थिती व्यवस्थापन आणि बदल निरीक्षण
+[i18n/init](../mr/js/i18n/init.md) : बहु-भाषा आरंभीकरण कॉन्फिगरेशन आणि लोडिंग
+[i18n/store](../mr/js/i18n/store.md) : बहुभाषिक स्थानिक स्टोरेज व्यवस्थापन
+[icoTip](../mr/js/icoTip.md) : आंतरराष्ट्रीयकरण संकेतांसह आयकॉन घटक परिभाषित करा आणि नोंदणी करा
+[md/htm](../mr/js/md/htm.md) : HTML स्ट्रिंगवर मजकूर मार्कडाउन करा
+[md/safeHtm](../mr/js/md/safeHtm.md) : सुरक्षित HTML वर मजकूर चिन्हांकित करा
+[md/streamRender](../mr/js/md/streamRender.md) : मार्कडाउन स्ट्रीमिंग प्रस्तुतीकरण
+[parentScroll](../mr/js/parentScroll.md) : पूर्वज स्क्रोल कंटेनर घटक मिळवा
+[rmWait](../mr/js/rmWait.md) : पृष्ठ प्रारंभिक लोडिंग प्रतीक्षा ॲनिमेशन काढा
+[route](../mr/js/route.md) : सिंगल पेज फ्रंट-एंड राउटिंग व्यवस्थापन
+[sandbox](../mr/js/sandbox.md) : अलगावमध्ये सबमॉड्यूल लोड करण्यासाठी आणि चालविण्यासाठी सॅन्डबॉक्स कंटेनर कस्टम घटक

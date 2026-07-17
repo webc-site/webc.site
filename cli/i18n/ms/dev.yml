@@ -1,0 +1,4 @@
+usage: "Penggunaan: $0 [laluan komponen]"
+cmdDesc: "Mulakan pelayan pembangunan untuk komponen WebC"
+pathDesc: "Laluan komponen WebC (contohnya, src/Box, anda juga boleh menulis kotak)"
+notFound: "Ralat: Komponen tidak wujud"

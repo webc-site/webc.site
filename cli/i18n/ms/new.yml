@@ -1,0 +1,4 @@
+usage: "Penggunaan: $0 <jenis projek> <nama projek>"
+cmdDesc: "Buat komponen baharu"
+typeDesc: "Jenis projek (css atau js)"
+nameDesc: "Nama projek"

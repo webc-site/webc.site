@@ -1,0 +1,54 @@
+[BoxX](../../src/BoxX/i18n/fr/README.md) : Créer et afficher un calque contextuel avec un bouton de fermeture
+[Code](../../src/Code/i18n/fr/README.md) : bouton de code
+[Copy](../../src/Copy/i18n/fr/README.md) : Copier le texte dans le presse-papiers
+[Edit](../../src/Edit/i18n/fr/README.md) : bouton modifier
+[HtmDemo](../../src/HtmDemo/i18n/fr/README.md) : Débogage du code HTML et JS en ligne
+[I18n](../../src/I18n/i18n/fr/README.md) : Boutons et fenêtres contextuelles pour changer de langue d'interface
+[MdStream](../../src/MdStream/i18n/fr/README.md) : Rendu en streaming du texte Markdown
+[Nav](../../src/Nav/i18n/fr/README.md) : Barre de navigation supérieure qui se réduit ou se développe automatiquement lorsque la page défile
+[NavL](../../src/NavL/i18n/fr/README.md) : Changer automatiquement le menu de navigation et le bouton de retour
+[NavMenu](../../src/NavMenu/i18n/fr/README.md) : Menu de navigation adapté aux différentes tailles d'écran
+[SelectBtn](../../src/SelectBtn/i18n/fr/README.md) : Combinaison d'une zone de sélection déroulante et d'un bouton
+[TabSelect](../../src/TabSelect/i18n/fr/README.md) : Page à onglet avec sélection déroulante
+[Btn](../../src/Btn/i18n/fr/README.md) : Bouton ordinaire et bouton icône ronde
+[Card](../../src/Card/i18n/fr/README.md) : Carte capsule avec flèche droite affichée en suspension
+[H1Txt](../../src/H1Txt/i18n/fr/README.md) : Titre et description de la texture
+[Ing](../../src/Ing/i18n/fr/README.md) : Indicateur d'état de chargement ou de traitement
+[Input](../../src/Input/i18n/fr/README.md) : Zone de saisie qui change automatiquement l'état de l'espace réservé
+[Kv](../../src/Kv/i18n/fr/README.md) : paire clé-valeur
+[Lg](../../src/Lg/i18n/fr/README.md) : Fond en verre dépoli et effet de surbrillance des bords
+[MdCss](../../src/MdCss/i18n/fr/README.md) : Styles de typographie optimisés pour l'expérience de lecture
+[NavALi](../../src/NavALi/i18n/fr/README.md) : Style de liste de liens de la barre de navigation
+[O](../../src/O/i18n/fr/README.md) : Dessinez un logo en point creux devant l'élément
+[Toast](../../src/Toast/i18n/fr/README.md) : Fenêtre contextuelle d'invite au bord de la page
+[404](../../src/404/i18n/fr/README.md) : Le chemin n'existe pas sur la page de message d'erreur
+[Back](../../src/Back/i18n/fr/README.md) : bouton retour
+[Box](../../src/Box/i18n/fr/README.md) : Créer et afficher une couche contextuelle
+[CardLi](../../src/CardLi/i18n/fr/README.md) : Charger et afficher la liste des cartes de manière asynchrone
+[Md](../../src/Md/i18n/fr/README.md) : Analysez et restituez en toute sécurité le texte Markdown au format HTML.
+[Pophover](../../src/Pophover/i18n/fr/README.md) : invite de bulle flottante
+[Scroll](../../src/Scroll/i18n/fr/README.md) : barre de défilement virtuelle
+[Select](../../src/Select/i18n/fr/README.md) : Sélection déroulante, la largeur s'adapte à l'élément actuel
+[Side](../../src/Side/i18n/fr/README.md) : Panneaux de tiroirs coulissants sur le côté
+[Tab](../../src/Tab/i18n/fr/README.md) : Onglets commutables
+[On](../fr/js/On.md) : Surveillance des événements de liaison par lots
+[Toast](../fr/js/Toast.md) : Invite de message contextuel Toast
+[a](../fr/js/a.md) : Intercepter globalement les événements de clic sur les liens
+[c-t](../fr/js/c-t.md) : Internationalisation HTML
+[demo](../fr/js/demo.md) : Initialisation de la page de démonstration
+[dom](../fr/js/dom.md) : Documenter les abréviations des variables et les fonctions de raccourci
+[dom/header](../fr/js/dom/header.md) : Créer la structure DOM de la barre d'en-tête
+[fetch](../fr/js/fetch.md) : Fonction d'outil de requête réseau basée sur l'encapsulation de récupération
+[fetchLang](../fr/js/fetchLang.md) : Charger de manière asynchrone les modules linguistiques et lier les rappels de mise à jour
+[hashActive](../fr/js/hashActive.md) : Mise en évidence des liens de navigation en fonction des ancres d'URL et du défilement de la fenêtre d'affichage
+[i18n](../fr/js/i18n.md) : Gestion des statuts multilingues et suivi des modifications
+[i18n/init](../fr/js/i18n/init.md) : Configuration et chargement de l'initialisation multilingue
+[i18n/store](../fr/js/i18n/store.md) : Gestion du stockage local multilingue
+[icoTip](../fr/js/icoTip.md) : Définir et enregistrer un composant icône avec des conseils d'internationalisation
+[md/htm](../fr/js/md/htm.md) : Texte Markdown en chaîne HTML
+[md/safeHtm](../fr/js/md/safeHtm.md) : Texte Markdown en HTML sécurisé
+[md/streamRender](../fr/js/md/streamRender.md) : Rendu en streaming Markdown
+[parentScroll](../fr/js/parentScroll.md) : Obtenez l'élément conteneur de défilement ancêtre
+[rmWait](../fr/js/rmWait.md) : Supprimer l'animation d'attente de chargement initial de la page
+[route](../fr/js/route.md) : Gestion du routage frontal sur une seule page
+[sandbox](../fr/js/sandbox.md) : Composant personnalisé du conteneur Sandbox pour charger et exécuter des sous-modules de manière isolée

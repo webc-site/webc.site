@@ -1,0 +1,38 @@
+basicTitle: Základný štýl
+bold: Tučné
+italic: kurzíva
+del: prečiarknutie
+inlineCode: vložený kód
+linkPrefix: Pred a za odkazom je text ako napr
+link: Oficiálna stránka Organizácie Spojených národov
+linkSuffix: je odkaz.
+quoteSingle: Toto je jednoriadková citácia.
+quoteMultiLine1: Toto je viacriadkový citát.
+quoteMultiLine2: Vizuálny efekt na zobrazenie viacriadkových referencií.
+note: Všeobecné správy a poznámky
+tip: Tipy a užitočné rady
+important: Dôležité tipy a obavy
+warning: Upozornenia na riziká a preventívne opatrenia
+caution: NEBEZPEČENSTVO A EXTRÉMNE RIZIKO VAROVANIE
+listTitle: Citáty a zoznamy
+taskTitle: zoznam úloh
+todoItem: Toto je nedokončená úloha CSS
+doneItem: Toto je dokončená úloha CSS
+ulItem1: Neobjednaný prvý tovar
+ulSubItem1: Neusporiadaná podpoložka jedna
+ulSubItem2: Neusporiadaná podpoložka dva
+ulItem2: Neobjednaný druhý tovar
+olItem1: Objednaná prvá položka
+olSubItem1: Objednaná položka jedna
+olSubItem2: Objednaná podpoložka dva
+olItem2: Objednaný druhý termín
+tableTitle: list
+col1: projektu
+col2: štátu
+col3: skóre
+row1Col1: statické
+row1Col2: Dokončené
+row2Col1: streamovanie
+row2Col2: Vykresľovanie
+codeTitle: blok kódu
+imageTitle: obrázok

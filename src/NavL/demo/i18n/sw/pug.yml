@@ -1,0 +1,7 @@
+desc: Tambua na ubadilishe kiotomatiki ili kuonyesha menyu ya kusogeza au kitufe cha nyuma kulingana na njia ya sasa
+desktop_title: Onyesho la eneo-kazi
+desktop_desc: Ukiwa kwenye njia iliyotangazwa ya menyu, onyesha vigae vya vitu vya menyu; vinginevyo onyesha kitufe cha nyuma
+mobile_title: Onyesho la rununu
+mobile_desc: Iwapo katika njia ya menyu iliyotangazwa, huanguka kwenye kitufe cha ikoni na kuauni kuteleza nje kwa menyu; vinginevyo huonyesha kitufe cha nyuma
+normal_state: Hali ya kusogeza (c-nav-menu)
+back_state: Hali ya kurudi nyuma (c-back)

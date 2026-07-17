@@ -1,0 +1,4 @@
+usage: "Gebruik: $0 <projecttype> <projectnaam>"
+cmdDesc: "Nieuw onderdeel maken"
+typeDesc: "Projecttype (css of js)"
+nameDesc: "Projectnaam"

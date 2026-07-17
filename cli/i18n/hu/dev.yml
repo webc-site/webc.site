@@ -1,0 +1,4 @@
+usage: "Használat: $0 [összetevő elérési útja]"
+cmdDesc: "Indítsa el a WebC összetevő fejlesztői kiszolgálóját"
+pathDesc: "A WebC komponens elérési útja (például src/Box, írhat dobozt is)"
+notFound: "Hiba: A komponens nem létezik"

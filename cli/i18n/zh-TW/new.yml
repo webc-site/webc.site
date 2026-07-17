@@ -1,0 +1,4 @@
+usage: "用法: $0 <項目類型> <項目名>"
+cmdDesc: "建立新組件"
+typeDesc: "專案類型 (css 或 js)"
+nameDesc: "專案名"

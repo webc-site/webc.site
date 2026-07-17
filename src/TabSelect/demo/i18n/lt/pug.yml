@@ -1,0 +1,9 @@
+language: kalba
+os: sistema
+about: apie
+jsInfo: „JavaScript“ yra scenarijų kalba, plačiai naudojama kuriant žiniatinklio klientą.
+rsInfo: Rust yra sistemų programavimo kalba, orientuota į saugumą, greitį ir lygiagretumą.
+pyInfo: Python yra į objektą orientuota, interpretuojama kompiuterio programavimo kalba.
+macInfo: „macOS“ yra „Unix“ pagrindu sukurta grafinė operacinė sistema, kurią sukūrė „Apple“.
+winInfo: „Windows“ yra plačiai naudojama asmeninio kompiuterio operacinė sistema, kurią sukūrė „Microsoft Corporation“.
+aboutInfo: Esame įsipareigoję kurti aukštos kokybės atvirojo kodo sąsajos komponentus, todėl kviečiame dalyvauti.
