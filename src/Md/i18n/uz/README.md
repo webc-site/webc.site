@@ -28,7 +28,7 @@ Bu Markdown tarkibining bir qismi
 
 ## Interfeys parametrlari
 
-Markdown matnini toʻgʻridan-toʻgʻri teg ichida (standart slot sifatida) kiriting yoki `value` orqali dinamik ravishda yangilang.
+Markdown matnini toʻgʻridan-toʻgʻri teg ichida (standart slot sifatida) kiriting yoki `value` orqali dinamik yangilang.
 
 ## Uslub tavsifi
 

@@ -28,7 +28,7 @@ Kjo është një pjesë e përmbajtjes së Markdown
 
 ## Parametrat e ndërfaqes
 
-Kaloni në tekstin Markdown direkt brenda etiketës (si slot i paracaktuar), ose përditësoni në mënyrë dinamike nëpërmjet `value`.
+Kaloni tekstin Markdown direkt brenda etiketës (si vend i paracaktuar), ose përditësoni në mënyrë dinamike nëpërmjet `value`.
 
 ## Përshkrimi i stilit
 
