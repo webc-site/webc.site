@@ -40,8 +40,8 @@ const PKG_FILE = "package.json",
     await git("push " + remote + " HEAD:main --no-verify");
 
     console.log("creating tag v" + next + " and pushing...");
-    await git("tag v" + next);
-    await git("push " + remote + " v" + next + " --no-verify");
+    await git("tag -f v" + next);
+    await git("push " + remote + " v" + next + " -f --no-verify");
   };
 
 export default async (root) => {
