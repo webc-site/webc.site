@@ -1,0 +1,9 @@
+language: 언어
+os: 체계
+about: ~에 대한
+jsInfo: JavaScript는 클라이언트 측 웹 개발에 널리 사용되는 스크립팅 언어입니다.
+rsInfo: Rust는 안전성, 속도, 동시성에 초점을 맞춘 시스템 프로그래밍 언어입니다.
+pyInfo: Python은 객체 지향, 해석형 컴퓨터 프로그래밍 언어입니다.
+macInfo: macOS는 Apple이 개발한 Unix 기반 그래픽 운영 체제입니다.
+winInfo: Windows는 Microsoft Corporation에서 개발하여 널리 사용되는 개인용 컴퓨터 운영 체제입니다.
+aboutInfo: 우리는 고품질 오픈 소스 프런트 엔드 구성 요소를 개발하기 위해 최선을 다하고 있으며 여러분의 참여를 환영합니다.

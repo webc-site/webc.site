@@ -1,0 +1,60 @@
+mdContent: |
+  # Documento di presentazione Markdown
+  Questa è una dimostrazione di **rendering statico**.
+  ## Stile essenziale
+  - **Grassetto** e *Corsivo*
+  - ~~barrato~~
+  - `inline_code` codice in linea
+  - [Sito ufficiale delle Nazioni Unite](https://un.org) Link dimostrativo
+  ## Citazioni ed elenchi
+  > Questa è una citazione di una sola riga.
+
+  > Questa è una citazione su più righe.
+  > Un effetto visivo per la visualizzazione di riferimenti su più righe.
+
+  - Primo articolo non ordinato
+    - Elemento secondario uno non ordinato
+    - Elemento secondario due non ordinato
+  - Secondo articolo non ordinato
+
+  > [!NOTE]
+  > `> [!NOTE]` Messaggi e note generali
+
+  > [!TIP]
+  > `> [!TIP]` Consigli e suggerimenti utili
+
+  > [!IMPORTANT]
+  > `> [!IMPORTANT]` Suggerimenti e preoccupazioni importanti
+
+  > [!WARNING]
+  > `> [!WARNING]` Avvertenze e note sui rischi
+
+  > [!CAUTION]
+  > `> [!CAUTION]` AVVERTENZA DI PERICOLO E RISCHIO ESTREMO
+
+  ---
+
+  ## elenco attività
+  - [ ] Questo è un elenco di attività incompleto
+  - [x] Questa è un'attività di elenco completato
+  - [X] Questa è un'attività di elenco completata (X maiuscola)
+
+  ---
+
+  1. Primo articolo ordinato
+     1. Articolo ordinato uno
+     2. Articolo secondario ordinato due
+  2. Secondo mandato ordinato
+  ## foglio
+  | progetto | stato | punto |
+  | :--- | :---: | ---: |
+  | statico | Completato | 100 |
+  | streaming | Rendering | 95 |
+  ## blocco di codice
+  ```js
+  const hello = () => {
+    console.log("Hello, WebC!");
+  };
+  ```
+  ## immagine
+  ![Immagine dimostrativa](https://i-01.eu.org/demo-green.avif)

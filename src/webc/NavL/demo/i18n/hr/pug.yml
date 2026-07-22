@@ -1,0 +1,7 @@
+desc: Automatski odredite i prebacite se na prikaz navigacijskog izbornika ili gumba za povratak na temelju trenutne rute
+desktop_title: Zaslon radne površine
+desktop_desc: Kada ste na deklariranoj ruti izbornika, prikažite pločice stavki izbornika; u suprotnom prikažite gumb za povratak
+mobile_title: Mobilni zaslon
+mobile_desc: Kada je u deklariranoj ruti izbornika, sažima se u gumb ikone i podržava izvlačenje izbornika; inače prikazuje gumb za povratak
+normal_state: Status navigacije (c-nav-izbornik)
+back_state: Rezervni status (c-back)

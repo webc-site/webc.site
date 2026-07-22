@@ -1,0 +1,7 @@
+desc: Automatski odredite i prebacite se za prikaz navigacijskog menija ili dugmeta za povratak na osnovu trenutne rute
+desktop_title: Desktop ekran
+desktop_desc: Kada ste u deklariranoj ruti menija, prikažite pločice stavki menija; u suprotnom prikažite dugme za povratak
+mobile_title: Mobilni ekran
+mobile_desc: Kada je u deklariranoj ruti menija, sažima se u dugme ikone i podržava izvlačenje menija; u suprotnom prikazuje dugme za povratak
+normal_state: Status navigacije (c-nav-meni)
+back_state: Fallback status (c-back)

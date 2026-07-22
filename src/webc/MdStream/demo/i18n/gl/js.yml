@@ -1,0 +1,60 @@
+mdContent: |
+  # Documento de presentación de Markdown
+  Esta é unha demostración do renderizado en tempo real.
+  ## Estilo básico
+  - **Negriña** e *cursiva*
+  - ~~tachado~~
+  - `inline_code` código en liña
+  - [Sitio web oficial das Nacións Unidas](https://un.org) Demostración da ligazón
+  ## Presupostos e Listas
+  > Esta é unha cita dunha soa liña.
+
+  > Esta é unha cita de varias liñas.
+  > Un efecto visual para mostrar referencias de varias liñas.
+
+  - Primeiro artigo sen pedir
+    - Subelemento un non ordenado
+    - Subelemento dous sen orde
+  - Segundo artigo sen pedir
+
+  > [!NOTE]
+  > `> [!NOTE]` Mensaxes e notas xerais
+
+  > [!TIP]
+  > `> [!TIP]` Consellos e consellos útiles
+
+  > [!IMPORTANT]
+  > `> [!IMPORTANT]` Consellos e dúbidas importantes
+
+  > [!WARNING]
+  > `> [!WARNING]` Avisos e notas de risco
+
+  > [!CAUTION]
+  > `> [!CAUTION]` ADVERTENCIA DE PERIGO E RISCO EXTREMO
+
+  ---
+
+  ## lista de tarefas
+  - [ ] Esta é unha tarefa de transmisión sen rematar
+  - [x] Esta é unha tarefa de transmisión completada
+  - [X] Esta é unha tarefa de transmisión completada (X maiúscula)
+
+  ---
+
+  1. Primeiro artigo pedido
+     1. Artigo primeiro pedido
+     2. Subítem dous ordenados
+  2. Segundo mandato ordenado
+  ## folla
+  | Tarefa | estado | horario |
+  | :--- | :---: | ---: |
+  | Tarefa un | Completado | 100% |
+  | Tarefa 2 | en curso | 50% |
+  ## bloque de código
+  ```js
+  const hello = () => {
+    console.log("Hello, WebC!");
+  };
+  ```
+  ## imaxe
+  ![Imaxe de demostración](https://i-01.eu.org/demo-green.avif)

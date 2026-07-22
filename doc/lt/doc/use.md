@@ -1,0 +1,1 @@
+# Naudokite komponentus

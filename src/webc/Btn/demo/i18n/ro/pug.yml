@@ -1,0 +1,4 @@
+default: Buton implicit
+main: butonul principal
+link: butonul link
+icon: Buton pictogramă (.BtnC)

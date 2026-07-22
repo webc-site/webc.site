@@ -1,0 +1,7 @@
+desc: Veldu sjálfkrafa og skiptu til að birta leiðsöguvalmyndina eða til baka hnappinn byggt á núverandi leið
+desktop_title: Skjáborðsskjár
+desktop_desc: Þegar þú ert á yfirlýsta valmyndarleiðinni skaltu birta valmyndaratriðin; annars birtu afturhnappinn
+mobile_title: Farsímaskjár
+mobile_desc: Þegar þú ert á yfirlýsta valmyndarleiðinni, fellur saman í táknhnapp og styður að renna út valmyndinni; sýnir annars afturhnapp
+normal_state: Leiðsögustaða (c-nav-valmynd)
+back_state: Fallback staða (c-back)

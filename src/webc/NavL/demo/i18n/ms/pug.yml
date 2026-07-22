@@ -1,0 +1,7 @@
+desc: Tentukan dan tukar secara automatik untuk memaparkan menu navigasi atau butang belakang berdasarkan laluan semasa
+desktop_title: Paparan desktop
+desktop_desc: Apabila dalam laluan menu yang diisytiharkan, paparkan jubin item menu; sebaliknya paparkan butang belakang
+mobile_title: Paparan mudah alih
+mobile_desc: Apabila dalam laluan menu yang diisytiharkan, runtuh ke dalam butang ikon dan menyokong meluncur keluar menu; sebaliknya memaparkan butang belakang
+normal_state: Status navigasi (c-nav-menu)
+back_state: Status sandaran (c-back)

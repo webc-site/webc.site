@@ -1,0 +1,54 @@
+[BoxX](../../src/BoxX/i18n/is/README.md) : Búðu til og sýndu sprettiglugga með lokahnappi
+[Code](../../src/Code/i18n/is/README.md) : kóða hnappinn
+[Copy](../../src/Copy/i18n/is/README.md) : Afritaðu texta á klemmuspjald
+[Edit](../../src/Edit/i18n/is/README.md) : breyta hnappi
+[HtmDemo](../../src/HtmDemo/i18n/is/README.md) : Villuleit HTML og JS kóða á netinu
+[I18n](../../src/I18n/i18n/is/README.md) : Hnappar og sprettigluggar til að skipta um tungumál viðmóts
+[MdStream](../../src/MdStream/i18n/is/README.md) : Straumflutningur á Markdown texta
+[Nav](../../src/Nav/i18n/is/README.md) : Efsta leiðsögustikan sem hrynur sjálfkrafa saman eða stækkar þegar síðan flettir
+[NavL](../../src/NavL/i18n/is/README.md) : Skiptu sjálfkrafa um leiðsöguvalmynd og afturhnapp
+[NavMenu](../../src/NavMenu/i18n/is/README.md) : Leiðsöguvalmynd aðlagaður mismunandi skjástærðum
+[SelectBtn](../../src/SelectBtn/i18n/is/README.md) : Sambland af fellivalkassa og hnappi
+[TabSelect](../../src/TabSelect/i18n/is/README.md) : Flipasíða með fellivalmynd
+[Btn](../../src/Btn/i18n/is/README.md) : Venjulegur hnappur og hringlaga táknhnappur
+[Card](../../src/Card/i18n/is/README.md) : Hylkisspjald með hægri ör sem birtist í dreifu
+[H1Txt](../../src/H1Txt/i18n/is/README.md) : Áferðarheiti og lýsing
+[Ing](../../src/Ing/i18n/is/README.md) : Vísir um hleðslu eða vinnslustöðu
+[Input](../../src/Input/i18n/is/README.md) : Inntaksreitur sem skiptir sjálfkrafa um staðgengil
+[Kv](../../src/Kv/i18n/is/README.md) : lykilgildi par
+[Lg](../../src/Lg/i18n/is/README.md) : Bakgrunnur úr matt gleri og hápunktur á brún
+[MdCss](../../src/MdCss/i18n/is/README.md) : Leturgerð stíll fínstilltur fyrir lestrarupplifun
+[NavALi](../../src/NavALi/i18n/is/README.md) : Stíll stýristikunnar tenglalista
+[O](../../src/O/i18n/is/README.md) : Teiknaðu holur punktur lógó fyrir framan þáttinn
+[Toast](../../src/Toast/i18n/is/README.md) : Hvetjandi sprettigluggi á jaðri síðunnar
+[404](../../src/404/i18n/is/README.md) : Slóð er ekki til villuboðasíða
+[Back](../../src/Back/i18n/is/README.md) : afturhnappur
+[Box](../../src/Box/i18n/is/README.md) : Búðu til og sýndu sprettigluggalag
+[CardLi](../../src/CardLi/i18n/is/README.md) : Hlaða og birta kortalista ósamstillt
+[Md](../../src/Md/i18n/is/README.md) : Þjálfa og skila Markdown texta á öruggan hátt í HTML.
+[Pophover](../../src/Pophover/i18n/is/README.md) : fljótandi kúla hvetja
+[Scroll](../../src/Scroll/i18n/is/README.md) : sýndarskrollslá
+[Select](../../src/Select/i18n/is/README.md) : Val á fellivalmynd, breiddin lagar sig að núverandi hlut
+[Side](../../src/Side/i18n/is/README.md) : Skúffuplötur sem renna út frá hliðinni
+[Tab](../../src/Tab/i18n/is/README.md) : Skiptanlegur flipar
+[On](../is/js/On.md) : Vöktun á lotubindingsatburði
+[Toast](../is/js/Toast.md) : Toast sprettigluggaskilaboð
+[a](../is/js/a.md) : Á heimsvísu stöðva hlekki smelli atburði
+[c-t](../is/js/c-t.md) : HTML alþjóðavæðing
+[demo](../is/js/demo.md) : Frumstilling á kynningarsíðu
+[dom](../is/js/dom.md) : Skjalabreytu skammstafanir og flýtileiðir
+[dom/header](../is/js/dom/header.md) : Búðu til hausstikuna DOM uppbyggingu
+[fetch](../is/js/fetch.md) : Virkni netbeiðnartóls sem byggir á sæktu hjúpun
+[fetchLang](../is/js/fetchLang.md) : Hlaða tungumálapakka ósamstilltur og binda uppfærsluhringingar
+[hashActive](../is/js/hashActive.md) : Leiðsögn tengil auðkenning byggt á vefslóð akkeri og útsýnisglugga
+[i18n](../is/js/i18n.md) : Stöðustjórnun á mörgum tungumálum og eftirlit með breytingum
+[i18n/init](../is/js/i18n/init.md) : Uppsetning og hleðsla á mörgum tungumálum
+[i18n/store](../is/js/i18n/store.md) : Fjöltyng staðbundin geymslustjórnun
+[icoTip](../is/js/icoTip.md) : Skilgreindu og skráðu táknhluta með vísbendingum um alþjóðavæðingu
+[md/htm](../is/js/md/htm.md) : Markdown texti í HTML streng
+[md/safeHtm](../is/js/md/safeHtm.md) : Markdown texta í öruggt HTML
+[md/streamRender](../is/js/md/streamRender.md) : Markdown streymi flutningur
+[parentScroll](../is/js/parentScroll.md) : Fáðu forfeðursrollgámaþáttinn
+[rmWait](../is/js/rmWait.md) : Fjarlægðu upphafshleðslu síðunnar sem bíður
+[route](../is/js/route.md) : Stýring á einni síðu framhlið leiðarstjórnunar
+[sandbox](../is/js/sandbox.md) : Sandkassa ílát sérsniðinn hluti til að hlaða og keyra undireiningar í einangrun

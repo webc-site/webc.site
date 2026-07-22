@@ -1,0 +1,9 @@
+language: ngôn ngữ
+os: hệ thống
+about: Về
+jsInfo: JavaScript là ngôn ngữ kịch bản được sử dụng rộng rãi trong phát triển web phía máy khách.
+rsInfo: Rust là ngôn ngữ lập trình hệ thống tập trung vào sự an toàn, tốc độ và tính đồng thời.
+pyInfo: Python là một ngôn ngữ lập trình máy tính thông dịch, hướng đối tượng.
+macInfo: macOS là một hệ điều hành đồ họa dựa trên Unix được phát triển bởi Apple.
+winInfo: Windows là hệ điều hành máy tính cá nhân được sử dụng rộng rãi do Tập đoàn Microsoft phát triển.
+aboutInfo: Chúng tôi cam kết phát triển các thành phần giao diện người dùng nguồn mở chất lượng cao và bạn có thể tham gia.
