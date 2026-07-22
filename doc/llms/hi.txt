@@ -1,0 +1,54 @@
+[BoxX](../../src/BoxX/i18n/hi/README.md) : बंद करें बटन के साथ एक पॉपअप परत बनाएं और प्रदर्शित करें
+[Code](../../src/Code/i18n/hi/README.md) : कोड बटन
+[Copy](../../src/Copy/i18n/hi/README.md) : टेक्स्ट को क्लिपबोर्ड पर कॉपी करें
+[Edit](../../src/Edit/i18n/hi/README.md) : संपादित करें बटन
+[HtmDemo](../../src/HtmDemo/i18n/hi/README.md) : HTML और JS कोड को ऑनलाइन डिबग करना
+[I18n](../../src/I18n/i18n/hi/README.md) : इंटरफ़ेस भाषाएँ बदलने के लिए बटन और पॉप-अप विंडो
+[MdStream](../../src/MdStream/i18n/hi/README.md) : मार्कडाउन टेक्स्ट का स्ट्रीमिंग रेंडरिंग
+[Nav](../../src/Nav/i18n/hi/README.md) : शीर्ष नेविगेशन बार जो पृष्ठ स्क्रॉल करने पर स्वचालित रूप से ढह जाता है या विस्तारित हो जाता है
+[NavL](../../src/NavL/i18n/hi/README.md) : नेविगेशन मेनू और रिटर्न बटन को स्वचालित रूप से स्विच करें
+[NavMenu](../../src/NavMenu/i18n/hi/README.md) : नेविगेशन मेनू विभिन्न स्क्रीन आकारों के अनुसार अनुकूलित
+[SelectBtn](../../src/SelectBtn/i18n/hi/README.md) : ड्रॉप-डाउन चयन बॉक्स और बटन का संयोजन
+[TabSelect](../../src/TabSelect/i18n/hi/README.md) : ड्रॉप-डाउन चयन के साथ टैब पृष्ठ
+[Btn](../../src/Btn/i18n/hi/README.md) : साधारण बटन और गोल आइकन बटन
+[Card](../../src/Card/i18n/hi/README.md) : दाएँ तीर वाला कैप्सूल कार्ड निलंबन में प्रदर्शित होता है
+[H1Txt](../../src/H1Txt/i18n/hi/README.md) : बनावट शीर्षक और विवरण
+[Ing](../../src/Ing/i18n/hi/README.md) : लोडिंग या प्रोसेसिंग स्थिति का संकेतक
+[Input](../../src/Input/i18n/hi/README.md) : इनपुट बॉक्स जो प्लेसहोल्डर स्थिति को स्वचालित रूप से स्विच करता है
+[Kv](../../src/Kv/i18n/hi/README.md) : कुंजी मान युग्म
+[Lg](../../src/Lg/i18n/hi/README.md) : फ्रॉस्टेड ग्लास पृष्ठभूमि और किनारा हाइलाइट प्रभाव
+[MdCss](../../src/MdCss/i18n/hi/README.md) : पढ़ने के अनुभव के लिए अनुकूलित टाइपोग्राफी शैलियाँ
+[NavALi](../../src/NavALi/i18n/hi/README.md) : नेविगेशन बार लिंक सूची शैली
+[O](../../src/O/i18n/hi/README.md) : तत्व के सामने एक खोखला बिंदु लोगो बनाएं
+[Toast](../../src/Toast/i18n/hi/README.md) : पृष्ठ के किनारे पर शीघ्र पॉप-अप विंडो
+[404](../../src/404/i18n/hi/README.md) : पथ मौजूद नहीं है त्रुटि संदेश पृष्ठ
+[Back](../../src/Back/i18n/hi/README.md) : पिछला बटन
+[Box](../../src/Box/i18n/hi/README.md) : पॉपअप परत बनाएं और प्रदर्शित करें
+[CardLi](../../src/CardLi/i18n/hi/README.md) : कार्ड सूची को अतुल्यकालिक रूप से लोड और प्रदर्शित करें
+[Md](../../src/Md/i18n/hi/README.md) : मार्कडाउन टेक्स्ट को HTML में सुरक्षित रूप से पार्स और रेंडर करें।
+[Pophover](../../src/Pophover/i18n/hi/README.md) : फ्लोटिंग बबल प्रॉम्प्ट
+[Scroll](../../src/Scroll/i18n/hi/README.md) : वर्चुअल स्क्रॉल बार
+[Select](../../src/Select/i18n/hi/README.md) : ड्रॉप-डाउन चयन, चौड़ाई वर्तमान आइटम के अनुकूल होती है
+[Side](../../src/Side/i18n/hi/README.md) : दराज के पैनल जो किनारे से बाहर की ओर खिसकते हैं
+[Tab](../../src/Tab/i18n/hi/README.md) : स्विच करने योग्य टैब
+[On](../hi/js/On.md) : बैच बाइंडिंग इवेंट मॉनिटरिंग
+[Toast](../hi/js/Toast.md) : टोस्ट पॉप-अप संदेश प्रॉम्प्ट
+[a](../hi/js/a.md) : विश्व स्तर पर इंटरसेप्ट लिंक क्लिक इवेंट
+[c-t](../hi/js/c-t.md) : HTML अंतर्राष्ट्रीयकरण
+[demo](../hi/js/demo.md) : डेमो पेज आरंभीकरण
+[dom](../hi/js/dom.md) : दस्तावेज़ चर संक्षिप्तीकरण और शॉर्टकट फ़ंक्शन
+[dom/header](../hi/js/dom/header.md) : हेडर बार DOM संरचना बनाएं
+[fetch](../hi/js/fetch.md) : फ़ेच इनकैप्सुलेशन पर आधारित नेटवर्क अनुरोध टूल फ़ंक्शन
+[fetchLang](../hi/js/fetchLang.md) : भाषा पैक को एसिंक्रोनस रूप से लोड करें और अपडेट कॉलबैक को बाइंड करें
+[hashActive](../hi/js/hashActive.md) : यूआरएल एंकर और व्यूपोर्ट स्क्रॉलिंग के आधार पर नेविगेशन लिंक हाइलाइटिंग
+[i18n](../hi/js/i18n.md) : बहुभाषी स्थिति प्रबंधन और परिवर्तन निगरानी
+[i18n/init](../hi/js/i18n/init.md) : बहु-भाषा आरंभीकरण कॉन्फ़िगरेशन और लोडिंग
+[i18n/store](../hi/js/i18n/store.md) : बहुभाषी स्थानीय भंडारण प्रबंधन
+[icoTip](../hi/js/icoTip.md) : अंतर्राष्ट्रीयकरण संकेतों के साथ एक आइकन घटक को परिभाषित और पंजीकृत करें
+[md/htm](../hi/js/md/htm.md) : HTML स्ट्रिंग में टेक्स्ट को मार्कडाउन करें
+[md/safeHtm](../hi/js/md/safeHtm.md) : टेक्स्ट को सुरक्षित HTML में मार्कडाउन करें
+[md/streamRender](../hi/js/md/streamRender.md) : मार्कडाउन स्ट्रीमिंग रेंडरिंग
+[parentScroll](../hi/js/parentScroll.md) : पूर्वज स्क्रॉल कंटेनर तत्व प्राप्त करें
+[rmWait](../hi/js/rmWait.md) : पृष्ठ प्रारंभिक लोडिंग प्रतीक्षा एनीमेशन हटाएं
+[route](../hi/js/route.md) : सिंगल पेज फ्रंट-एंड रूटिंग प्रबंधन
+[sandbox](../hi/js/sandbox.md) : अलगाव में सबमॉड्यूल को लोड करने और चलाने के लिए सैंडबॉक्स कंटेनर कस्टम घटक

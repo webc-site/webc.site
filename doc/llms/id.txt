@@ -1,0 +1,54 @@
+[BoxX](../../src/BoxX/i18n/id/README.md) : Buat dan tampilkan lapisan popup dengan tombol tutup
+[Code](../../src/Code/i18n/id/README.md) : tombol kode
+[Copy](../../src/Copy/i18n/id/README.md) : Salin teks ke papan klip
+[Edit](../../src/Edit/i18n/id/README.md) : tombol edit
+[HtmDemo](../../src/HtmDemo/i18n/id/README.md) : Men-debug kode HTML dan JS secara online
+[I18n](../../src/I18n/i18n/id/README.md) : Tombol dan jendela pop-up untuk mengganti bahasa antarmuka
+[MdStream](../../src/MdStream/i18n/id/README.md) : Streaming rendering teks penurunan harga
+[Nav](../../src/Nav/i18n/id/README.md) : Bilah navigasi atas yang secara otomatis diciutkan atau diperluas saat halaman digulir
+[NavL](../../src/NavL/i18n/id/README.md) : Secara otomatis beralih menu navigasi dan tombol kembali
+[NavMenu](../../src/NavMenu/i18n/id/README.md) : Menu navigasi disesuaikan dengan ukuran layar yang berbeda
+[SelectBtn](../../src/SelectBtn/i18n/id/README.md) : Kombinasi kotak pilihan drop-down dan tombol
+[TabSelect](../../src/TabSelect/i18n/id/README.md) : Halaman tab dengan pilihan drop-down
+[Btn](../../src/Btn/i18n/id/README.md) : Tombol biasa dan tombol ikon bulat
+[Card](../../src/Card/i18n/id/README.md) : Kartu kapsul dengan panah kanan ditampilkan dalam suspensi
+[H1Txt](../../src/H1Txt/i18n/id/README.md) : Judul dan deskripsi tekstur
+[Ing](../../src/Ing/i18n/id/README.md) : Indikator status pemuatan atau pemrosesan
+[Input](../../src/Input/i18n/id/README.md) : Kotak masukan yang secara otomatis mengganti status placeholder
+[Kv](../../src/Kv/i18n/id/README.md) : pasangan nilai kunci
+[Lg](../../src/Lg/i18n/id/README.md) : Latar belakang kaca buram dan efek sorotan tepi
+[MdCss](../../src/MdCss/i18n/id/README.md) : Gaya tipografi dioptimalkan untuk pengalaman membaca
+[NavALi](../../src/NavALi/i18n/id/README.md) : Gaya daftar tautan bilah navigasi
+[O](../../src/O/i18n/id/README.md) : Gambarlah logo titik berongga di depan elemen
+[Toast](../../src/Toast/i18n/id/README.md) : Jendela pop-up prompt di tepi halaman
+[404](../../src/404/i18n/id/README.md) : Halaman pesan kesalahan jalur tidak ada
+[Back](../../src/Back/i18n/id/README.md) : tombol kembali
+[Box](../../src/Box/i18n/id/README.md) : Membuat dan menampilkan lapisan popup
+[CardLi](../../src/CardLi/i18n/id/README.md) : Memuat dan menampilkan daftar kartu secara asinkron
+[Md](../../src/Md/i18n/id/README.md) : Parsing dan render teks Markdown dengan aman ke HTML.
+[Pophover](../../src/Pophover/i18n/id/README.md) : gelembung mengambang cepat
+[Scroll](../../src/Scroll/i18n/id/README.md) : bilah gulir virtual
+[Select](../../src/Select/i18n/id/README.md) : Pilihan drop-down, lebar menyesuaikan dengan item saat ini
+[Side](../../src/Side/i18n/id/README.md) : Panel laci yang dapat digeser keluar dari samping
+[Tab](../../src/Tab/i18n/id/README.md) : Tab yang dapat diganti
+[On](../id/js/On.md) : Pemantauan peristiwa pengikatan batch
+[Toast](../id/js/Toast.md) : Pesan pop-up roti panggang
+[a](../id/js/a.md) : Cegat peristiwa klik tautan secara global
+[c-t](../id/js/c-t.md) : Internasionalisasi HTML
+[demo](../id/js/demo.md) : Inisialisasi halaman demo
+[dom](../id/js/dom.md) : Dokumentasikan singkatan variabel dan fungsi pintasan
+[dom/header](../id/js/dom/header.md) : Buat struktur DOM bilah header
+[fetch](../id/js/fetch.md) : Fungsi alat permintaan jaringan berdasarkan enkapsulasi pengambilan
+[fetchLang](../id/js/fetchLang.md) : Memuat paket bahasa secara asinkron dan mengikat panggilan balik pembaruan
+[hashActive](../id/js/hashActive.md) : Penyorotan tautan navigasi berdasarkan jangkar URL dan pengguliran area pandang
+[i18n](../id/js/i18n.md) : Manajemen status multi-bahasa dan pemantauan perubahan
+[i18n/init](../id/js/i18n/init.md) : Konfigurasi dan pemuatan inisialisasi multi-bahasa
+[i18n/store](../id/js/i18n/store.md) : Manajemen penyimpanan lokal multibahasa
+[icoTip](../id/js/icoTip.md) : Tentukan dan daftarkan komponen ikon dengan petunjuk internasionalisasi
+[md/htm](../id/js/md/htm.md) : Teks penurunan harga ke string HTML
+[md/safeHtm](../id/js/md/safeHtm.md) : Teks penurunan harga ke HTML yang aman
+[md/streamRender](../id/js/md/streamRender.md) : Render streaming penurunan harga
+[parentScroll](../id/js/parentScroll.md) : Dapatkan elemen wadah gulir leluhur
+[rmWait](../id/js/rmWait.md) : Hapus animasi tunggu pemuatan awal halaman
+[route](../id/js/route.md) : Manajemen perutean front-end satu halaman
+[sandbox](../id/js/sandbox.md) : Komponen kustom kontainer Sandbox untuk memuat dan menjalankan submodul secara terpisah

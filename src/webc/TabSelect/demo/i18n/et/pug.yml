@@ -1,0 +1,9 @@
+language: keel
+os: süsteem
+about: umbes
+jsInfo: JavaScript on skriptikeel, mida kasutatakse laialdaselt kliendipoolses veebiarenduses.
+rsInfo: Rust on süsteemide programmeerimiskeel, mis keskendub ohutusele, kiirusele ja samaaegsusele.
+pyInfo: Python on objektorienteeritud, tõlgendatud arvutiprogrammeerimiskeel.
+macInfo: macOS on Unixi-põhine graafiline operatsioonisüsteem, mille on välja töötanud Apple.
+winInfo: Windows on laialdaselt kasutatav personaalarvuti operatsioonisüsteem, mille on välja töötanud Microsoft Corporation.
+aboutInfo: Oleme pühendunud kvaliteetsete avatud lähtekoodiga esiotsa komponentide arendamisele ja olete oodatud osalema.

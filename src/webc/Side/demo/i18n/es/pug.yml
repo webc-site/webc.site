@@ -1,0 +1,46 @@
+open: Abrir barra lateral
+userName: Caminante friki
+userTitle: Diseñador web sénior
+statFollowers: Abonado
+statFollowing: concentrarse en
+statProjects: proyecto
+groupCore: Funciones principales
+groupSystem: Gestión del sistema
+groupData: análisis de datos
+groupCollaboration: Trabajo en equipo
+widgetTitle: Uso del espacio de almacenamiento
+widgetTasks: Mis tareas pendientes
+task1: Desarrollo interactivo lateral completo
+task2: Diseño Estética visual líquida
+task3: Optimice la usabilidad y los detalles de los componentes
+navHome: Página de inicio del panel
+navProfile: Centro personal
+navSettings: Configuración del sistema
+navMessages: Noticias del sitio
+navNotifications: Recordatorio de notificación
+navPrivacy: Privacidad y seguridad
+navHelp: Ayuda y comentarios
+navAnalytics: informe de análisis
+navCloud: Espacio de almacenamiento en la nube
+navTeam: miembro del equipo
+navTasks: Coordinación de tareas
+logout: Finalizar la sesión
+upgradeTitle: Actualice a la edición profesional
+upgradeDesc: Desbloquee almacenamiento ilimitado en la nube y colaboración avanzada
+upgradeBtn: Actualiza ahora
+task4: Revisar los compromisos de relaciones públicas y fusionar ramas
+task5: Escriba un registro de lanzamiento de nueva versión de WebC
+widgetOnline: Miembros del equipo en línea
+member1: Lisa
+member2: David
+member3: ana
+statusOnline: en línea
+statusOffline: Desconectado
+statusBusy: Ocupado
+widgetFiles: archivos recientes
+file1: Especificación de diseño de producto v2.4.pdf
+file2: Borrador del plan del tercer trimestre de 2026.docx
+file3: Demostración de animación de componentes.mp4
+tagDesign: diseño
+tagDev: desarrollar
+tagPm: producto

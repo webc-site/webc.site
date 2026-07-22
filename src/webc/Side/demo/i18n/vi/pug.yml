@@ -1,0 +1,46 @@
+open: Mở thanh bên
+userName: Geek Walker
+userTitle: Nhà thiết kế web cao cấp
+statFollowers: Người đăng ký
+statFollowing: tập trung vào
+statProjects: dự án
+groupCore: Chức năng cốt lõi
+groupSystem: Quản lý hệ thống
+groupData: phân tích dữ liệu
+groupCollaboration: Làm việc theo nhóm
+widgetTitle: Sử dụng không gian lưu trữ
+widgetTasks: Nhiệm vụ cần làm của tôi
+task1: Phát triển tương tác bên hoàn chỉnh
+task2: Thiết kế Thẩm mỹ thị giác lỏng
+task3: Tối ưu hóa khả năng sử dụng và chi tiết của thành phần
+navHome: Trang chủ Bảng thông tin
+navProfile: Trung tâm cá nhân
+navSettings: Cài đặt hệ thống
+navMessages: tin tức trang web
+navNotifications: Lời nhắc thông báo
+navPrivacy: Quyền riêng tư và bảo mật
+navHelp: Trợ giúp và phản hồi
+navAnalytics: báo cáo phân tích
+navCloud: Không gian lưu trữ đám mây
+navTeam: thành viên trong nhóm
+navTasks: Phối hợp nhiệm vụ
+logout: Đăng xuất
+upgradeTitle: Nâng cấp lên phiên bản chuyên nghiệp
+upgradeDesc: Mở khóa bộ nhớ đám mây không giới hạn và khả năng cộng tác nâng cao
+upgradeBtn: Nâng cấp ngay bây giờ
+task4: Xem xét các cam kết PR và hợp nhất các chi nhánh
+task5: Viết nhật ký phát hành phiên bản mới của WebC
+widgetOnline: Thành viên nhóm trực tuyến
+member1: Lisa
+member2: david
+member3: Anna
+statusOnline: trực tuyến
+statusOffline: Ngoại tuyến
+statusBusy: Bận
+widgetFiles: tập tin gần đây
+file1: Thông số thiết kế sản phẩm v2.4.pdf
+file2: Kế hoạch dự thảo quý 3 năm 2026.docx
+file3: Trình diễn hoạt ảnh thành phần.mp4
+tagDesign: thiết kế
+tagDev: phát triển
+tagPm: sản phẩm

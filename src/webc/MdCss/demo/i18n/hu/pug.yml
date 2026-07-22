@@ -1,0 +1,38 @@
+basicTitle: Alapstílus
+bold: Bátor
+italic: dőlt betűvel
+del: áthúzott
+inlineCode: inline kód
+linkPrefix: A link előtt és után szöveg található, mint pl
+link: ENSZ hivatalos weboldala
+linkSuffix: egy link.
+quoteSingle: Ez egy egysoros idézet.
+quoteMultiLine1: Ez egy többsoros idézet.
+quoteMultiLine2: Vizuális hatás többsoros hivatkozások megjelenítéséhez.
+note: Általános üzenetek és megjegyzések
+tip: Tippek és hasznos tippek
+important: Fontos tippek és aggályok
+warning: Kockázati figyelmeztetések és óvintézkedések
+caution: VESZÉLY ÉS RENDKÍVÜLI KOCKÁZAT FIGYELMEZTETÉS
+listTitle: Idézetek és listák
+taskTitle: feladatlista
+todoItem: Ez egy befejezetlen CSS-feladat
+doneItem: Ez egy befejezett CSS feladat
+ulItem1: Rendeletlen első tétel
+ulSubItem1: Rendeletlen altétel
+ulSubItem2: Rendeletlen második altétel
+ulItem2: Rendeletlen második tétel
+olItem1: Első megrendelt tétel
+olSubItem1: Megrendelt tétel egy
+olSubItem2: Második altétel megrendelve
+olItem2: Második ciklusban elrendelték
+tableTitle: lap
+col1: projektet
+col2: állami
+col3: pontszám
+row1Col1: statikus
+row1Col2: Befejezve
+row2Col1: folyó
+row2Col2: Rendering
+codeTitle: kódblokk
+imageTitle: kép

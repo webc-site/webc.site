@@ -1,0 +1,46 @@
+open: Yon panelni oching
+userName: Geek Walker
+userTitle: Katta veb-dizayner
+statFollowers: Obunachi
+statFollowing: ga diqqatni jalb etish
+statProjects: loyiha
+groupCore: Asosiy funktsiyalar
+groupSystem: Tizim boshqaruvi
+groupData: ma'lumotlarni tahlil qilish
+groupCollaboration: Jamoaviy ish
+widgetTitle: Saqlash maydonidan foydalanish
+widgetTasks: Mening vazifalarim
+task1: To'liq Side interaktiv rivojlanishi
+task2: Dizayn Suyuq vizual estetika
+task3: Komponentning qulayligi va tafsilotlarini optimallashtirish
+navHome: Boshqaruv paneli bosh sahifasi
+navProfile: Shaxsiy markaz
+navSettings: Tizim sozlamalari
+navMessages: Sayt yangiliklari
+navNotifications: Bildirishnoma eslatmasi
+navPrivacy: Maxfiylik va xavfsizlik
+navHelp: Yordam va fikr-mulohaza
+navAnalytics: tahlil hisoboti
+navCloud: Bulutli saqlash joyi
+navTeam: jamoa a'zosi
+navTasks: Vazifalarni muvofiqlashtirish
+logout: Chiqish
+upgradeTitle: Professional nashrga yangilang
+upgradeDesc: Cheksiz bulutli xotira va kengaytirilgan hamkorlikni oching
+upgradeBtn: Hozir yangilang
+task4: PR majburiyatlarini ko'rib chiqing va filiallarni birlashtiring
+task5: WebC ning yangi versiyasini chiqarish jurnalini yozing
+widgetOnline: Onlayn jamoa a'zolari
+member1: Liza
+member2: David
+member3: Anna
+statusOnline: onlayn
+statusOffline: Oflayn
+statusBusy: Band
+widgetFiles: oxirgi fayllar
+file1: Mahsulot dizayni spetsifikatsiyasi v2.4.pdf
+file2: 2026 yilning 3-chorak rejasi loyihasi.docx
+file3: Komponentli animatsiya namoyishi.mp4
+tagDesign: dizayn
+tagDev: rivojlantirish
+tagPm: mahsulot

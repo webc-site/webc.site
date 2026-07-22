@@ -1,0 +1,38 @@
+import fs from "node:fs/promises";
+import { join } from "node:path";
+import read from "@3-/read";
+import write from "@3-/write";
+
+export const README_MD = "README.md";
+
+export default async (root) => {
+  const doc_dir = join(root, "doc"),
+    dir_src_js = join(root, "src/js"),
+    entry_li = await fs.readdir(doc_dir, { withFileTypes: true }),
+    CODE = (await import(join(dir_src_js, "i18n/CODE.js"))).default,
+    NAME = (await import(join(dir_src_js, "i18n/NAME.js"))).default,
+    { readme: readmeUrlFn } = await import(join(root, "src/conf/URL.js")),
+    lang_li = entry_li
+      .filter((entry) => entry.isDirectory() && !entry.name.startsWith("."))
+      .map((entry) => entry.name)
+      .filter((lang) => CODE.includes(lang));
+
+  lang_li.sort((a, b) => CODE.indexOf(a) - CODE.indexOf(b));
+
+  const link_li = await Promise.all(
+      lang_li.map(async (lang) => {
+        const idx = CODE.indexOf(lang),
+          name = NAME[idx],
+          url = await readmeUrlFn(lang),
+          img_src = "https://cdn.jsdmirror.com/gh/webc-site/svg/i18n/" + lang + ".svg";
+        return '<a href="' + url + '"><img src="' + img_src + '" alt="' + name + '" /></a>';
+      })
+    ),
+    en_readme_path = join(doc_dir, "en", README_MD),
+    en_content = read(en_readme_path),
+    header = link_li.join(" ") + "\n\n",
+    output_content = header + en_content,
+    root_readme_path = join(root, README_MD);
+
+  write(root_readme_path, output_content);
+};

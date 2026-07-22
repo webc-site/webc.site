@@ -1,0 +1,38 @@
+basicTitle: Grundläggande stil
+bold: Djärv
+italic: kursiv
+del: genomstruken
+inlineCode: inline kod
+linkPrefix: Det finns text före och efter länken, som t.ex
+link: FN:s officiella webbplats
+linkSuffix: är en länk.
+quoteSingle: Detta är ett citat på en rad.
+quoteMultiLine1: Detta är ett citat med flera rader.
+quoteMultiLine2: En visuell effekt för att visa referenser med flera rader.
+note: Allmänna meddelanden och anteckningar
+tip: Tips och användbara tips
+important: Viktiga tips och funderingar
+warning: Riskvarningar och försiktighetsåtgärder
+caution: VARNING FÖR FARA OCH EXTREM RISK
+listTitle: Citat och listor
+taskTitle: uppgiftslista
+todoItem: Detta är en oavslutad CSS-uppgift
+doneItem: Detta är en klar CSS-uppgift
+ulItem1: Obeställd första vara
+ulSubItem1: Oordnad delpost ett
+ulSubItem2: Oordnad delpost två
+ulItem2: Obeställd andra vara
+olItem1: Beställde första vara
+olSubItem1: Beställd artikel ett
+olSubItem2: Beställde underartikel två
+olItem2: Beställd andra termin
+tableTitle: ark
+col1: projekt
+col2: ange
+col3: göra
+row1Col1: statisk
+row1Col2: Avslutad
+row2Col1: streaming
+row2Col2: Tolkning
+codeTitle: kodblock
+imageTitle: bild

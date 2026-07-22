@@ -1,0 +1,7 @@
+desc: Automatisches Bestimmen und Umschalten zur Anzeige des Navigationsmenüs oder der Zurück-Taste basierend auf der aktuellen Route
+desktop_title: Desktop-Anzeige
+desktop_desc: Wenn Sie sich in der deklarierten Menüroute befinden, werden die Menüelemente in Kacheln angezeigt. andernfalls wird die Zurück-Schaltfläche angezeigt
+mobile_title: Mobile Anzeige
+mobile_desc: In der deklarierten Menüroute wird es zu einer Symbolschaltfläche zusammengeklappt und unterstützt das Herausziehen des Menüs. andernfalls wird eine Zurück-Schaltfläche angezeigt
+normal_state: Navigationsstatus (c-nav-menu)
+back_state: Fallback-Status (C-Back)

@@ -1,0 +1,54 @@
+[BoxX](../../src/BoxX/i18n/gu/README.md) : બંધ બટન વડે પોપઅપ લેયર બનાવો અને પ્રદર્શિત કરો
+[Code](../../src/Code/i18n/gu/README.md) : કોડ બટન
+[Copy](../../src/Copy/i18n/gu/README.md) : ટેક્સ્ટને ક્લિપબોર્ડ પર કૉપિ કરો
+[Edit](../../src/Edit/i18n/gu/README.md) : સંપાદિત કરો બટન
+[HtmDemo](../../src/HtmDemo/i18n/gu/README.md) : HTML અને JS કોડને ઑનલાઇન ડિબગ કરવું
+[I18n](../../src/I18n/i18n/gu/README.md) : ઈન્ટરફેસ ભાષાઓ બદલવા માટે બટનો અને પોપ-અપ વિન્ડો
+[MdStream](../../src/MdStream/i18n/gu/README.md) : માર્કડાઉન ટેક્સ્ટનું સ્ટ્રીમિંગ રેન્ડરિંગ
+[Nav](../../src/Nav/i18n/gu/README.md) : ટોચના નેવિગેશન બાર જે જ્યારે પૃષ્ઠ સ્ક્રોલ કરે છે ત્યારે આપમેળે સંકુચિત અથવા વિસ્તૃત થાય છે
+[NavL](../../src/NavL/i18n/gu/README.md) : નેવિગેશન મેનૂ અને રીટર્ન બટનને આપમેળે સ્વિચ કરો
+[NavMenu](../../src/NavMenu/i18n/gu/README.md) : નેવિગેશન મેનૂ વિવિધ સ્ક્રીન માપો માટે અનુકૂળ
+[SelectBtn](../../src/SelectBtn/i18n/gu/README.md) : ડ્રોપ-ડાઉન પસંદગી બોક્સ અને બટનનું સંયોજન
+[TabSelect](../../src/TabSelect/i18n/gu/README.md) : ડ્રોપ-ડાઉન પસંદગી સાથે ટૅબ પૃષ્ઠ
+[Btn](../../src/Btn/i18n/gu/README.md) : સામાન્ય બટન અને રાઉન્ડ આઇકન બટન
+[Card](../../src/Card/i18n/gu/README.md) : સસ્પેન્શનમાં પ્રદર્શિત જમણા તીર સાથે કૅપ્સ્યુલ કાર્ડ
+[H1Txt](../../src/H1Txt/i18n/gu/README.md) : ટેક્સચર શીર્ષક અને વર્ણન
+[Ing](../../src/Ing/i18n/gu/README.md) : લોડિંગ અથવા પ્રોસેસિંગ સ્થિતિનું સૂચક
+[Input](../../src/Input/i18n/gu/README.md) : ઇનપુટ બોક્સ જે આપમેળે પ્લેસહોલ્ડર સ્ટેટને સ્વિચ કરે છે
+[Kv](../../src/Kv/i18n/gu/README.md) : કી મૂલ્યની જોડી
+[Lg](../../src/Lg/i18n/gu/README.md) : ફ્રોસ્ટેડ ગ્લાસ બેકગ્રાઉન્ડ અને એજ હાઇલાઇટ ઇફેક્ટ
+[MdCss](../../src/MdCss/i18n/gu/README.md) : વાંચન અનુભવ માટે ઑપ્ટિમાઇઝ ટાઇપોગ્રાફી શૈલીઓ
+[NavALi](../../src/NavALi/i18n/gu/README.md) : નેવિગેશન બાર લિંક સૂચિ શૈલી
+[O](../../src/O/i18n/gu/README.md) : તત્વની સામે હોલો ડોટ લોગો દોરો
+[Toast](../../src/Toast/i18n/gu/README.md) : પૃષ્ઠની ધાર પર પોપ-અપ વિન્ડોને પ્રોમ્પ્ટ કરો
+[404](../../src/404/i18n/gu/README.md) : પાથ અસ્તિત્વમાં નથી ભૂલ સંદેશ પૃષ્ઠ
+[Back](../../src/Back/i18n/gu/README.md) : પાછળનું બટન
+[Box](../../src/Box/i18n/gu/README.md) : પોપઅપ લેયર બનાવો અને પ્રદર્શિત કરો
+[CardLi](../../src/CardLi/i18n/gu/README.md) : અસુમેળ રીતે કાર્ડ સૂચિ લોડ કરો અને પ્રદર્શિત કરો
+[Md](../../src/Md/i18n/gu/README.md) : માર્કડાઉન ટેક્સ્ટને HTML પર સુરક્ષિત રીતે પાર્સ અને રેન્ડર કરો.
+[Pophover](../../src/Pophover/i18n/gu/README.md) : ફ્લોટિંગ બબલ પ્રોમ્પ્ટ
+[Scroll](../../src/Scroll/i18n/gu/README.md) : વર્ચ્યુઅલ સ્ક્રોલ બાર
+[Select](../../src/Select/i18n/gu/README.md) : ડ્રોપ-ડાઉન પસંદગી, પહોળાઈ વર્તમાન આઇટમને અનુકૂળ છે
+[Side](../../src/Side/i18n/gu/README.md) : ડ્રોઅર પેનલ્સ કે જે બાજુમાંથી બહાર નીકળે છે
+[Tab](../../src/Tab/i18n/gu/README.md) : સ્વિચ કરવા યોગ્ય ટૅબ્સ
+[On](../gu/js/On.md) : બેચ બંધનકર્તા ઘટના મોનીટરીંગ
+[Toast](../gu/js/Toast.md) : ટોસ્ટ પોપ-અપ સંદેશ પ્રોમ્પ્ટ
+[a](../gu/js/a.md) : વૈશ્વિક સ્તરે લિંક ક્લિક ઇવેન્ટ્સને અટકાવો
+[c-t](../gu/js/c-t.md) : HTML આંતરરાષ્ટ્રીયકરણ
+[demo](../gu/js/demo.md) : ડેમો પૃષ્ઠ આરંભ
+[dom](../gu/js/dom.md) : દસ્તાવેજ ચલ સંક્ષેપ અને શોર્ટકટ કાર્યો
+[dom/header](../gu/js/dom/header.md) : હેડર બાર DOM માળખું બનાવો
+[fetch](../gu/js/fetch.md) : ફેચ એન્કેપ્સ્યુલેશન પર આધારિત નેટવર્ક વિનંતી સાધન કાર્ય
+[fetchLang](../gu/js/fetchLang.md) : અસુમેળ રીતે ભાષા પૅક્સ લોડ કરો અને અપડેટ કૉલબૅક્સને જોડો
+[hashActive](../gu/js/hashActive.md) : URL એન્કર અને વ્યુપોર્ટ સ્ક્રોલિંગ પર આધારિત નેવિગેશન લિંક હાઇલાઇટિંગ
+[i18n](../gu/js/i18n.md) : મલ્ટી-લેંગ્વેજ સ્ટેટસ મેનેજમેન્ટ અને ચેન્જ મોનિટરિંગ
+[i18n/init](../gu/js/i18n/init.md) : મલ્ટી-લેંગ્વેજ ઇનિશિયલાઇઝેશન કન્ફિગરેશન અને લોડિંગ
+[i18n/store](../gu/js/i18n/store.md) : બહુભાષી સ્થાનિક સંગ્રહ વ્યવસ્થાપન
+[icoTip](../gu/js/icoTip.md) : આંતરરાષ્ટ્રીયકરણ સંકેતો સાથે આઇકોન ઘટકને વ્યાખ્યાયિત કરો અને નોંધણી કરો
+[md/htm](../gu/js/md/htm.md) : HTML સ્ટ્રિંગમાં ટેક્સ્ટને માર્કડાઉન કરો
+[md/safeHtm](../gu/js/md/safeHtm.md) : ટેક્સ્ટને સુરક્ષિત HTML પર માર્કડાઉન કરો
+[md/streamRender](../gu/js/md/streamRender.md) : માર્કડાઉન સ્ટ્રીમિંગ રેન્ડરિંગ
+[parentScroll](../gu/js/parentScroll.md) : પૂર્વજ સ્ક્રોલ કન્ટેનર તત્વ મેળવો
+[rmWait](../gu/js/rmWait.md) : પૃષ્ઠ પ્રારંભિક લોડિંગ રાહ એનિમેશન દૂર કરો
+[route](../gu/js/route.md) : સિંગલ પેજ ફ્રન્ટ-એન્ડ રૂટીંગ મેનેજમેન્ટ
+[sandbox](../gu/js/sandbox.md) : એકાંતમાં સબમોડ્યુલ્સ લોડ કરવા અને ચલાવવા માટે સેન્ડબોક્સ કન્ટેનર કસ્ટમ ઘટક
