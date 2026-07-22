@@ -16,6 +16,14 @@ const getPushRemotes = async (git) => {
     }
   }
 
+  let gh_remote = "";
+  for (const [name, url] of Object.entries(remote_map)) {
+    if (hasGithub(url)) {
+      gh_remote = name;
+      break;
+    }
+  }
+
   if (remote_map.origin) {
     target.add("origin");
   } else {
@@ -25,19 +33,11 @@ const getPushRemotes = async (git) => {
     }
   }
 
-  const default_remote = [...target][0],
-    default_url = default_remote ? remote_map[default_remote] : "";
-
-  if (!default_url || !hasGithub(default_url)) {
-    for (const [name, url] of Object.entries(remote_map)) {
-      if (hasGithub(url)) {
-        target.add(name);
-        break;
-      }
-    }
+  if (gh_remote) {
+    target.add(gh_remote);
   }
 
-  return [...target];
+  return [[...target], gh_remote || [...target][0] || "origin"];
 };
 
 export default async (root) => {
@@ -46,7 +46,11 @@ export default async (root) => {
   const git = (cmd) => $({ cwd: root })(["git " + cmd]);
 
   try {
-    const remote_li = await getPushRemotes(git);
+    const [remote_li, gh_remote] = await getPushRemotes(git);
+
+    console.log("pulling main from " + gh_remote + "...");
+    await git("pull " + gh_remote + " main --no-verify");
+
     for (const remote of remote_li) {
       console.log("pushing to remote " + remote + " release branch...");
       await git("push " + remote + " HEAD:release --force --no-verify");
