@@ -12,6 +12,7 @@ jobs:
     permissions:
       id-token: write
       contents: write
+      actions: write
 
     steps:
       - uses: actions/checkout@v6
@@ -28,5 +29,6 @@ jobs:
           set -ex
           cd cli && bun i && cd ..
           bun sh/npmPublish.js
+          gh workflow run githubPage.yml
         env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
