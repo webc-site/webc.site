@@ -28,14 +28,11 @@ const PKG_FILE = "package.json",
     await git("add " + PKG_FILE);
     await git('commit -m "v' + next + '" --no-verify');
 
-    const remote =
-      env.GITHUB_TOKEN && env.GITHUB_REPOSITORY
-        ? "https://x-access-token:" +
-          env.GITHUB_TOKEN +
-          "@github.com/" +
-          env.GITHUB_REPOSITORY +
-          ".git"
-        : "origin";
+    const token = env.GH_TOKEN || env.GITHUB_TOKEN,
+      remote =
+        token && env.GITHUB_REPOSITORY
+          ? "https://x-access-token:" + token + "@github.com/" + env.GITHUB_REPOSITORY + ".git"
+          : "origin";
 
     console.log("pushing committed package.json to main branch...");
     await git("push " + remote + " HEAD:main --no-verify");
