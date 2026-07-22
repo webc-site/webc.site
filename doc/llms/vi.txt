@@ -1,0 +1,50 @@
+[BoxX](../../src/webc/BoxX/i18n/vi/README.md) : Tạo và hiển thị lớp bật lên bằng nút đóng
+[Code](../../src/webc/Code/i18n/vi/README.md) : nút mã
+[Copy](../../src/webc/Copy/i18n/vi/README.md) : Sao chép văn bản vào clipboard
+[Edit](../../src/webc/Edit/i18n/vi/README.md) : nút chỉnh sửa
+[HtmDemo](../../src/webc/HtmDemo/i18n/vi/README.md) : Gỡ lỗi mã HTML và JS trực tuyến
+[I18n](../../src/webc/I18n/i18n/vi/README.md) : Các nút và cửa sổ bật lên để chuyển đổi ngôn ngữ giao diện
+[MdStream](../../src/webc/MdStream/i18n/vi/README.md) : Truyền trực tuyến kết xuất văn bản Markdown
+[Nav](../../src/webc/Nav/i18n/vi/README.md) : Thanh điều hướng trên cùng tự động thu gọn hoặc mở rộng khi cuộn trang
+[NavL](../../src/webc/NavL/i18n/vi/README.md) : Tự động chuyển đổi menu điều hướng và nút quay lại
+[NavMenu](../../src/webc/NavMenu/i18n/vi/README.md) : Menu điều hướng thích ứng với các kích thước màn hình khác nhau
+[SelectBtn](../../src/webc/SelectBtn/i18n/vi/README.md) : Sự kết hợp của hộp lựa chọn thả xuống và nút
+[Side](../../src/webc/Side/i18n/vi/README.md) : Bảng ngăn kéo trượt ra từ bên cạnh
+[TabSelect](../../src/webc/TabSelect/i18n/vi/README.md) : Trang tab có lựa chọn thả xuống
+[Btn](../../src/webc/Btn/i18n/vi/README.md) : Nút thông thường và nút biểu tượng tròn
+[Card](../../src/webc/Card/i18n/vi/README.md) : Thẻ Capsule có mũi tên phải hiển thị ở trạng thái treo
+[H1Txt](../../src/webc/H1Txt/i18n/vi/README.md) : Tiêu đề và mô tả kết cấu
+[Ing](../../src/webc/Ing/i18n/vi/README.md) : Chỉ báo trạng thái tải hoặc xử lý
+[Input](../../src/webc/Input/i18n/vi/README.md) : Hộp đầu vào tự động chuyển trạng thái giữ chỗ
+[Kv](../../src/webc/Kv/i18n/vi/README.md) : cặp giá trị khóa
+[Lg](../../src/webc/Lg/i18n/vi/README.md) : Hiệu ứng làm nổi bật cạnh và nền kính mờ
+[MdCss](../../src/webc/MdCss/i18n/vi/README.md) : Kiểu chữ được tối ưu hóa cho trải nghiệm đọc
+[NavALi](../../src/webc/NavALi/i18n/vi/README.md) : Kiểu danh sách liên kết thanh điều hướng
+[O](../../src/webc/O/i18n/vi/README.md) : Vẽ logo chấm rỗng phía trước phần tử
+[Toast](../../src/webc/Toast/i18n/vi/README.md) : Cửa sổ bật lên nhắc nhở ở cạnh trang
+[404](../../src/webc/404/i18n/vi/README.md) : Trang thông báo lỗi đường dẫn không tồn tại
+[Back](../../src/webc/Back/i18n/vi/README.md) : nút quay lại
+[Box](../../src/webc/Box/i18n/vi/README.md) : Tạo và hiển thị lớp bật lên
+[CardLi](../../src/webc/CardLi/i18n/vi/README.md) : Tải và hiển thị danh sách thẻ không đồng bộ
+[Md](../../src/webc/Md/i18n/vi/README.md) : Phân tích cú pháp và hiển thị văn bản Markdown thành HTML một cách an toàn.
+[Pophover](../../src/webc/Pophover/i18n/vi/README.md) : dấu nhắc bong bóng nổi
+[Scroll](../../src/webc/Scroll/i18n/vi/README.md) : thanh cuộn ảo
+[Select](../../src/webc/Select/i18n/vi/README.md) : Lựa chọn thả xuống, chiều rộng thích ứng với mục hiện tại
+[Tab](../../src/webc/Tab/i18n/vi/README.md) : Các tab có thể chuyển đổi
+[On](../vi/js/On.md) : Giám sát sự kiện ràng buộc hàng loạt
+[a](../vi/js/a.md) : Chặn các sự kiện nhấp vào liên kết trên toàn cầu
+[dom](../vi/js/dom.md) : Tài liệu viết tắt biến và hàm phím tắt
+[dom/header](../vi/js/dom/header.md) : Tạo cấu trúc DOM thanh tiêu đề
+[fetch](../vi/js/fetch.md) : Chức năng công cụ yêu cầu mạng dựa trên đóng gói tìm nạp
+[fetchLang](../vi/js/fetchLang.md) : Tải không đồng bộ các gói ngôn ngữ và liên kết các lệnh gọi lại cập nhật
+[hashActive](../vi/js/hashActive.md) : Đánh dấu liên kết điều hướng dựa trên neo URL và cuộn khung nhìn
+[i18n](../vi/js/i18n.md) : Quản lý trạng thái đa ngôn ngữ và giám sát thay đổi
+[i18n/init](../vi/js/i18n/init.md) : Cấu hình khởi tạo và tải đa ngôn ngữ
+[i18n/store](../vi/js/i18n/store.md) : Quản lý lưu trữ cục bộ đa ngôn ngữ
+[icoTip](../vi/js/icoTip.md) : Xác định và đăng ký thành phần biểu tượng với các gợi ý quốc tế hóa
+[md/htm](../vi/js/md/htm.md) : Đánh dấu văn bản thành chuỗi HTML
+[md/safeHtm](../vi/js/md/safeHtm.md) : Đánh dấu văn bản thành HTML an toàn
+[md/streamRender](../vi/js/md/streamRender.md) : Kết xuất phát trực tuyến Markdown
+[parentScroll](../vi/js/parentScroll.md) : Lấy phần tử vùng chứa cuộn tổ tiên
+[rmWait](../vi/js/rmWait.md)
+[route](../vi/js/route.md) : Quản lý định tuyến giao diện người dùng một trang

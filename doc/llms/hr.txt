@@ -1,0 +1,50 @@
+[BoxX](../../src/webc/BoxX/i18n/hr/README.md) : Stvorite i prikažite skočni sloj s gumbom za zatvaranje
+[Code](../../src/webc/Code/i18n/hr/README.md) : gumb koda
+[Copy](../../src/webc/Copy/i18n/hr/README.md) : Kopiraj tekst u međuspremnik
+[Edit](../../src/webc/Edit/i18n/hr/README.md) : gumb za uređivanje
+[HtmDemo](../../src/webc/HtmDemo/i18n/hr/README.md) : Otklanjanje pogrešaka u HTML i JS kodu na mreži
+[I18n](../../src/webc/I18n/i18n/hr/README.md) : Gumbi i skočni prozori za promjenu jezika sučelja
+[MdStream](../../src/webc/MdStream/i18n/hr/README.md) : Streaming renderiranje Markdown teksta
+[Nav](../../src/webc/Nav/i18n/hr/README.md) : Gornja navigacijska traka koja se automatski sažima ili proširuje kada se stranica pomiče
+[NavL](../../src/webc/NavL/i18n/hr/README.md) : Automatski promijeni navigacijski izbornik i gumb za povratak
+[NavMenu](../../src/webc/NavMenu/i18n/hr/README.md) : Navigacijski izbornik prilagođen različitim veličinama zaslona
+[SelectBtn](../../src/webc/SelectBtn/i18n/hr/README.md) : Kombinacija padajućeg okvira za odabir i gumba
+[Side](../../src/webc/Side/i18n/hr/README.md) : Ploče ladice koje klize sa strane
+[TabSelect](../../src/webc/TabSelect/i18n/hr/README.md) : Kartica s odabirom s padajućeg izbornika
+[Btn](../../src/webc/Btn/i18n/hr/README.md) : Obični gumb i gumb s okruglom ikonom
+[Card](../../src/webc/Card/i18n/hr/README.md) : Kartica kapsule sa strelicom desno prikazanom u ovjesu
+[H1Txt](../../src/webc/H1Txt/i18n/hr/README.md) : Naslov i opis teksture
+[Ing](../../src/webc/Ing/i18n/hr/README.md) : Indikator statusa učitavanja ili obrade
+[Input](../../src/webc/Input/i18n/hr/README.md) : Okvir za unos koji automatski mijenja stanje rezerviranog mjesta
+[Kv](../../src/webc/Kv/i18n/hr/README.md) : par ključeva vrijednosti
+[Lg](../../src/webc/Lg/i18n/hr/README.md) : Pozadina od mat stakla i efekt isticanja rubova
+[MdCss](../../src/webc/MdCss/i18n/hr/README.md) : Stilovi tipografije optimizirani za iskustvo čitanja
+[NavALi](../../src/webc/NavALi/i18n/hr/README.md) : Stil popisa veza navigacijske trake
+[O](../../src/webc/O/i18n/hr/README.md) : Nacrtajte logotip šuplje točke ispred elementa
+[Toast](../../src/webc/Toast/i18n/hr/README.md) : Promptni skočni prozor na rubu stranice
+[404](../../src/webc/404/i18n/hr/README.md) : Put ne postoji stranica s porukom o pogrešci
+[Back](../../src/webc/Back/i18n/hr/README.md) : gumb za povratak
+[Box](../../src/webc/Box/i18n/hr/README.md) : Stvorite i prikažite skočni sloj
+[CardLi](../../src/webc/CardLi/i18n/hr/README.md) : Asinkrono učitavanje i prikaz popisa kartica
+[Md](../../src/webc/Md/i18n/hr/README.md) : Sigurno raščlanite i renderirajte Markdown tekst u HTML.
+[Pophover](../../src/webc/Pophover/i18n/hr/README.md) : plutajući oblačić prompt
+[Scroll](../../src/webc/Scroll/i18n/hr/README.md) : virtualna traka za pomicanje
+[Select](../../src/webc/Select/i18n/hr/README.md) : Padajući odabir, širina se prilagođava trenutnoj stavci
+[Tab](../../src/webc/Tab/i18n/hr/README.md) : Kartice koje se mogu mijenjati
+[On](../hr/js/On.md) : Praćenje događaja skupnog vezanja
+[a](../hr/js/a.md) : Globalno presretanje događaja klikanja na vezu
+[dom](../hr/js/dom.md) : Kratice varijabli dokumenta i funkcije prečaca
+[dom/header](../hr/js/dom/header.md) : Stvorite DOM strukturu trake zaglavlja
+[fetch](../hr/js/fetch.md) : Funkcija alata za mrežni zahtjev temeljena na enkapsulaciji dohvaćanja
+[fetchLang](../hr/js/fetchLang.md) : Asinkrono učitavanje jezičnih paketa i vezanje povratnih poziva ažuriranja
+[hashActive](../hr/js/hashActive.md) : Označavanje navigacijske veze na temelju sidrišta URL-a i pomicanja okvira za prikaz
+[i18n](../hr/js/i18n.md) : Višejezično upravljanje statusom i praćenje promjena
+[i18n/init](../hr/js/i18n/init.md) : Konfiguracija i učitavanje višejezične inicijalizacije
+[i18n/store](../hr/js/i18n/store.md) : Višejezično lokalno upravljanje pohranom
+[icoTip](../hr/js/icoTip.md) : Definirajte i registrirajte komponentu ikone sa savjetima za internacionalizaciju
+[md/htm](../hr/js/md/htm.md) : Markdown tekst u HTML niz
+[md/safeHtm](../hr/js/md/safeHtm.md) : Markdown tekst u siguran HTML
+[md/streamRender](../hr/js/md/streamRender.md) : Markdown streaming renderiranje
+[parentScroll](../hr/js/parentScroll.md) : Nabavite element spremnika pomicanja pretka
+[rmWait](../hr/js/rmWait.md)
+[route](../hr/js/route.md) : Upravljanje usmjeravanjem na prednjoj strani na jednoj stranici

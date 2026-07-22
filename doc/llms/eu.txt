@@ -1,0 +1,50 @@
+[BoxX](../../src/webc/BoxX/i18n/eu/README.md) : Sortu eta bistaratu laster-geruza bat ixteko botoi batekin
+[Code](../../src/webc/Code/i18n/eu/README.md) : kodea botoia
+[Copy](../../src/webc/Copy/i18n/eu/README.md) : Kopiatu testua arbelean
+[Edit](../../src/webc/Edit/i18n/eu/README.md) : editatzeko botoia
+[HtmDemo](../../src/webc/HtmDemo/i18n/eu/README.md) : HTML eta JS kodea sarean araztea
+[I18n](../../src/webc/I18n/i18n/eu/README.md) : Interfazearen hizkuntzak aldatzeko botoiak eta pop-up leihoak
+[MdStream](../../src/webc/MdStream/i18n/eu/README.md) : Markdown testuaren erreprodukzioa erreproduzitzea
+[Nav](../../src/webc/Nav/i18n/eu/README.md) : Orria korritzean automatikoki tolesten edo zabaltzen den goiko nabigazio-barra
+[NavL](../../src/webc/NavL/i18n/eu/README.md) : Aldatu nabigazio menua eta itzultzeko botoia automatikoki
+[NavMenu](../../src/webc/NavMenu/i18n/eu/README.md) : Pantaila tamaina desberdinetara egokitutako nabigazio menua
+[SelectBtn](../../src/webc/SelectBtn/i18n/eu/README.md) : Goitibeherako hautapen-koadroaren eta botoiaren konbinazioa
+[Side](../../src/webc/Side/i18n/eu/README.md) : Albotik ateratzen diren tiradera-panelak
+[TabSelect](../../src/webc/TabSelect/i18n/eu/README.md) : Fitxa orria goitibeherako hautapenarekin
+[Btn](../../src/webc/Btn/i18n/eu/README.md) : Botoi arrunta eta ikono biribila
+[Card](../../src/webc/Card/i18n/eu/README.md) : Eskuineko gezia esekituta ageri den kapsularen txartela
+[H1Txt](../../src/webc/H1Txt/i18n/eu/README.md) : Ehunduraren izenburua eta deskribapena
+[Ing](../../src/webc/Ing/i18n/eu/README.md) : Karga edo prozesatzeko egoeraren adierazlea
+[Input](../../src/webc/Input/i18n/eu/README.md) : Leku-markaren egoera automatikoki aldatzen duen sarrera-koadroa
+[Kv](../../src/webc/Kv/i18n/eu/README.md) : gako-balio bikotea
+[Lg](../../src/webc/Lg/i18n/eu/README.md) : Beira izoztuaren atzeko planoa eta ertz nabarmentzeko efektua
+[MdCss](../../src/webc/MdCss/i18n/eu/README.md) : Irakurketa esperientziarako optimizatutako tipografia-estiloak
+[NavALi](../../src/webc/NavALi/i18n/eu/README.md) : Nabigazio-barrako esteka-zerrenda estiloa
+[O](../../src/webc/O/i18n/eu/README.md) : Marraztu puntu hutsen logotipoa elementuaren aurrean
+[Toast](../../src/webc/Toast/i18n/eu/README.md) : Eskatu pop-up leihoa orriaren ertzean
+[404](../../src/webc/404/i18n/eu/README.md) : Bidea ez dago errore-mezuen orria
+[Back](../../src/webc/Back/i18n/eu/README.md) : atzera botoia
+[Box](../../src/webc/Box/i18n/eu/README.md) : Sortu eta bistaratu laster-geruza
+[CardLi](../../src/webc/CardLi/i18n/eu/README.md) : Kargatu eta bistaratu txartelen zerrenda modu asinkronoan
+[Md](../../src/webc/Md/i18n/eu/README.md) : Analizatu eta errendatu Markdown testua HTMLra modu seguruan.
+[Pophover](../../src/webc/Pophover/i18n/eu/README.md) : burbuila flotagarria gonbita
+[Scroll](../../src/webc/Scroll/i18n/eu/README.md) : korritze-barra birtuala
+[Select](../../src/webc/Select/i18n/eu/README.md) : Goitibeherako hautapena, zabalera uneko elementura egokitzen da
+[Tab](../../src/webc/Tab/i18n/eu/README.md) : Fitxa aldagarriak
+[On](../eu/js/On.md) : Loteen lote-gertaeren jarraipena
+[a](../eu/js/a.md) : Estekaren klik-gertaerak globalki atzeman
+[dom](../eu/js/dom.md) : Dokumentu aldagaien laburdurak eta lasterbide-funtzioak
+[dom/header](../eu/js/dom/header.md) : Sortu goiburu-barra DOM egitura
+[fetch](../eu/js/fetch.md) : Sare-eskaera tresnaren funtzioa eskuratze-kapsulazioan oinarrituta
+[fetchLang](../eu/js/fetchLang.md) : Kargatu hizkuntza paketeak modu asinkronoan eta lotu eguneratze-deiak
+[hashActive](../eu/js/hashActive.md) : Nabigazio estekaren azpimarratzea URL ainguretan eta bistaratze-atalean korritzearen arabera
+[i18n](../eu/js/i18n.md) : Hizkuntza anitzeko egoeraren kudeaketa eta aldaketen jarraipena
+[i18n/init](../eu/js/i18n/init.md) : Hizkuntza anitzeko hasierako konfigurazioa eta kargatzea
+[i18n/store](../eu/js/i18n/store.md) : Tokiko biltegiratze eleaniztunaren kudeaketa
+[icoTip](../eu/js/icoTip.md) : Definitu eta erregistratu ikono-osagai bat nazioartekotzeko aholkuekin
+[md/htm](../eu/js/md/htm.md) : Markdown testua HTML katera
+[md/safeHtm](../eu/js/md/safeHtm.md) : Markdown testua HTML segurura
+[md/streamRender](../eu/js/md/streamRender.md) : Markdown streaming errendatzea
+[parentScroll](../eu/js/parentScroll.md) : Lortu arbasoen korrituaren edukiontziaren elementua
+[rmWait](../eu/js/rmWait.md)
+[route](../eu/js/route.md) : Orrialde bakarreko frontend bideratze kudeaketa

@@ -1,0 +1,9 @@
+tran:
+  from: zh
+  to_li: "*"
+dir:
+  - doc
+  - i18n
+  - skills
+  - cli/src/i18n
+

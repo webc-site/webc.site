@@ -1,0 +1,50 @@
+[BoxX](../../src/webc/BoxX/i18n/te/README.md) : క్లోజ్ బటన్‌తో పాప్‌అప్ లేయర్‌ని సృష్టించండి మరియు ప్రదర్శించండి
+[Code](../../src/webc/Code/i18n/te/README.md) : కోడ్ బటన్
+[Copy](../../src/webc/Copy/i18n/te/README.md) : వచనాన్ని క్లిప్‌బోర్డ్‌కు కాపీ చేయండి
+[Edit](../../src/webc/Edit/i18n/te/README.md) : సవరించు బటన్
+[HtmDemo](../../src/webc/HtmDemo/i18n/te/README.md) : ఆన్‌లైన్‌లో HTML మరియు JS కోడ్‌లను డీబగ్గింగ్ చేస్తోంది
+[I18n](../../src/webc/I18n/i18n/te/README.md) : ఇంటర్‌ఫేస్ భాషలను మార్చడానికి బటన్‌లు మరియు పాప్-అప్ విండోలు
+[MdStream](../../src/webc/MdStream/i18n/te/README.md) : మార్క్‌డౌన్ టెక్స్ట్ యొక్క స్ట్రీమింగ్ రెండరింగ్
+[Nav](../../src/webc/Nav/i18n/te/README.md) : పేజీ స్క్రోల్ చేసినప్పుడు స్వయంచాలకంగా కుప్పకూలుతుంది లేదా విస్తరిస్తుంది టాప్ నావిగేషన్ బార్
+[NavL](../../src/webc/NavL/i18n/te/README.md) : నావిగేషన్ మెను మరియు రిటర్న్ బటన్‌ను స్వయంచాలకంగా మార్చండి
+[NavMenu](../../src/webc/NavMenu/i18n/te/README.md) : నావిగేషన్ మెను వివిధ స్క్రీన్ పరిమాణాలకు అనుగుణంగా మార్చబడింది
+[SelectBtn](../../src/webc/SelectBtn/i18n/te/README.md) : డ్రాప్-డౌన్ ఎంపిక పెట్టె మరియు బటన్ కలయిక
+[Side](../../src/webc/Side/i18n/te/README.md) : వైపు నుండి జారిపోయే డ్రాయర్ ప్యానెల్లు
+[TabSelect](../../src/webc/TabSelect/i18n/te/README.md) : డ్రాప్-డౌన్ ఎంపికతో ట్యాబ్ పేజీ
+[Btn](../../src/webc/Btn/i18n/te/README.md) : సాధారణ బటన్ మరియు రౌండ్ ఐకాన్ బటన్
+[Card](../../src/webc/Card/i18n/te/README.md) : సస్పెన్షన్‌లో ప్రదర్శించబడిన కుడి బాణంతో క్యాప్సూల్ కార్డ్
+[H1Txt](../../src/webc/H1Txt/i18n/te/README.md) : ఆకృతి శీర్షిక మరియు వివరణ
+[Ing](../../src/webc/Ing/i18n/te/README.md) : లోడింగ్ లేదా ప్రాసెసింగ్ స్థితి యొక్క సూచిక
+[Input](../../src/webc/Input/i18n/te/README.md) : ప్లేస్‌హోల్డర్ స్థితిని స్వయంచాలకంగా మార్చే ఇన్‌పుట్ బాక్స్
+[Kv](../../src/webc/Kv/i18n/te/README.md) : కీలక విలువ జత
+[Lg](../../src/webc/Lg/i18n/te/README.md) : తుషార గాజు నేపథ్యం మరియు అంచు హైలైట్ ప్రభావం
+[MdCss](../../src/webc/MdCss/i18n/te/README.md) : టైపోగ్రఫీ శైలులు పఠన అనుభవం కోసం ఆప్టిమైజ్ చేయబడ్డాయి
+[NavALi](../../src/webc/NavALi/i18n/te/README.md) : నావిగేషన్ బార్ లింక్ జాబితా శైలి
+[O](../../src/webc/O/i18n/te/README.md) : మూలకం ముందు బోలు బిందువు లోగోను గీయండి
+[Toast](../../src/webc/Toast/i18n/te/README.md) : పేజీ అంచున పాప్-అప్ విండోను ప్రాంప్ట్ చేయండి
+[404](../../src/webc/404/i18n/te/README.md) : మార్గం లోపం సందేశ పేజీ ఉనికిలో లేదు
+[Back](../../src/webc/Back/i18n/te/README.md) : వెనుక బటన్
+[Box](../../src/webc/Box/i18n/te/README.md) : పాప్అప్ లేయర్‌ని సృష్టించండి మరియు ప్రదర్శించండి
+[CardLi](../../src/webc/CardLi/i18n/te/README.md) : కార్డ్ జాబితాను అసమకాలికంగా లోడ్ చేయండి మరియు ప్రదర్శించండి
+[Md](../../src/webc/Md/i18n/te/README.md) : మార్క్‌డౌన్ వచనాన్ని HTMLకి సురక్షితంగా అన్వయించండి మరియు రెండర్ చేయండి.
+[Pophover](../../src/webc/Pophover/i18n/te/README.md) : ఫ్లోటింగ్ బబుల్ ప్రాంప్ట్
+[Scroll](../../src/webc/Scroll/i18n/te/README.md) : వర్చువల్ స్క్రోల్ బార్
+[Select](../../src/webc/Select/i18n/te/README.md) : డ్రాప్-డౌన్ ఎంపిక, వెడల్పు ప్రస్తుత అంశానికి అనుగుణంగా ఉంటుంది
+[Tab](../../src/webc/Tab/i18n/te/README.md) : మారగల ట్యాబ్‌లు
+[On](../te/js/On.md) : బ్యాచ్ బైండింగ్ ఈవెంట్ మానిటరింగ్
+[a](../te/js/a.md) : ప్రపంచవ్యాప్తంగా లింక్ క్లిక్ ఈవెంట్‌లను అడ్డగించండి
+[dom](../te/js/dom.md) : డాక్యుమెంట్ వేరియబుల్ సంక్షిప్తాలు మరియు షార్ట్‌కట్ ఫంక్షన్‌లు
+[dom/header](../te/js/dom/header.md) : హెడర్ బార్ DOM నిర్మాణాన్ని సృష్టించండి
+[fetch](../te/js/fetch.md) : పొందడం ఎన్‌క్యాప్సులేషన్ ఆధారంగా నెట్‌వర్క్ అభ్యర్థన సాధనం ఫంక్షన్
+[fetchLang](../te/js/fetchLang.md) : భాషా ప్యాక్‌లను అసమకాలికంగా లోడ్ చేయండి మరియు అప్‌డేట్ కాల్‌బ్యాక్‌లను బైండ్ చేయండి
+[hashActive](../te/js/hashActive.md) : URL యాంకర్లు మరియు వ్యూపోర్ట్ స్క్రోలింగ్ ఆధారంగా నావిగేషన్ లింక్ హైలైట్ చేయడం
+[i18n](../te/js/i18n.md) : బహుళ భాషా స్థితి నిర్వహణ మరియు మార్పు పర్యవేక్షణ
+[i18n/init](../te/js/i18n/init.md) : బహుళ-భాష ప్రారంభ కాన్ఫిగరేషన్ మరియు లోడ్ అవుతోంది
+[i18n/store](../te/js/i18n/store.md) : బహుభాషా స్థానిక నిల్వ నిర్వహణ
+[icoTip](../te/js/icoTip.md) : అంతర్జాతీయీకరణ సూచనలతో ఐకాన్ కాంపోనెంట్‌ను నిర్వచించండి మరియు నమోదు చేయండి
+[md/htm](../te/js/md/htm.md) : HTML స్ట్రింగ్‌కు మార్క్‌డౌన్ టెక్స్ట్
+[md/safeHtm](../te/js/md/safeHtm.md) : సురక్షిత HTMLకి మార్క్‌డౌన్ టెక్స్ట్
+[md/streamRender](../te/js/md/streamRender.md) : మార్క్‌డౌన్ స్ట్రీమింగ్ రెండరింగ్
+[parentScroll](../te/js/parentScroll.md) : పూర్వీకుల స్క్రోల్ కంటైనర్ మూలకాన్ని పొందండి
+[rmWait](../te/js/rmWait.md)
+[route](../te/js/route.md) : ఒకే పేజీ ఫ్రంట్-ఎండ్ రూటింగ్ నిర్వహణ

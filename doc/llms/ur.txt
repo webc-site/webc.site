@@ -1,0 +1,50 @@
+[BoxX](../../src/webc/BoxX/i18n/ur/README.md) : بند بٹن کے ساتھ ایک پاپ اپ پرت بنائیں اور ڈسپلے کریں۔
+[Code](../../src/webc/Code/i18n/ur/README.md) : کوڈ بٹن
+[Copy](../../src/webc/Copy/i18n/ur/README.md) : متن کو کلپ بورڈ میں کاپی کریں۔
+[Edit](../../src/webc/Edit/i18n/ur/README.md) : ترمیم کے بٹن
+[HtmDemo](../../src/webc/HtmDemo/i18n/ur/README.md) : HTML اور JS کوڈ کو آن لائن ڈیبگ کرنا
+[I18n](../../src/webc/I18n/i18n/ur/README.md) : انٹرفیس کی زبانوں کو تبدیل کرنے کے لیے بٹن اور پاپ اپ ونڈوز
+[MdStream](../../src/webc/MdStream/i18n/ur/README.md) : مارک ڈاؤن ٹیکسٹ کی سٹریمنگ رینڈرنگ
+[Nav](../../src/webc/Nav/i18n/ur/README.md) : ٹاپ نیویگیشن بار جو صفحہ سکرول ہونے پر خود بخود منہدم یا پھیل جاتا ہے۔
+[NavL](../../src/webc/NavL/i18n/ur/README.md) : نیویگیشن مینو اور ریٹرن بٹن کو خودکار طور پر سوئچ کریں۔
+[NavMenu](../../src/webc/NavMenu/i18n/ur/README.md) : نیویگیشن مینو اسکرین کے مختلف سائز کے مطابق ڈھال لیا گیا۔
+[SelectBtn](../../src/webc/SelectBtn/i18n/ur/README.md) : ڈراپ ڈاؤن سلیکشن باکس اور بٹن کا امتزاج
+[Side](../../src/webc/Side/i18n/ur/README.md) : دراز کے پینل جو سائیڈ سے باہر نکلتے ہیں۔
+[TabSelect](../../src/webc/TabSelect/i18n/ur/README.md) : ڈراپ ڈاؤن انتخاب کے ساتھ ٹیب صفحہ
+[Btn](../../src/webc/Btn/i18n/ur/README.md) : عام بٹن اور گول آئیکن بٹن
+[Card](../../src/webc/Card/i18n/ur/README.md) : دائیں تیر کے ساتھ کیپسول کارڈ معطلی میں دکھایا گیا ہے۔
+[H1Txt](../../src/webc/H1Txt/i18n/ur/README.md) : ساخت کا عنوان اور تفصیل
+[Ing](../../src/webc/Ing/i18n/ur/README.md) : لوڈنگ یا پروسیسنگ کی حیثیت کا اشارہ
+[Input](../../src/webc/Input/i18n/ur/README.md) : ان پٹ باکس جو خود بخود پلیس ہولڈر کی حالت کو تبدیل کرتا ہے۔
+[Kv](../../src/webc/Kv/i18n/ur/README.md) : کلیدی قدر جوڑی
+[Lg](../../src/webc/Lg/i18n/ur/README.md) : فراسٹڈ شیشے کا پس منظر اور کنارے نمایاں اثر
+[MdCss](../../src/webc/MdCss/i18n/ur/README.md) : نوع ٹائپ کی طرزیں پڑھنے کے تجربے کے لیے موزوں ہیں۔
+[NavALi](../../src/webc/NavALi/i18n/ur/README.md) : نیویگیشن بار لنک لسٹ اسٹائل
+[O](../../src/webc/O/i18n/ur/README.md) : عنصر کے سامنے ایک کھوکھلی ڈاٹ لوگو کھینچیں۔
+[Toast](../../src/webc/Toast/i18n/ur/README.md) : صفحہ کے کنارے پر فوری پاپ اپ ونڈو
+[404](../../src/webc/404/i18n/ur/README.md) : پاتھ موجود نہیں ہے غلطی کے پیغام کا صفحہ
+[Back](../../src/webc/Back/i18n/ur/README.md) : واپس بٹن
+[Box](../../src/webc/Box/i18n/ur/README.md) : پاپ اپ پرت بنائیں اور ڈسپلے کریں۔
+[CardLi](../../src/webc/CardLi/i18n/ur/README.md) : کارڈ کی فہرست کو متضاد طور پر لوڈ اور ڈسپلے کریں۔
+[Md](../../src/webc/Md/i18n/ur/README.md) : مارک ڈاؤن ٹیکسٹ کو HTML میں محفوظ طریقے سے پارس اور رینڈر کریں۔
+[Pophover](../../src/webc/Pophover/i18n/ur/README.md) : تیرتا ہوا بلبلا پرامپٹ
+[Scroll](../../src/webc/Scroll/i18n/ur/README.md) : ورچوئل اسکرول بار
+[Select](../../src/webc/Select/i18n/ur/README.md) : ڈراپ ڈاؤن انتخاب، چوڑائی موجودہ آئٹم کے مطابق ہوتی ہے۔
+[Tab](../../src/webc/Tab/i18n/ur/README.md) : سوئچ ایبل ٹیبز
+[On](../ur/js/On.md) : بیچ بائنڈنگ ایونٹ کی نگرانی
+[a](../ur/js/a.md) : عالمی سطح پر لنک کلک کے واقعات کو روکیں۔
+[dom](../ur/js/dom.md) : دستاویز متغیر مخففات اور شارٹ کٹ فنکشنز
+[dom/header](../ur/js/dom/header.md) : ہیڈر بار DOM ڈھانچہ بنائیں
+[fetch](../ur/js/fetch.md) : نیٹ ورک کی درخواست کے آلے کا فنکشن بازیافت انکیپسولیشن پر مبنی ہے۔
+[fetchLang](../ur/js/fetchLang.md) : غیر مطابقت پذیر طور پر زبان کے پیک لوڈ کریں اور اپ ڈیٹ کال بیکس کو پابند کریں۔
+[hashActive](../ur/js/hashActive.md) : یو آر ایل اینکرز اور ویو پورٹ اسکرولنگ پر مبنی نیویگیشن لنک کو نمایاں کرنا
+[i18n](../ur/js/i18n.md) : کثیر زبان کی حیثیت کا انتظام اور تبدیلی کی نگرانی
+[i18n/init](../ur/js/i18n/init.md) : کثیر زبان کی ابتدائی ترتیب اور لوڈنگ
+[i18n/store](../ur/js/i18n/store.md) : کثیر لسانی مقامی اسٹوریج مینجمنٹ
+[icoTip](../ur/js/icoTip.md) : بین الاقوامی کاری کے اشارے کے ساتھ ایک آئیکن جزو کی وضاحت اور رجسٹر کریں۔
+[md/htm](../ur/js/md/htm.md) : HTML سٹرنگ میں متن کو نشان زد کریں۔
+[md/safeHtm](../ur/js/md/safeHtm.md) : محفوظ HTML میں متن کو نشان زد کریں۔
+[md/streamRender](../ur/js/md/streamRender.md) : مارک ڈاؤن اسٹریمنگ رینڈرنگ
+[parentScroll](../ur/js/parentScroll.md) : اجداد اسکرول کنٹینر عنصر حاصل کریں۔
+[rmWait](../ur/js/rmWait.md)
+[route](../ur/js/route.md) : سنگل پیج فرنٹ اینڈ روٹنگ مینجمنٹ

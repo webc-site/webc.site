@@ -1,0 +1,4 @@
+default: Standaardknop
+main: hoofdknop
+link: link-knop
+icon: Pictogramknop (.BtnC)

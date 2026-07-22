@@ -1,0 +1,50 @@
+[BoxX](../../src/webc/BoxX/i18n/kn/README.md) : ಕ್ಲೋಸ್ ಬಟನ್‌ನೊಂದಿಗೆ ಪಾಪ್ಅಪ್ ಲೇಯರ್ ಅನ್ನು ರಚಿಸಿ ಮತ್ತು ಪ್ರದರ್ಶಿಸಿ
+[Code](../../src/webc/Code/i18n/kn/README.md) : ಕೋಡ್ ಬಟನ್
+[Copy](../../src/webc/Copy/i18n/kn/README.md) : ಕ್ಲಿಪ್‌ಬೋರ್ಡ್‌ಗೆ ಪಠ್ಯವನ್ನು ನಕಲಿಸಿ
+[Edit](../../src/webc/Edit/i18n/kn/README.md) : ಎಡಿಟ್ ಬಟನ್
+[HtmDemo](../../src/webc/HtmDemo/i18n/kn/README.md) : HTML ಮತ್ತು JS ಕೋಡ್ ಅನ್ನು ಆನ್‌ಲೈನ್‌ನಲ್ಲಿ ಡೀಬಗ್ ಮಾಡಲಾಗುತ್ತಿದೆ
+[I18n](../../src/webc/I18n/i18n/kn/README.md) : ಇಂಟರ್ಫೇಸ್ ಭಾಷೆಗಳನ್ನು ಬದಲಾಯಿಸಲು ಗುಂಡಿಗಳು ಮತ್ತು ಪಾಪ್-ಅಪ್ ವಿಂಡೋಗಳು
+[MdStream](../../src/webc/MdStream/i18n/kn/README.md) : ಮಾರ್ಕ್‌ಡೌನ್ ಪಠ್ಯದ ಸ್ಟ್ರೀಮಿಂಗ್ ರೆಂಡರಿಂಗ್
+[Nav](../../src/webc/Nav/i18n/kn/README.md) : ಪುಟ ಸ್ಕ್ರಾಲ್ ಮಾಡಿದಾಗ ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಕುಸಿಯುವ ಅಥವಾ ವಿಸ್ತರಿಸುವ ಉನ್ನತ ನ್ಯಾವಿಗೇಷನ್ ಬಾರ್
+[NavL](../../src/webc/NavL/i18n/kn/README.md) : ನ್ಯಾವಿಗೇಷನ್ ಮೆನು ಮತ್ತು ರಿಟರ್ನ್ ಬಟನ್ ಅನ್ನು ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಬದಲಾಯಿಸಿ
+[NavMenu](../../src/webc/NavMenu/i18n/kn/README.md) : ನ್ಯಾವಿಗೇಶನ್ ಮೆನು ವಿವಿಧ ಪರದೆಯ ಗಾತ್ರಗಳಿಗೆ ಅಳವಡಿಸಲಾಗಿದೆ
+[SelectBtn](../../src/webc/SelectBtn/i18n/kn/README.md) : ಡ್ರಾಪ್-ಡೌನ್ ಆಯ್ಕೆ ಬಾಕ್ಸ್ ಮತ್ತು ಬಟನ್ ಸಂಯೋಜನೆ
+[Side](../../src/webc/Side/i18n/kn/README.md) : ಬದಿಯಿಂದ ಸ್ಲೈಡ್ ಮಾಡುವ ಡ್ರಾಯರ್ ಫಲಕಗಳು
+[TabSelect](../../src/webc/TabSelect/i18n/kn/README.md) : ಡ್ರಾಪ್-ಡೌನ್ ಆಯ್ಕೆಯೊಂದಿಗೆ ಟ್ಯಾಬ್ ಪುಟ
+[Btn](../../src/webc/Btn/i18n/kn/README.md) : ಸಾಮಾನ್ಯ ಬಟನ್ ಮತ್ತು ಸುತ್ತಿನ ಐಕಾನ್ ಬಟನ್
+[Card](../../src/webc/Card/i18n/kn/README.md) : ಅಮಾನತಿನಲ್ಲಿ ಪ್ರದರ್ಶಿಸಲಾದ ಬಲ ಬಾಣದ ಕ್ಯಾಪ್ಸುಲ್ ಕಾರ್ಡ್
+[H1Txt](../../src/webc/H1Txt/i18n/kn/README.md) : ವಿನ್ಯಾಸ ಶೀರ್ಷಿಕೆ ಮತ್ತು ವಿವರಣೆ
+[Ing](../../src/webc/Ing/i18n/kn/README.md) : ಲೋಡ್ ಅಥವಾ ಪ್ರಕ್ರಿಯೆ ಸ್ಥಿತಿಯ ಸೂಚಕ
+[Input](../../src/webc/Input/i18n/kn/README.md) : ಪ್ಲೇಸ್‌ಹೋಲ್ಡರ್ ಸ್ಥಿತಿಯನ್ನು ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಬದಲಾಯಿಸುವ ಇನ್‌ಪುಟ್ ಬಾಕ್ಸ್
+[Kv](../../src/webc/Kv/i18n/kn/README.md) : ಪ್ರಮುಖ ಮೌಲ್ಯದ ಜೋಡಿ
+[Lg](../../src/webc/Lg/i18n/kn/README.md) : ಫ್ರಾಸ್ಟೆಡ್ ಗ್ಲಾಸ್ ಹಿನ್ನೆಲೆ ಮತ್ತು ಅಂಚಿನ ಹೈಲೈಟ್ ಪರಿಣಾಮ
+[MdCss](../../src/webc/MdCss/i18n/kn/README.md) : ಓದುವ ಅನುಭವಕ್ಕಾಗಿ ಮುದ್ರಣಕಲೆ ಶೈಲಿಗಳನ್ನು ಹೊಂದುವಂತೆ ಮಾಡಲಾಗಿದೆ
+[NavALi](../../src/webc/NavALi/i18n/kn/README.md) : ನ್ಯಾವಿಗೇಶನ್ ಬಾರ್ ಲಿಂಕ್ ಪಟ್ಟಿ ಶೈಲಿ
+[O](../../src/webc/O/i18n/kn/README.md) : ಅಂಶದ ಮುಂದೆ ಟೊಳ್ಳಾದ ಡಾಟ್ ಲೋಗೋವನ್ನು ಎಳೆಯಿರಿ
+[Toast](../../src/webc/Toast/i18n/kn/README.md) : ಪುಟದ ಅಂಚಿನಲ್ಲಿ ಪ್ರಾಂಪ್ಟ್ ಪಾಪ್-ಅಪ್ ವಿಂಡೋ
+[404](../../src/webc/404/i18n/kn/README.md) : ಮಾರ್ಗವು ಅಸ್ತಿತ್ವದಲ್ಲಿಲ್ಲ ದೋಷ ಸಂದೇಶ ಪುಟ
+[Back](../../src/webc/Back/i18n/kn/README.md) : ಹಿಂದಿನ ಬಟನ್
+[Box](../../src/webc/Box/i18n/kn/README.md) : ಪಾಪ್ಅಪ್ ಪದರವನ್ನು ರಚಿಸಿ ಮತ್ತು ಪ್ರದರ್ಶಿಸಿ
+[CardLi](../../src/webc/CardLi/i18n/kn/README.md) : ಕಾರ್ಡ್ ಪಟ್ಟಿಯನ್ನು ಅಸಮಕಾಲಿಕವಾಗಿ ಲೋಡ್ ಮಾಡಿ ಮತ್ತು ಪ್ರದರ್ಶಿಸಿ
+[Md](../../src/webc/Md/i18n/kn/README.md) : ಮಾರ್ಕ್‌ಡೌನ್ ಪಠ್ಯವನ್ನು HTML ಗೆ ಸುರಕ್ಷಿತವಾಗಿ ಪಾರ್ಸ್ ಮಾಡಿ ಮತ್ತು ರೆಂಡರ್ ಮಾಡಿ.
+[Pophover](../../src/webc/Pophover/i18n/kn/README.md) : ತೇಲುವ ಬಬಲ್ ಪ್ರಾಂಪ್ಟ್
+[Scroll](../../src/webc/Scroll/i18n/kn/README.md) : ವರ್ಚುವಲ್ ಸ್ಕ್ರಾಲ್ ಬಾರ್
+[Select](../../src/webc/Select/i18n/kn/README.md) : ಡ್ರಾಪ್-ಡೌನ್ ಆಯ್ಕೆ, ಅಗಲವು ಪ್ರಸ್ತುತ ಐಟಂಗೆ ಹೊಂದಿಕೊಳ್ಳುತ್ತದೆ
+[Tab](../../src/webc/Tab/i18n/kn/README.md) : ಬದಲಾಯಿಸಬಹುದಾದ ಟ್ಯಾಬ್‌ಗಳು
+[On](../kn/js/On.md) : ಬ್ಯಾಚ್ ಬೈಂಡಿಂಗ್ ಈವೆಂಟ್ ಮಾನಿಟರಿಂಗ್
+[a](../kn/js/a.md) : ಜಾಗತಿಕವಾಗಿ ಇಂಟರ್‌ಸೆಪ್ಟ್ ಲಿಂಕ್ ಕ್ಲಿಕ್ ಈವೆಂಟ್‌ಗಳು
+[dom](../kn/js/dom.md) : ಡಾಕ್ಯುಮೆಂಟ್ ವೇರಿಯಬಲ್ ಸಂಕ್ಷೇಪಣಗಳು ಮತ್ತು ಶಾರ್ಟ್‌ಕಟ್ ಕಾರ್ಯಗಳು
+[dom/header](../kn/js/dom/header.md) : ಹೆಡರ್ ಬಾರ್ DOM ರಚನೆಯನ್ನು ರಚಿಸಿ
+[fetch](../kn/js/fetch.md) : ಎನ್‌ಕ್ಯಾಪ್ಸುಲೇಶನ್ ಅನ್ನು ಪಡೆದುಕೊಳ್ಳುವುದರ ಆಧಾರದ ಮೇಲೆ ನೆಟ್‌ವರ್ಕ್ ವಿನಂತಿ ಟೂಲ್ ಕಾರ್ಯ
+[fetchLang](../kn/js/fetchLang.md) : ಭಾಷಾ ಪ್ಯಾಕ್‌ಗಳನ್ನು ಅಸಮಕಾಲಿಕವಾಗಿ ಲೋಡ್ ಮಾಡಿ ಮತ್ತು ಅಪ್‌ಡೇಟ್ ಕಾಲ್‌ಬ್ಯಾಕ್‌ಗಳನ್ನು ಬಂಧಿಸಿ
+[hashActive](../kn/js/hashActive.md) : URL ಆಂಕರ್‌ಗಳು ಮತ್ತು ವ್ಯೂಪೋರ್ಟ್ ಸ್ಕ್ರೋಲಿಂಗ್ ಅನ್ನು ಆಧರಿಸಿ ನ್ಯಾವಿಗೇಷನ್ ಲಿಂಕ್ ಹೈಲೈಟ್ ಮಾಡುವುದು
+[i18n](../kn/js/i18n.md) : ಬಹು-ಭಾಷಾ ಸ್ಥಿತಿ ನಿರ್ವಹಣೆ ಮತ್ತು ಬದಲಾವಣೆ ಮೇಲ್ವಿಚಾರಣೆ
+[i18n/init](../kn/js/i18n/init.md) : ಬಹು-ಭಾಷಾ ಇನಿಶಿಯಲೈಸೇಶನ್ ಕಾನ್ಫಿಗರೇಶನ್ ಮತ್ತು ಲೋಡಿಂಗ್
+[i18n/store](../kn/js/i18n/store.md) : ಬಹುಭಾಷಾ ಸ್ಥಳೀಯ ಸಂಗ್ರಹ ನಿರ್ವಹಣೆ
+[icoTip](../kn/js/icoTip.md) : ಅಂತರಾಷ್ಟ್ರೀಕರಣದ ಸುಳಿವುಗಳೊಂದಿಗೆ ಐಕಾನ್ ಘಟಕವನ್ನು ವಿವರಿಸಿ ಮತ್ತು ನೋಂದಾಯಿಸಿ
+[md/htm](../kn/js/md/htm.md) : HTML ಸ್ಟ್ರಿಂಗ್‌ಗೆ ಮಾರ್ಕ್‌ಡೌನ್ ಪಠ್ಯ
+[md/safeHtm](../kn/js/md/safeHtm.md) : ಸುರಕ್ಷಿತ HTML ಗೆ ಮಾರ್ಕ್‌ಡೌನ್ ಪಠ್ಯ
+[md/streamRender](../kn/js/md/streamRender.md) : ಮಾರ್ಕ್‌ಡೌನ್ ಸ್ಟ್ರೀಮಿಂಗ್ ರೆಂಡರಿಂಗ್
+[parentScroll](../kn/js/parentScroll.md) : ಪೂರ್ವಜ ಸ್ಕ್ರಾಲ್ ಕಂಟೇನರ್ ಅಂಶವನ್ನು ಪಡೆಯಿರಿ
+[rmWait](../kn/js/rmWait.md)
+[route](../kn/js/route.md) : ಏಕ ಪುಟದ ಮುಂಭಾಗದ ರೂಟಿಂಗ್ ನಿರ್ವಹಣೆ

@@ -1,0 +1,9 @@
+language: dil
+os: sistem
+about: hakkında
+jsInfo: JavaScript, istemci tarafı web geliştirmede yaygın olarak kullanılan bir kodlama dilidir.
+rsInfo: Rust, güvenlik, hız ve eşzamanlılığa odaklanan bir sistem programlama dilidir.
+pyInfo: Python, nesne yönelimli, yorumlanan bir bilgisayar programlama dilidir.
+macInfo: macOS, Apple tarafından geliştirilen Unix tabanlı bir grafik işletim sistemidir.
+winInfo: Windows, Microsoft Corporation tarafından geliştirilen, yaygın olarak kullanılan bir kişisel bilgisayar işletim sistemidir.
+aboutInfo: Yüksek kaliteli açık kaynak ön uç bileşenleri geliştirmeye kararlıyız ve siz de katılabilirsiniz.

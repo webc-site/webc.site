@@ -1,0 +1,50 @@
+[BoxX](../../src/webc/BoxX/i18n/ro/README.md) : Creați și afișați un strat pop-up cu un buton de închidere
+[Code](../../src/webc/Code/i18n/ro/README.md) : butonul de cod
+[Copy](../../src/webc/Copy/i18n/ro/README.md) : Copiați textul în clipboard
+[Edit](../../src/webc/Edit/i18n/ro/README.md) : butonul de editare
+[HtmDemo](../../src/webc/HtmDemo/i18n/ro/README.md) : Depanarea codului HTML și JS online
+[I18n](../../src/webc/I18n/i18n/ro/README.md) : Butoane și ferestre pop-up pentru comutarea limbilor interfeței
+[MdStream](../../src/webc/MdStream/i18n/ro/README.md) : Redare în flux a textului Markdown
+[Nav](../../src/webc/Nav/i18n/ro/README.md) : Bara de navigare de sus, care se restrânge sau se extinde automat atunci când pagina derulează
+[NavL](../../src/webc/NavL/i18n/ro/README.md) : Comută automat meniul de navigare și butonul de întoarcere
+[NavMenu](../../src/webc/NavMenu/i18n/ro/README.md) : Meniu de navigare adaptat la diferite dimensiuni de ecran
+[SelectBtn](../../src/webc/SelectBtn/i18n/ro/README.md) : Combinație de casetă de selecție drop-down și buton
+[Side](../../src/webc/Side/i18n/ro/README.md) : Panouri de sertare care alunecă din lateral
+[TabSelect](../../src/webc/TabSelect/i18n/ro/README.md) : Pagina cu filă cu selecție drop-down
+[Btn](../../src/webc/Btn/i18n/ro/README.md) : Buton obișnuit și butonul pictogramă rotund
+[Card](../../src/webc/Card/i18n/ro/README.md) : Cardul capsulei cu săgeata dreapta afișată în suspensie
+[H1Txt](../../src/webc/H1Txt/i18n/ro/README.md) : Titlul texturii și descrierea
+[Ing](../../src/webc/Ing/i18n/ro/README.md) : Indicator al stării de încărcare sau procesare
+[Input](../../src/webc/Input/i18n/ro/README.md) : Casetă de introducere care schimbă automat starea substituentului
+[Kv](../../src/webc/Kv/i18n/ro/README.md) : pereche cheie valoare
+[Lg](../../src/webc/Lg/i18n/ro/README.md) : Fundal din sticlă mată și efect de evidențiere a marginilor
+[MdCss](../../src/webc/MdCss/i18n/ro/README.md) : Stiluri de tipografie optimizate pentru experiența de lectură
+[NavALi](../../src/webc/NavALi/i18n/ro/README.md) : Stilul listei de link-uri din bara de navigare
+[O](../../src/webc/O/i18n/ro/README.md) : Desenați un logo cu punct gol în fața elementului
+[Toast](../../src/webc/Toast/i18n/ro/README.md) : Fereastră pop-up prompt la marginea paginii
+[404](../../src/webc/404/i18n/ro/README.md) : Calea nu există pagina cu mesaj de eroare
+[Back](../../src/webc/Back/i18n/ro/README.md) : butonul înapoi
+[Box](../../src/webc/Box/i18n/ro/README.md) : Creați și afișați stratul pop-up
+[CardLi](../../src/webc/CardLi/i18n/ro/README.md) : Încărcați și afișați lista de carduri în mod asincron
+[Md](../../src/webc/Md/i18n/ro/README.md) : Analizați și redați în siguranță textul Markdown în HTML.
+[Pophover](../../src/webc/Pophover/i18n/ro/README.md) : prompt cu bule plutitoare
+[Scroll](../../src/webc/Scroll/i18n/ro/README.md) : bara de defilare virtuală
+[Select](../../src/webc/Select/i18n/ro/README.md) : Selecție drop-down, lățimea se adaptează la elementul curent
+[Tab](../../src/webc/Tab/i18n/ro/README.md) : File comutabile
+[On](../ro/js/On.md) : Monitorizarea evenimentelor de legare a loturilor
+[a](../ro/js/a.md) : Interceptați global evenimentele de clic pe link
+[dom](../ro/js/dom.md) : Documentați abrevierile variabilelor și funcțiile de comenzi rapide
+[dom/header](../ro/js/dom/header.md) : Creați structura DOM a barei de antet
+[fetch](../ro/js/fetch.md) : Funcția instrumentului de solicitare a rețelei bazată pe încapsularea fetch
+[fetchLang](../ro/js/fetchLang.md) : Încărcați asincron pachete de limbi și legați apelurile de actualizare
+[hashActive](../ro/js/hashActive.md) : Evidențierea linkului de navigare pe baza ancorelor URL și a derulării ferestrelor de vizualizare
+[i18n](../ro/js/i18n.md) : Gestionarea stării în mai multe limbi și monitorizarea schimbărilor
+[i18n/init](../ro/js/i18n/init.md) : Configurare și încărcare de inițializare în mai multe limbi
+[i18n/store](../ro/js/i18n/store.md) : Gestionarea stocării locale multilingve
+[icoTip](../ro/js/icoTip.md) : Definiți și înregistrați o componentă de pictogramă cu indicii de internaționalizare
+[md/htm](../ro/js/md/htm.md) : Reducere text în șir HTML
+[md/safeHtm](../ro/js/md/safeHtm.md) : Reducere text la HTML sigur
+[md/streamRender](../ro/js/md/streamRender.md) : Redarea în flux Markdown
+[parentScroll](../ro/js/parentScroll.md) : Obțineți elementul container de defilare a strămoșilor
+[rmWait](../ro/js/rmWait.md)
+[route](../ro/js/route.md) : Gestionarea rutei front-end cu o singură pagină

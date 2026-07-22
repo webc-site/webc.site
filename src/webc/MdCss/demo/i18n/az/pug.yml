@@ -1,0 +1,38 @@
+basicTitle: Əsas üslub
+bold: Qalın
+italic: kursiv
+del: cızıq
+inlineCode: daxili kod
+linkPrefix: kimi keçiddən əvvəl və sonra mətn var
+link: Birləşmiş Millətlər Təşkilatının rəsmi saytı
+linkSuffix: keçiddir.
+quoteSingle: Bu tək sətirli sitatdır.
+quoteMultiLine1: Bu çox sətirli sitatdır.
+quoteMultiLine2: Çox sətirli istinadları göstərmək üçün vizual effekt.
+note: Ümumi mesajlar və qeydlər
+tip: Məsləhətlər və faydalı məsləhətlər
+important: Əhəmiyyətli məsləhətlər və narahatlıqlar
+warning: Risk xəbərdarlığı və ehtiyat tədbirləri
+caution: TƏHLÜKƏ VƏ HƏQİQİ RİSK XƏBƏRDARLIĞI
+listTitle: Sitatlar və Siyahılar
+taskTitle: tapşırıq siyahısı
+todoItem: Bu tamamlanmamış CSS tapşırığıdır
+doneItem: Bu tamamlanmış CSS tapşırığıdır
+ulItem1: Sifarişsiz ilk maddə
+ulSubItem1: Sıralanmamış alt element birinci
+ulSubItem2: Sırasız ikinci yarımbənd
+ulItem2: Sifarişsiz ikinci maddə
+olItem1: Sifariş olunan ilk məhsul
+olSubItem1: Sifariş verilmiş 1
+olSubItem2: Sifarişli ikinci yarımbənd
+olItem2: İkinci müddətə əmr edildi
+tableTitle: vərəq
+col1: layihə
+col2: dövlət
+col3: xal
+row1Col1: statik
+row1Col2: Tamamlandı
+row2Col1: axın
+row2Col2: Rendering
+codeTitle: kod bloku
+imageTitle: şəkil

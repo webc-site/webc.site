@@ -1,0 +1,50 @@
+[BoxX](../../src/webc/BoxX/i18n/si/README.md) : වසන්න බොත්තමක් සමඟ උත්පතන ස්ථරයක් සාදා සංදර්ශන කරන්න
+[Code](../../src/webc/Code/i18n/si/README.md) : කේත බොත්තම
+[Copy](../../src/webc/Copy/i18n/si/README.md) : පෙළ පසුරු පුවරුවට පිටපත් කරන්න
+[Edit](../../src/webc/Edit/i18n/si/README.md) : සංස්කරණ බොත්තම
+[HtmDemo](../../src/webc/HtmDemo/i18n/si/README.md) : HTML සහ JS කේතය මාර්ගගතව දෝෂහරණය කිරීම
+[I18n](../../src/webc/I18n/i18n/si/README.md) : අතුරු මුහුණත් භාෂා මාරු කිරීම සඳහා බොත්තම් සහ උත්පතන කවුළු
+[MdStream](../../src/webc/MdStream/i18n/si/README.md) : Markdown පෙළ ප්‍රවාහ විදැහුම්කරණය
+[Nav](../../src/webc/Nav/i18n/si/README.md) : පිටුව අනුචලනය වන විට ස්වයංක්‍රීයව කඩා වැටෙන හෝ පුළුල් වන ඉහළ සංචාලන තීරුව
+[NavL](../../src/webc/NavL/i18n/si/README.md) : සංචාලන මෙනුව සහ ආපසු බොත්තම ස්වයංක්‍රීයව මාරු කරන්න
+[NavMenu](../../src/webc/NavMenu/i18n/si/README.md) : සංචාලන මෙනුව විවිධ තිර ප්‍රමාණයන්ට අනුවර්තනය කර ඇත
+[SelectBtn](../../src/webc/SelectBtn/i18n/si/README.md) : පතන තේරීම් කොටුව සහ බොත්තම ඒකාබද්ධ කිරීම
+[Side](../../src/webc/Side/i18n/si/README.md) : පැත්තෙන් ලිස්සා යන ලාච්චු පැනල්
+[TabSelect](../../src/webc/TabSelect/i18n/si/README.md) : පතන තේරීම සහිත ටැබ් පිටුව
+[Btn](../../src/webc/Btn/i18n/si/README.md) : සාමාන්‍ය බොත්තම සහ රවුම් අයිකන බොත්තම
+[Card](../../src/webc/Card/i18n/si/README.md) : අත්හිටුවීම තුළ දකුණු ඊතලය සහිත කැප්සියුල කාඩ්පත
+[H1Txt](../../src/webc/H1Txt/i18n/si/README.md) : වයනය මාතෘකාව සහ විස්තරය
+[Ing](../../src/webc/Ing/i18n/si/README.md) : පැටවීමේ හෝ සැකසීමේ තත්ත්වය පිළිබඳ දර්ශකය
+[Input](../../src/webc/Input/i18n/si/README.md) : ස්ථාන දරණ තත්ත්වය ස්වයංක්‍රීයව මාරු කරන ආදාන පෙට්ටිය
+[Kv](../../src/webc/Kv/i18n/si/README.md) : ප්රධාන අගය යුගලය
+[Lg](../../src/webc/Lg/i18n/si/README.md) : ශීත කළ වීදුරු පසුබිම සහ දාර උද්දීපන බලපෑම
+[MdCss](../../src/webc/MdCss/i18n/si/README.md) : කියවීමේ අත්දැකීම සඳහා මුද්‍රණ ශෛලීන් ප්‍රශස්ත කර ඇත
+[NavALi](../../src/webc/NavALi/i18n/si/README.md) : සංචාලන තීරු සබැඳි ලැයිස්තු විලාසය
+[O](../../src/webc/O/i18n/si/README.md) : මූලද්‍රව්‍යයට ඉදිරියෙන් හිස් තිත් ලාංඡනයක් අඳින්න
+[Toast](../../src/webc/Toast/i18n/si/README.md) : පිටුවේ කෙළවරේ ඇති ක්ෂණික උත්පතන කවුළුව
+[404](../../src/webc/404/i18n/si/README.md) : මාර්ගය දෝෂ පණිවිඩ පිටුව නොපවතී
+[Back](../../src/webc/Back/i18n/si/README.md) : ආපසු බොත්තම
+[Box](../../src/webc/Box/i18n/si/README.md) : උත්පතන ස්තරය සාදා සංදර්ශන කරන්න
+[CardLi](../../src/webc/CardLi/i18n/si/README.md) : කාඩ්පත් ලැයිස්තුව අසමමිතිකව පූරණය කර ප්‍රදර්ශනය කරන්න
+[Md](../../src/webc/Md/i18n/si/README.md) : ආරක්ෂිතව විග්‍රහ කර Markdown පෙළ HTML වෙත ලබා දෙන්න.
+[Pophover](../../src/webc/Pophover/i18n/si/README.md) : පාවෙන බුබුලු විමසුම
+[Scroll](../../src/webc/Scroll/i18n/si/README.md) : අතථ්‍ය අනුචලන තීරුව
+[Select](../../src/webc/Select/i18n/si/README.md) : පතන තේරීම, පළල වත්මන් අයිතමයට අනුගත වේ
+[Tab](../../src/webc/Tab/i18n/si/README.md) : මාරු කළ හැකි ටැබ්
+[On](../si/js/On.md) : කණ්ඩායම් බන්ධන සිදුවීම් නිරීක්ෂණය
+[a](../si/js/a.md) : සබැඳි ක්ලික් සිද්ධීන් ගෝලීය වශයෙන් බාධා කරන්න
+[dom](../si/js/dom.md) : ලේඛන විචල්‍ය කෙටි යෙදුම් සහ කෙටිමං ශ්‍රිත
+[dom/header](../si/js/dom/header.md) : ශීර්ෂ තීරුව DOM ව්‍යුහය සාදන්න
+[fetch](../si/js/fetch.md) : ෆෙච් එන්කැප්සුලේෂන් මත පදනම් වූ ජාල ඉල්ලීම් මෙවලම් ක්‍රියාකාරිත්වය
+[fetchLang](../si/js/fetchLang.md) : භාෂා ඇසුරුම් අසමමුහුර්තව පූරණය කර යාවත්කාලීන ඇමතුම් බැඳ තබන්න
+[hashActive](../si/js/hashActive.md) : URL නැංගුරම් සහ viewport අනුචලනය මත පදනම්ව සංචාලන සබැඳි උද්දීපනය
+[i18n](../si/js/i18n.md) : බහු භාෂා තත්ව කළමනාකරණය සහ වෙනස්වීම් අධීක්ෂණය
+[i18n/init](../si/js/i18n/init.md) : බහු භාෂා ආරම්භක වින්‍යාසය සහ පැටවීම
+[i18n/store](../si/js/i18n/store.md) : බහුභාෂා දේශීය ගබඩා කළමනාකරණය
+[icoTip](../si/js/icoTip.md) : ජාත්‍යන්තරකරණ ඉඟි සහිත අයිකන සංරචකයක් නිර්වචනය කර ලියාපදිංචි කරන්න
+[md/htm](../si/js/md/htm.md) : පෙළ HTML තන්තුවට සලකුණු කරන්න
+[md/safeHtm](../si/js/md/safeHtm.md) : ආරක්ෂිත HTML වෙත පෙළ සලකුණු කරන්න
+[md/streamRender](../si/js/md/streamRender.md) : මාර්ක්ඩවුන් ප්‍රවාහ විදැහුම්කරණය
+[parentScroll](../si/js/parentScroll.md) : මුතුන්මිත්තන්ගේ අනුචලන බහාලුම් මූලද්‍රව්‍යය ලබා ගන්න
+[rmWait](../si/js/rmWait.md)
+[route](../si/js/route.md) : තනි පිටු ඉදිරිපස-අන්ත මාර්ගගත කළමනාකරණය

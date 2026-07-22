@@ -1,0 +1,9 @@
+language: lugha
+os: mfumo
+about: kuhusu
+jsInfo: JavaScript ni lugha ya uandishi inayotumika sana katika ukuzaji wa wavuti wa upande wa mteja.
+rsInfo: Rust ni lugha ya programu ya mifumo inayozingatia usalama, kasi na upatanifu.
+pyInfo: Python ni lugha inayolengwa na kitu, iliyotafsiriwa ya programu ya kompyuta.
+macInfo: macOS ni mfumo wa uendeshaji wa picha wa Unix uliotengenezwa na Apple.
+winInfo: Windows ni mfumo wa uendeshaji wa kompyuta binafsi unaotumika sana uliotengenezwa na Microsoft Corporation.
+aboutInfo: Tumejitolea kutengeneza vipengele vya ubora wa juu vya chanzo huria, na unakaribishwa kushiriki.

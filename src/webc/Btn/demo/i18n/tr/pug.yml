@@ -1,0 +1,4 @@
+default: Varsayılan düğme
+main: ana düğme
+link: bağlantı düğmesi
+icon: Simge Düğmesi (.BtnC)
