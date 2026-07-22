@@ -34,6 +34,8 @@ const PKG_FILE = "package.json",
           ? "https://x-access-token:" + token + "@github.com/" + env.GITHUB_REPOSITORY + ".git"
           : "origin";
 
+    await git("pull " + remote + " main --rebase --no-verify").catch(() => {});
+
     console.log("pushing committed package.json to main branch...");
     await git("push " + remote + " HEAD:main --no-verify");
 
