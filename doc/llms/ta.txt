@@ -1,0 +1,51 @@
+[BoxX](../../src/webc/BoxX/i18n/ta/README.md) : மூடு பட்டனுடன் பாப்அப் லேயரை உருவாக்கி காண்பிக்கவும்
+[Code](../../src/webc/Code/i18n/ta/README.md) : குறியீடு பொத்தான்
+[Copy](../../src/webc/Copy/i18n/ta/README.md) : கிளிப்போர்டுக்கு உரையை நகலெடுக்கவும்
+[Edit](../../src/webc/Edit/i18n/ta/README.md) : தொகு பொத்தான்
+[HtmDemo](../../src/webc/HtmDemo/i18n/ta/README.md) : HTML மற்றும் JS குறியீட்டை ஆன்லைனில் பிழைத்திருத்துதல்
+[I18n](../../src/webc/I18n/i18n/ta/README.md) : இடைமுக மொழிகளை மாற்றுவதற்கான பொத்தான்கள் மற்றும் பாப்-அப் சாளரங்கள்
+[MdStream](../../src/webc/MdStream/i18n/ta/README.md) : மார்க் டவுன் உரையின் ஸ்ட்ரீமிங் ரெண்டரிங்
+[Nav](../../src/webc/Nav/i18n/ta/README.md) : பக்கம் ஸ்க்ரோல் செய்யும் போது தானாகவே சரிந்து அல்லது விரிவடையும் மேல் வழிசெலுத்தல் பட்டி
+[NavL](../../src/webc/NavL/i18n/ta/README.md) : வழிசெலுத்தல் மெனு மற்றும் திரும்பும் பொத்தானை தானாக மாற்றவும்
+[NavMenu](../../src/webc/NavMenu/i18n/ta/README.md) : வழிசெலுத்தல் மெனு வெவ்வேறு திரை அளவுகளுக்கு ஏற்றது
+[SelectBtn](../../src/webc/SelectBtn/i18n/ta/README.md) : கீழ்தோன்றும் தேர்வு பெட்டி மற்றும் பொத்தானின் சேர்க்கை
+[Side](../../src/webc/Side/i18n/ta/README.md) : பக்கவாட்டில் இருந்து வெளியேறும் டிராயர் பேனல்கள்
+[TabSelect](../../src/webc/TabSelect/i18n/ta/README.md) : கீழ்தோன்றும் தேர்வுடன் தாவல் பக்கம்
+[Toc](../../src/webc/Toc/i18n/ta/README.md) : அடைவு வழிசெலுத்தல் கூறு
+[Btn](../../src/webc/Btn/i18n/ta/README.md) : சாதாரண பொத்தான் மற்றும் வட்ட ஐகான் பொத்தான்
+[Card](../../src/webc/Card/i18n/ta/README.md) : வலது அம்புக்குறியுடன் கூடிய கேப்சூல் அட்டை இடைநீக்கத்தில் காட்டப்பட்டுள்ளது
+[H1Txt](../../src/webc/H1Txt/i18n/ta/README.md) : அமைப்பு தலைப்பு மற்றும் விளக்கம்
+[Ing](../../src/webc/Ing/i18n/ta/README.md) : ஏற்றுதல் அல்லது செயலாக்க நிலையின் காட்டி
+[Input](../../src/webc/Input/i18n/ta/README.md) : உள்ளீட்டு பெட்டி தானாகவே ஒதுக்கிட நிலையை மாற்றும்
+[Kv](../../src/webc/Kv/i18n/ta/README.md) : முக்கிய மதிப்பு ஜோடி
+[Lg](../../src/webc/Lg/i18n/ta/README.md) : உறைந்த கண்ணாடி பின்னணி மற்றும் விளிம்பு ஹைலைட் விளைவு
+[MdCss](../../src/webc/MdCss/i18n/ta/README.md) : வாசிப்பு அனுபவத்திற்கு உகந்த அச்சுக்கலை பாணிகள்
+[NavALi](../../src/webc/NavALi/i18n/ta/README.md) : வழிசெலுத்தல் பட்டி இணைப்பு பட்டியல் நடை
+[O](../../src/webc/O/i18n/ta/README.md) : உறுப்புக்கு முன்னால் ஒரு வெற்று புள்ளி லோகோவை வரையவும்
+[Toast](../../src/webc/Toast/i18n/ta/README.md) : பக்கத்தின் விளிம்பில் உடனடியாக பாப்-அப் சாளரம்
+[404](../../src/webc/404/i18n/ta/README.md) : பாதை பிழை செய்தி பக்கம் இல்லை
+[Back](../../src/webc/Back/i18n/ta/README.md) : பின் பொத்தான்
+[Box](../../src/webc/Box/i18n/ta/README.md) : பாப்அப் லேயரை உருவாக்கி காட்டவும்
+[CardLi](../../src/webc/CardLi/i18n/ta/README.md) : கார்டு பட்டியலை ஒத்திசைவின்றி ஏற்றி காண்பிக்கவும்
+[Md](../../src/webc/Md/i18n/ta/README.md) : மார்க் டவுன் உரையை HTMLக்கு பாதுகாப்பாக அலசவும்.
+[Pophover](../../src/webc/Pophover/i18n/ta/README.md) : மிதக்கும் குமிழி வரியில்
+[Scroll](../../src/webc/Scroll/i18n/ta/README.md) : மெய்நிகர் உருள் பட்டை
+[Select](../../src/webc/Select/i18n/ta/README.md) : கீழ்தோன்றும் தேர்வு, அகலம் தற்போதைய உருப்படிக்கு ஏற்றது
+[Tab](../../src/webc/Tab/i18n/ta/README.md) : மாறக்கூடிய தாவல்கள்
+[On](../ta/js/On.md) : தொகுதி பிணைப்பு நிகழ்வு கண்காணிப்பு
+[a](../ta/js/a.md) : உலகளாவிய ரீசெப்ட் லிங்க் கிளிக் நிகழ்வுகள்
+[dom](../ta/js/dom.md) : ஆவண மாறி சுருக்கங்கள் மற்றும் குறுக்குவழி செயல்பாடுகள்
+[dom/header](../ta/js/dom/header.md) : தலைப்பு பட்டி DOM கட்டமைப்பை உருவாக்கவும்
+[fetch](../ta/js/fetch.md) : ஃபெட்ச் என்காப்சுலேஷன் அடிப்படையில் நெட்வொர்க் கோரிக்கை கருவி செயல்பாடு
+[fetchLang](../ta/js/fetchLang.md) : மொழிப் பொதிகளை ஒத்திசைவின்றி ஏற்றவும் மற்றும் புதுப்பிப்பு அழைப்புகளை பிணைக்கவும்
+[hashActive](../ta/js/hashActive.md) : URL அறிவிப்பாளர்கள் மற்றும் வியூபோர்ட் ஸ்க்ரோலிங் அடிப்படையில் வழிசெலுத்தல் இணைப்பு தனிப்படுத்தல்
+[i18n](../ta/js/i18n.md) : பல மொழி நிலை மேலாண்மை மற்றும் மாற்றம் கண்காணிப்பு
+[i18n/init](../ta/js/i18n/init.md) : பல மொழி துவக்க கட்டமைப்பு மற்றும் ஏற்றுதல்
+[i18n/store](../ta/js/i18n/store.md) : பன்மொழி உள்ளூர் சேமிப்பு மேலாண்மை
+[icoTip](../ta/js/icoTip.md) : சர்வதேசமயமாக்கல் குறிப்புகளுடன் ஐகான் கூறுகளை வரையறுத்து பதிவு செய்யவும்
+[md/htm](../ta/js/md/htm.md) : HTML சரத்திற்கு மார்க் டவுன் உரை
+[md/safeHtm](../ta/js/md/safeHtm.md) : பாதுகாப்பான HTML க்கு மார்க் டவுன் உரை
+[md/streamRender](../ta/js/md/streamRender.md) : மார்க் டவுன் ஸ்ட்ரீமிங் ரெண்டரிங்
+[parentScroll](../ta/js/parentScroll.md) : மூதாதையர் உருள் கொள்கலன் உறுப்பைப் பெறுங்கள்
+[rmWait](../ta/js/rmWait.md)
+[route](../ta/js/route.md) : ஒற்றை பக்க முன்-இறுதி ரூட்டிங் மேலாண்மை

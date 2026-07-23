@@ -1,0 +1,51 @@
+[BoxX](../../src/webc/BoxX/i18n/sv/README.md) : Skapa och visa ett popup-lager med en stängningsknapp
+[Code](../../src/webc/Code/i18n/sv/README.md) : kodknapp
+[Copy](../../src/webc/Copy/i18n/sv/README.md) : Kopiera text till urklipp
+[Edit](../../src/webc/Edit/i18n/sv/README.md) : redigera knappen
+[HtmDemo](../../src/webc/HtmDemo/i18n/sv/README.md) : Felsökning av HTML och JS-kod online
+[I18n](../../src/webc/I18n/i18n/sv/README.md) : Knappar och popup-fönster för att byta gränssnittsspråk
+[MdStream](../../src/webc/MdStream/i18n/sv/README.md) : Strömmande rendering av Markdown-text
+[Nav](../../src/webc/Nav/i18n/sv/README.md) : Översta navigeringsfältet som automatiskt kollapsar eller expanderar när sidan rullar
+[NavL](../../src/webc/NavL/i18n/sv/README.md) : Växla automatiskt navigationsmeny och returknapp
+[NavMenu](../../src/webc/NavMenu/i18n/sv/README.md) : Navigationsmeny anpassad till olika skärmstorlekar
+[SelectBtn](../../src/webc/SelectBtn/i18n/sv/README.md) : Kombination av rullgardinsvalsruta och knapp
+[Side](../../src/webc/Side/i18n/sv/README.md) : Lådpaneler som glider ut från sidan
+[TabSelect](../../src/webc/TabSelect/i18n/sv/README.md) : Fliksida med rullgardinsval
+[Toc](../../src/webc/Toc/i18n/sv/README.md) : Katalognavigeringskomponent
+[Btn](../../src/webc/Btn/i18n/sv/README.md) : Vanlig knapp och rund ikonknapp
+[Card](../../src/webc/Card/i18n/sv/README.md) : Kapselkort med högerpil visas i suspension
+[H1Txt](../../src/webc/H1Txt/i18n/sv/README.md) : Textur titel och beskrivning
+[Ing](../../src/webc/Ing/i18n/sv/README.md) : Indikator för laddnings- eller bearbetningsstatus
+[Input](../../src/webc/Input/i18n/sv/README.md) : Inmatningsruta som automatiskt byter platshållarstatus
+[Kv](../../src/webc/Kv/i18n/sv/README.md) : nyckelvärdespar
+[Lg](../../src/webc/Lg/i18n/sv/README.md) : Frostat glasbakgrund och kantmarkeringseffekt
+[MdCss](../../src/webc/MdCss/i18n/sv/README.md) : Typografistilar optimerade för läsupplevelse
+[NavALi](../../src/webc/NavALi/i18n/sv/README.md) : Länkliststil i navigeringsfältet
+[O](../../src/webc/O/i18n/sv/README.md) : Rita en ihålig pricklogotyp framför elementet
+[Toast](../../src/webc/Toast/i18n/sv/README.md) : Snabbfönster i kanten av sidan
+[404](../../src/webc/404/i18n/sv/README.md) : Sökvägen finns inte felmeddelandesida
+[Back](../../src/webc/Back/i18n/sv/README.md) : tillbaka-knappen
+[Box](../../src/webc/Box/i18n/sv/README.md) : Skapa och visa popup-lager
+[CardLi](../../src/webc/CardLi/i18n/sv/README.md) : Ladda och visa kortlistan asynkront
+[Md](../../src/webc/Md/i18n/sv/README.md) : Analysera och återge Markdown-text på ett säkert sätt till HTML.
+[Pophover](../../src/webc/Pophover/i18n/sv/README.md) : flytande bubbla prompt
+[Scroll](../../src/webc/Scroll/i18n/sv/README.md) : virtuell rullningslist
+[Select](../../src/webc/Select/i18n/sv/README.md) : Rullgardinsval, bredd anpassar sig till aktuellt objekt
+[Tab](../../src/webc/Tab/i18n/sv/README.md) : Växlingsbara flikar
+[On](../sv/js/On.md) : Övervakning av batchbindande händelser
+[a](../sv/js/a.md) : Globalt fånga länkklickhändelser
+[dom](../sv/js/dom.md) : Dokumentvariable förkortningar och genvägsfunktioner
+[dom/header](../sv/js/dom/header.md) : Skapa rubrikfältets DOM-struktur
+[fetch](../sv/js/fetch.md) : Nätverksbegäran verktygsfunktion baserad på hämta inkapsling
+[fetchLang](../sv/js/fetchLang.md) : Ladda språkpaket asynkront och bind uppdateringsåteruppringningar
+[hashActive](../sv/js/hashActive.md) : Markering av navigeringslänk baserad på URL-ankare och rullning av visningsport
+[i18n](../sv/js/i18n.md) : Flerspråkig statushantering och förändringsövervakning
+[i18n/init](../sv/js/i18n/init.md) : Flerspråkig initieringskonfiguration och laddning
+[i18n/store](../sv/js/i18n/store.md) : Flerspråkig lokal lagringshantering
+[icoTip](../sv/js/icoTip.md) : Definiera och registrera en ikonkomponent med internationaliseringstips
+[md/htm](../sv/js/md/htm.md) : Markdown-text till HTML-sträng
+[md/safeHtm](../sv/js/md/safeHtm.md) : Markdown-text till säker HTML
+[md/streamRender](../sv/js/md/streamRender.md) : Markdown streaming-rendering
+[parentScroll](../sv/js/parentScroll.md) : Skaffa elementet för förfadersrullningsbehållare
+[rmWait](../sv/js/rmWait.md)
+[route](../sv/js/route.md) : En sidas front-end routinghantering

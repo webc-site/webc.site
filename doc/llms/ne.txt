@@ -1,0 +1,51 @@
+[BoxX](../../src/webc/BoxX/i18n/ne/README.md) : बन्द बटनको साथ पपअप तह सिर्जना गर्नुहोस् र प्रदर्शन गर्नुहोस्
+[Code](../../src/webc/Code/i18n/ne/README.md) : कोड बटन
+[Copy](../../src/webc/Copy/i18n/ne/README.md) : क्लिपबोर्डमा पाठ प्रतिलिपि गर्नुहोस्
+[Edit](../../src/webc/Edit/i18n/ne/README.md) : सम्पादन बटन
+[HtmDemo](../../src/webc/HtmDemo/i18n/ne/README.md) : HTML र JS कोड अनलाइन डिबग गर्दै
+[I18n](../../src/webc/I18n/i18n/ne/README.md) : इन्टरफेस भाषाहरू स्विच गर्नका लागि बटनहरू र पप-अप विन्डोहरू
+[MdStream](../../src/webc/MdStream/i18n/ne/README.md) : मार्कडाउन पाठको स्ट्रिमिङ रेन्डरिङ
+[Nav](../../src/webc/Nav/i18n/ne/README.md) : शीर्ष नेभिगेसन पट्टी जुन पृष्ठ स्क्रोल गर्दा स्वचालित रूपमा पतन वा विस्तार हुन्छ
+[NavL](../../src/webc/NavL/i18n/ne/README.md) : स्वचालित रूपमा नेभिगेसन मेनु र फिर्ता बटन स्विच गर्नुहोस्
+[NavMenu](../../src/webc/NavMenu/i18n/ne/README.md) : नेभिगेसन मेनु विभिन्न स्क्रिन आकारहरूमा अनुकूलित
+[SelectBtn](../../src/webc/SelectBtn/i18n/ne/README.md) : ड्रप-डाउन चयन बाकस र बटनको संयोजन
+[Side](../../src/webc/Side/i18n/ne/README.md) : छेउबाट बाहिर सर्ने दराज प्यानलहरू
+[TabSelect](../../src/webc/TabSelect/i18n/ne/README.md) : ड्रप-डाउन चयनको साथ ट्याब पृष्ठ
+[Toc](../../src/webc/Toc/i18n/ne/README.md) : निर्देशिका नेभिगेसन कम्पोनेन्ट
+[Btn](../../src/webc/Btn/i18n/ne/README.md) : साधारण बटन र गोल आइकन बटन
+[Card](../../src/webc/Card/i18n/ne/README.md) : निलम्बन मा प्रदर्शित दायाँ तीर संग क्याप्सूल कार्ड
+[H1Txt](../../src/webc/H1Txt/i18n/ne/README.md) : बनावट शीर्षक र विवरण
+[Ing](../../src/webc/Ing/i18n/ne/README.md) : लोडिङ वा प्रशोधन स्थितिको सूचक
+[Input](../../src/webc/Input/i18n/ne/README.md) : स्वचालित रूपमा प्लेसहोल्डर स्थिति स्विच गर्ने इनपुट बाकस
+[Kv](../../src/webc/Kv/i18n/ne/README.md) : कुञ्जी मूल्य जोडी
+[Lg](../../src/webc/Lg/i18n/ne/README.md) : फ्रोस्टेड ग्लास पृष्ठभूमि र किनारा हाइलाइट प्रभाव
+[MdCss](../../src/webc/MdCss/i18n/ne/README.md) : टाइपोग्राफी शैलीहरू पढ्ने अनुभवको लागि अनुकूलित
+[NavALi](../../src/webc/NavALi/i18n/ne/README.md) : नेभिगेसन पट्टी लिङ्क सूची शैली
+[O](../../src/webc/O/i18n/ne/README.md) : तत्वको अगाडि एउटा खोक्रो डट लोगो कोर्नुहोस्
+[Toast](../../src/webc/Toast/i18n/ne/README.md) : पृष्ठको छेउमा पप-अप विन्डो प्रम्प्ट गर्नुहोस्
+[404](../../src/webc/404/i18n/ne/README.md) : पथ त्रुटि सन्देश पृष्ठ अवस्थित छैन
+[Back](../../src/webc/Back/i18n/ne/README.md) : पछाडि बटन
+[Box](../../src/webc/Box/i18n/ne/README.md) : पपअप तह सिर्जना र प्रदर्शन गर्नुहोस्
+[CardLi](../../src/webc/CardLi/i18n/ne/README.md) : एसिंक्रोनस रूपमा कार्ड सूची लोड र प्रदर्शन गर्नुहोस्
+[Md](../../src/webc/Md/i18n/ne/README.md) : मार्कडाउन पाठलाई HTML मा सुरक्षित रूपमा पार्स र रेन्डर गर्नुहोस्।
+[Pophover](../../src/webc/Pophover/i18n/ne/README.md) : फ्लोटिंग बबल प्रम्प्ट
+[Scroll](../../src/webc/Scroll/i18n/ne/README.md) : भर्चुअल स्क्रोल पट्टी
+[Select](../../src/webc/Select/i18n/ne/README.md) : ड्रप-डाउन चयन, चौडाइ हालको वस्तुमा अनुकूल हुन्छ
+[Tab](../../src/webc/Tab/i18n/ne/README.md) : स्विच गर्न मिल्ने ट्याबहरू
+[On](../ne/js/On.md) : ब्याच बाध्यकारी घटना निगरानी
+[a](../ne/js/a.md) : विश्वव्यापी रूपमा लिङ्क क्लिक घटनाहरू अवरोध गर्नुहोस्
+[dom](../ne/js/dom.md) : कागजात चल संक्षिप्त र सर्टकट प्रकार्यहरू
+[dom/header](../ne/js/dom/header.md) : हेडर बार DOM संरचना सिर्जना गर्नुहोस्
+[fetch](../ne/js/fetch.md) : ल्याइएको encapsulation मा आधारित नेटवर्क अनुरोध उपकरण प्रकार्य
+[fetchLang](../ne/js/fetchLang.md) : एसिन्क्रोनस रूपमा भाषा प्याकहरू लोड गर्नुहोस् र अद्यावधिक कलब्याकहरू बाँध्नुहोस्
+[hashActive](../ne/js/hashActive.md) : URL एङ्कर र भ्युपोर्ट स्क्रोलिङमा आधारित नेभिगेसन लिङ्क हाइलाइटिङ
+[i18n](../ne/js/i18n.md) : बहु-भाषा स्थिति व्यवस्थापन र परिवर्तन अनुगमन
+[i18n/init](../ne/js/i18n/init.md) : बहु-भाषा प्रारम्भिक कन्फिगरेसन र लोडिङ
+[i18n/store](../ne/js/i18n/store.md) : बहुभाषी स्थानीय भण्डारण व्यवस्थापन
+[icoTip](../ne/js/icoTip.md) : अन्तर्राष्ट्रियकरण संकेतहरूको साथ आइकन घटक परिभाषित र दर्ता गर्नुहोस्
+[md/htm](../ne/js/md/htm.md) : HTML स्ट्रिङमा मार्कडाउन पाठ
+[md/safeHtm](../ne/js/md/safeHtm.md) : सुरक्षित HTML मा मार्कडाउन पाठ
+[md/streamRender](../ne/js/md/streamRender.md) : मार्कडाउन स्ट्रिमिङ रेन्डरिङ
+[parentScroll](../ne/js/parentScroll.md) : पूर्वज स्क्रोल कन्टेनर तत्व प्राप्त गर्नुहोस्
+[rmWait](../ne/js/rmWait.md)
+[route](../ne/js/route.md) : एकल पृष्ठ अगाडि-अन्त मार्ग व्यवस्थापन

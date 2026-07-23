@@ -1,0 +1,60 @@
+mdContent: |
+  # Markdown təqdimat sənədi
+  Bu, Streaming Rendering-in nümayişidir.
+  ## Əsas üslub
+  - **Qalın** və *İtalik*
+  - ~~çizgi~~
+  - `inline_code` daxili kod
+  - [Birləşmiş Millətlər Təşkilatının rəsmi veb-saytı](https://un.org) Link nümayişi
+  ## Sitatlar və Siyahılar
+  > Bu tək sətirli sitatdır.
+
+  > Bu çox sətirli sitatdır.
+  > Çox sətirli istinadları göstərmək üçün vizual effekt.
+
+  - Sifarişsiz ilk maddə
+    - Sıralanmamış alt element birinci
+    - Sırasız ikinci yarımbənd
+  - Sifarişsiz ikinci maddə
+
+  > [!NOTE]
+  > `> [!NOTE]` Ümumi mesajlar və qeydlər
+
+  > [!TIP]
+  > `> [!TIP]` Məsləhətlər və faydalı məsləhətlər
+
+  > [!IMPORTANT]
+  > `> [!IMPORTANT]` Vacib məsləhətlər və narahatlıqlar
+
+  > [!WARNING]
+  > `> [!WARNING]` Risk Xəbərdarlıqları və Qeydlər
+
+  > [!CAUTION]
+  > `> [!CAUTION]` TƏHLÜKƏ VƏ HƏQİQİ RİSK XƏBƏRDARLIĞI
+
+  ---
+
+  ## tapşırıq siyahısı
+  - [ ] Bu tamamlanmamış axın işidir
+  - [x] Bu tamamlanmış axın işidir
+  - [X] Bu tamamlanmış axın tapşırığıdır (X böyük)
+
+  ---
+
+  1. Sifariş olunan ilk məhsul
+     1. Sifariş verilmiş 1
+     2. Sifarişli ikinci yarımbənd
+  2. İkinci müddətə əmr edildi
+  ## vərəq
+  | Tapşırıq | dövlət | cədvəli |
+  | :--- | :---: | ---: |
+  | Birinci tapşırıq | Tamamlandı | 100% |
+  | Tapşırıq 2 | davam edir | 50% |
+  ## kod bloku
+  ```js
+  const hello = () => {
+    console.log("Hello, WebC!");
+  };
+  ```
+  ## şəkil
+  ![Demo şəkil](https://i-01.eu.org/demo-green.avif)

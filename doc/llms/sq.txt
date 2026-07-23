@@ -1,0 +1,51 @@
+[BoxX](../../src/webc/BoxX/i18n/sq/README.md) : Krijoni dhe shfaqni një shtresë kërcyese me një buton mbylljeje
+[Code](../../src/webc/Code/i18n/sq/README.md) : butonin e kodit
+[Copy](../../src/webc/Copy/i18n/sq/README.md) : Kopjo tekstin në kujtesën e fragmenteve
+[Edit](../../src/webc/Edit/i18n/sq/README.md) : butoni i redaktimit
+[HtmDemo](../../src/webc/HtmDemo/i18n/sq/README.md) : Korrigjimi i kodit HTML dhe JS në internet
+[I18n](../../src/webc/I18n/i18n/sq/README.md) : Butonat dhe dritaret kërcyese për ndërrimin e gjuhëve të ndërfaqes
+[MdStream](../../src/webc/MdStream/i18n/sq/README.md) : Transmetimi i tekstit Markdown në transmetim
+[Nav](../../src/webc/Nav/i18n/sq/README.md) : Shiriti i sipërm i navigimit që paloset ose zgjerohet automatikisht kur faqja lëviz
+[NavL](../../src/webc/NavL/i18n/sq/README.md) : Ndërroni automatikisht menunë e navigimit dhe butonin e kthimit
+[NavMenu](../../src/webc/NavMenu/i18n/sq/README.md) : Menuja e navigimit e përshtatur për madhësi të ndryshme ekrani
+[SelectBtn](../../src/webc/SelectBtn/i18n/sq/README.md) : Kombinimi i kutisë dhe butonit të zgjedhjes me zbritje
+[Side](../../src/webc/Side/i18n/sq/README.md) : Panelet e sirtarëve që rrëshqasin nga ana
+[TabSelect](../../src/webc/TabSelect/i18n/sq/README.md) : Faqja e skedës me përzgjedhje rënëse
+[Toc](../../src/webc/Toc/i18n/sq/README.md) : Komponenti i navigimit të drejtorisë
+[Btn](../../src/webc/Btn/i18n/sq/README.md) : Butoni i zakonshëm dhe butoni i ikonës së rrumbullakët
+[Card](../../src/webc/Card/i18n/sq/README.md) : Karta e kapsulës me shigjetën djathtas shfaqet në pezullim
+[H1Txt](../../src/webc/H1Txt/i18n/sq/README.md) : Titulli dhe përshkrimi i teksturës
+[Ing](../../src/webc/Ing/i18n/sq/README.md) : Treguesi i statusit të ngarkimit ose përpunimit
+[Input](../../src/webc/Input/i18n/sq/README.md) : Kutia hyrëse që ndërron automatikisht gjendjen e mbajtësit të vendndodhjes
+[Kv](../../src/webc/Kv/i18n/sq/README.md) : çifti i vlerave kryesore
+[Lg](../../src/webc/Lg/i18n/sq/README.md) : Sfondi i xhamit të mbuluar me brymë dhe efekti i theksimit të skajeve
+[MdCss](../../src/webc/MdCss/i18n/sq/README.md) : Stilet e tipografisë të optimizuara për përvojën e leximit
+[NavALi](../../src/webc/NavALi/i18n/sq/README.md) : Stili i listës së lidhjeve të shiritit të navigimit
+[O](../../src/webc/O/i18n/sq/README.md) : Vizatoni një logo me pikë të zbrazët përpara elementit
+[Toast](../../src/webc/Toast/i18n/sq/README.md) : Prompt pop-up dritare në skaj të faqes
+[404](../../src/webc/404/i18n/sq/README.md) : Faqja e mesazhit të gabimit të rrugës nuk ekziston
+[Back](../../src/webc/Back/i18n/sq/README.md) : butoni prapa
+[Box](../../src/webc/Box/i18n/sq/README.md) : Krijoni dhe shfaqni një shtresë kërcyese
+[CardLi](../../src/webc/CardLi/i18n/sq/README.md) : Ngarko dhe shfaq listën e kartave në mënyrë asinkrone
+[Md](../../src/webc/Md/i18n/sq/README.md) : Analizoni dhe jepni në mënyrë të sigurt tekstin Markdown në HTML.
+[Pophover](../../src/webc/Pophover/i18n/sq/README.md) : kërkesë flluskë lundruese
+[Scroll](../../src/webc/Scroll/i18n/sq/README.md) : shiriti i lëvizjes virtuale
+[Select](../../src/webc/Select/i18n/sq/README.md) : Zgjedhja me drop-down, gjerësia përshtatet me artikullin aktual
+[Tab](../../src/webc/Tab/i18n/sq/README.md) : Skedat e ndërrueshme
+[On](../sq/js/On.md) : Monitorimi i ngjarjeve të lidhjes së grupit
+[a](../sq/js/a.md) : Përgjimi globalisht ngjarjet e klikimeve në lidhje
+[dom](../sq/js/dom.md) : Shkurtesat e variablave të dokumentit dhe funksionet e shkurtoreve
+[dom/header](../sq/js/dom/header.md) : Krijo strukturën DOM të shiritit të kokës
+[fetch](../sq/js/fetch.md) : Funksioni i mjetit të kërkesës së rrjetit bazuar në kapsulimin e marrjes
+[fetchLang](../sq/js/fetchLang.md) : Ngarkoni në mënyrë asinkron paketat e gjuhëve dhe lidhni thirrjet kthyese të përditësimeve
+[hashActive](../sq/js/hashActive.md) : Theksimi i lidhjes së navigimit bazuar në ankorat e URL-së dhe lëvizjen e portit të pamjes
+[i18n](../sq/js/i18n.md) : Menaxhimi i statusit në shumë gjuhë dhe monitorimi i ndryshimeve
+[i18n/init](../sq/js/i18n/init.md) : Konfigurimi dhe ngarkimi i inicializimit shumë-gjuhësh
+[i18n/store](../sq/js/i18n/store.md) : Menaxhimi lokal shumëgjuhësh i ruajtjes
+[icoTip](../sq/js/icoTip.md) : Përcaktoni dhe regjistroni një komponent ikonë me sugjerime ndërkombëtarizimi
+[md/htm](../sq/js/md/htm.md) : Shënoni tekstin në vargun HTML
+[md/safeHtm](../sq/js/md/safeHtm.md) : Shënoni tekstin në HTML të sigurt
+[md/streamRender](../sq/js/md/streamRender.md) : Transmetimi i transmetimit Markdown
+[parentScroll](../sq/js/parentScroll.md) : Merrni elementin e kontejnerit të rrotullës paraardhëse
+[rmWait](../sq/js/rmWait.md)
+[route](../sq/js/route.md) : Menaxhimi i rrugëtimit me një faqe të përparme

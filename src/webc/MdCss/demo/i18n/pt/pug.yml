@@ -1,0 +1,38 @@
+basicTitle: Estilo básico
+bold: Audacioso
+italic: itálico
+del: tachado
+inlineCode: código embutido
+linkPrefix: Há texto antes e depois do link, como
+link: Site oficial das Nações Unidas
+linkSuffix: é um link.
+quoteSingle: Esta é uma citação de uma única linha.
+quoteMultiLine1: Esta é uma cotação multilinha.
+quoteMultiLine2: Um efeito visual para exibir referências multilinhas.
+note: Mensagens e notas gerais
+tip: Dicas e dicas úteis
+important: Dicas e preocupações importantes
+warning: Avisos e precauções de risco
+caution: AVISO DE PERIGO E RISCO EXTREMO
+listTitle: Citações e listas
+taskTitle: lista de tarefas
+todoItem: Esta é uma tarefa CSS inacabada
+doneItem: Esta é uma tarefa CSS concluída
+ulItem1: Primeiro item não ordenado
+ulSubItem1: Subitem um não ordenado
+ulSubItem2: Subitem dois não ordenado
+ulItem2: Segundo item não ordenado
+olItem1: Primeiro item pedido
+olSubItem1: Item pedido um
+olSubItem2: Subitem pedido dois
+olItem2: Segundo mandato ordenado
+tableTitle: folha
+col1: projeto
+col2: estado
+col3: pontuação
+row1Col1: estático
+row1Col2: Concluído
+row2Col1: transmissão
+row2Col2: Renderização
+codeTitle: bloco de código
+imageTitle: foto

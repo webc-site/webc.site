@@ -1,0 +1,33 @@
+main.demo.Lg
+  align-items flex-start
+  box-sizing border-box
+  display flex
+  flex-direction row
+  gap 24px
+  max-width 1300px
+  margin 0 20px
+  padding 24px
+  align-self center
+
+  c-toc
+    top 24px
+    width 350px
+
+    @media (max-width 1150px)
+      width 280px
+
+    @media (max-width 1000px)
+      width 220px
+
+    @media (max-width 900px)
+      width 0
+      height 0
+      padding 0
+      border 0
+      box-shadow none
+      background transparent
+
+  c-md
+    flex 1
+    min-height 200px
+    min-width 0

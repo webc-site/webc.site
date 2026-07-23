@@ -1,0 +1,46 @@
+open: Odpri stransko vrstico
+userName: Geek Walker
+userTitle: Višji spletni oblikovalec
+statFollowers: Naročnik
+statFollowing: osredotočiti se na
+statProjects: projekt
+groupCore: Osnovne funkcije
+groupSystem: Upravljanje sistema
+groupData: analiza podatkov
+groupCollaboration: Timsko delo
+widgetTitle: Poraba prostora za shranjevanje
+widgetTasks: Moja opravila
+task1: Popolni interaktivni razvoj Side
+task2: Vizualna estetika Design Liquid
+task3: Optimizirajte uporabnost komponent in podrobnosti
+navHome: Domača stran nadzorne plošče
+navProfile: Osebni center
+navSettings: Sistemske nastavitve
+navMessages: Novice na spletnem mestu
+navNotifications: Opomnik za obvestila
+navPrivacy: Zasebnost in varnost
+navHelp: Pomoč in povratne informacije
+navAnalytics: poročilo o analizi
+navCloud: Prostor za shranjevanje v oblaku
+navTeam: član ekipe
+navTasks: Usklajevanje nalog
+logout: Odjava
+upgradeTitle: Nadgradite na Professional Edition
+upgradeDesc: Odklenite neomejeno shranjevanje v oblaku in napredno sodelovanje
+upgradeBtn: Nadgradi zdaj
+task4: Preglejte PR zaveze in združite veje
+task5: Napišite dnevnik izdaje nove različice WebC
+widgetOnline: Člani spletne ekipe
+member1: Lisa
+member2: david
+member3: Anna
+statusOnline: na spletu
+statusOffline: Brez povezave
+statusBusy: zaseden
+widgetFiles: nedavne datoteke
+file1: Specifikacija zasnove izdelka v2.4.pdf
+file2: Osnutek načrta za tretje četrtletje 2026.docx
+file3: Predstavitev animacije komponente.mp4
+tagDesign: oblikovanje
+tagDev: razvijati
+tagPm: izdelek

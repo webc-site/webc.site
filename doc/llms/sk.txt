@@ -1,0 +1,51 @@
+[BoxX](../../src/webc/BoxX/i18n/sk/README.md) : Vytvorte a zobrazte vyskakovaciu vrstvu pomocou tlačidla Zavrieť
+[Code](../../src/webc/Code/i18n/sk/README.md) : kódové tlačidlo
+[Copy](../../src/webc/Copy/i18n/sk/README.md) : Skopírujte text do schránky
+[Edit](../../src/webc/Edit/i18n/sk/README.md) : tlačidlo upraviť
+[HtmDemo](../../src/webc/HtmDemo/i18n/sk/README.md) : Ladenie HTML a JS kódu online
+[I18n](../../src/webc/I18n/i18n/sk/README.md) : Tlačidlá a kontextové okná na prepínanie jazykov rozhrania
+[MdStream](../../src/webc/MdStream/i18n/sk/README.md) : Streamovanie vykresľovania textu Markdown
+[Nav](../../src/webc/Nav/i18n/sk/README.md) : Horný navigačný panel, ktorý sa pri posúvaní stránky automaticky zbalí alebo rozbalí
+[NavL](../../src/webc/NavL/i18n/sk/README.md) : Automaticky prepína navigačné menu a tlačidlo návratu
+[NavMenu](../../src/webc/NavMenu/i18n/sk/README.md) : Navigačné menu prispôsobené rôznym veľkostiam obrazovky
+[SelectBtn](../../src/webc/SelectBtn/i18n/sk/README.md) : Kombinácia rozbaľovacieho poľa výberu a tlačidla
+[Side](../../src/webc/Side/i18n/sk/README.md) : Panely zásuviek, ktoré sa vysúvajú z boku
+[TabSelect](../../src/webc/TabSelect/i18n/sk/README.md) : Karta s rozbaľovacím výberom
+[Toc](../../src/webc/Toc/i18n/sk/README.md) : Komponent navigácie v adresári
+[Btn](../../src/webc/Btn/i18n/sk/README.md) : Obyčajné tlačidlo a tlačidlo s okrúhlou ikonou
+[Card](../../src/webc/Card/i18n/sk/README.md) : Karta s kapsulou so šípkou doprava zobrazenou v závese
+[H1Txt](../../src/webc/H1Txt/i18n/sk/README.md) : Názov a popis textúry
+[Ing](../../src/webc/Ing/i18n/sk/README.md) : Indikátor stavu načítania alebo spracovania
+[Input](../../src/webc/Input/i18n/sk/README.md) : Vstupné pole, ktoré automaticky prepína stav zástupného symbolu
+[Kv](../../src/webc/Kv/i18n/sk/README.md) : pár kľúč-hodnota
+[Lg](../../src/webc/Lg/i18n/sk/README.md) : Pozadie z matného skla a efekt zvýraznenia okrajov
+[MdCss](../../src/webc/MdCss/i18n/sk/README.md) : Typografické štýly optimalizované pre zážitok z čítania
+[NavALi](../../src/webc/NavALi/i18n/sk/README.md) : Štýl zoznamu odkazov navigačného panela
+[O](../../src/webc/O/i18n/sk/README.md) : Pred prvok nakreslite logo s dutou bodkou
+[Toast](../../src/webc/Toast/i18n/sk/README.md) : Vyskakovacie okno na okraji stránky
+[404](../../src/webc/404/i18n/sk/README.md) : Stránka s chybovou správou cesta neexistuje
+[Back](../../src/webc/Back/i18n/sk/README.md) : tlačidlo späť
+[Box](../../src/webc/Box/i18n/sk/README.md) : Vytvorte a zobrazte vyskakovaciu vrstvu
+[CardLi](../../src/webc/CardLi/i18n/sk/README.md) : Načítať a zobraziť zoznam kariet asynchrónne
+[Md](../../src/webc/Md/i18n/sk/README.md) : Bezpečne analyzujte a vykresľte text Markdown do HTML.
+[Pophover](../../src/webc/Pophover/i18n/sk/README.md) : výzva plávajúca bublina
+[Scroll](../../src/webc/Scroll/i18n/sk/README.md) : virtuálny posúvač
+[Select](../../src/webc/Select/i18n/sk/README.md) : Rozbaľovací výber, šírka sa prispôsobí aktuálnej položke
+[Tab](../../src/webc/Tab/i18n/sk/README.md) : Prepínateľné karty
+[On](../sk/js/On.md) : Monitorovanie udalostí dávkového viazania
+[a](../sk/js/a.md) : Globálne zachytávajte udalosti kliknutia na odkazy
+[dom](../sk/js/dom.md) : Skratky premenných dokumentov a funkcie skratiek
+[dom/header](../sk/js/dom/header.md) : Vytvorte štruktúru DOM hlavičky lišty
+[fetch](../sk/js/fetch.md) : Funkcia nástroja sieťových požiadaviek založená na zapuzdrení načítania
+[fetchLang](../sk/js/fetchLang.md) : Asynchrónne načítavanie jazykových balíkov a viazanie spätných volaní aktualizácie
+[hashActive](../sk/js/hashActive.md) : Zvýraznenie navigačného odkazu na základe ukotvenia adresy URL a posúvania zobrazenej oblasti
+[i18n](../sk/js/i18n.md) : Viacjazyčná správa stavu a monitorovanie zmien
+[i18n/init](../sk/js/i18n/init.md) : Viacjazyčná inicializačná konfigurácia a načítanie
+[i18n/store](../sk/js/i18n/store.md) : Viacjazyčná správa lokálneho úložiska
+[icoTip](../sk/js/icoTip.md) : Definujte a zaregistrujte komponent ikony s internacionalizačnými radami
+[md/htm](../sk/js/md/htm.md) : Označenie textu na reťazec HTML
+[md/safeHtm](../sk/js/md/safeHtm.md) : Označenie textu na bezpečný HTML
+[md/streamRender](../sk/js/md/streamRender.md) : Vykresľovanie streamovania Markdown
+[parentScroll](../sk/js/parentScroll.md) : Získajte prvok kontajnera rolovania predkov
+[rmWait](../sk/js/rmWait.md)
+[route](../sk/js/route.md) : Správa front-end smerovania na jednej stránke

@@ -1,0 +1,60 @@
+mdContent: |
+  # Markdown sunum belgesi
+  Bu bir **statik oluşturma** gösterimidir.
+  ## Temel stil
+  - **Kalın** ve *İtalik*
+  - ~~üstü çizili~~
+  - `inline_code` satır içi kod
+  - [Birleşmiş Milletler resmi web sitesi](https://un.org) Bağlantı gösterimi
+  ## Alıntılar ve Listeler
+  > Bu tek satırlık bir alıntıdır.
+
+  > Bu çok satırlı bir alıntıdır.
+  > Çok satırlı referansları görüntülemek için görsel bir efekt.
+
+  - Sıralanmamış ilk öğe
+    - Sırasız alt öğe bir
+    - Sırasız alt öğe iki
+  - Sıralanmamış ikinci öğe
+
+  > [!NOTE]
+  > `> [!NOTE]` Genel mesajlar ve notlar
+
+  > [!TIP]
+  > `> [!TIP]` İpuçları ve faydalı ipuçları
+
+  > [!IMPORTANT]
+  > `> [!IMPORTANT]` Önemli ipuçları ve endişeler
+
+  > [!WARNING]
+  > `> [!WARNING]` Risk Uyarıları ve Notları
+
+  > [!CAUTION]
+  > `> [!CAUTION]` TEHLİKE VE AŞIRI RİSK UYARISI
+
+  ---
+
+  ## görev listesi
+  - [ ] Bu tamamlanmamış bir görev listesidir
+  - [x] Bu tamamlanmış bir liste görevidir
+  - [X] Bu tamamlanmış bir liste görevidir (büyük X)
+
+  ---
+
+  1. İlk ürünü sipariş ettim
+     1. Birinci öğeyi sipariş ettim
+     2. İkinci alt öğeyi sipariş ettim
+  2. İkinci dönem sipariş edildi
+  ## çarşaf
+  | proje | durum | Gol |
+  | :--- | :---: | ---: |
+  | statik | Tamamlanmış | 100 |
+  | akış | İşleme | 95 |
+  ## kod bloğu
+  ```js
+  const hello = () => {
+    console.log("Hello, WebC!");
+  };
+  ```
+  ## resim
+  ![Demo resmi](https://i-01.eu.org/demo-green.avif)

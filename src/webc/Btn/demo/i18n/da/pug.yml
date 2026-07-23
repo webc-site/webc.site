@@ -1,0 +1,4 @@
+default: Standard knap
+main: hovedknap
+link: link-knap
+icon: Ikonknap (.BtnC)

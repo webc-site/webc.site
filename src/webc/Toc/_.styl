@@ -1,0 +1,211 @@
+.BtnC.TocBtn
+  display none
+  flex-shrink 0
+  margin-left 12px
+
+  .Ico
+    background-image url('./svg/toc.svg')
+
+c-toc
+  backdrop-filter blur(8px)
+  background #ffffff59
+  border 1px solid #fff9
+  border-radius 16px
+  box-shadow 0 4px 24px #0000000a
+  box-sizing border-box
+  display flex
+  flex-direction column
+  flex-shrink 0
+  gap 4px
+  padding 8px
+  position sticky
+
+  @media (min-width 901px)
+    c-side
+      position static
+      visibility visible
+      height 100%
+      width 100%
+      z-index auto
+
+      .In
+        position static
+        width 100%
+        max-width 100%
+        height 100%
+        background transparent
+        transform none !important
+        box-shadow none
+
+  @media (max-width 900px)
+    position static
+    backdrop-filter none
+    background transparent
+    border none
+    box-shadow none
+    width 0
+    height 0
+    padding 0
+
+    .BtnC.TocBtn
+      display flex
+
+    c-side .In
+      border-left 1px solid #00000014
+      box-shadow -4px 0 20px #0000000d
+      padding 16px 8px
+
+c-vs
+  display flex
+  flex-direction column
+  gap 2px
+  flex 1
+  min-height 0
+  height 100%
+
+  > a
+    position relative
+    display flex
+    align-items center
+    justify-content space-between
+    padding 6px 14px
+    border-radius 8px
+    color #444
+    font-size 14px
+    font-weight 500
+    text-decoration none
+    cursor pointer
+    transition background 0.15s, color 0.15s
+
+    &:hover
+      color #000
+      background #0000000d
+
+    &::after
+      content ""
+      width 12px
+      height 12px
+      margin-left 6px
+      background url('./svg/arrow.svg') no-repeat center / contain
+      transform rotate(-90deg)
+      opacity 0.3
+      transition transform 0.2s, opacity 0.2s
+
+    &.A, &:has(+ .sub)
+      color #000
+      font-weight 600
+
+      &::after
+        transform rotate(0deg)
+        opacity 0.8
+
+    &.Ing
+      min-width auto
+      min-height auto
+
+      &::after
+        background url('./svg/ing.svg') no-repeat center / contain
+        transform rotate(0deg)
+        opacity 1
+
+    &.A::before
+      content ""
+      position absolute
+      left 3px
+      top 50%
+      transform translateY(-50%)
+      width 2px
+      height 14px
+      background #000
+      border-radius 1px
+
+.sub
+  position relative
+  display flex
+  flex-direction column
+  gap 1px
+  margin 2px 0 4px 0
+
+  a
+    position relative
+    display flex
+    align-items center
+    padding 4px 14px
+    border-radius 6px
+    color #666
+    font-size 13px
+    line-height 1.4
+    text-decoration none
+    cursor pointer
+    transition color 0.15s, background 0.15s
+
+    &:hover
+      color #000
+      background #0000000a
+
+    &.A
+      color #000
+      font-weight 600
+
+      &::before
+        content ""
+        position absolute
+        left 3px
+        top 50%
+        transform translateY(-50%)
+        width 2px
+        height 14px
+        background #000
+        border-radius 1px
+
+    &.h1
+      color #222
+      font-weight 600
+      padding-left 14px
+      margin-top 1px
+
+    &.h2
+      padding-left 14px
+
+    &.h3
+      padding-left 24px
+      font-size 12.5px
+
+    &.h4
+      padding-left 34px
+      font-size 12px
+
+    &.h5
+      padding-left 44px
+      font-size 11.5px
+
+    &.h6
+      padding-left 54px
+      font-size 11px
+
+@media (max-width 900px)
+  c-md h1, .Md h1
+    text-align left
+    display flex
+    align-items center
+    justify-content space-between
+    position sticky
+    z-index 10100
+    box-sizing border-box
+    transition top 0.3s, margin 0.3s, padding 0.3s, border-radius 0.3s
+
+    &.D, &.I
+      top 10px
+      padding 5px 12px 5px 20px
+      border-radius 12px
+      background linear-gradient(135deg, #ffffffd9, #ffffffa6)
+      backdrop-filter blur(6px)
+      border 1px solid #ffffff80
+      width calc(100% - 22px)
+      box-shadow 0 4px 16px #0000000d, inset 0 0 0 1px #ffffff4d
+
+    .BtnC.TocBtn
+      display flex
+
+  :has(> c-side.open), :has(c-side.open)
+    z-index 11000
