@@ -1,0 +1,46 @@
+open: Buka bilah sisi
+userName: Geek Walker
+userTitle: Desainer web senior
+statFollowers: Pelanggan
+statFollowing: fokus pada
+statProjects: proyek
+groupCore: Fungsi inti
+groupSystem: Manajemen sistem
+groupData: analisis data
+groupCollaboration: Kerja sama
+widgetTitle: Penggunaan ruang penyimpanan
+widgetTasks: Tugas saya yang harus dilakukan
+task1: Pengembangan interaktif Sisi Lengkap
+task2: Desain Estetika visual yang cair
+task3: Optimalkan kegunaan dan detail komponen
+navHome: Halaman Beranda Dasbor
+navProfile: Pusat Pribadi
+navSettings: Pengaturan sistem
+navMessages: Berita situs
+navNotifications: Pengingat pemberitahuan
+navPrivacy: Privasi dan keamanan
+navHelp: Bantuan dan umpan balik
+navAnalytics: laporan analisis
+navCloud: Ruang penyimpanan awan
+navTeam: anggota tim
+navTasks: Koordinasi tugas
+logout: Keluar
+upgradeTitle: Tingkatkan ke Edisi Profesional
+upgradeDesc: Buka penyimpanan cloud tanpa batas dan kolaborasi tingkat lanjut
+upgradeBtn: Tingkatkan sekarang
+task4: Tinjau komitmen PR dan gabungkan cabang
+task5: Tulis log rilis versi baru WebC
+widgetOnline: Anggota tim daring
+member1: Lisa
+member2: david
+member3: Anna
+statusOnline: on line
+statusOffline: Luring
+statusBusy: Sibuk
+widgetFiles: file terbaru
+file1: Spesifikasi Desain Produk v2.4.pdf
+file2: Draf Rencana Kuartal 3 2026.docx
+file3: Demonstrasi animasi komponen.mp4
+tagDesign: desain
+tagDev: mengembangkan
+tagPm: produk

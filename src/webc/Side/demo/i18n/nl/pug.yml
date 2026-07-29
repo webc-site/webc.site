@@ -1,0 +1,46 @@
+open: Zijbalk openen
+userName: Geek Walker
+userTitle: Senior webdesigner
+statFollowers: Abonnee
+statFollowing: focus op
+statProjects: project
+groupCore: Kernfuncties
+groupSystem: Systeembeheer
+groupData: data-analyse
+groupCollaboration: Teamwerk
+widgetTitle: Gebruik van opslagruimte
+widgetTasks: Mijn to-do-taken
+task1: Volledige interactieve Side-ontwikkeling
+task2: Ontwerp Vloeibare visuele esthetiek
+task3: Optimaliseer de bruikbaarheid en details van componenten
+navHome: Dashboard-startpagina
+navProfile: Persoonlijk centrum
+navSettings: Systeeminstellingen
+navMessages: Site-nieuws
+navNotifications: Kennisgeving herinnering
+navPrivacy: Privacy en veiligheid
+navHelp: Hulp en feedback
+navAnalytics: analyse rapport
+navCloud: Cloud-opslagruimte
+navTeam: teamlid
+navTasks: Coördinatie van taken
+logout: Uitloggen
+upgradeTitle: Upgrade naar de professionele editie
+upgradeDesc: Ontgrendel onbeperkte cloudopslag en geavanceerde samenwerking
+upgradeBtn: Upgrade nu
+task4: Beoordeel PR-commits en voeg branches samen
+task5: Schrijf een nieuwe versie-releaselogboek van WebC
+widgetOnline: Online teamleden
+member1: Lisa
+member2: David
+member3: Anna
+statusOnline: online
+statusOffline: Offline
+statusBusy: Druk bezig
+widgetFiles: recente bestanden
+file1: Productontwerpspecificatie v2.4.pdf
+file2: Conceptplan 3e kwartaal 2026.docx
+file3: Component animatie demonstratie.mp4
+tagDesign: ontwerp
+tagDev: ontwikkelen
+tagPm: product

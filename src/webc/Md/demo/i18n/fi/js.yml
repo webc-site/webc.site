@@ -1,0 +1,60 @@
+mdContent: |
+  # Markdown-esitysasiakirja
+  Tämä on **staattisen renderoinnin** esittely.
+  ## Perustyyli
+  - **Lihavoitu** ja *kursivoitu*
+  - ~~yliviivaus~~
+  - `inline_code` sisäinen koodi
+  - [Yhdistyneiden kansakuntien virallinen verkkosivusto](https://un.org) Linkin esittely
+  ## Lainaukset ja listat
+  > Tämä on yksirivinen lainaus.
+
+  > Tämä on monirivinen lainaus.
+  > Visuaalinen tehoste monirivisten viitteiden näyttämiseen.
+
+  - Tilaamaton ensimmäinen tuote
+    - Tilaamaton alakohta yksi
+    - Tilaamaton alakohta kaksi
+  - Tilaamaton toinen tuote
+
+  > [!NOTE]
+  > `> [!NOTE]` Yleiset viestit ja huomautukset
+
+  > [!TIP]
+  > `> [!TIP]` Vinkkejä ja hyödyllisiä vinkkejä
+
+  > [!IMPORTANT]
+  > `> [!IMPORTANT]` Tärkeitä vinkkejä ja huolenaiheita
+
+  > [!WARNING]
+  > `> [!WARNING]` Riskivaroitukset ja huomautukset
+
+  > [!CAUTION]
+  > `> [!CAUTION]` VAARA JA ÄÄRIMMÄISET RISKIT
+
+  ---
+
+  ## tehtävälista
+  - [ ] Tämä on keskeneräinen luettelo tehtävistä
+  - [x] Tämä on suoritettu luettelotehtävä
+  - [X] Tämä on suoritettu luettelotehtävä (iso X)
+
+  ---
+
+  1. Ensimmäinen tilattu tuote
+     1. Tilattu tuote yksi
+     2. Tilattu alakohta kaksi
+  2. Tilattu toiselle kaudelle
+  ## arkki
+  | hanke | osavaltio | pisteet |
+  | :--- | :---: | ---: |
+  | staattinen | Valmis | 100 |
+  | suoratoisto | Renderöinti | 95 |
+  ## koodilohko
+  ```js
+  const hello = () => {
+    console.log("Hello, WebC!");
+  };
+  ```
+  ## kuva
+  ![Demo kuva](https://i-01.eu.org/demo-green.avif)

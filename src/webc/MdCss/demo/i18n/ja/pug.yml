@@ -1,0 +1,38 @@
+basicTitle: ベーシックスタイル
+bold: 大胆な
+italic: イタリック体
+del: 取り消し線
+inlineCode: インラインコード
+linkPrefix: リンクの前後に次のようなテキストがあります。
+link: 国連公式ウェブサイト
+linkSuffix: リンクです。
+quoteSingle: これは 1 行の引用です。
+quoteMultiLine1: これは複数行の引用です。
+quoteMultiLine2: 複数行の参照を表示するための視覚効果。
+note: 一般的なメッセージと注意事項
+tip: ヒントと役立つヒント
+important: 重要なヒントと懸念事項
+warning: リスクの警告と予防措置
+caution: 危険および極度のリスクに関する警告
+listTitle: 引用とリスト
+taskTitle: タスクリスト
+todoItem: これは未完了の CSS タスクです
+doneItem: これで CSS タスクは完了です
+ulItem1: 注文されていない最初のアイテム
+ulSubItem1: 順序付けされていないサブ項目 1
+ulSubItem2: 順序のない副項目 2
+ulItem2: 注文されていない 2 番目の項目
+olItem1: 最初に注文した商品
+olSubItem1: 注文した商品その１
+olSubItem2: 注文されたサブアイテム 2
+olItem2: 第二期を発注しました
+tableTitle: シート
+col1: プロジェクト
+col2: 州
+col3: スコア
+row1Col1: 静的
+row1Col2: 完了しました
+row2Col1: ストリーミング
+row2Col2: レンダリング
+codeTitle: コードブロック
+imageTitle: 写真

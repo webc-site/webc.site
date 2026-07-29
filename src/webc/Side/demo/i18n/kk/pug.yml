@@ -1,0 +1,46 @@
+open: Бүйірлік тақтаны ашыңыз
+userName: Гек Уокер
+userTitle: Аға веб-дизайнер
+statFollowers: Жазылушы
+statFollowing: жұмылдыру
+statProjects: жоба
+groupCore: Негізгі функциялар
+groupSystem: Жүйені басқару
+groupData: деректерді талдау
+groupCollaboration: Топтық жұмыс
+widgetTitle: Сақтау кеңістігін пайдалану
+widgetTasks: Менің орындайтын тапсырмаларым
+task1: Side интерактивті дамуын аяқтаңыз
+task2: Дизайн Сұйық визуалды эстетика
+task3: Компоненттің қолайлылығы мен мәліметтерін оңтайландыру
+navHome: Бақылау тақтасының негізгі беті
+navProfile: Жеке орталық
+navSettings: Жүйе параметрлері
+navMessages: Сайт жаңалықтары
+navNotifications: Еске салғыш
+navPrivacy: Құпиялылық және қауіпсіздік
+navHelp: Анықтама және кері байланыс
+navAnalytics: талдау есебі
+navCloud: Бұлтты сақтау орны
+navTeam: команда мүшесі
+navTasks: Тапсырманы үйлестіру
+logout: Шығу
+upgradeTitle: Кәсіби басылымға жаңартыңыз
+upgradeDesc: Шексіз бұлтты сақтау және кеңейтілген ынтымақтастық құлпын ашыңыз
+upgradeBtn: Қазір жаңартыңыз
+task4: PR міндеттемелерін қарап шығыңыз және филиалдарды біріктіріңіз
+task5: WebC жаңа нұсқасын шығару журналын жазыңыз
+widgetOnline: Онлайн топ мүшелері
+member1: Лиза
+member2: Дэвид
+member3: Анна
+statusOnline: онлайн
+statusOffline: Офлайн
+statusBusy: Бос емес
+widgetFiles: соңғы файлдар
+file1: Өнім дизайнының сипаттамасы v2.4.pdf
+file2: 2026 3-тоқсан Жоспар жобасы.docx
+file3: Компоненттік анимация көрсетілімі.mp4
+tagDesign: дизайн
+tagDev: дамыту
+tagPm: өнім

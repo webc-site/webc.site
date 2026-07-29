@@ -1,0 +1,46 @@
+open: Avaa sivupalkki
+userName: Geek Walker
+userTitle: Vanhempi web-suunnittelija
+statFollowers: Tilaaja
+statFollowing: keskittyä
+statProjects: hanke
+groupCore: Ydintoiminnot
+groupSystem: Järjestelmän hallinta
+groupData: tietojen analysointi
+groupCollaboration: Ryhmätyö
+widgetTitle: Varastointitilan käyttö
+widgetTasks: Minun tehtäväni
+task1: Täydellinen Side interaktiivinen kehitys
+task2: Suunnittelu Nestemäistä visuaalista estetiikkaa
+task3: Optimoi komponenttien käytettävyys ja yksityiskohdat
+navHome: Kojelaudan kotisivu
+navProfile: Henkilökohtainen keskus
+navSettings: Järjestelmäasetukset
+navMessages: Sivuston uutiset
+navNotifications: Ilmoitusmuistutus
+navPrivacy: Yksityisyys ja turvallisuus
+navHelp: Apua ja palautetta
+navAnalytics: analyysiraportti
+navCloud: Pilvitallennustilaa
+navTeam: tiimin jäsen
+navTasks: Tehtävän koordinointi
+logout: Kirjaudu ulos
+upgradeTitle: Päivitä Professional Editioniin
+upgradeDesc: Avaa rajoittamaton pilvitallennustila ja edistynyt yhteistyö
+upgradeBtn: Päivitä nyt
+task4: Tarkista PR-sitoumukset ja yhdistä haarat
+task5: Kirjoita WebC:n uuden version julkaisuloki
+widgetOnline: Online tiimin jäsenet
+member1: Lisa
+member2: David
+member3: Anna
+statusOnline: verkossa
+statusOffline: Offline-tilassa
+statusBusy: Kiireinen
+widgetFiles: viimeisimmät tiedostot
+file1: Tuotesuunnittelun erittely v2.4.pdf
+file2: 2026 Q3 Plan Plan.docx
+file3: Komponenttianimaatio demonstraatio.mp4
+tagDesign: design
+tagDev: kehittää
+tagPm: tuote

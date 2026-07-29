@@ -1,0 +1,10 @@
+/*.png
+.codegraph/
+.cursor/
+node_modules/
+
+/.agents/skills
+/.agents/doc
+/AGENTS.md
+/dist/
+/src/_/ls/

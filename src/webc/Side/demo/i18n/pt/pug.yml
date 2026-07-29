@@ -1,0 +1,46 @@
+open: Abrir barra lateral
+userName: Geek Walker
+userTitle: Web designer sênior
+statFollowers: Assinante
+statFollowing: focar em
+statProjects: projeto
+groupCore: Funções principais
+groupSystem: Gerenciamento do sistema
+groupData: análise de dados
+groupCollaboration: Trabalho em equipe
+widgetTitle: Uso de espaço de armazenamento
+widgetTasks: Minhas tarefas pendentes
+task1: Desenvolvimento interativo completo do Side
+task2: Design Estética visual líquida
+task3: Otimize a usabilidade e os detalhes dos componentes
+navHome: Página inicial do painel
+navProfile: Centro Pessoal
+navSettings: Configurações do sistema
+navMessages: Notícias do site
+navNotifications: Lembrete de notificação
+navPrivacy: Privacidade e segurança
+navHelp: Ajuda e comentários
+navAnalytics: relatório de análise
+navCloud: Espaço de armazenamento em nuvem
+navTeam: membro da equipe
+navTasks: Coordenação de tarefas
+logout: Sair
+upgradeTitle: Atualize para a Edição Profissional
+upgradeDesc: Desbloqueie armazenamento ilimitado na nuvem e colaboração avançada
+upgradeBtn: Atualize agora
+task4: Revise os commits de PR e mescle filiais
+task5: Escreva um log de lançamento de nova versão do WebC
+widgetOnline: Membros da equipe on-line
+member1: Lisa
+member2: Davi
+member3: Ana
+statusOnline: on-line
+statusOffline: Off-line
+statusBusy: Ocupado
+widgetFiles: arquivos recentes
+file1: Especificação de design de produto v2.4.pdf
+file2: Plano preliminar do terceiro trimestre de 2026.docx
+file3: Demonstração de animação de componente.mp4
+tagDesign: projeto
+tagDev: desenvolver
+tagPm: produto

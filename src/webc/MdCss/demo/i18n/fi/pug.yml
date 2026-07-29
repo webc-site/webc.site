@@ -1,0 +1,38 @@
+basicTitle: Perustyyli
+bold: Lihavoitu
+italic: kursivoitu
+del: yliviivattu
+inlineCode: sisäinen koodi
+linkPrefix: Ennen ja jälkeen linkin on tekstiä, esim
+link: Yhdistyneiden kansakuntien virallinen verkkosivusto
+linkSuffix: on linkki.
+quoteSingle: Tämä on yksirivinen lainaus.
+quoteMultiLine1: Tämä on monirivinen lainaus.
+quoteMultiLine2: Visuaalinen tehoste monirivisten viitteiden näyttämiseen.
+note: Yleisiä viestejä ja huomautuksia
+tip: Vinkkejä ja hyödyllisiä vinkkejä
+important: Tärkeitä vinkkejä ja huolenaiheita
+warning: Riskivaroitukset ja varotoimet
+caution: VAARA JA ÄÄRIMMÄISEN RISKIEN VAROITUS
+listTitle: Lainaukset ja listat
+taskTitle: tehtävälista
+todoItem: Tämä on keskeneräinen CSS-tehtävä
+doneItem: Tämä on suoritettu CSS-tehtävä
+ulItem1: Tilaamaton ensimmäinen tuote
+ulSubItem1: Tilaamaton alakohta yksi
+ulSubItem2: Tilaamaton alakohta kaksi
+ulItem2: Tilaamaton toinen tuote
+olItem1: Ensimmäinen tilattu tuote
+olSubItem1: Tilattu tuote yksi
+olSubItem2: Tilattu alakohta kaksi
+olItem2: Tilattu toiselle kaudelle
+tableTitle: arkki
+col1: hanke
+col2: osavaltio
+col3: pisteet
+row1Col1: staattinen
+row1Col2: Valmis
+row2Col1: suoratoisto
+row2Col2: Renderöinti
+codeTitle: koodilohko
+imageTitle: kuva

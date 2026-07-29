@@ -1,0 +1,38 @@
+basicTitle: Arddull sylfaenol
+bold: Beiddgar
+italic: italig
+del: streic
+inlineCode: cod mewn-lein
+linkPrefix: Mae testun cyn ac ar ôl y ddolen, megis
+link: Gwefan swyddogol y Cenhedloedd Unedig
+linkSuffix: yn ddolen.
+quoteSingle: Dyfyniad un llinell yw hwn.
+quoteMultiLine1: Mae hwn yn ddyfyniad aml-linell.
+quoteMultiLine2: Effaith weledol ar gyfer arddangos cyfeiriadau aml-linell.
+note: Negeseuon cyffredinol a nodiadau
+tip: Syniadau ac awgrymiadau defnyddiol
+important: Awgrymiadau a phryderon pwysig
+warning: Rhybuddion risg a rhagofalon
+caution: RHYBUDD PERYGL A RISG EITHAFOL
+listTitle: Dyfyniadau a Rhestrau
+taskTitle: rhestr tasgau
+todoItem: Tasg CSS anorffenedig yw hon
+doneItem: Mae hon yn dasg CSS wedi'i chwblhau
+ulItem1: Eitem gyntaf heb ei threfnu
+ulSubItem1: Is-eitem un heb ei drefnu
+ulSubItem2: Is-eitem dau heb ei threfnu
+ulItem2: Ail eitem heb ei threfnu
+olItem1: Eitem gyntaf wedi'i harchebu
+olSubItem1: Eitem un wedi'i harchebu
+olSubItem2: Archebwyd subitem dau
+olItem2: Archebwyd ail dymor
+tableTitle: dalen
+col1: prosiect
+col2: gwladwriaeth
+col3: sgôr
+row1Col1: statig
+row1Col2: Cwblhawyd
+row2Col1: ffrydio
+row2Col2: Rendro
+codeTitle: bloc cod
+imageTitle: llun

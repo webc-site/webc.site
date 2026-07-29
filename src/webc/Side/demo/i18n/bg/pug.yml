@@ -1,0 +1,46 @@
+open: Отворете страничната лента
+userName: Geek Walker
+userTitle: Старши уеб дизайнер
+statFollowers: Абонат
+statFollowing: фокусирайте се върху
+statProjects: проект
+groupCore: Основни функции
+groupSystem: Управление на системата
+groupData: анализ на данни
+groupCollaboration: Работа в екип
+widgetTitle: Използване на място за съхранение
+widgetTasks: Моите задачи за вършене
+task1: Пълна интерактивна разработка на Side
+task2: Дизайн Течна визуална естетика
+task3: Оптимизирайте използваемостта и детайлите на компонентите
+navHome: Начална страница на таблото за управление
+navProfile: Личен център
+navSettings: Системни настройки
+navMessages: Новини на сайта
+navNotifications: Напомняне за известия
+navPrivacy: Поверителност и сигурност
+navHelp: Помощ и обратна връзка
+navAnalytics: доклад за анализ
+navCloud: Облачно място за съхранение
+navTeam: член на екипа
+navTasks: Координация на задачите
+logout: Излезте
+upgradeTitle: Надстройте до професионално издание
+upgradeDesc: Отключете неограничено облачно хранилище и разширено сътрудничество
+upgradeBtn: Надстройте сега
+task4: Прегледайте PR ангажиментите и обединете клонове
+task5: Напишете нов журнал за издаване на версия на WebC
+widgetOnline: Онлайн членове на екипа
+member1: Лиза
+member2: Дейвид
+member3: Анна
+statusOnline: онлайн
+statusOffline: Офлайн
+statusBusy: зает
+widgetFiles: скорошни файлове
+file1: Спецификация на дизайна на продукта v2.4.pdf
+file2: 2026 Q3 Проект на план.docx
+file3: Демонстрация на компонентна анимация.mp4
+tagDesign: дизайн
+tagDev: развиват се
+tagPm: продукт

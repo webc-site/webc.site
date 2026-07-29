@@ -1,0 +1,7 @@
+desc: Bestem og skift automatisk for at vise navigationsmenuen eller tilbage-knappen baseret på den aktuelle rute
+desktop_title: Skrivebordsskærm
+desktop_desc: Når du er i den erklærede menurute, skal du vise menupunkterne; ellers skal du vise tilbage-knappen
+mobile_title: Mobil skærm
+mobile_desc: Når du er i den erklærede menurute, falder den sammen til en ikonknap og understøtter at glide ud af menuen; ellers viser en tilbage-knap
+normal_state: Navigationsstatus (c-nav-menu)
+back_state: Fallback-status (c-back)

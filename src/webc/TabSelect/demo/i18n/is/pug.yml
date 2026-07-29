@@ -1,0 +1,9 @@
+language: tungumál
+os: kerfi
+about: um
+jsInfo: JavaScript er forskriftarmál sem er mikið notað í vefþróun viðskiptavinar.
+rsInfo: Rust er kerfisforritunarmál með áherslu á öryggi, hraða og samhliða.
+pyInfo: Python er hlutbundið, túlkað tölvuforritunarmál.
+macInfo: macOS er Unix byggt grafískt stýrikerfi þróað af Apple.
+winInfo: Windows er mikið notað einkatölvustýrikerfi þróað af Microsoft Corporation.
+aboutInfo: Við erum staðráðin í að þróa hágæða opinn uppspretta framendahluta og þér er velkomið að taka þátt.

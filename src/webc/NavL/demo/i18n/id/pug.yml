@@ -1,0 +1,7 @@
+desc: Secara otomatis menentukan dan beralih untuk menampilkan menu navigasi atau tombol kembali berdasarkan rute saat ini
+desktop_title: Tampilan desktop
+desktop_desc: Saat berada di rute menu yang dideklarasikan, tampilkan ubin item menu; jika tidak, tampilkan tombol kembali
+mobile_title: Tampilan seluler
+mobile_desc: Saat berada di rute menu yang dinyatakan, diciutkan menjadi tombol ikon dan mendukung geser keluar menu; jika tidak menampilkan tombol kembali
+normal_state: Status navigasi (menu c-nav)
+back_state: Status cadangan (c-back)

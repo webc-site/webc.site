@@ -1,0 +1,4 @@
+default: Domyślny przycisk
+main: główny przycisk
+link: przycisk łącza
+icon: Ikona Przycisku (.BtnC)

@@ -1,0 +1,7 @@
+desc: Determinați și comutați automat pentru a afișa meniul de navigare sau butonul înapoi în funcție de traseul curent
+desktop_title: Afișaj desktop
+desktop_desc: Când vă aflați pe ruta de meniu declarată, afișați plăcile elementelor de meniu; în caz contrar, afișați butonul înapoi
+mobile_title: Afișaj mobil
+mobile_desc: Când se află pe ruta declarată a meniului, se prăbușește într-un buton pictogramă și acceptă glisarea în afara meniului; în caz contrar, afișează un buton înapoi
+normal_state: Starea navigației (c-nav-meniu)
+back_state: Stare de rezervă (c-back)

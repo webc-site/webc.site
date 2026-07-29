@@ -1,0 +1,38 @@
+basicTitle: Pamatstils
+bold: Treknrakstā
+italic: slīpraksts
+del: pārsvītrots
+inlineCode: iekļauts kods
+linkPrefix: Pirms un pēc saites ir teksts, piemēram,
+link: Apvienoto Nāciju Organizācijas oficiālā vietne
+linkSuffix: ir saite.
+quoteSingle: Šis ir vienas rindiņas citāts.
+quoteMultiLine1: Šis ir daudzrindu citāts.
+quoteMultiLine2: Vizuāls efekts vairāku rindu atsauču parādīšanai.
+note: Vispārīgi ziņojumi un piezīmes
+tip: Padomi un noderīgi padomi
+important: Svarīgi padomi un bažas
+warning: Brīdinājumi par risku un piesardzības pasākumi
+caution: BRĪDINĀJUMS PAR APDRAUDĒJUMU UN ĀRKĒRĒJĀ RISKA BRĪDINĀJUMU
+listTitle: Citāti un saraksti
+taskTitle: uzdevumu saraksts
+todoItem: Šis ir nepabeigts CSS uzdevums
+doneItem: Šis ir pabeigts CSS uzdevums
+ulItem1: Nepasūtīta pirmā prece
+ulSubItem1: Nesakārtots pirmais apakšpunkts
+ulSubItem2: Nesakārtots otrais apakšpunkts
+ulItem2: Nepasūtīta otrā prece
+olItem1: Pasūtīta pirmā prece
+olSubItem1: Pasūtīta prece viena
+olSubItem2: Pasūtīts otrais apakšpunkts
+olItem2: Pasūtīts otrais termiņš
+tableTitle: lapa
+col1: projektu
+col2: valsts
+col3: rezultāts
+row1Col1: statisks
+row1Col2: Pabeigts
+row2Col1: straumēšana
+row2Col2: Renderēšana
+codeTitle: koda bloks
+imageTitle: attēlu

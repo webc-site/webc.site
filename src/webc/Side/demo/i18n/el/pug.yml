@@ -1,0 +1,46 @@
+open: Ανοίξτε την πλαϊνή γραμμή
+userName: Geek Walker
+userTitle: Ανώτερος σχεδιαστής ιστοσελίδων
+statFollowers: Συνδρομητής
+statFollowing: εστίαση σε
+statProjects: σχέδιο
+groupCore: Βασικές λειτουργίες
+groupSystem: Διαχείριση συστήματος
+groupData: ανάλυση δεδομένων
+groupCollaboration: Ομαδική εργασία
+widgetTitle: Χρήση αποθηκευτικού χώρου
+widgetTasks: Οι υποχρεώσεις μου
+task1: Ολοκληρωμένη διαδραστική ανάπτυξη Side
+task2: Design Υγρή οπτική αισθητική
+task3: Βελτιστοποιήστε τη χρηστικότητα και τις λεπτομέρειες των στοιχείων
+navHome: Αρχική σελίδα πίνακα ελέγχου
+navProfile: Προσωπικό Κέντρο
+navSettings: Ρυθμίσεις συστήματος
+navMessages: Νέα του ιστότοπου
+navNotifications: Υπενθύμιση ειδοποίησης
+navPrivacy: Απόρρητο και ασφάλεια
+navHelp: Βοήθεια και σχόλια
+navAnalytics: έκθεση ανάλυσης
+navCloud: Αποθηκευτικός χώρος cloud
+navTeam: μέλος της ομάδας
+navTasks: Συντονισμός εργασιών
+logout: Αποσυνδεθείτε
+upgradeTitle: Αναβάθμιση σε Professional Edition
+upgradeDesc: Ξεκλειδώστε απεριόριστο χώρο αποθήκευσης στο cloud και προηγμένη συνεργασία
+upgradeBtn: Αναβάθμιση τώρα
+task4: Ελέγξτε τις δεσμεύσεις δημοσίων σχέσεων και συγχωνεύστε υποκαταστήματα
+task5: Γράψτε ένα νέο αρχείο καταγραφής έκδοσης του WebC
+widgetOnline: Online μέλη της ομάδας
+member1: Λίζα
+member2: Δαβίδ
+member3: Άννα
+statusOnline: online
+statusOffline: Εκτός σύνδεσης
+statusBusy: Απασχολημένος
+widgetFiles: πρόσφατα αρχεία
+file1: Προδιαγραφές σχεδίασης προϊόντος v2.4.pdf
+file2: 2026 Τρίμηνο Σχέδιο Σχέδιο.docx
+file3: Επίδειξη κινουμένων σχεδίων στοιχείων.mp4
+tagDesign: σχέδιο
+tagDev: αναπτύσσω
+tagPm: προϊόν

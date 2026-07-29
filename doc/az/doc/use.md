@@ -1,0 +1,1 @@
+# Komponentlərdən istifadə edin

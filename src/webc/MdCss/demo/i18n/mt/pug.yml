@@ -1,0 +1,38 @@
+basicTitle: Stil bażiku
+bold: Bold
+italic: korsiv
+del: strikethrough
+inlineCode: kodiċi inline
+linkPrefix: Hemm test qabel u wara l-link, bħal
+link: Websajt uffiċjali tan-Nazzjonijiet Uniti
+linkSuffix: hija rabta.
+quoteSingle: Din hija kwotazzjoni ta 'linja waħda.
+quoteMultiLine1: Din hija kwotazzjoni b'ħafna linji.
+quoteMultiLine2: Effett viżwali għall-wiri ta 'referenzi b'ħafna linji.
+note: Messaġġi u noti ġenerali
+tip: Tips u pariri utli
+important: Suġġerimenti u tħassib importanti
+warning: Twissijiet ta' riskju u prekawzjonijiet
+caution: TWISSIJA TA’ PERIKOLU U RISKJU ESTREM
+listTitle: Kwotazzjonijiet u Listi
+taskTitle: lista tal-kompiti
+todoItem: Dan huwa kompitu CSS mhux mitmum
+doneItem: Dan huwa kompitu CSS komplut
+ulItem1: L-ewwel oġġett mhux ordnat
+ulSubItem1: Suboġġett wieħed mhux ordnat
+ulSubItem2: Subitem tnejn mhux ordnat
+ulItem2: It-tieni oġġett mhux ordnat
+olItem1: Ordnat l-ewwel oġġett
+olSubItem1: Oġġett ordnat wieħed
+olSubItem2: Ordnat is-subpunt tnejn
+olItem2: Ordnat it-tieni terminu
+tableTitle: folja
+col1: proġett
+col2: istat
+col3: punteġġ
+row1Col1: statiku
+row1Col2: Imlesta
+row2Col1: streaming
+row2Col2: Rendering
+codeTitle: blokk tal-kodiċi
+imageTitle: stampa

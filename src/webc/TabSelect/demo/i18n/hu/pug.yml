@@ -1,0 +1,9 @@
+language: nyelv
+os: rendszer
+about: körülbelül
+jsInfo: A JavaScript egy szkriptnyelv, amelyet széles körben használnak az ügyféloldali webfejlesztésben.
+rsInfo: A Rust egy rendszerprogramozási nyelv, amely a biztonságra, a sebességre és a párhuzamosságra összpontosít.
+pyInfo: A Python egy objektumorientált, értelmezett számítógépes programozási nyelv.
+macInfo: A macOS egy Unix-alapú grafikus operációs rendszer, amelyet az Apple fejlesztett ki.
+winInfo: A Windows egy széles körben használt személyi számítógép operációs rendszer, amelyet a Microsoft Corporation fejlesztett ki.
+aboutInfo: Elkötelezettek vagyunk a kiváló minőségű nyílt forráskódú front-end komponensek fejlesztése iránt, és Önt is szívesen látjuk.

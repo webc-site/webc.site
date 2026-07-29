@@ -1,0 +1,67 @@
+.BtnC.lang
+  margin auto
+
+  .Ico
+    background-image url('./svg/i18n.svg')
+
+.I18n.Lg
+  border-radius 16px
+  box-sizing border-box
+  display flex
+  flex-direction column
+  max-width 650px
+  min-width 300px
+  overflow hidden
+  padding 24px
+  user-select none
+
+  &>h6
+    color #222
+    font-size 16px
+    font-weight 600
+    margin 0
+    text-align center
+
+  &>c-vs
+    flex 1
+    height 0
+    margin-top 8px
+    max-height 80dvh
+    min-height 0
+
+    &>b
+      display flex
+      flex-wrap wrap
+      gap 8px
+      justify-content center
+
+    .Btn
+      border-radius 8px
+      font-size 12px
+      font-weight 300
+      padding 6px 12px
+
+      @media (max-width 600px)
+        box-shadow none
+        color #333
+        padding 3px 0
+        transform none
+
+        &::before, &::after
+          display none
+
+        &:hover, &:active
+          box-shadow none
+          color #0071e3
+          transform none
+
+        &.Main
+          border-bottom 1px solid currentColor
+          border-radius 0
+          color #000
+
+          &:hover, &:active
+            color #0071e3
+
+dialog.Box:has(>.I18n.Lg)
+  max-width 700px

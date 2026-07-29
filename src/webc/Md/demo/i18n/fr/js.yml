@@ -1,0 +1,60 @@
+mdContent: |
+  # Document de présentation Markdown
+  Il s'agit d'une démonstration de **rendu statique**.
+  ## Style de base
+  - **Gras** et *Italique*
+  - ~~barré~~
+  - `inline_code` code en ligne
+  - [Site officiel des Nations Unies](https://un.org) Lien de démonstration
+  ## Citations et listes
+  > Il s’agit d’une citation sur une seule ligne.
+
+  > Il s'agit d'une citation sur plusieurs lignes.
+  > Un effet visuel pour afficher des références multilignes.
+
+  - Premier article non commandé
+    - Sous-élément un non ordonné
+    - Sous-élément deux non ordonné
+  - Deuxième article non commandé
+
+  > [!NOTE]
+  > `> [!NOTE]` Messages et notes généraux
+
+  > [!TIP]
+  > `> [!TIP]` Conseils et astuces utiles
+
+  > [!IMPORTANT]
+  > `> [!IMPORTANT]` Conseils et préoccupations importants
+
+  > [!WARNING]
+  > `> [!WARNING]` Avertissements et remarques sur les risques
+
+  > [!CAUTION]
+  > `> [!CAUTION]` AVERTISSEMENT DE DANGER ET DE RISQUE EXTRÊME
+
+  ---
+
+  ## liste de tâches
+  - [ ] Ceci est une liste de tâches inachevées
+  - [x] Il s'agit d'une tâche de liste terminée
+  - [X] Il s'agit d'une tâche de liste terminée (X majuscule)
+
+  ---
+
+  1. Premier article commandé
+     1. Article 1 commandé
+     2. J'ai commandé le deuxième article
+  2. Deuxième mandat ordonné
+  ## feuille
+  | projet | État | score |
+  | :--- | :---: | ---: |
+  | statique | Complété | 100 |
+  | streaming | Rendu | 95 |
+  ## bloc de code
+  ```js
+  const hello = () => {
+    console.log("Hello, WebC!");
+  };
+  ```
+  ## image
+  ![Photo de démonstration](https://i-01.eu.org/demo-green.avif)

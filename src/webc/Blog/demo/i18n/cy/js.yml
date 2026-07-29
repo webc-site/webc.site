@@ -1,0 +1,10 @@
+t1: WebC v2.0 wedi'i ryddhau'n swyddogol: pensaernïaeth cydrannau finimalaidd ar gyfer y we fodern
+s1: |-
+  Ar ôl hanner blwyddyn o ail-greu, mae WebC v2.0 wedi cyrraedd yn swyddogol. Mae'r bensaernïaeth **Light DOM** sydd newydd ei dylunio wedi'i chyfuno'n berffaith â `Custom Elements` brodorol i ddod â gwelliannau perfformiad heb eu hail.
+t2: CSS Brodorol Ymarfer nythu manwl ac optimeiddio perfformiad
+s2: |-
+  Heddiw, gyda phorwyr modern yn cefnogi `CSS Nesting` , mae'r cyfuniad o lefelau nythu rhagbrosesydd a nodweddion brodorol yn symleiddio costau cynnal arddull yn fawr. Mae'r erthygl hon yn archwilio ei fanteision craidd a'i arferion gorau.
+t3: Athroniaeth adeiladu llyfrgell gydrannau UI dibyniaeth sero
+s3: |-
+  Dychwelyd i'r pentwr technoleg gwe-frodorol: Nid oes angen piblinellau adeiladu cymhleth a choed dibyniaeth enfawr, gallwch adeiladu UI perfformiad uchel gyda JavaScript brodorol yn unig a Safonau Gwe.
+btn: Cliciwch yma i ddarllen

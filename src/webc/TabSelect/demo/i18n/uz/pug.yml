@@ -1,0 +1,9 @@
+language: til
+os: tizimi
+about: haqida
+jsInfo: JavaScript - bu mijoz tomonidan veb-ishlab chiqishda keng qo'llaniladigan skript tili.
+rsInfo: Rust - bu xavfsizlik, tezlik va parallellikka qaratilgan tizim dasturlash tili.
+pyInfo: Python - ob'ektga yo'naltirilgan, talqin qilinadigan kompyuter dasturlash tili.
+macInfo: macOS - Apple tomonidan ishlab chiqilgan Unix asosidagi grafik operatsion tizim.
+winInfo: Windows - bu Microsoft korporatsiyasi tomonidan ishlab chiqilgan keng tarqalgan shaxsiy kompyuter operatsion tizimi.
+aboutInfo: Biz yuqori sifatli ochiq manbali front-end komponentlarini ishlab chiqishga intilamiz va siz ishtirok etishga xush kelibsiz.

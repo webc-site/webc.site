@@ -1,0 +1,10 @@
+t1: WebC v2.0 oficiálně vydáno: minimalistická komponentová architektura pro moderní web
+s1: |-
+  Po půl roce rekonstrukce oficiálně dorazilo WebC v2.0. Nově navržená architektura **Light DOM** je dokonale kombinována s nativním `Custom Elements`, aby přinesla bezkonkurenční vylepšení výkonu.
+t2: Nativní CSS Nesting hloubkové procvičování a optimalizace výkonu
+s2: |-
+  Dnes, kdy moderní prohlížeče plně podporují `CSS Nesting` , kombinace úrovní vnoření preprocesoru a nativních funkcí výrazně zjednodušuje náklady na údržbu stylu. Tento článek zkoumá jeho hlavní výhody a osvědčené postupy.
+t3: Konstrukční filozofie knihovny komponent uživatelského rozhraní s nulovou závislostí
+s3: |-
+  Návrat k zásobníku webových nativních technologií: Nepotřebujete složité sestavovací kanály a obrovské stromy závislostí, můžete vytvářet vysoce výkonná uživatelská rozhraní pouze s nativním JavaScriptem a webovými standardy.
+btn: Klikněte sem a přečtěte si

@@ -1,0 +1,60 @@
+mdContent: |
+  # Markdown-Präsentationsdokument
+  Dies ist eine Demonstration des **statischen Renderings**.
+  ## Grundlegender Stil
+  - **Fett** und *Kursiv*
+  - ~~durchgestrichen~~
+  - `inline_code` Inline-Code
+  - [Offizielle Website der Vereinten Nationen](https://un.org) Linkdemonstration
+  ## Zitate und Listen
+  > Dies ist ein einzeiliges Zitat.
+
+  > Dies ist ein mehrzeiliges Zitat.
+  > Ein visueller Effekt zur Anzeige mehrzeiliger Referenzen.
+
+  - Ungeordneter erster Artikel
+    - Ungeordneter Unterpunkt eins
+    - Ungeordneter Unterpunkt zwei
+  - Ungeordneter zweiter Artikel
+
+  > [!NOTE]
+  > `> [!NOTE]` Allgemeine Nachrichten und Notizen
+
+  > [!TIP]
+  > `> [!TIP]` Tipps und hilfreiche Tipps
+
+  > [!IMPORTANT]
+  > `> [!IMPORTANT]` Wichtige Tipps und Bedenken
+
+  > [!WARNING]
+  > `> [!WARNING]`Risikowarnungen und Hinweise
+
+  > [!CAUTION]
+  > `> [!CAUTION]` WARNUNG VOR GEFAHR UND EXTREMEN RISIKEN
+
+  ---
+
+  ## Aufgabenliste
+  - [ ] Dies ist eine unvollendete Aufgabenliste
+  - [x] Dies ist eine abgeschlossene Listenaufgabe
+  - [X] Dies ist eine abgeschlossene Listenaufgabe (Großbuchstaben X).
+
+  ---
+
+  1. Habe den ersten Artikel bestellt
+     1. Artikel eins bestellt
+     2. Unterpunkt zwei bestellt
+  2. Zweite Amtszeit bestellt
+  ## Blatt
+  | Projekt | Zustand | Punktzahl |
+  | :--- | :---: | ---: |
+  | statisch | Vollendet | 100 |
+  | Streaming | Rendern | 95 |
+  ## Codeblock
+  ```js
+  const hello = () => {
+    console.log("Hello, WebC!");
+  };
+  ```
+  ## Bild
+  ![Demobild](https://i-01.eu.org/demo-green.avif)

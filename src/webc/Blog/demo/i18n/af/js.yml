@@ -1,0 +1,10 @@
+t1: WebC v2.0 amptelik vrygestel: minimalistiese komponentargitektuur vir die moderne web
+s1: |-
+  Na 'n halwe jaar van rekonstruksie het WebC v2.0 amptelik aangekom. Die nuut ontwerpte **Light DOM**-argitektuur is perfek gekombineer met inheemse `Custom Elements` om ongeëwenaarde werkverrigtingverbeterings te bring.
+t2: Inheemse CSS Nesting in-diepte oefening en prestasie optimalisering
+s2: |-
+  Vandag, met moderne blaaiers wat `CSS Nesting` ten volle ondersteun, vereenvoudig die kombinasie van voorverwerker-nesvlakke en inheemse kenmerke stylonderhoudskoste aansienlik. Hierdie artikel ondersoek die kernvoordele en beste praktyke daarvan.
+t3: Die konstruksie filosofie van nul-afhanklikheid UI komponent biblioteek
+s3: |-
+  Keer terug na die web-inheemse tegnologie-stapel: Geen behoefte aan komplekse boupyplyne en groot afhanklikheidbome nie, jy kan hoëprestasie-UI's bou met slegs inheemse JavaScript en webstandaarde.
+btn: Klik hier om te lees

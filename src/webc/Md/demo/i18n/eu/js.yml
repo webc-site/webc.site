@@ -1,0 +1,60 @@
+mdContent: |
+  # Markdown aurkezpen dokumentua
+  Hau **errendatze estatikoa** erakustaldia da.
+  ## Oinarrizko estiloa
+  - **Lodia** eta *Etazan*
+  - ~~hautsa~~
+  - `inline_code` lerroko kodea
+  - [Nazio Batuen webgune ofiziala](https://un.org) Estekaren erakustaldia
+  ## Aipamenak eta Zerrendak
+  > Hau lerro bakarreko komatxo bat da.
+
+  > Hau lerro anitzeko aurrekontua da.
+  > Lerro anitzeko erreferentziak bistaratzeko efektu bisuala.
+
+  - Ordenatu gabeko lehen elementua
+    - Ordenatu gabeko azpielementua
+    - Ordenatu gabeko bigarren azpielementua
+  - Ordenatu gabeko bigarren elementua
+
+  > [!NOTE]
+  > `> [!NOTE]` Mezu eta ohar orokorrak
+
+  > [!TIP]
+  > `> [!TIP]` Aholkuak eta aholku lagungarriak
+
+  > [!IMPORTANT]
+  > `> [!IMPORTANT]` Aholku eta kezka garrantzitsuak
+
+  > [!WARNING]
+  > `> [!WARNING]` Arriskuen abisuak eta oharrak
+
+  > [!CAUTION]
+  > `> [!CAUTION]` ARRISKU ETA MUTURREKO ARRISKUAREN OHARRA
+
+  ---
+
+  ## zereginen zerrenda
+  - [ ] Amaitu gabeko zereginen zerrenda da hau
+  - [x] Hau amaitutako zerrendako zeregina da
+  - [X] Hau amaitutako zerrendako zeregina da (X maiuskulaz)
+
+  ---
+
+  1. Lehen elementua eskatu du
+     1. Elementu bat agindua
+     2. Bigarren azpielementua agindua
+  2. Bigarren agintaldia agindua
+  ## fitxa
+  | proiektua | estatua | puntuazioa |
+  | :--- | :---: | ---: |
+  | estatikoa | Osatua | 100 |
+  | streaming | Errendatzea | 95 |
+  ## kodea blokea
+  ```js
+  const hello = () => {
+    console.log("Hello, WebC!");
+  };
+  ```
+  ## irudia
+  ![Demo argazkia](https://i-01.eu.org/demo-green.avif)

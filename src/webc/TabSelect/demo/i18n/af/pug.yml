@@ -1,0 +1,9 @@
+language: taal
+os: stelsel
+about: oor
+jsInfo: JavaScript is 'n skriftaal wat wyd gebruik word in kliënt-kant webontwikkeling.
+rsInfo: Rust is 'n stelselprogrammeertaal wat gefokus is op veiligheid, spoed en gelyktydigheid.
+pyInfo: Python is 'n objekgeoriënteerde, geïnterpreteerde rekenaarprogrammeertaal.
+macInfo: macOS is 'n Unix-gebaseerde grafiese bedryfstelsel wat deur Apple ontwikkel is.
+winInfo: Windows is 'n wyd gebruikte persoonlike rekenaarbedryfstelsel wat deur Microsoft Corporation ontwikkel is.
+aboutInfo: Ons is daartoe verbind om hoëgehalte oopbron-front-end-komponente te ontwikkel, en jy is welkom om deel te neem.

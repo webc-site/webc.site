@@ -1,0 +1,10 @@
+t1: WebC v2.0 chính thức ra mắt: Kiến trúc thành phần tối giản cho web hiện đại
+s1: |-
+  Sau nửa năm tái thiết, WebC v2.0 đã chính thức xuất hiện. Kiến trúc **Light DOM** được thiết kế mới được kết hợp hoàn hảo với `Custom Elements` gốc để mang lại những cải tiến hiệu suất vô song.
+t2: Thực hành chuyên sâu về Native CSS Nesting và tối ưu hóa hiệu suất
+s2: |-
+  Ngày nay, với các trình duyệt hiện đại hỗ trợ đầy đủ `CSS Nesting` , sự kết hợp giữa các cấp độ lồng ghép tiền xử lý và các tính năng gốc giúp đơn giản hóa đáng kể chi phí bảo trì kiểu dáng. Bài viết này khám phá những lợi ích cốt lõi và các phương pháp hay nhất của nó.
+t3: Triết lý xây dựng của thư viện thành phần UI không phụ thuộc
+s3: |-
+  Quay trở lại ngăn xếp công nghệ gốc web: Không cần quy trình xây dựng phức tạp và cây phụ thuộc khổng lồ, bạn có thể xây dựng giao diện người dùng hiệu suất cao chỉ với JavaScript gốc và Tiêu chuẩn web.
+btn: Bấm vào đây để đọc

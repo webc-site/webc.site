@@ -1,0 +1,9 @@
+language: pinulongan
+os: sistema
+about: mahitungod sa
+jsInfo: Ang JavaScript kay usa ka scripting language nga kaylap nga gigamit sa client-side web development.
+rsInfo: Ang Rust usa ka sistema sa programming language nga naka-focus sa kaluwasan, katulin, ug panagsama.
+pyInfo: Ang Python usa ka object-oriented, gihubad nga computer programming language.
+macInfo: Ang macOS kay Unix-based graphical operating system nga gimugna sa Apple.
+winInfo: Ang Windows kay kaylap nga gigamit nga personal computer operating system nga gimugna sa Microsoft Corporation.
+aboutInfo: Kami komitado sa pagpalambo sa taas nga kalidad nga open source front-end nga mga sangkap, ug ikaw giabi-abi sa pag-apil.

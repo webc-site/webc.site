@@ -1,0 +1,38 @@
+basicTitle: Stilul de bază
+bold: Îndrăzneţ
+italic: cursive
+del: barat
+inlineCode: cod inline
+linkPrefix: Există text înainte și după link, cum ar fi
+link: Site-ul oficial al Națiunilor Unite
+linkSuffix: este un link.
+quoteSingle: Acesta este un citat cu o singură linie.
+quoteMultiLine1: Acesta este un citat cu mai multe rânduri.
+quoteMultiLine2: Un efect vizual pentru afișarea referințelor pe mai multe linii.
+note: Mesaje și note generale
+tip: Sfaturi și sfaturi utile
+important: Sfaturi și preocupări importante
+warning: Avertismente de risc și precauții
+caution: AVERTISMENT DE PERICOL ȘI RISC EXTREM
+listTitle: Citate și liste
+taskTitle: lista de sarcini
+todoItem: Aceasta este o sarcină CSS neterminată
+doneItem: Aceasta este o sarcină CSS finalizată
+ulItem1: Primul articol necomandat
+ulSubItem1: Subarticolul unu neordonat
+ulSubItem2: Subarticolul doi neordonat
+ulItem2: Al doilea articol necomandat
+olItem1: Primul articol comandat
+olSubItem1: Articol comandat unu
+olSubItem2: A comandat subarticolul doi
+olItem2: Al doilea mandat comandat
+tableTitle: foaie
+col1: proiect
+col2: stat
+col3: Scor
+row1Col1: static
+row1Col2: Terminat
+row2Col1: streaming
+row2Col2: Redare
+codeTitle: bloc de cod
+imageTitle: imagine

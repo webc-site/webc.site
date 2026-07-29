@@ -1,0 +1,60 @@
+mdContent: |
+  # Markdown predstavitveni dokument
+  To je predstavitev **statičnega upodabljanja**.
+  ## Osnovni slog
+  - **Krepko** in *Poševno*
+  - ~~prečrtano~~
+  - `inline_code` vstavljena koda
+  - [Uradna spletna stran Združenih narodov](https://un.org) Predstavitev povezave
+  ## Citati in seznami
+  > To je enovrstični citat.
+
+  > To je večvrstični citat.
+  > Vizualni učinek za prikaz večvrstičnih referenc.
+
+  - Neurejen prvi artikel
+    - Neurejen podpostavka ena
+    - Neurejen podtočka dva
+  - Nenaročen drugi predmet
+
+  > [!NOTE]
+  > `> [!NOTE]` Splošna sporočila in opombe
+
+  > [!TIP]
+  > `> [!TIP]` Namigi in koristni nasveti
+
+  > [!IMPORTANT]
+  > `> [!IMPORTANT]` Pomembni nasveti in pomisleki
+
+  > [!WARNING]
+  > `> [!WARNING]` Opozorila in opombe glede tveganja
+
+  > [!CAUTION]
+  > `> [!CAUTION]` OPOZORILO NA NEVARNOST IN IZREDNO TVEGANJE
+
+  ---
+
+  ## seznam opravil
+  - [ ] To je nedokončan seznam nalog
+  - [x] To je dokončana naloga seznama
+  - [X] To je dokončana naloga seznama (velika X)
+
+  ---
+
+  1. Naročen prvi artikel
+     1. Naročen artikel ena
+     2. Naročena podtočka dva
+  2. Naročen drugi termin
+  ## list
+  | projekt | stanje | rezultat |
+  | :--- | :---: | ---: |
+  | statična | Dokončano | 100 |
+  | pretakanje | Upodabljanje | 95 |
+  ## kodni blok
+  ```js
+  const hello = () => {
+    console.log("Hello, WebC!");
+  };
+  ```
+  ## slika
+  ![Demo slika](https://i-01.eu.org/demo-green.avif)

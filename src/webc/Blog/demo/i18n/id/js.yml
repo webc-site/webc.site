@@ -1,0 +1,10 @@
+t1: WebC v2.0 resmi dirilis: arsitektur komponen minimalis untuk web modern
+s1: |-
+  Setelah setengah tahun rekonstruksi, WebC v2.0 telah resmi hadir. Arsitektur **Light DOM** yang baru dirancang dipadukan secara sempurna dengan `Custom Elements` asli untuk menghadirkan peningkatan kinerja yang tak tertandingi.
+t2: Latihan mendalam dan pengoptimalan kinerja Nesting CSS Asli
+s2: |-
+  Saat ini, dengan browser modern yang sepenuhnya mendukung `CSS Nesting` , kombinasi tingkat penyusunan praprosesor dan fitur asli sangat menyederhanakan biaya pemeliharaan gaya. Artikel ini mengeksplorasi manfaat inti dan praktik terbaiknya.
+t3: Filosofi konstruksi pustaka komponen UI tanpa ketergantungan
+s3: |-
+  Kembali ke tumpukan teknologi web-native: Tidak perlu pipeline build yang rumit dan pohon ketergantungan yang besar, Anda dapat membangun UI berkinerja tinggi hanya dengan JavaScript asli dan Standar Web.
+btn: Klik di sini untuk membaca

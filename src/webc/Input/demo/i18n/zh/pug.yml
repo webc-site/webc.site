@@ -1,0 +1,3 @@
+default: 默认状态 (未输入)
+preset: 预设值状态
+email: 电子邮箱

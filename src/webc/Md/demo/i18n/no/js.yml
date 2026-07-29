@@ -1,0 +1,60 @@
+mdContent: |
+  # Markdown presentasjonsdokument
+  Dette er en demonstrasjon av **statisk gjengivelse**.
+  ## Grunnleggende stil
+  - **Fet** og *kursiv*
+  - ~~gjennomstreking~~
+  - `inline_code` innebygd kode
+  - [FNs offisielle nettsted](https://un.org) Link demonstrasjon
+  ## Sitater og lister
+  > Dette er et sitat på én linje.
+
+  > Dette er et sitat med flere linjer.
+  > En visuell effekt for å vise referanser med flere linjer.
+
+  - Ubestilt første vare
+    - Uordnet underelement én
+    - Uordnet underpost to
+  - Ubestilt andre vare
+
+  > [!NOTE]
+  > `> [!NOTE]` Generelle meldinger og notater
+
+  > [!TIP]
+  > `> [!TIP]` Tips og nyttige tips
+
+  > [!IMPORTANT]
+  > `> [!IMPORTANT]` Viktige tips og bekymringer
+
+  > [!WARNING]
+  > `> [!WARNING]` Risikoadvarsler og merknader
+
+  > [!CAUTION]
+  > `> [!CAUTION]` ADVARSEL FOR FARE OG EKSTREM RISIKO
+
+  ---
+
+  ## oppgaveliste
+  - [ ] Dette er en uferdig liste over oppgaver
+  - [x] Dette er en fullført listeoppgave
+  - [X] Dette er en fullført listeoppgave (stor X)
+
+  ---
+
+  1. Bestilte første vare
+     1. Bestilte vare en
+     2. Bestilte underelement to
+  2. Bestilt andre termin
+  ## ark
+  | prosjekt | tilstand | score |
+  | :--- | :---: | ---: |
+  | statisk | Fullført | 100 |
+  | streaming | Gjengivelse | 95 |
+  ## kodeblokk
+  ```js
+  const hello = () => {
+    console.log("Hello, WebC!");
+  };
+  ```
+  ## bilde
+  ![Demo bilde](https://i-01.eu.org/demo-green.avif)

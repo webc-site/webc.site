@@ -1,0 +1,7 @@
+desc: Geçerli rotaya göre navigasyon menüsünü veya geri düğmesini otomatik olarak belirleyip görüntüleyecek şekilde geçiş yapın
+desktop_title: Masaüstü ekranı
+desktop_desc: Bildirilen menü rotasındayken menü öğeleri kutucuklarını görüntüleyin; aksi takdirde geri düğmesini görüntüleyin
+mobile_title: Mobil ekran
+mobile_desc: Bildirilen menü rotasındayken, bir simge düğmesine daraltılır ve menünün kaydırılmasını destekler; aksi halde geri düğmesi görüntülenir
+normal_state: Navigasyon durumu (c-nav-menüsü)
+back_state: Geri dönüş durumu (c-geri)

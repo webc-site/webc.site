@@ -1,0 +1,9 @@
+language: sprog
+os: system
+about: om
+jsInfo: JavaScript er et scriptsprog, der er meget udbredt i webudvikling på klientsiden.
+rsInfo: Rust er et systemprogrammeringssprog med fokus på sikkerhed, hastighed og samtidighed.
+pyInfo: Python er et objektorienteret, fortolket computerprogrammeringssprog.
+macInfo: macOS er et Unix-baseret grafisk operativsystem udviklet af Apple.
+winInfo: Windows er et meget brugt pc-operativsystem udviklet af Microsoft Corporation.
+aboutInfo: Vi er forpligtet til at udvikle højkvalitets open source front-end komponenter, og du er velkommen til at deltage.

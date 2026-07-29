@@ -1,0 +1,7 @@
+desc: Bestäm och byt automatiskt för att visa navigeringsmenyn eller bakåtknappen baserat på den aktuella rutten
+desktop_title: Skrivbordsskärm
+desktop_desc: När du är i den deklarerade menyvägen, visa menyalternativen; annars visas bakåtknappen
+mobile_title: Mobil display
+mobile_desc: När du befinner dig i den deklarerade menyvägen, kollapsar den till en ikonknapp och stöder att glida ut menyn; annars visar en bakåtknapp
+normal_state: Navigeringsstatus (c-nav-meny)
+back_state: Reservstatus (c-back)

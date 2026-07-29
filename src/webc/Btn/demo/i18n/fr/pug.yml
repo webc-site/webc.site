@@ -1,0 +1,4 @@
+default: Bouton par défaut
+main: bouton principal
+link: bouton de lien
+icon: Bouton Icône (.BtnC)

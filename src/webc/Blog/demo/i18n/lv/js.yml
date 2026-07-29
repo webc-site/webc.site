@@ -1,0 +1,10 @@
+t1: Oficiāli izlaists WebC v2.0: minimālisma komponentu arhitektūra mūsdienu tīmeklim
+s1: |-
+  Pēc pusgadu ilgas rekonstrukcijas WebC v2.0 oficiāli ir klāt. Jaunizstrādātā **Light DOM** arhitektūra ir lieliski apvienota ar sākotnējo `Custom Elements`, lai nodrošinātu nepārspējamus veiktspējas uzlabojumus.
+t2: Vietējā CSS ligzdošanas padziļināta prakse un veiktspējas optimizācija
+s2: |-
+  Mūsdienās, kad mūsdienu pārlūkprogrammas pilnībā atbalsta `CSS Nesting` , priekšprocesora ligzdošanas līmeņu un vietējo funkciju kombinācija ievērojami vienkāršo stila uzturēšanas izmaksas. Šajā rakstā ir apskatītas tā galvenās priekšrocības un labākā prakse.
+t3: Nulles atkarības UI komponentu bibliotēkas uzbūves filozofija
+s3: |-
+  Atgriezties pie tīmekļa tehnoloģiju kopas: nav nepieciešami sarežģīti veidošanas cauruļvadi un milzīgi atkarības koki, varat izveidot augstas veiktspējas lietotāja saskarnes, izmantojot tikai vietējo JavaScript un tīmekļa standartus.
+btn: Noklikšķiniet šeit, lai lasītu

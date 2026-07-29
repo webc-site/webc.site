@@ -1,0 +1,60 @@
+mdContent: |
+  # Document de presentació de Markdown
+  Aquesta és una demostració de la representació en streaming.
+  ## Estil bàsic
+  - **Negreta** i *Itàlica*
+  - ~~tallat~~
+  - `inline_code` codi en línia
+  - [Web oficial de les Nacions Unides](https://un.org) Demostració d'enllaços
+  ## Cites i Llistes
+  > Aquesta és una cita d'una sola línia.
+
+  > Aquesta és una cita de diverses línies.
+  > Un efecte visual per mostrar referències de diverses línies.
+
+  - Primer article no ordenat
+    - Subelement 1 no ordenat
+    - Subelement dos no ordenats
+  - Segon article no ordenat
+
+  > [!NOTE]
+  > `> [!NOTE]` Missatges i notes generals
+
+  > [!TIP]
+  > `> [!TIP]` Consells i consells útils
+
+  > [!IMPORTANT]
+  > `> [!IMPORTANT]` Consells i preocupacions importants
+
+  > [!WARNING]
+  > `> [!WARNING]` Avisos i notes de risc
+
+  > [!CAUTION]
+  > `> [!CAUTION]` ADVERTIMENT DE PERILL I RISC EXTREM
+
+  ---
+
+  ## llista de tasques
+  - [ ] Aquesta és una tasca de reproducció sense acabar
+  - [x] Aquesta és una tasca de transmissió completada
+  - [X] Aquesta és una tasca de transmissió completada (X majúscula)
+
+  ---
+
+  1. Primer article encarregat
+     1. Article 1 demanat
+     2. Subitem dos ordenats
+  2. Segon trimestre ordenat
+  ## fulla
+  | Tasca | estat | horari |
+  | :--- | :---: | ---: |
+  | Tasca una | Completat | 100% |
+  | Tasca 2 | en curs | 50% |
+  ## bloc de codi
+  ```js
+  const hello = () => {
+    console.log("Hello, WebC!");
+  };
+  ```
+  ## imatge
+  ![Imatge de demostració](https://i-01.eu.org/demo-green.avif)

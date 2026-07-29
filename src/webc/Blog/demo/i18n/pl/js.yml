@@ -1,0 +1,10 @@
+t1: Oficjalna premiera WebC v2.0: minimalistyczna architektura komponentów dla nowoczesnej sieci
+s1: |-
+  Po półrocznej przebudowie oficjalnie pojawił się WebC v2.0. Nowo zaprojektowana architektura **Light DOM** jest doskonale połączona z natywną architekturą `Custom Elements`, aby zapewnić niezrównaną poprawę wydajności.
+t2: Natywne zagnieżdżanie CSS — dogłębna praktyka i optymalizacja wydajności
+s2: |-
+  Obecnie, gdy nowoczesne przeglądarki w pełni obsługują `CSS Nesting` , połączenie poziomów zagnieżdżenia preprocesora i funkcji natywnych znacznie upraszcza koszty utrzymania stylu. W tym artykule omówiono jego podstawowe zalety i najlepsze praktyki.
+t3: Filozofia konstrukcji biblioteki komponentów interfejsu użytkownika o zerowej zależności
+s3: |-
+  Powrót do stosu technologii natywnych dla sieci Web: nie ma potrzeby stosowania skomplikowanych potoków kompilacji i ogromnych drzew zależności, można tworzyć interfejsy użytkownika o wysokiej wydajności, korzystając wyłącznie z natywnego JavaScript i standardów sieciowych.
+btn: Kliknij tutaj, aby przeczytać

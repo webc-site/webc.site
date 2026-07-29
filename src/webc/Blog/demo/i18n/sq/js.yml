@@ -1,0 +1,10 @@
+t1: U lëshua zyrtarisht WebC v2.0: arkitekturë përbërëse minimaliste për ueb-in modern
+s1: |-
+  Pas një gjysmë viti rindërtimi, WebC v2.0 ka mbërritur zyrtarisht. Arkitektura e re e projektuar **Light DOM** është e kombinuar në mënyrë të përkryer me `Custom Elements` vendase për të sjellë përmirësime të pashembullta të performancës.
+t2: Praktikë e thelluar dhe optimizim i performancës Native CSS Nesting
+s2: |-
+  Sot, me shfletuesit modernë që mbështesin plotësisht `CSS Nesting`, kombinimi i niveleve të foleve të paraprocesorit dhe veçorive vendase thjeshton shumë kostot e mirëmbajtjes së stilit. Ky artikull eksploron përfitimet e tij kryesore dhe praktikat më të mira.
+t3: Filozofia e ndërtimit të bibliotekës së komponentëve UI me varësi zero
+s3: |-
+  Kthehu në grupin e teknologjisë vendase në ueb: Nuk ka nevojë për tubacione ndërtimi komplekse dhe pemë të mëdha varësie, ju mund të ndërtoni ndërfaqe me performancë të lartë vetëm me JavaScript origjinale dhe standarde të uebit.
+btn: Klikoni këtu për të lexuar

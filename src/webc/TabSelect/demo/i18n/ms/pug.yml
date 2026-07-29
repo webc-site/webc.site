@@ -1,0 +1,9 @@
+language: bahasa
+os: sistem
+about: kira-kira
+jsInfo: JavaScript ialah bahasa skrip yang digunakan secara meluas dalam pembangunan web sebelah pelanggan.
+rsInfo: Rust ialah bahasa pengaturcaraan sistem yang memfokuskan pada keselamatan, kelajuan dan keselarasan.
+pyInfo: Python ialah bahasa pengaturcaraan komputer yang ditafsirkan berorientasikan objek.
+macInfo: macOS ialah sistem pengendalian grafik berasaskan Unix yang dibangunkan oleh Apple.
+winInfo: Windows ialah sistem pengendalian komputer peribadi yang digunakan secara meluas yang dibangunkan oleh Microsoft Corporation.
+aboutInfo: Kami komited untuk membangunkan komponen bahagian hadapan sumber terbuka berkualiti tinggi, dan anda dialu-alukan untuk mengambil bahagian.

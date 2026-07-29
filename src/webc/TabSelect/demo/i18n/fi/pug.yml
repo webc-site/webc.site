@@ -1,0 +1,9 @@
+language: kieli
+os: järjestelmä
+about: noin
+jsInfo: JavaScript on komentosarjakieli, jota käytetään laajasti asiakaspuolen web-kehityksessä.
+rsInfo: Rust on järjestelmien ohjelmointikieli, joka keskittyy turvallisuuteen, nopeuteen ja samanaikaisuuteen.
+pyInfo: Python on oliosuuntautunut, tulkittu tietokoneohjelmointikieli.
+macInfo: macOS on Applen kehittämä Unix-pohjainen graafinen käyttöjärjestelmä.
+winInfo: Windows on laajalti käytetty henkilökohtaisten tietokoneiden käyttöjärjestelmä, jonka on kehittänyt Microsoft Corporation.
+aboutInfo: Olemme sitoutuneet kehittämään korkealaatuisia avoimen lähdekoodin käyttöliittymäkomponentteja, ja olet tervetullut osallistumaan.

@@ -1,0 +1,38 @@
+basicTitle: Mtindo wa msingi
+bold: Ujasiri
+italic: italiki
+del: kupiga hatua
+inlineCode: msimbo wa ndani
+linkPrefix: Kuna maandishi kabla na baada ya kiungo, kama vile
+link: Tovuti rasmi ya Umoja wa Mataifa
+linkSuffix: ni kiungo.
+quoteSingle: Hii ni nukuu ya mstari mmoja.
+quoteMultiLine1: Hii ni nukuu ya mistari mingi.
+quoteMultiLine2: Athari ya kuona ya kuonyesha marejeleo ya mistari mingi.
+note: Ujumbe wa jumla na vidokezo
+tip: Vidokezo na vidokezo muhimu
+important: Vidokezo muhimu na wasiwasi
+warning: Maonyo ya hatari na tahadhari
+caution: HATARI NA ONYO KUBWA LA HATARI
+listTitle: Nukuu na Orodha
+taskTitle: orodha ya kazi
+todoItem: Hili ni jukumu la CSS ambalo halijakamilika
+doneItem: Hili ni jukumu lililokamilishwa la CSS
+ulItem1: Kipengee cha kwanza ambacho hakijaagizwa
+ulSubItem1: Kipengee kidogo ambacho hakijaagizwa
+ulSubItem2: Kipengee kidogo cha pili ambacho hakijaagizwa
+ulItem2: Kipengee cha pili ambacho hakijaagizwa
+olItem1: Umeagiza bidhaa ya kwanza
+olSubItem1: Kipengee kimoja kilichoagizwa
+olSubItem2: Umeagiza kipengee kidogo cha pili
+olItem2: Imeagizwa muhula wa pili
+tableTitle: karatasi
+col1: mradi
+col2: jimbo
+col3: alama
+row1Col1: tuli
+row1Col2: Imekamilika
+row2Col1: utiririshaji
+row2Col2: Utoaji
+codeTitle: kizuizi cha nambari
+imageTitle: picha

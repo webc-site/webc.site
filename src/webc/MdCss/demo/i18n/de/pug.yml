@@ -1,0 +1,38 @@
+basicTitle: Grundlegender Stil
+bold: Deutlich
+italic: Kursivschrift
+del: durchgestrichen
+inlineCode: Inline-Code
+linkPrefix: Vor und nach dem Link steht Text, z. B
+link: Offizielle Website der Vereinten Nationen
+linkSuffix: ist ein Link.
+quoteSingle: Dies ist ein einzeiliges Zitat.
+quoteMultiLine1: Dies ist ein mehrzeiliges Zitat.
+quoteMultiLine2: Ein visueller Effekt zur Anzeige mehrzeiliger Referenzen.
+note: Allgemeine Nachrichten und Hinweise
+tip: Tipps und nützliche Tipps
+important: Wichtige Tipps und Anliegen
+warning: Risikowarnungen und Vorsichtsmaßnahmen
+caution: WARNUNG VOR GEFAHREN UND EXTREMEN RISIKEN
+listTitle: Zitate und Listen
+taskTitle: Aufgabenliste
+todoItem: Dies ist eine unvollendete CSS-Aufgabe
+doneItem: Dies ist eine abgeschlossene CSS-Aufgabe
+ulItem1: Ungeordneter erster Artikel
+ulSubItem1: Ungeordneter Unterpunkt eins
+ulSubItem2: Ungeordneter Unterpunkt zwei
+ulItem2: Ungeordneter zweiter Artikel
+olItem1: Habe den ersten Artikel bestellt
+olSubItem1: Artikel eins bestellt
+olSubItem2: Unterpunkt zwei bestellt
+olItem2: Zweite Amtszeit bestellt
+tableTitle: Blatt
+col1: Projekt
+col2: Zustand
+col3: Punktzahl
+row1Col1: statisch
+row1Col2: Vollendet
+row2Col1: Streaming
+row2Col2: Rendern
+codeTitle: Codeblock
+imageTitle: Bild

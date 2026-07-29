@@ -1,0 +1,46 @@
+open: Ava külgriba
+userName: Geek Walker
+userTitle: Vanem veebidisainer
+statFollowers: Tellija
+statFollowing: keskenduda
+statProjects: projekt
+groupCore: Põhifunktsioonid
+groupSystem: Süsteemihaldus
+groupData: andmete analüüs
+groupCollaboration: Meeskonnatöö
+widgetTitle: Salvestusruumi kasutamine
+widgetTasks: Minu ülesanded
+task1: Täielik Side interaktiivne arendus
+task2: Disain Vedel visuaalne esteetika
+task3: Optimeerige komponentide kasutatavust ja üksikasju
+navHome: Armatuurlaua avaleht
+navProfile: Isiklik keskus
+navSettings: Süsteemi seaded
+navMessages: Saidi uudised
+navNotifications: Märguannete meeldetuletus
+navPrivacy: Privaatsus ja turvalisus
+navHelp: Abi ja tagasiside
+navAnalytics: analüüsi aruanne
+navCloud: Pilvesalvestusruum
+navTeam: meeskonna liige
+navTasks: Ülesande koordineerimine
+logout: Logi välja
+upgradeTitle: Minge üle Professional Editionile
+upgradeDesc: Avage piiramatu pilvesalvestusruum ja täiustatud koostöö
+upgradeBtn: Uuendage kohe
+task4: Vaadake PR-kohustused üle ja ühendage filiaalid
+task5: Kirjutage WebC uue versiooni väljalaskelogi
+widgetOnline: Interneti-meeskonna liikmed
+member1: Lisa
+member2: David
+member3: Anna
+statusOnline: võrgus
+statusOffline: Võrguühenduseta
+statusBusy: Hõivatud
+widgetFiles: hiljutised failid
+file1: Tootedisaini spetsifikatsioon v2.4.pdf
+file2: 2026. aasta 3. kvartali kavand.docx
+file3: Komponentanimatsiooni demonstratsioon.mp4
+tagDesign: disain
+tagDev: areneda
+tagPm: toode

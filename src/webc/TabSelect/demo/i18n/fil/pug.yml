@@ -1,0 +1,9 @@
+language: wika
+os: sistema
+about: tungkol sa
+jsInfo: Ang JavaScript ay isang scripting language na malawakang ginagamit sa client-side web development.
+rsInfo: Ang Rust ay isang programming language ng system na nakatuon sa kaligtasan, bilis, at pagkakatugma.
+pyInfo: Ang Python ay isang object-oriented, interpreted computer programming language.
+macInfo: Ang macOS ay isang graphical operating system na nakabatay sa Unix na binuo ng Apple.
+winInfo: Ang Windows ay isang malawakang ginagamit na personal computer operating system na binuo ng Microsoft Corporation.
+aboutInfo: Kami ay nakatuon sa pagbuo ng mataas na kalidad na open source na mga bahagi ng front-end, at ikaw ay malugod na lumahok.

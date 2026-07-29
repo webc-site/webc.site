@@ -1,0 +1,38 @@
+basicTitle: Batakang estilo
+bold: Maisogon
+italic: italiko
+del: strikethrough
+inlineCode: inline nga code
+linkPrefix: Adunay teksto sa wala pa ug pagkahuman sa link, sama sa
+link: Opisyal nga website sa United Nations
+linkSuffix: usa ka sumpay.
+quoteSingle: Kini usa ka linya nga kinutlo.
+quoteMultiLine1: Kini usa ka multi-line quote.
+quoteMultiLine2: Usa ka biswal nga epekto alang sa pagpakita sa daghang linya nga mga pakisayran.
+note: Kinatibuk-ang mga mensahe ug mga nota
+tip: Mga tip ug mapuslanon nga mga tip
+important: Importante nga mga tip ug kabalaka
+warning: Mga pahimangno sa peligro ug mga panagana
+caution: KAKUYAW UG LABING RISKO NGA WARNING
+listTitle: Mga Quote ug Listahan
+taskTitle: listahan sa buluhaton
+todoItem: Kini usa ka wala mahuman nga buluhaton sa CSS
+doneItem: Kini usa ka nahuman nga buluhaton sa CSS
+ulItem1: Unordered una nga butang
+ulSubItem1: Unordered subitem uno
+ulSubItem2: Dili order nga subitem nga duha
+ulItem2: Dili order nga ikaduhang butang
+olItem1: Nag-order sa una nga butang
+olSubItem1: Nag-order sa usa ka butang
+olSubItem2: Gi-order nga subitem nga duha
+olItem2: Gi-order ang ikaduhang termino
+tableTitle: panid
+col1: proyekto
+col2: estado
+col3: iskor
+row1Col1: static
+row1Col2: Nakompleto
+row2Col1: streaming
+row2Col2: Paghubad
+codeTitle: block sa code
+imageTitle: hulagway

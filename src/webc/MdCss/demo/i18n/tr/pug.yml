@@ -1,0 +1,38 @@
+basicTitle: Temel stil
+bold: Gözü pek
+italic: italik
+del: üstü çizili
+inlineCode: satır içi kod
+linkPrefix: Bağlantının öncesinde ve sonrasında şöyle bir metin var:
+link: Birleşmiş Milletler resmi web sitesi
+linkSuffix: bir bağlantıdır.
+quoteSingle: Bu tek satırlık bir alıntıdır.
+quoteMultiLine1: Bu çok satırlı bir alıntıdır.
+quoteMultiLine2: Çok satırlı referansları görüntülemek için görsel bir efekt.
+note: Genel mesajlar ve notlar
+tip: İpuçları ve faydalı ipuçları
+important: Önemli ipuçları ve endişeler
+warning: Risk uyarıları ve önlemler
+caution: TEHLİKE VE AŞIRI RİSK UYARISI
+listTitle: Alıntılar ve Listeler
+taskTitle: görev listesi
+todoItem: Bu tamamlanmamış bir CSS görevidir
+doneItem: Bu tamamlanmış bir CSS görevidir
+ulItem1: Sıralanmamış ilk öğe
+ulSubItem1: Sırasız alt öğe bir
+ulSubItem2: Sırasız alt öğe iki
+ulItem2: Sıralanmamış ikinci öğe
+olItem1: İlk ürünü sipariş ettim
+olSubItem1: Birinci öğeyi sipariş ettim
+olSubItem2: İkinci alt öğeyi sipariş ettim
+olItem2: İkinci dönem sipariş edildi
+tableTitle: çarşaf
+col1: proje
+col2: durum
+col3: Gol
+row1Col1: statik
+row1Col2: Tamamlanmış
+row2Col1: akış
+row2Col2: İşleme
+codeTitle: kod bloğu
+imageTitle: resim

@@ -1,0 +1,10 @@
+t1: WebC v2.0 offisielt utgitt: minimalistisk komponentarkitektur for det moderne nettet
+s1: |-
+  Etter et halvt år med rekonstruksjon har WebC v2.0 offisielt kommet. Den nydesignede **Light DOM**-arkitekturen er perfekt kombinert med native `Custom Elements` for å gi ytelsesforbedringer uten sidestykke.
+t2: Native CSS Nesting dyptgående praksis og ytelsesoptimalisering
+s2: |-
+  I dag, med moderne nettlesere som fullt ut støtter `CSS Nesting` , forenkler kombinasjonen av preprosessor nesting-nivåer og innebygde funksjoner betraktelig stilvedlikeholdskostnadene. Denne artikkelen utforsker kjernefordelene og beste praksis.
+t3: Konstruksjonsfilosofien til null-avhengighet UI-komponentbibliotek
+s3: |-
+  Gå tilbake til nettbasert teknologistabel: Ikke behov for komplekse byggepipelines og enorme avhengighetstrær, du kan bygge høyytelsesgrensesnitt med kun innebygde JavaScript og nettstandarder.
+btn: Klikk her for å lese

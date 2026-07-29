@@ -1,0 +1,9 @@
+language: hizkuntza
+os: sistema
+about: buruz
+jsInfo: JavaScript bezeroaren aldeko web garapenean oso erabilia den script-lengoaia da.
+rsInfo: Rust segurtasuna, abiadura eta aldiberekotasunera bideratutako sistemen programazio lengoaia da.
+pyInfo: Python objektuetara zuzendutako eta interpretatutako ordenagailuen programazio lengoaia da.
+macInfo: macOS Applek garatutako Unix-en oinarritutako sistema eragile grafikoa da.
+winInfo: Windows Microsoft Corporation-ek garatutako ordenagailu pertsonal sistema eragilea da.
+aboutInfo: Kalitate handiko kode irekiko front-end osagaiak garatzeko konpromisoa hartzen dugu, eta parte hartzera gonbidatuta zaude.

@@ -1,0 +1,38 @@
+basicTitle: Phong cách cơ bản
+bold: In đậm
+italic: chữ nghiêng
+del: gạch ngang
+inlineCode: mã nội tuyến
+linkPrefix: Có văn bản trước và sau liên kết, chẳng hạn như
+link: Trang web chính thức của Liên hợp quốc
+linkSuffix: là một liên kết.
+quoteSingle: Đây là một trích dẫn một dòng.
+quoteMultiLine1: Đây là một trích dẫn nhiều dòng.
+quoteMultiLine2: Hiệu ứng hình ảnh để hiển thị tài liệu tham khảo nhiều dòng.
+note: Thông báo và ghi chú chung
+tip: Lời khuyên và lời khuyên hữu ích
+important: Những lời khuyên và mối quan tâm quan trọng
+warning: Cảnh báo rủi ro và biện pháp phòng ngừa
+caution: CẢNH BÁO NGUY HIỂM VÀ RỦI RO CỰC CAO
+listTitle: Báo giá và danh sách
+taskTitle: danh sách nhiệm vụ
+todoItem: Đây là một nhiệm vụ CSS chưa hoàn thành
+doneItem: Đây là một nhiệm vụ CSS đã hoàn thành
+ulItem1: Mục đầu tiên không có thứ tự
+ulSubItem1: Mục con không có thứ tự một
+ulSubItem2: Mục con thứ hai không có thứ tự
+ulItem2: Mục thứ hai không có thứ tự
+olItem1: Đặt hàng sản phẩm đầu tiên
+olSubItem1: Đặt hàng một mặt hàng
+olSubItem2: Đặt hàng tiểu mục hai
+olItem2: Đặt hàng nhiệm kỳ thứ hai
+tableTitle: tờ giấy
+col1: dự án
+col2: tình trạng
+col3: điểm
+row1Col1: tĩnh
+row1Col2: Hoàn thành
+row2Col1: phát trực tuyến
+row2Col2: Kết xuất
+codeTitle: khối mã
+imageTitle: hình ảnh

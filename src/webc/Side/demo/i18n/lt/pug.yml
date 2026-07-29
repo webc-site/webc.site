@@ -1,0 +1,46 @@
+open: Atidaryti šoninę juostą
+userName: Geekas Walkeris
+userTitle: Vyresnysis interneto dizaineris
+statFollowers: Abonentas
+statFollowing: sutelkti dėmesį į
+statProjects: projektą
+groupCore: Pagrindinės funkcijos
+groupSystem: Sistemos valdymas
+groupData: duomenų analizė
+groupCollaboration: Komandinis darbas
+widgetTitle: Sandėliavimo vietos naudojimas
+widgetTasks: Mano užduotys
+task1: Pilnas Side interaktyvus kūrimas
+task2: Dizainas Skysta vizualinė estetika
+task3: Optimizuokite komponentų naudojimą ir detales
+navHome: Prietaisų skydelio pagrindinis puslapis
+navProfile: Asmeninis centras
+navSettings: Sistemos nustatymai
+navMessages: Svetainės naujienos
+navNotifications: Pranešimo priminimas
+navPrivacy: Privatumas ir saugumas
+navHelp: Pagalba ir atsiliepimai
+navAnalytics: analizės ataskaita
+navCloud: Debesų saugyklos vieta
+navTeam: komandos narys
+navTasks: Užduočių koordinavimas
+logout: Atsijungti
+upgradeTitle: Atnaujinkite į Professional Edition
+upgradeDesc: Atrakinkite neribotą debesies saugyklą ir pažangų bendradarbiavimą
+upgradeBtn: Atnaujinkite dabar
+task4: Peržiūrėkite PR įsipareigojimus ir sujunkite filialus
+task5: Parašykite naujos WebC versijos išleidimo žurnalą
+widgetOnline: Internetinės komandos nariai
+member1: Liza
+member2: Deividas
+member3: Ana
+statusOnline: internete
+statusOffline: Neprisijungus
+statusBusy: Užimtas
+widgetFiles: naujausi failai
+file1: Gaminio dizaino specifikacija v2.4.pdf
+file2: 2026 m. trečiojo ketvirčio plano projektas.docx
+file3: Komponentinės animacijos demonstravimas.mp4
+tagDesign: dizainas
+tagDev: vystytis
+tagPm: produktas
