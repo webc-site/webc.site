@@ -47,6 +47,7 @@
 [md/htm](../ar/js/md/htm.md) : نص تخفيض السعر إلى سلسلة HTML
 [md/safeHtm](../ar/js/md/safeHtm.md) : نص تخفيض السعر إلى HTML آمن
 [md/streamRender](../ar/js/md/streamRender.md) : عرض تدفق Markdown
+[navScroll](../ar/js/navScroll.md)
 [rmWait](../ar/js/rmWait.md)
 [route](../ar/js/route.md) : إدارة توجيه الواجهة الأمامية لصفحة واحدة
 [WebC.site](../ar/doc/README.md)

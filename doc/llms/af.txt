@@ -47,6 +47,7 @@
 [md/htm](../af/js/md/htm.md) : Markdown teks na HTML-string
 [md/safeHtm](../af/js/md/safeHtm.md) : Markdown teks na veilige HTML
 [md/streamRender](../af/js/md/streamRender.md) : Afmerk-stroomweergawe
+[navScroll](../af/js/navScroll.md)
 [rmWait](../af/js/rmWait.md)
 [route](../af/js/route.md) : Enkelbladsy-voorkant-roetebestuur
 [WebC.site](../af/doc/README.md)

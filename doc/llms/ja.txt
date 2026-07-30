@@ -47,6 +47,7 @@
 [md/htm](../ja/js/md/htm.md) : マークダウンテキストをHTML文字列に変換
 [md/safeHtm](../ja/js/md/safeHtm.md) : マークダウン テキストを安全な HTML に変換
 [md/streamRender](../ja/js/md/streamRender.md) : マークダウンストリーミングレンダリング
+[navScroll](../ja/js/navScroll.md)
 [rmWait](../ja/js/rmWait.md)
 [route](../ja/js/route.md) : 単一ページのフロントエンドルーティング管理
 [WebC.site](../ja/doc/README.md)

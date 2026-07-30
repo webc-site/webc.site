@@ -47,6 +47,7 @@
 [md/htm](../nl/js/md/htm.md) : Markdown-tekst naar HTML-tekenreeks
 [md/safeHtm](../nl/js/md/safeHtm.md) : Markeer tekst naar veilige HTML
 [md/streamRender](../nl/js/md/streamRender.md) : Markdown streaming-weergave
+[navScroll](../nl/js/navScroll.md)
 [rmWait](../nl/js/rmWait.md)
 [route](../nl/js/route.md) : Front-end routingbeheer op één pagina
 [WebC.site](../nl/doc/README.md)

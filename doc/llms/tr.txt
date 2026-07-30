@@ -47,6 +47,7 @@
 [md/htm](../tr/js/md/htm.md) : Metni HTML dizesine işaretleme
 [md/safeHtm](../tr/js/md/safeHtm.md) : Metni güvenli HTML'ye işaretleme
 [md/streamRender](../tr/js/md/streamRender.md) : Markdown akış oluşturma
+[navScroll](../tr/js/navScroll.md)
 [rmWait](../tr/js/rmWait.md)
 [route](../tr/js/route.md) : Tek sayfa ön uç yönlendirme yönetimi
 [WebC.site](../tr/doc/README.md)

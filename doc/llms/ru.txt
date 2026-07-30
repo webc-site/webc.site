@@ -47,6 +47,7 @@
 [md/htm](../ru/js/md/htm.md) : Текст разметки в строку HTML
 [md/safeHtm](../ru/js/md/safeHtm.md) : Текст Markdown в безопасный HTML
 [md/streamRender](../ru/js/md/streamRender.md) : Потоковое рендеринг Markdown
+[navScroll](../ru/js/navScroll.md)
 [rmWait](../ru/js/rmWait.md)
 [route](../ru/js/route.md) : Управление маршрутизацией на одной странице
 [WebC.site](../ru/doc/README.md)

@@ -47,6 +47,7 @@
 [md/htm](../it/js/md/htm.md) : Markdown del testo in stringa HTML
 [md/safeHtm](../it/js/md/safeHtm.md) : Markdown del testo in HTML sicuro
 [md/streamRender](../it/js/md/streamRender.md) : Rendering in streaming Markdown
+[navScroll](../it/js/navScroll.md)
 [rmWait](../it/js/rmWait.md)
 [route](../it/js/route.md) : Gestione del routing front-end a pagina singola
 [WebC.site](../it/doc/README.md)

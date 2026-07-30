@@ -47,6 +47,7 @@
 [md/htm](../hu/js/md/htm.md) : Lejelölő szöveg HTML karakterláncra
 [md/safeHtm](../hu/js/md/safeHtm.md) : Szöveg leértékelése biztonságos HTML-be
 [md/streamRender](../hu/js/md/streamRender.md) : Markdown streaming renderelés
+[navScroll](../hu/js/navScroll.md)
 [rmWait](../hu/js/rmWait.md)
 [route](../hu/js/route.md) : Egyoldalas front-end útválasztás-kezelés
 [WebC.site](../hu/doc/README.md)

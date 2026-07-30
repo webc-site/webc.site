@@ -47,6 +47,7 @@
 [md/htm](../ka/js/md/htm.md) : ტექსტის მარკირება HTML სტრიქონზე
 [md/safeHtm](../ka/js/md/safeHtm.md) : ტექსტის მონიშვნა უსაფრთხო HTML-ზე
 [md/streamRender](../ka/js/md/streamRender.md) : Markdown სტრიმინგის რენდერი
+[navScroll](../ka/js/navScroll.md)
 [rmWait](../ka/js/rmWait.md)
 [route](../ka/js/route.md) : ერთი გვერდის წინა ბოლო მარშრუტიზაციის მართვა
 [WebC.site](../ka/doc/README.md)

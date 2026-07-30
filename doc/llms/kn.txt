@@ -47,6 +47,7 @@
 [md/htm](../kn/js/md/htm.md) : HTML ಸ್ಟ್ರಿಂಗ್‌ಗೆ ಮಾರ್ಕ್‌ಡೌನ್ ಪಠ್ಯ
 [md/safeHtm](../kn/js/md/safeHtm.md) : ಸುರಕ್ಷಿತ HTML ಗೆ ಮಾರ್ಕ್‌ಡೌನ್ ಪಠ್ಯ
 [md/streamRender](../kn/js/md/streamRender.md) : ಮಾರ್ಕ್‌ಡೌನ್ ಸ್ಟ್ರೀಮಿಂಗ್ ರೆಂಡರಿಂಗ್
+[navScroll](../kn/js/navScroll.md)
 [rmWait](../kn/js/rmWait.md)
 [route](../kn/js/route.md) : ಏಕ ಪುಟದ ಮುಂಭಾಗದ ರೂಟಿಂಗ್ ನಿರ್ವಹಣೆ
 [WebC.site](../kn/doc/README.md)

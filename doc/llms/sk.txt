@@ -47,6 +47,7 @@
 [md/htm](../sk/js/md/htm.md) : Označenie textu na reťazec HTML
 [md/safeHtm](../sk/js/md/safeHtm.md) : Označenie textu na bezpečný HTML
 [md/streamRender](../sk/js/md/streamRender.md) : Vykresľovanie streamovania Markdown
+[navScroll](../sk/js/navScroll.md)
 [rmWait](../sk/js/rmWait.md)
 [route](../sk/js/route.md) : Správa front-end smerovania na jednej stránke
 [WebC.site](../sk/doc/README.md)

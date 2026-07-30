@@ -47,6 +47,7 @@
 [md/htm](../mr/js/md/htm.md) : HTML स्ट्रिंगवर मजकूर मार्कडाउन करा
 [md/safeHtm](../mr/js/md/safeHtm.md) : सुरक्षित HTML वर मजकूर चिन्हांकित करा
 [md/streamRender](../mr/js/md/streamRender.md) : मार्कडाउन स्ट्रीमिंग प्रस्तुतीकरण
+[navScroll](../mr/js/navScroll.md)
 [rmWait](../mr/js/rmWait.md)
 [route](../mr/js/route.md) : सिंगल पेज फ्रंट-एंड राउटिंग व्यवस्थापन
 [WebC.site](../mr/doc/README.md)

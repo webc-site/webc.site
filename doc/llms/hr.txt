@@ -47,6 +47,7 @@
 [md/htm](../hr/js/md/htm.md) : Markdown tekst u HTML niz
 [md/safeHtm](../hr/js/md/safeHtm.md) : Markdown tekst u siguran HTML
 [md/streamRender](../hr/js/md/streamRender.md) : Markdown streaming renderiranje
+[navScroll](../hr/js/navScroll.md)
 [rmWait](../hr/js/rmWait.md)
 [route](../hr/js/route.md) : Upravljanje usmjeravanjem na prednjoj strani na jednoj stranici
 [WebC.site](../hr/doc/README.md)

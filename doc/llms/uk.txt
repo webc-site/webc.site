@@ -47,6 +47,7 @@
 [md/htm](../uk/js/md/htm.md) : Розмітка тексту в рядок HTML
 [md/safeHtm](../uk/js/md/safeHtm.md) : Розмітка тексту в безпечний HTML
 [md/streamRender](../uk/js/md/streamRender.md) : Потокове рендеринг Markdown
+[navScroll](../uk/js/navScroll.md)
 [rmWait](../uk/js/rmWait.md)
 [route](../uk/js/route.md) : Односторінкове керування маршрутизацією на передньому плані
 [WebC.site](../uk/doc/README.md)

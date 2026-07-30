@@ -47,6 +47,7 @@
 [md/htm](../ms/js/md/htm.md) : Teks markdown ke rentetan HTML
 [md/safeHtm](../ms/js/md/safeHtm.md) : Teks turun harga ke HTML selamat
 [md/streamRender](../ms/js/md/streamRender.md) : Penstriman penurunan harga
+[navScroll](../ms/js/navScroll.md)
 [rmWait](../ms/js/rmWait.md)
 [route](../ms/js/route.md) : Pengurusan penghalaan muka hadapan halaman tunggal
 [WebC.site](../ms/doc/README.md)

@@ -47,6 +47,7 @@
 [md/htm](../jv/js/md/htm.md) : Markdown teks menyang string HTML
 [md/safeHtm](../jv/js/md/safeHtm.md) : Markdown teks menyang HTML aman
 [md/streamRender](../jv/js/md/streamRender.md) : Markdown streaming rendering
+[navScroll](../jv/js/navScroll.md)
 [rmWait](../jv/js/rmWait.md)
 [route](../jv/js/route.md) : Manajemen rute ngarep-mburi siji kaca
 [WebC.site](../jv/doc/README.md)

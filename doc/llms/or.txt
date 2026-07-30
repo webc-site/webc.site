@@ -47,6 +47,7 @@
 [md/htm](../or/js/md/htm.md) : HTML ଷ୍ଟ୍ରିଙ୍ଗକୁ ମାର୍କଡାଉନ୍ ଟେକ୍ସଟ୍ |
 [md/safeHtm](../or/js/md/safeHtm.md) : ସୁରକ୍ଷିତ HTML କୁ ମାର୍କଡାଉନ୍ ଟେକ୍ସଟ୍ |
 [md/streamRender](../or/js/md/streamRender.md) : ମାର୍କଡାଉନ୍ ଷ୍ଟ୍ରିମିଂ ରେଣ୍ଡରିଂ |
+[navScroll](../or/js/navScroll.md)
 [rmWait](../or/js/rmWait.md)
 [route](../or/js/route.md) : ଏକକ ପୃଷ୍ଠା ଫ୍ରଣ୍ଟ-ଏଣ୍ଡ ରାଉଟିଙ୍ଗ ପରିଚାଳନା |
 [WebC.site](../or/doc/README.md)

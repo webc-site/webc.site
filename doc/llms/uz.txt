@@ -47,6 +47,7 @@
 [md/htm](../uz/js/md/htm.md) : Matnni HTML qatoriga belgilash
 [md/safeHtm](../uz/js/md/safeHtm.md) : Xavfsiz HTML uchun markdown matn
 [md/streamRender](../uz/js/md/streamRender.md) : Markdown oqimli renderlash
+[navScroll](../uz/js/navScroll.md)
 [rmWait](../uz/js/rmWait.md)
 [route](../uz/js/route.md) : Bir sahifali frontend marshrutlashni boshqarish
 [WebC.site](../uz/doc/README.md)

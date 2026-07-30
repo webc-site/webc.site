@@ -47,6 +47,7 @@
 [md/htm](../bn/js/md/htm.md) : HTML স্ট্রিং-এ মার্কডাউন পাঠ্য
 [md/safeHtm](../bn/js/md/safeHtm.md) : নিরাপদ HTML-এ মার্কডাউন পাঠ্য
 [md/streamRender](../bn/js/md/streamRender.md) : মার্কডাউন স্ট্রিমিং রেন্ডারিং
+[navScroll](../bn/js/navScroll.md)
 [rmWait](../bn/js/rmWait.md)
 [route](../bn/js/route.md) : একক পৃষ্ঠা ফ্রন্ট-এন্ড রাউটিং ব্যবস্থাপনা
 [WebC.site](../bn/doc/README.md)

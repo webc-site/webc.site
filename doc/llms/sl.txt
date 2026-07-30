@@ -47,6 +47,7 @@
 [md/htm](../sl/js/md/htm.md) : Markdown besedilo v niz HTML
 [md/safeHtm](../sl/js/md/safeHtm.md) : Markdown besedilo v varen HTML
 [md/streamRender](../sl/js/md/streamRender.md) : Markdown pretočno upodabljanje
+[navScroll](../sl/js/navScroll.md)
 [rmWait](../sl/js/rmWait.md)
 [route](../sl/js/route.md) : Enostransko upravljanje usmerjanja na sprednji strani
 [WebC.site](../sl/doc/README.md)

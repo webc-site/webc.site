@@ -47,6 +47,7 @@
 [md/htm](../id/js/md/htm.md) : Teks penurunan harga ke string HTML
 [md/safeHtm](../id/js/md/safeHtm.md) : Teks penurunan harga ke HTML yang aman
 [md/streamRender](../id/js/md/streamRender.md) : Render streaming penurunan harga
+[navScroll](../id/js/navScroll.md)
 [rmWait](../id/js/rmWait.md)
 [route](../id/js/route.md) : Manajemen perutean front-end satu halaman
 [WebC.site](../id/doc/README.md)

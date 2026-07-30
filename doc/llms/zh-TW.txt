@@ -47,6 +47,7 @@
 [md/htm](../zh-TW/js/md/htm.md) : Markdown 文字轉 HTML 字串
 [md/safeHtm](../zh-TW/js/md/safeHtm.md) : Markdown 文字轉安全 HTML
 [md/streamRender](../zh-TW/js/md/streamRender.md) : Markdown 串流渲染
+[navScroll](../zh-TW/js/navScroll.md)
 [rmWait](../zh-TW/js/rmWait.md)
 [route](../zh-TW/js/route.md) : 單頁前端路由管理
 [WebC.site](../zh-TW/doc/README.md)

@@ -47,6 +47,7 @@
 [md/htm](../my/js/md/htm.md) : HTML စာကြောင်းသို့ Markdown စာသား
 [md/safeHtm](../my/js/md/safeHtm.md) : လုံခြုံသော HTML သို့ Markdown စာသား
 [md/streamRender](../my/js/md/streamRender.md) : Markdown streaming rendering
+[navScroll](../my/js/navScroll.md)
 [rmWait](../my/js/rmWait.md)
 [route](../my/js/route.md) : စာမျက်နှာတစ်ခုတည်း ရှေ့ဆုံးလမ်းကြောင်း စီမံခန့်ခွဲမှု
 [WebC.site](../my/doc/README.md)

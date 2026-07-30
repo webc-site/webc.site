@@ -47,6 +47,7 @@
 [md/htm](../iw/js/md/htm.md) : סימון טקסט למחרוזת HTML
 [md/safeHtm](../iw/js/md/safeHtm.md) : סימון טקסט ל-HTML בטוח
 [md/streamRender](../iw/js/md/streamRender.md) : עיבוד סטרימינג של סימון
+[navScroll](../iw/js/navScroll.md)
 [rmWait](../iw/js/rmWait.md)
 [route](../iw/js/route.md) : ניהול ניתוב מול עמוד בודד
 [WebC.site](../iw/doc/README.md)

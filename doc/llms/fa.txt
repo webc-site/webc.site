@@ -47,6 +47,7 @@
 [md/htm](../fa/js/md/htm.md) : علامت گذاری متن به رشته HTML
 [md/safeHtm](../fa/js/md/safeHtm.md) : علامت گذاری متن به HTML ایمن
 [md/streamRender](../fa/js/md/streamRender.md) : رندر جریان Markdown
+[navScroll](../fa/js/navScroll.md)
 [rmWait](../fa/js/rmWait.md)
 [route](../fa/js/route.md) : مدیریت مسیریابی جلویی تک صفحه ای
 [WebC.site](../fa/doc/README.md)

@@ -47,6 +47,7 @@
 [md/htm](../bs/js/md/htm.md) : Označite tekst u HTML string
 [md/safeHtm](../bs/js/md/safeHtm.md) : Označite tekst u siguran HTML
 [md/streamRender](../bs/js/md/streamRender.md) : Markdown streaming renderiranje
+[navScroll](../bs/js/navScroll.md)
 [rmWait](../bs/js/rmWait.md)
 [route](../bs/js/route.md) : Jednostrani front-end rutiranje upravljanja
 [WebC.site](../bs/doc/README.md)

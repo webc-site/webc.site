@@ -47,6 +47,7 @@
 [md/htm](../ur/js/md/htm.md) : HTML سٹرنگ میں متن کو نشان زد کریں۔
 [md/safeHtm](../ur/js/md/safeHtm.md) : محفوظ HTML میں متن کو نشان زد کریں۔
 [md/streamRender](../ur/js/md/streamRender.md) : مارک ڈاؤن اسٹریمنگ رینڈرنگ
+[navScroll](../ur/js/navScroll.md)
 [rmWait](../ur/js/rmWait.md)
 [route](../ur/js/route.md) : سنگل پیج فرنٹ اینڈ روٹنگ مینجمنٹ
 [WebC.site](../ur/doc/README.md)

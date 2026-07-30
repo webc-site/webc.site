@@ -47,6 +47,7 @@
 [md/htm](../sq/js/md/htm.md) : Shënoni tekstin në vargun HTML
 [md/safeHtm](../sq/js/md/safeHtm.md) : Shënoni tekstin në HTML të sigurt
 [md/streamRender](../sq/js/md/streamRender.md) : Transmetimi i transmetimit Markdown
+[navScroll](../sq/js/navScroll.md)
 [rmWait](../sq/js/rmWait.md)
 [route](../sq/js/route.md) : Menaxhimi i rrugëtimit me një faqe të përparme
 [WebC.site](../sq/doc/README.md)

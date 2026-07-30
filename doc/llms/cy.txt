@@ -47,6 +47,7 @@
 [md/htm](../cy/js/md/htm.md) : Markdown testun i llinyn HTML
 [md/safeHtm](../cy/js/md/safeHtm.md) : Markdown testun i HTML diogel
 [md/streamRender](../cy/js/md/streamRender.md) : Rendro ffrydio Markdown
+[navScroll](../cy/js/navScroll.md)
 [rmWait](../cy/js/rmWait.md)
 [route](../cy/js/route.md) : Rheolaeth llwybro pen blaen un dudalen
 [WebC.site](../cy/doc/README.md)

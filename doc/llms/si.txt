@@ -47,6 +47,7 @@
 [md/htm](../si/js/md/htm.md) : පෙළ HTML තන්තුවට සලකුණු කරන්න
 [md/safeHtm](../si/js/md/safeHtm.md) : ආරක්ෂිත HTML වෙත පෙළ සලකුණු කරන්න
 [md/streamRender](../si/js/md/streamRender.md) : මාර්ක්ඩවුන් ප්‍රවාහ විදැහුම්කරණය
+[navScroll](../si/js/navScroll.md)
 [rmWait](../si/js/rmWait.md)
 [route](../si/js/route.md) : තනි පිටු ඉදිරිපස-අන්ත මාර්ගගත කළමනාකරණය
 [WebC.site](../si/doc/README.md)

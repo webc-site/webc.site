@@ -47,6 +47,7 @@
 [md/htm](../fi/js/md/htm.md) : Merkintäteksti HTML-merkkijonoon
 [md/safeHtm](../fi/js/md/safeHtm.md) : Merkitse teksti turvalliseen HTML:ään
 [md/streamRender](../fi/js/md/streamRender.md) : Markdown-suoratoisto
+[navScroll](../fi/js/navScroll.md)
 [rmWait](../fi/js/rmWait.md)
 [route](../fi/js/route.md) : Yhden sivun käyttöliittymän reitityksen hallinta
 [WebC.site](../fi/doc/README.md)

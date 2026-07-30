@@ -47,6 +47,7 @@
 [md/htm](../ne/js/md/htm.md) : HTML स्ट्रिङमा मार्कडाउन पाठ
 [md/safeHtm](../ne/js/md/safeHtm.md) : सुरक्षित HTML मा मार्कडाउन पाठ
 [md/streamRender](../ne/js/md/streamRender.md) : मार्कडाउन स्ट्रिमिङ रेन्डरिङ
+[navScroll](../ne/js/navScroll.md)
 [rmWait](../ne/js/rmWait.md)
 [route](../ne/js/route.md) : एकल पृष्ठ अगाडि-अन्त मार्ग व्यवस्थापन
 [WebC.site](../ne/doc/README.md)

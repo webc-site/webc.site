@@ -47,6 +47,7 @@
 [md/htm](../km/js/md/htm.md) : សម្គាល់អត្ថបទទៅជាខ្សែអក្សរ HTML
 [md/safeHtm](../km/js/md/safeHtm.md) : អត្ថបទ Markdown ទៅ HTML សុវត្ថិភាព
 [md/streamRender](../km/js/md/streamRender.md) : ការបង្ហាញការស្ទ្រីម Markdown
+[navScroll](../km/js/navScroll.md)
 [rmWait](../km/js/rmWait.md)
 [route](../km/js/route.md) : ការគ្រប់គ្រងការនាំផ្លូវផ្នែកខាងមុខតែមួយទំព័រ
 [WebC.site](../km/doc/README.md)

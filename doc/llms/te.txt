@@ -47,6 +47,7 @@
 [md/htm](../te/js/md/htm.md) : HTML స్ట్రింగ్‌కు మార్క్‌డౌన్ టెక్స్ట్
 [md/safeHtm](../te/js/md/safeHtm.md) : సురక్షిత HTMLకి మార్క్‌డౌన్ టెక్స్ట్
 [md/streamRender](../te/js/md/streamRender.md) : మార్క్‌డౌన్ స్ట్రీమింగ్ రెండరింగ్
+[navScroll](../te/js/navScroll.md)
 [rmWait](../te/js/rmWait.md)
 [route](../te/js/route.md) : ఒకే పేజీ ఫ్రంట్-ఎండ్ రూటింగ్ నిర్వహణ
 [WebC.site](../te/doc/README.md)

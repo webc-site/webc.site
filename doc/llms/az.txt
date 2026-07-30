@@ -47,6 +47,7 @@
 [md/htm](../az/js/md/htm.md) : Mətni HTML sətirinə işarələyin
 [md/safeHtm](../az/js/md/safeHtm.md) : Mətni təhlükəsiz HTML-ə işarələyin
 [md/streamRender](../az/js/md/streamRender.md) : Markdown axın göstərilməsi
+[navScroll](../az/js/navScroll.md)
 [rmWait](../az/js/rmWait.md)
 [route](../az/js/route.md) : Tək səhifəli ön uç marşrutlaşdırma idarəetməsi
 [WebC.site](../az/doc/README.md)

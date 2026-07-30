@@ -47,6 +47,7 @@
 [md/htm](../ca/js/md/htm.md) : Text de reducció a cadena HTML
 [md/safeHtm](../ca/js/md/safeHtm.md) : Text de reducció a HTML segur
 [md/streamRender](../ca/js/md/streamRender.md) : Renderització de streaming Markdown
+[navScroll](../ca/js/navScroll.md)
 [rmWait](../ca/js/rmWait.md)
 [route](../ca/js/route.md) : Gestió d'enrutament frontal d'una sola pàgina
 [WebC.site](../ca/doc/README.md)

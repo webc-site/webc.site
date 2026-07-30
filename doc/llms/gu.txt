@@ -47,6 +47,7 @@
 [md/htm](../gu/js/md/htm.md) : HTML સ્ટ્રિંગમાં ટેક્સ્ટને માર્કડાઉન કરો
 [md/safeHtm](../gu/js/md/safeHtm.md) : ટેક્સ્ટને સુરક્ષિત HTML પર માર્કડાઉન કરો
 [md/streamRender](../gu/js/md/streamRender.md) : માર્કડાઉન સ્ટ્રીમિંગ રેન્ડરિંગ
+[navScroll](../gu/js/navScroll.md)
 [rmWait](../gu/js/rmWait.md)
 [route](../gu/js/route.md) : સિંગલ પેજ ફ્રન્ટ-એન્ડ રૂટીંગ મેનેજમેન્ટ
 [WebC.site](../gu/doc/README.md)

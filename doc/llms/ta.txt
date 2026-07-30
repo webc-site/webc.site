@@ -47,6 +47,7 @@
 [md/htm](../ta/js/md/htm.md) : HTML சரத்திற்கு மார்க் டவுன் உரை
 [md/safeHtm](../ta/js/md/safeHtm.md) : பாதுகாப்பான HTML க்கு மார்க் டவுன் உரை
 [md/streamRender](../ta/js/md/streamRender.md) : மார்க் டவுன் ஸ்ட்ரீமிங் ரெண்டரிங்
+[navScroll](../ta/js/navScroll.md)
 [rmWait](../ta/js/rmWait.md)
 [route](../ta/js/route.md) : ஒற்றை பக்க முன்-இறுதி ரூட்டிங் மேலாண்மை
 [WebC.site](../ta/doc/README.md)

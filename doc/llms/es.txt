@@ -47,6 +47,7 @@
 [md/htm](../es/js/md/htm.md) : Texto de rebajas a cadena HTML
 [md/safeHtm](../es/js/md/safeHtm.md) : Texto Markdown para HTML seguro
 [md/streamRender](../es/js/md/streamRender.md) : Representación de transmisión de rebajas
+[navScroll](../es/js/navScroll.md)
 [rmWait](../es/js/rmWait.md)
 [route](../es/js/route.md) : Gestión de enrutamiento front-end de una sola página
 [WebC.site](../es/doc/README.md)

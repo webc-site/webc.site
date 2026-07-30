@@ -47,6 +47,7 @@
 [md/htm](../ko/js/md/htm.md) : 마크다운 텍스트를 HTML 문자열로
 [md/safeHtm](../ko/js/md/safeHtm.md) : 마크다운 텍스트를 안전한 HTML로
 [md/streamRender](../ko/js/md/streamRender.md) : 마크다운 스트리밍 렌더링
+[navScroll](../ko/js/navScroll.md)
 [rmWait](../ko/js/rmWait.md)
 [route](../ko/js/route.md) : 단일 페이지 프런트엔드 라우팅 관리
 [WebC.site](../ko/doc/README.md)

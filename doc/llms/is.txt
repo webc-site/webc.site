@@ -47,6 +47,7 @@
 [md/htm](../is/js/md/htm.md) : Markdown texti í HTML streng
 [md/safeHtm](../is/js/md/safeHtm.md) : Markdown texta í öruggt HTML
 [md/streamRender](../is/js/md/streamRender.md) : Markdown streymi flutningur
+[navScroll](../is/js/navScroll.md)
 [rmWait](../is/js/rmWait.md)
 [route](../is/js/route.md) : Stýring á einni síðu framhlið leiðarstjórnunar
 [WebC.site](../is/doc/README.md)

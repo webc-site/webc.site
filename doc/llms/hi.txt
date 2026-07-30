@@ -47,6 +47,7 @@
 [md/htm](../hi/js/md/htm.md) : HTML स्ट्रिंग में टेक्स्ट को मार्कडाउन करें
 [md/safeHtm](../hi/js/md/safeHtm.md) : टेक्स्ट को सुरक्षित HTML में मार्कडाउन करें
 [md/streamRender](../hi/js/md/streamRender.md) : मार्कडाउन स्ट्रीमिंग रेंडरिंग
+[navScroll](../hi/js/navScroll.md)
 [rmWait](../hi/js/rmWait.md)
 [route](../hi/js/route.md) : सिंगल पेज फ्रंट-एंड रूटिंग प्रबंधन
 [WebC.site](../hi/doc/README.md)

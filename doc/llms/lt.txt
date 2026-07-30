@@ -47,6 +47,7 @@
 [md/htm](../lt/js/md/htm.md) : Pažymėjimo tekstas į HTML eilutę
 [md/safeHtm](../lt/js/md/safeHtm.md) : Pažymėkite tekstą į saugų HTML
 [md/streamRender](../lt/js/md/streamRender.md) : „Markdown“ srautinio perdavimo atvaizdavimas
+[navScroll](../lt/js/navScroll.md)
 [rmWait](../lt/js/rmWait.md)
 [route](../lt/js/route.md) : Vieno puslapio priekinio maršruto valdymas
 [WebC.site](../lt/doc/README.md)

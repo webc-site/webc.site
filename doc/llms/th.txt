@@ -47,6 +47,7 @@
 [md/htm](../th/js/md/htm.md) : ทำเครื่องหมายข้อความเป็นสตริง HTML
 [md/safeHtm](../th/js/md/safeHtm.md) : ทำเครื่องหมายข้อความเป็น HTML ที่ปลอดภัย
 [md/streamRender](../th/js/md/streamRender.md) : การเรนเดอร์สตรีมมิ่ง Markdown
+[navScroll](../th/js/navScroll.md)
 [rmWait](../th/js/rmWait.md)
 [route](../th/js/route.md) : การจัดการเส้นทางส่วนหน้าหน้าเดียว
 [WebC.site](../th/doc/README.md)

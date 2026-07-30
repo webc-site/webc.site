@@ -47,6 +47,7 @@
 [md/htm](../eu/js/md/htm.md) : Markdown testua HTML katera
 [md/safeHtm](../eu/js/md/safeHtm.md) : Markdown testua HTML segurura
 [md/streamRender](../eu/js/md/streamRender.md) : Markdown streaming errendatzea
+[navScroll](../eu/js/navScroll.md)
 [rmWait](../eu/js/rmWait.md)
 [route](../eu/js/route.md) : Orrialde bakarreko frontend bideratze kudeaketa
 [WebC.site](../eu/doc/README.md)

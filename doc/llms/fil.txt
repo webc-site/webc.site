@@ -47,6 +47,7 @@
 [md/htm](../fil/js/md/htm.md) : Markdown text sa HTML string
 [md/safeHtm](../fil/js/md/safeHtm.md) : Markdown text sa ligtas na HTML
 [md/streamRender](../fil/js/md/streamRender.md) : Markdown streaming rendering
+[navScroll](../fil/js/navScroll.md)
 [rmWait](../fil/js/rmWait.md)
 [route](../fil/js/route.md) : Pamamahala ng pagruruta sa front-end na isang pahina
 [WebC.site](../fil/doc/README.md)

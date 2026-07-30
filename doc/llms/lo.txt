@@ -47,6 +47,7 @@
 [md/htm](../lo/js/md/htm.md) : Markdown text to HTML string
 [md/safeHtm](../lo/js/md/safeHtm.md) : ຂໍ້ຄວາມ Markdown ເປັນ HTML ທີ່ປອດໄພ
 [md/streamRender](../lo/js/md/streamRender.md) : Markdown ການສະແດງຜົນການຖ່າຍທອດ
+[navScroll](../lo/js/navScroll.md)
 [rmWait](../lo/js/rmWait.md)
 [route](../lo/js/route.md) : ການຈັດການເສັ້ນທາງໜ້າດຽວ
 [WebC.site](../lo/doc/README.md)

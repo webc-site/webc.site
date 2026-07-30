@@ -47,6 +47,7 @@
 [md/htm](../mt/js/md/htm.md) : Markdown test għal string HTML
 [md/safeHtm](../mt/js/md/safeHtm.md) : Markdown test għal HTML sikur
 [md/streamRender](../mt/js/md/streamRender.md) : Rendering tal-istrimjar ta' Markdown
+[navScroll](../mt/js/navScroll.md)
 [rmWait](../mt/js/rmWait.md)
 [route](../mt/js/route.md) : Ġestjoni tar-rotot front-end ta 'paġna waħda
 [WebC.site](../mt/doc/README.md)

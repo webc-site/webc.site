@@ -47,6 +47,7 @@
 [md/htm](../lv/js/md/htm.md) : Atzīmes teksts uz HTML virkni
 [md/safeHtm](../lv/js/md/safeHtm.md) : Atzīmējiet tekstu drošā HTML formātā
 [md/streamRender](../lv/js/md/streamRender.md) : Markdown straumēšanas renderēšana
+[navScroll](../lv/js/navScroll.md)
 [rmWait](../lv/js/rmWait.md)
 [route](../lv/js/route.md) : Vienas lapas priekšgala maršrutēšanas pārvaldība
 [WebC.site](../lv/doc/README.md)

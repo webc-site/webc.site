@@ -47,6 +47,7 @@
 [md/htm](../sd/js/md/htm.md) : HTML اسٽرنگ ڏانهن متن کي نشان لڳايو
 [md/safeHtm](../sd/js/md/safeHtm.md) : محفوظ HTML ڏانهن متن کي نشان لڳايو
 [md/streamRender](../sd/js/md/streamRender.md) : مارڪ ڊائون اسٽريمنگ رينڊرنگ
+[navScroll](../sd/js/navScroll.md)
 [rmWait](../sd/js/rmWait.md)
 [route](../sd/js/route.md) : سنگل پيج فرنٽ-اينڊ روٽنگ جو انتظام
 [WebC.site](../sd/doc/README.md)

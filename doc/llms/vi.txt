@@ -47,6 +47,7 @@
 [md/htm](../vi/js/md/htm.md) : Đánh dấu văn bản thành chuỗi HTML
 [md/safeHtm](../vi/js/md/safeHtm.md) : Đánh dấu văn bản thành HTML an toàn
 [md/streamRender](../vi/js/md/streamRender.md) : Kết xuất phát trực tuyến Markdown
+[navScroll](../vi/js/navScroll.md)
 [rmWait](../vi/js/rmWait.md)
 [route](../vi/js/route.md) : Quản lý định tuyến giao diện người dùng một trang
 [WebC.site](../vi/doc/README.md)

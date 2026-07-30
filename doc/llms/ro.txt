@@ -47,6 +47,7 @@
 [md/htm](../ro/js/md/htm.md) : Reducere text în șir HTML
 [md/safeHtm](../ro/js/md/safeHtm.md) : Reducere text la HTML sigur
 [md/streamRender](../ro/js/md/streamRender.md) : Redarea în flux Markdown
+[navScroll](../ro/js/navScroll.md)
 [rmWait](../ro/js/rmWait.md)
 [route](../ro/js/route.md) : Gestionarea rutei front-end cu o singură pagină
 [WebC.site](../ro/doc/README.md)

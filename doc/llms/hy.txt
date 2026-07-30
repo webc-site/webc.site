@@ -47,6 +47,7 @@
 [md/htm](../hy/js/md/htm.md) : Նշել տեքստը HTML տողի մեջ
 [md/safeHtm](../hy/js/md/safeHtm.md) : Նշեք տեքստը անվտանգ HTML-ի համար
 [md/streamRender](../hy/js/md/streamRender.md) : Markdown հոսքային մատուցում
+[navScroll](../hy/js/navScroll.md)
 [rmWait](../hy/js/rmWait.md)
 [route](../hy/js/route.md) : Մեկ էջի ճակատային երթուղիների կառավարում
 [WebC.site](../hy/doc/README.md)

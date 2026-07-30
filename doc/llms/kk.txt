@@ -47,6 +47,7 @@
 [md/htm](../kk/js/md/htm.md) : Мәтінді HTML жолына белгілеу
 [md/safeHtm](../kk/js/md/safeHtm.md) : Қауіпсіз HTML-ге белгілеу мәтіні
 [md/streamRender](../kk/js/md/streamRender.md) : Markdown ағынды көрсету
+[navScroll](../kk/js/navScroll.md)
 [rmWait](../kk/js/rmWait.md)
 [route](../kk/js/route.md) : Бір беттің алдыңғы жағындағы маршруттауды басқару
 [WebC.site](../kk/doc/README.md)

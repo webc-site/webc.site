@@ -47,6 +47,7 @@
 [md/htm](../sr/js/md/htm.md) : Маркдовн текст у ХТМЛ стринг
 [md/safeHtm](../sr/js/md/safeHtm.md) : Маркдовн текст у сигуран ХТМЛ
 [md/streamRender](../sr/js/md/streamRender.md) : Маркдовн стриминг рендеровање
+[navScroll](../sr/js/navScroll.md)
 [rmWait](../sr/js/rmWait.md)
 [route](../sr/js/route.md) : Једностранично управљање рутирањем на фронт-енд
 [WebC.site](../sr/doc/README.md)

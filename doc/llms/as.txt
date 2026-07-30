@@ -47,6 +47,7 @@
 [md/htm](../as/js/md/htm.md) : HTML ষ্ট্ৰিংলৈ লিখনী মাৰ্কডাউন কৰক
 [md/safeHtm](../as/js/md/safeHtm.md) : নিৰাপদ HTML লৈ লিখনী মাৰ্কডাউন কৰক
 [md/streamRender](../as/js/md/streamRender.md) : মাৰ্কডাউন ষ্ট্ৰীমিং ৰেণ্ডাৰ
+[navScroll](../as/js/navScroll.md)
 [rmWait](../as/js/rmWait.md)
 [route](../as/js/route.md) : একক পৃষ্ঠাৰ ফ্ৰন্ট-এণ্ড ৰাউটিং ব্যৱস্থাপনা
 [WebC.site](../as/doc/README.md)

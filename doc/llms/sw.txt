@@ -47,6 +47,7 @@
 [md/htm](../sw/js/md/htm.md) : Andika maandishi kwa mfuatano wa HTML
 [md/safeHtm](../sw/js/md/safeHtm.md) : Andika maandishi kwa HTML salama
 [md/streamRender](../sw/js/md/streamRender.md) : Utoaji wa kutiririsha Markdown
+[navScroll](../sw/js/navScroll.md)
 [rmWait](../sw/js/rmWait.md)
 [route](../sw/js/route.md) : Usimamizi wa uelekezaji wa ukurasa mmoja wa mwisho
 [WebC.site](../sw/doc/README.md)

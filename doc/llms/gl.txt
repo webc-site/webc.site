@@ -47,6 +47,7 @@
 [md/htm](../gl/js/md/htm.md) : Texto de rebaixa a cadea HTML
 [md/safeHtm](../gl/js/md/safeHtm.md) : Texto de rebaixa para HTML seguro
 [md/streamRender](../gl/js/md/streamRender.md) : Renderizado de streaming Markdown
+[navScroll](../gl/js/navScroll.md)
 [rmWait](../gl/js/rmWait.md)
 [route](../gl/js/route.md) : Xestión de enrutamento front-end dunha soa páxina
 [WebC.site](../gl/doc/README.md)

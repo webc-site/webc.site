@@ -47,6 +47,7 @@
 [md/htm](../bg/js/md/htm.md) : Markdown текст към HTML низ
 [md/safeHtm](../bg/js/md/safeHtm.md) : Маркиране на текст в безопасен HTML
 [md/streamRender](../bg/js/md/streamRender.md) : Markdown поточно рендиране
+[navScroll](../bg/js/navScroll.md)
 [rmWait](../bg/js/rmWait.md)
 [route](../bg/js/route.md) : Управление на маршрутизиране от предния край на една страница
 [WebC.site](../bg/doc/README.md)

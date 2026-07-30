@@ -47,6 +47,7 @@
 [md/htm](../el/js/md/htm.md) : Σημείωση κειμένου σε συμβολοσειρά HTML
 [md/safeHtm](../el/js/md/safeHtm.md) : Σημείωση κειμένου σε ασφαλή HTML
 [md/streamRender](../el/js/md/streamRender.md) : Απόδοση ροής Markdown
+[navScroll](../el/js/navScroll.md)
 [rmWait](../el/js/rmWait.md)
 [route](../el/js/route.md) : Διαχείριση δρομολόγησης front-end μιας σελίδας
 [WebC.site](../el/doc/README.md)

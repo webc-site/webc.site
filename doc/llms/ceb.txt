@@ -47,6 +47,7 @@
 [md/htm](../ceb/js/md/htm.md) : Markdown nga teksto sa HTML string
 [md/safeHtm](../ceb/js/md/safeHtm.md) : Markdown nga teksto sa luwas nga HTML
 [md/streamRender](../ceb/js/md/streamRender.md) : Markdown streaming rendering
+[navScroll](../ceb/js/navScroll.md)
 [rmWait](../ceb/js/rmWait.md)
 [route](../ceb/js/route.md) : Usa ka panid sa atubangan-katapusan nga pagdumala sa ruta
 [WebC.site](../ceb/doc/README.md)

@@ -47,6 +47,7 @@
 [md/htm](../cs/js/md/htm.md) : Označení textu na řetězec HTML
 [md/safeHtm](../cs/js/md/safeHtm.md) : Markdown text do bezpečného HTML
 [md/streamRender](../cs/js/md/streamRender.md) : Markdown streaming rendering
+[navScroll](../cs/js/navScroll.md)
 [rmWait](../cs/js/rmWait.md)
 [route](../cs/js/route.md) : Jednostránková front-endová správa směrování
 [WebC.site](../cs/doc/README.md)
