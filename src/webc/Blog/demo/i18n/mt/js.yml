@@ -1,0 +1,10 @@
+t1: WebC v2.0 rilaxxat uffiċjalment: arkitettura komponent minimalista għall-web moderna
+s1: |-
+  Wara nofs sena ta' rikostruzzjoni, wasal uffiċjalment WebC v2.0. L-arkitettura **Light DOM** iddisinjata l-ġdida hija kkombinata perfettament ma' `Custom Elements` indiġeni biex iġġib titjib fil-prestazzjoni mingħajr paragun.
+t2: Native CSS Nesting prattika fil-fond u ottimizzazzjoni tal-prestazzjoni
+s2: |-
+  Illum, bil-browsers moderni li jappoġġaw bis-sħiħ `CSS Nesting` , il-kombinazzjoni ta 'livelli ta' nesting tal-preproċessur u karatteristiċi indiġeni tissimplifika bil-kbir l-ispejjeż tal-manutenzjoni tal-istil. Dan l-artikolu jesplora l-benefiċċji ewlenin u l-aħjar prattiki tiegħu.
+t3: Il-filosofija tal-kostruzzjoni tal-librerija tal-komponenti tal-UI ta 'dipendenza żero
+s3: |-
+  Ritorn għall-munzell tat-teknoloġija nattiva tal-web: M'hemmx bżonn ta 'pipelines tal-bini kumplessi u siġar ta' dipendenza enormi, tista 'tibni UIs ta' prestazzjoni għolja b'JavaScript indiġeni u Standards tal-Web biss.
+btn: Ikklikkja hawn biex taqra

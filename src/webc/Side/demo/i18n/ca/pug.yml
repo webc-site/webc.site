@@ -1,0 +1,46 @@
+open: Obre la barra lateral
+userName: Geek Walker
+userTitle: Dissenyador web sènior
+statFollowers: Subscriptor
+statFollowing: centrar-se en
+statProjects: projecte
+groupCore: Funcions bàsiques
+groupSystem: Gestió del sistema
+groupData: anàlisi de dades
+groupCollaboration: Treball en equip
+widgetTitle: Ús de l'espai d'emmagatzematge
+widgetTasks: Les meves tasques pendents
+task1: Desenvolupament interactiu complet de Side
+task2: Disseny d'estètica visual líquida
+task3: Optimitzeu la usabilitat i els detalls dels components
+navHome: Pàgina d'inici del tauler
+navProfile: Centre personal
+navSettings: Configuració del sistema
+navMessages: Notícies del lloc
+navNotifications: Recordatori de notificació
+navPrivacy: Privacitat i seguretat
+navHelp: Ajuda i comentaris
+navAnalytics: informe d'anàlisi
+navCloud: Espai d'emmagatzematge al núvol
+navTeam: membre de l'equip
+navTasks: Coordinació de tasques
+logout: Tanca la sessió
+upgradeTitle: Actualitza a Professional Edition
+upgradeDesc: Desbloquegeu emmagatzematge al núvol il·limitat i col·laboració avançada
+upgradeBtn: Actualitza ara
+task4: Revisar els compromisos de PR i fusionar sucursals
+task5: Escriu un registre de llançament de la versió nova de WebC
+widgetOnline: Membres de l'equip en línia
+member1: Lisa
+member2: david
+member3: Anna
+statusOnline: en línia
+statusOffline: Fora de línia
+statusBusy: Ocupat
+widgetFiles: fitxers recents
+file1: Especificació de disseny de producte v2.4.pdf
+file2: Esborrany de Pla 3T 2026.docx
+file3: Demostració d'animació de components.mp4
+tagDesign: disseny
+tagDev: desenvolupar
+tagPm: producte

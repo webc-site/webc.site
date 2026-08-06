@@ -1,0 +1,10 @@
+t1: WebC v2.0 ametlikult välja antud: minimalistlik komponentarhitektuur kaasaegse veebi jaoks
+s1: |-
+  Pärast pooleaastast rekonstrueerimist on ametlikult saabunud WebC v2.0. Värskelt kujundatud **Light DOM** arhitektuur on suurepäraselt ühendatud natiivse `Custom Elements`-ga, et tuua jõudluse võrratuid täiustusi.
+t2: Native CSS-i pesastamise põhjalik praktika ja toimivuse optimeerimine
+s2: |-
+  Tänapäeval, kui tänapäevased brauserid toetavad täielikult `CSS Nesting` , lihtsustab eelprotsessori pesastustasemete ja natiivsete funktsioonide kombinatsioon stiili hoolduskulusid oluliselt. See artikkel uurib selle peamisi eeliseid ja parimaid tavasid.
+t3: Nullsõltuvusega kasutajaliidese komponentide raamatukogu ehitusfilosoofia
+s3: |-
+  Naaske veebipõhise tehnoloogiavirna juurde: pole vaja keerulisi ehituskonveieri ja tohutuid sõltuvuspuid, saate luua suure jõudlusega kasutajaliideseid ainult natiivse JavaScripti ja veebistandarditega.
+btn: Lugemiseks klõpsake siin

@@ -1,0 +1,7 @@
+desc: Automatesch bestëmmen a wiesselen fir d'Navigatiounsmenü oder zréck Knäppchen ze weisen baséiert op der aktueller Streck
+desktop_title: Desktop Display
+desktop_desc: Wann Dir an der deklaréierter Menüroute sidd, weist d'Menüpunkte Fliesen; soss weist de Réck Knäppchen
+mobile_title: Mobile Display
+mobile_desc: Wann Dir an der deklaréierter Menüroute fällt, fällt an eng Ikonknäppchen zesummen an ënnerstëtzt de Menü eraus ze rutschen; soss weist eng zréck Knäppchen
+normal_state: Navigatiounsstatus (c-nav-menu)
+back_state: Fallback Status (c-back)

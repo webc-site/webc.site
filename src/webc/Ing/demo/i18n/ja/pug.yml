@@ -1,0 +1,6 @@
+single: 独立した読み込み (.Ing)
+mask: フォーム送信読み込みマスク (.Ing)
+login: アカウントログイン
+user: ユーザー名
+password: パスワード
+submit: ログイン

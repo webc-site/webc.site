@@ -1,0 +1,6 @@
+load: memuat
+tip: Dalam urutan yang ditunjukkan di atas, klik ikon pada gambar di bawah
+suc: Verifikasi berhasil
+fail: Verifikasi gagal, segarkan setelah satu detik
+refresh: menyegarkan
+validImg: Gambar kode verifikasi

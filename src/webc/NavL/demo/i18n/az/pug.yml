@@ -1,0 +1,7 @@
+desc: Cari marşruta əsasən naviqasiya menyusunu və ya geri düyməsini göstərmək üçün avtomatik müəyyən edin və keçin
+desktop_title: İş masası ekranı
+desktop_desc: Elan edilmiş menyu marşrutunda olduqda, menyu elementlərinin plitələrini göstərin; əks halda geri düyməsini göstərin
+mobile_title: Mobil ekran
+mobile_desc: Elan edilmiş menyu marşrutunda olduqda, ikon düyməsinə yığılır və menyudan kənara sürüşməyi dəstəkləyir; əks halda geri düyməsi göstərilir
+normal_state: Naviqasiya statusu (c-nav-menyu)
+back_state: Geri dönüş statusu (c-geri)

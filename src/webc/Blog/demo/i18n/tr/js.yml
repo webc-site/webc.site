@@ -1,0 +1,10 @@
+t1: WebC v2.0 resmi olarak yayınlandı: Modern web için minimalist bileşen mimarisi
+s1: |-
+  Altı ay süren yeniden yapılanmanın ardından WebC v2.0 resmi olarak geldi. Yeni tasarlanan **Light DOM** mimarisi, benzersiz performans iyileştirmeleri sağlamak için yerel `Custom Elements` ile mükemmel bir şekilde birleştirilmiştir.
+t2: Yerel CSS Yuvalama derinlemesine uygulama ve performans optimizasyonu
+s2: |-
+  Bugün, `CSS Nesting` öğesini tam olarak destekleyen modern tarayıcılar sayesinde, ön işlemci yerleştirme düzeyleri ile yerel özelliklerin birleşimi, stil bakım maliyetlerini büyük ölçüde basitleştirir. Bu makalede temel faydaları ve en iyi uygulamaları incelenmektedir.
+t3: Sıfır bağımlılıklı kullanıcı arayüzü bileşen kitaplığının yapım felsefesi
+s3: |-
+  Web yerel teknoloji yığınına geri dönün: Karmaşık derleme hatlarına ve devasa bağımlılık ağaçlarına gerek yok; yalnızca yerel JavaScript ve Web Standartlarıyla yüksek performanslı kullanıcı arayüzleri oluşturabilirsiniz.
+btn: Okumak için buraya tıklayın

@@ -1,0 +1,4 @@
+default: Nút mặc định
+main: nút chính
+link: nút liên kết
+icon: Nút biểu tượng (.BtnC)

@@ -1,0 +1,38 @@
+basicTitle: Pagrindinis stilius
+bold: Paryškintas
+italic: kursyvu
+del: perbrauktas
+inlineCode: eilutinis kodas
+linkPrefix: Prieš nuorodą ir po jos yra tekstas, pvz
+link: Jungtinių Tautų oficiali svetainė
+linkSuffix: yra nuoroda.
+quoteSingle: Tai vienos eilutės citata.
+quoteMultiLine1: Tai kelių eilučių citata.
+quoteMultiLine2: Vaizdinis efektas kelių eilučių nuorodoms rodyti.
+note: Bendrieji pranešimai ir pastabos
+tip: Patarimai ir naudingi patarimai
+important: Svarbūs patarimai ir rūpesčiai
+warning: Įspėjimai apie riziką ir atsargumo priemonės
+caution: ĮSPĖJIMAS DĖL PAVOJUS IR YPATINGOS RIZIKOS
+listTitle: Citatos ir sąrašai
+taskTitle: užduočių sąrašas
+todoItem: Tai nebaigta CSS užduotis
+doneItem: Tai atlikta CSS užduotis
+ulItem1: Neužsakyta pirmoji prekė
+ulSubItem1: Neužsakytas pirmas poskyris
+ulSubItem2: Neužsakytas antrasis punktas
+ulItem2: Neužsakyta antra prekė
+olItem1: Užsakyta pirmoji prekė
+olSubItem1: Užsakyta viena prekė
+olSubItem2: Užsakyta antra dalis
+olItem2: Užsakyta antrai kadencijai
+tableTitle: lapas
+col1: projektą
+col2: valstybė
+col3: balas
+row1Col1: statinis
+row1Col2: Užbaigta
+row2Col1: transliacija
+row2Col2: Atvaizdavimas
+codeTitle: kodo blokas
+imageTitle: paveikslėlį

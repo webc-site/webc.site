@@ -1,0 +1,60 @@
+mdContent: |
+  # Dokumen presentasi markdown
+  Iki minangka demonstrasi Streaming Rendering.
+  ## Gaya dhasar
+  - **Kandel** lan *Miring*
+  - ~~ngarep~~
+  - `inline_code` kode inline
+  - [Situs web resmi PBB](https://un.org) Demonstrasi link
+  ## Quotes lan Dhaptar
+  > Iki minangka kutipan siji baris.
+
+  > Iki minangka kutipan multi-line.
+  > Efek visual kanggo nampilake referensi multi-line.
+
+  - Item pisanan sing ora dipesen
+    - Unordered subitem siji
+    - Unordered subitem loro
+  - Item kapindho sing ora dipesen
+
+  > [!NOTE]
+  > `> [!NOTE]` Pesen lan cathetan umum
+
+  > [!TIP]
+  > `> [!TIP]` Tips lan tips migunani
+
+  > [!IMPORTANT]
+  > `> [!IMPORTANT]` Tip lan keprihatinan penting
+
+  > [!WARNING]
+  > `> [!WARNING]` Peringatan lan Cathetan Resiko
+
+  > [!CAUTION]
+  > `> [!CAUTION]` PÈNGET BAHAYA LAN RISIKO EKSREM
+
+  ---
+
+  ## dhaftar tugas
+  - [ ] Iki minangka tugas streaming sing durung rampung
+  - [x] Iki minangka tugas streaming sing wis rampung
+  - [X] Iki minangka tugas streaming sing wis rampung (ibukutha X)
+
+  ---
+
+  1. Dipesan item pisanan
+     1. pesen item siji
+     2. Mesen subitem loro
+  2. Didhawuhi istilah kapindho
+  ## lembaran
+  | tugas | negara | jadwal |
+  | :--- | :---: | ---: |
+  | Tugas siji | Rampung | 100% |
+  | Tugas 2 | ing proses | 50% |
+  ## kode blok
+  ```js
+  const hello = () => {
+    console.log("Hello, WebC!");
+  };
+  ```
+  ## gambar
+  ![Gambar demo](https://i-01.eu.org/demo-green.avif)

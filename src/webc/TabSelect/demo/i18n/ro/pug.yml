@@ -1,0 +1,9 @@
+language: limbă
+os: sistem
+about: despre
+jsInfo: JavaScript este un limbaj de scripting utilizat pe scară largă în dezvoltarea web la nivelul clientului.
+rsInfo: Rust este un limbaj de programare a sistemelor axat pe siguranță, viteză și concurență.
+pyInfo: Python este un limbaj de programare pentru computer, interpretat, orientat pe obiecte.
+macInfo: macOS este un sistem de operare grafic bazat pe Unix, dezvoltat de Apple.
+winInfo: Windows este un sistem de operare utilizat pe scară largă pentru computere personale, dezvoltat de Microsoft Corporation.
+aboutInfo: Ne angajăm să dezvoltăm componente front-end open source de înaltă calitate și sunteți binevenit să participați.

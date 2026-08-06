@@ -1,0 +1,10 @@
+t1: WebC v2.0 ofizialki kaleratu da: web modernorako osagaien arkitektura minimalista
+s1: |-
+  Urte erdi berreraikitzearen ondoren, WebC v2.0 ofizialki iritsi da. Diseinatu berria den **Light DOM** arkitektura ezin hobeto konbinatuta dago jatorrizko `Custom Elements`rekin, errendimendu hobekuntza paregabeak ekartzeko.
+t2: Native CSS Nesting praktika sakona eta errendimenduaren optimizazioa
+s2: |-
+  Gaur egun, arakatzaile modernoek `CSS Nesting` guztiz onartzen dutenez, aurreprozesadorearen habiaratze-mailen eta jatorrizko ezaugarrien konbinazioak asko errazten ditu estiloaren mantentze-kostuak. Artikulu honek bere onurak eta praktika onenak aztertzen ditu.
+t3: Zero-mendekotasuneko UI osagaien liburutegiaren eraikuntza-filosofia
+s3: |-
+  Itzul zaitez web-jatorrizko teknologia-pilara: ez dago eraikuntza-bide konplexurik eta mendekotasun-zuhaitz handirik beharrik, errendimendu handiko interfazeak eraiki ditzakezu jatorrizko JavaScript eta Web-estandarrekin soilik.
+btn: Egin klik hemen irakurtzeko

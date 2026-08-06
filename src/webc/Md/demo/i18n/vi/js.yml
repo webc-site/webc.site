@@ -1,0 +1,60 @@
+mdContent: |
+  # Tài liệu thuyết trình Markdown
+  Đây là bản trình diễn **kết xuất tĩnh**.
+  ## Phong cách cơ bản
+  - **Đậm** và *nghiêng*
+  - ~~gạch ngang~~
+  - `inline_code` mã nội tuyến
+  - [Trang web chính thức của Liên Hợp Quốc](https://un.org) Trình diễn liên kết
+  ## Báo giá và danh sách
+  > Đây là một trích dẫn một dòng.
+
+  > Đây là một trích dẫn nhiều dòng.
+  > Hiệu ứng hình ảnh để hiển thị tài liệu tham khảo nhiều dòng.
+
+  - Mục đầu tiên không có thứ tự
+    - Mục con không có thứ tự một
+    - Mục con thứ hai không có thứ tự
+  - Mục thứ hai không có thứ tự
+
+  > [!NOTE]
+  > `> [!NOTE]` Thông báo và ghi chú chung
+
+  > [!TIP]
+  > `> [!TIP]` Lời khuyên và lời khuyên hữu ích
+
+  > [!IMPORTANT]
+  > `> [!IMPORTANT]` Lời khuyên và mối quan tâm quan trọng
+
+  > [!WARNING]
+  > `> [!WARNING]` Cảnh báo và lưu ý rủi ro
+
+  > [!CAUTION]
+  > `> [!CAUTION]` CẢNH BÁO NGUY HIỂM VÀ RỦI RO CỰC CAO
+
+  ---
+
+  ## danh sách nhiệm vụ
+  - [ ] Đây là danh sách nhiệm vụ chưa hoàn thành
+  - [x] Đây là một nhiệm vụ danh sách đã hoàn thành
+  - [X] Đây là một nhiệm vụ danh sách đã hoàn thành (viết hoa X)
+
+  ---
+
+  1. Đặt hàng sản phẩm đầu tiên
+     1. Đặt hàng một mặt hàng
+     2. Đặt hàng tiểu mục hai
+  2. Đặt hàng nhiệm kỳ thứ hai
+  ## tờ giấy
+  | dự án | tình trạng | điểm |
+  | :--- | :---: | ---: |
+  | tĩnh | Hoàn thành | 100 |
+  | phát trực tuyến | Kết xuất | 95 |
+  ## khối mã
+  ```js
+  const hello = () => {
+    console.log("Hello, WebC!");
+  };
+  ```
+  ## hình ảnh
+  ![Hình ảnh demo](https://i-01.eu.org/demo-green.avif)

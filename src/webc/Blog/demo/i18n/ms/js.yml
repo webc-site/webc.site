@@ -1,0 +1,10 @@
+t1: WebC v2.0 dikeluarkan secara rasmi: seni bina komponen minimalis untuk web moden
+s1: |-
+  Selepas setengah tahun pembinaan semula, WebC v2.0 telah tiba secara rasmi. Seni bina **Light DOM** yang baru direka bentuk dengan sempurna digabungkan dengan `Custom Elements` asli untuk membawa peningkatan prestasi yang tiada tandingan.
+t2: Amalan mendalam CSS Nesting asli dan pengoptimuman prestasi
+s2: |-
+  Hari ini, dengan pelayar moden menyokong sepenuhnya `CSS Nesting` , gabungan tahap sarang prapemproses dan ciri asli sangat memudahkan kos penyelenggaraan gaya. Artikel ini meneroka faedah teras dan amalan terbaiknya.
+t3: Falsafah pembinaan perpustakaan komponen UI kebergantungan sifar
+s3: |-
+  Kembali ke timbunan teknologi asli web: Tidak memerlukan saluran paip binaan yang kompleks dan pokok pergantungan yang besar, anda boleh membina UI berprestasi tinggi dengan hanya JavaScript asli dan Piawaian Web.
+btn: Klik di sini untuk membaca

@@ -1,0 +1,10 @@
+t1: WebC v2.0 opinberlega gefin út: lægstur íhlutaarkitektúr fyrir nútíma vefinn
+s1: |-
+  Eftir hálfs árs enduruppbyggingu er WebC v2.0 formlega kominn. Nýhönnuð **Light DOM** arkitektúr er fullkomlega sameinuð með innfæddum `Custom Elements` til að koma með óviðjafnanlegar frammistöðubætir.
+t2: Native CSS Nesting ítarleg æfing og hagræðing afkasta
+s2: |-
+  Í dag, þar sem nútíma vafrar styðja að fullu `CSS Nesting` , einfaldar samsetning forvinnslustiga og innfæddra eiginleika til muna viðhaldskostnað. Þessi grein kannar kjarna kosti þess og bestu starfsvenjur.
+t3: Byggingarhugmyndin um núllháð HÍ íhlutasafn
+s3: |-
+  Farðu aftur í vefinnfædda tæknistaflann: Engin þörf á flóknum byggingarleiðslum og risastórum ávanatré, þú getur smíðað afkastamikil notendaviðmót með aðeins innfæddum JavaScript og vefstöðlum.
+btn: Smelltu hér til að lesa

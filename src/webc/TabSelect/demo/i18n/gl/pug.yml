@@ -1,0 +1,9 @@
+language: lingua
+os: sistema
+about: sobre
+jsInfo: JavaScript é unha linguaxe de script moi utilizada no desenvolvemento web do cliente.
+rsInfo: Rust é unha linguaxe de programación de sistemas centrada na seguridade, a velocidade e a concorrencia.
+pyInfo: Python é unha linguaxe de programación de ordenadores interpretada e orientada a obxectos.
+macInfo: macOS é un sistema operativo gráfico baseado en Unix desenvolvido por Apple.
+winInfo: Windows é un sistema operativo de ordenador persoal moi utilizado desenvolvido por Microsoft Corporation.
+aboutInfo: Comprometémonos a desenvolver compoñentes front-end de código aberto de alta calidade e podedes participar.

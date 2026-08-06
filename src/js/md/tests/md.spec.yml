@@ -1,0 +1,5181 @@
+# gen by ui/js/md/misc/mdSpec.js
+- id: 1
+  md: |
+    →foo→baz→→bim
+  htm: |
+    <pre><code>foo→baz→→bim
+    </code></pre>
+- id: 2
+  md: |2
+      →foo→baz→→bim
+  htm: |
+    <pre><code>foo→baz→→bim
+    </code></pre>
+- id: 3
+  md: |2
+        a→a
+        ὐ→a
+  htm: |
+    <pre><code>a→a
+    ὐ→a
+    </code></pre>
+- id: 4
+  md: |2
+      - foo
+
+    →bar
+  htm: |
+    <ul>
+    <li>
+    <p>foo</p>
+    <p>bar</p>
+    </li>
+    </ul>
+- id: 5
+  md: |
+    - foo
+
+    →→bar
+  htm: |
+    <ul>
+    <li>
+    <p>foo</p>
+    <pre><code>  bar
+    </code></pre>
+    </li>
+    </ul>
+- id: 6
+  md: |
+    >→→foo
+  htm: |
+    <blockquote>
+    <pre><code>  foo
+    </code></pre>
+    </blockquote>
+- id: 7
+  md: |
+    -→→foo
+  htm: |
+    <ul>
+    <li>
+    <pre><code>  foo
+    </code></pre>
+    </li>
+    </ul>
+- id: 8
+  md: |2
+        foo
+    →bar
+  htm: |
+    <pre><code>foo
+    bar
+    </code></pre>
+- id: 9
+  md: |2
+     - foo
+       - bar
+    → - baz
+  htm: |
+    <ul>
+    <li>foo
+    <ul>
+    <li>bar
+    <ul>
+    <li>baz</li>
+    </ul>
+    </li>
+    </ul>
+    </li>
+    </ul>
+- id: 10
+  md: |
+    #→Foo
+  htm: |
+    <h1>Foo</h1>
+- id: 11
+  md: |
+    *→*→*→
+  htm: |
+    <hr>
+- id: 12
+  md: |
+    - `one
+    - two`
+  htm: |
+    <ul>
+    <li>`one</li>
+    <li>two`</li>
+    </ul>
+- id: 13
+  md: |
+    ***
+    ---
+    ___
+  htm: |
+    <hr>
+    <hr>
+    <hr>
+- id: 14
+  md: |
+    +++
+  htm: |
+    <p>+++</p>
+- id: 15
+  md: |
+    ===
+  htm: |
+    <p>===</p>
+- id: 16
+  md: |
+    --
+    **
+    __
+  htm: |
+    <p>--
+    **
+    __</p>
+- id: 17
+  md: |2
+     ***
+      ***
+       ***
+  htm: |
+    <hr>
+    <hr>
+    <hr>
+- id: 18
+  md: |2
+        ***
+  htm: |
+    <pre><code>***
+    </code></pre>
+- id: 19
+  md: |
+    Foo
+        ***
+  htm: |
+    <p>Foo
+    ***</p>
+- id: 20
+  md: |
+    _____________________________________
+  htm: |
+    <hr>
+- id: 21
+  md: |2
+     - - -
+  htm: |
+    <hr>
+- id: 22
+  md: |2
+     **  * ** * ** * **
+  htm: |
+    <hr>
+- id: 23
+  md: |
+    -     -      -      -
+  htm: |
+    <hr>
+- id: 24
+  md: |
+    - - - -
+  htm: |
+    <hr>
+- id: 25
+  md: |
+    _ _ _ _ a
+
+    a------
+
+    ---a---
+  htm: |
+    <p>_ _ _ _ a</p>
+    <p>a------</p>
+    <p>---a---</p>
+- id: 26
+  md: |2
+     *-*
+  htm: |
+    <p><em>-</em></p>
+- id: 27
+  md: |
+    - foo
+    ***
+    - bar
+  htm: |
+    <ul>
+    <li>foo</li>
+    </ul>
+    <hr>
+    <ul>
+    <li>bar</li>
+    </ul>
+- id: 28
+  md: |
+    Foo
+    ***
+    bar
+  htm: |
+    <p>Foo</p>
+    <hr>
+    <p>bar</p>
+- id: 29
+  md: |
+    Foo
+    ---
+    bar
+  htm: |
+    <h2>Foo</h2>
+    <p>bar</p>
+- id: 30
+  md: |
+    * Foo
+    * * *
+    * Bar
+  htm: |
+    <ul>
+    <li>Foo</li>
+    </ul>
+    <hr>
+    <ul>
+    <li>Bar</li>
+    </ul>
+- id: 31
+  md: |
+    - Foo
+    - * * *
+  htm: |
+    <ul>
+    <li>Foo</li>
+    <li>
+    <hr>
+    </li>
+    </ul>
+- id: 32
+  md: |
+    # foo
+    ## foo
+    ### foo
+    #### foo
+    ##### foo
+    ###### foo
+  htm: |
+    <h1>foo</h1>
+    <h2>foo</h2>
+    <h3>foo</h3>
+    <h4>foo</h4>
+    <h5>foo</h5>
+    <h6>foo</h6>
+- id: 33
+  md: |
+    ####### foo
+  htm: |
+    <p>####### foo</p>
+- id: 34
+  md: |
+    #5 bolt
+
+    #hashtag
+  htm: |
+    <p>#5 bolt</p>
+    <p>#hashtag</p>
+- id: 35
+  md: |
+    \## foo
+  htm: |
+    <p>## foo</p>
+- id: 36
+  md: |
+    # foo *bar* \*baz\*
+  htm: |
+    <h1>foo <em>bar</em> *baz*</h1>
+- id: 37
+  md: |
+    #                  foo
+  htm: |
+    <h1>foo</h1>
+- id: 38
+  md: |2
+     ### foo
+      ## foo
+       # foo
+  htm: |
+    <h3>foo</h3>
+    <h2>foo</h2>
+    <h1>foo</h1>
+- id: 39
+  md: |2
+        # foo
+  htm: |
+    <pre><code># foo
+    </code></pre>
+- id: 40
+  md: |
+    foo
+        # bar
+  htm: |
+    <p>foo
+    # bar</p>
+- id: 41
+  md: |
+    ## foo ##
+      ###   bar    ###
+  htm: |
+    <h2>foo</h2>
+    <h3>bar</h3>
+- id: 42
+  md: |
+    # foo ##################################
+    ##### foo ##
+  htm: |
+    <h1>foo</h1>
+    <h5>foo</h5>
+- id: 43
+  md: |
+    ### foo ###
+  htm: |
+    <h3>foo</h3>
+- id: 44
+  md: |
+    ### foo ### b
+  htm: |
+    <h3>foo ### b</h3>
+- id: 45
+  md: |
+    # foo#
+  htm: |
+    <h1>foo#</h1>
+- id: 46
+  md: |
+    ### foo \###
+    ## foo #\##
+    # foo \#
+  htm: |
+    <h3>foo ###</h3>
+    <h2>foo ###</h2>
+    <h1>foo #</h1>
+- id: 47
+  md: |
+    ****
+    ## foo
+    ****
+  htm: |
+    <hr>
+    <h2>foo</h2>
+    <hr>
+- id: 48
+  md: |
+    Foo bar
+    # baz
+    Bar foo
+  htm: |
+    <p>Foo bar</p>
+    <h1>baz</h1>
+    <p>Bar foo</p>
+- id: 49
+  md: |
+    ## 
+    #
+    ### ###
+  htm: |
+    <h2></h2>
+    <h1></h1>
+    <h3></h3>
+- id: 50
+  md: |
+    Foo *bar*
+    =========
+
+    Foo *bar*
+    ---------
+  htm: |
+    <h1>Foo <em>bar</em></h1>
+    <h2>Foo <em>bar</em></h2>
+- id: 51
+  md: |
+    Foo *bar
+    baz*
+    ====
+  htm: |
+    <h1>Foo <em>bar
+    baz</em></h1>
+- id: 52
+  md: |2
+      Foo *bar
+    baz*→
+    ====
+  htm: |
+    <h1>Foo <em>bar
+    baz</em></h1>
+- id: 53
+  md: |
+    Foo
+    -------------------------
+
+    Foo
+    =
+  htm: |
+    <h2>Foo</h2>
+    <h1>Foo</h1>
+- id: 54
+  md: |2
+       Foo
+    ---
+
+      Foo
+    -----
+
+      Foo
+      ===
+  htm: |
+    <h2>Foo</h2>
+    <h2>Foo</h2>
+    <h1>Foo</h1>
+- id: 55
+  md: |2
+        Foo
+        ---
+
+        Foo
+    ---
+  htm: |
+    <pre><code>Foo
+    ---
+
+    Foo
+    </code></pre>
+    <hr>
+- id: 56
+  md: |
+    Foo
+       ----
+  htm: |
+    <h2>Foo</h2>
+- id: 57
+  md: |
+    Foo
+        ---
+  htm: |
+    <p>Foo
+    ---</p>
+- id: 58
+  md: |
+    Foo
+    = =
+
+    Foo
+    --- -
+  htm: |
+    <p>Foo
+    = =</p>
+    <p>Foo</p>
+    <hr>
+- id: 59
+  md: |
+    Foo  
+    -----
+  htm: |
+    <h2>Foo</h2>
+- id: 60
+  md: |
+    Foo\
+    ----
+  htm: |
+    <h2>Foo\</h2>
+- id: 61
+  md: |
+    `Foo
+    ----
+    `
+
+    <a title="a lot
+    ---
+    of dashes"/>
+  htm: |
+    <h2>`Foo</h2>
+    <p>`</p>
+    <h2>&lt;a title=&quot;a lot</h2>
+    <p>of dashes&quot;/&gt;</p>
+- id: 62
+  md: |
+    > Foo
+    ---
+  htm: |
+    <blockquote>
+    <p>Foo</p>
+    </blockquote>
+    <hr>
+- id: 63
+  md: |
+    > foo
+    bar
+    ===
+  htm: |
+    <blockquote>
+    <p>foo
+    bar
+    ===</p>
+    </blockquote>
+- id: 64
+  md: |
+    - Foo
+    ---
+  htm: |
+    <ul>
+    <li>Foo</li>
+    </ul>
+    <hr>
+- id: 65
+  md: |
+    Foo
+    Bar
+    ---
+  htm: |
+    <h2>Foo
+    Bar</h2>
+- id: 66
+  md: |
+    ---
+    Foo
+    ---
+    Bar
+    ---
+    Baz
+  htm: |
+    <hr>
+    <h2>Foo</h2>
+    <h2>Bar</h2>
+    <p>Baz</p>
+- id: 67
+  md: |
+
+    ====
+  htm: |
+    <p>====</p>
+- id: 68
+  md: |
+    ---
+    ---
+  htm: |
+    <hr>
+    <hr>
+- id: 69
+  md: |
+    - foo
+    -----
+  htm: |
+    <ul>
+    <li>foo</li>
+    </ul>
+    <hr>
+- id: 70
+  md: |2
+        foo
+    ---
+  htm: |
+    <pre><code>foo
+    </code></pre>
+    <hr>
+- id: 71
+  md: |
+    > foo
+    -----
+  htm: |
+    <blockquote>
+    <p>foo</p>
+    </blockquote>
+    <hr>
+- id: 72
+  md: |
+    \> foo
+    ------
+  htm: |
+    <h2>&gt; foo</h2>
+- id: 73
+  md: |
+    Foo
+
+    bar
+    ---
+    baz
+  htm: |
+    <p>Foo</p>
+    <h2>bar</h2>
+    <p>baz</p>
+- id: 74
+  md: |
+    Foo
+    bar
+
+    ---
+
+    baz
+  htm: |
+    <p>Foo
+    bar</p>
+    <hr>
+    <p>baz</p>
+- id: 75
+  md: |
+    Foo
+    bar
+    * * *
+    baz
+  htm: |
+    <p>Foo
+    bar</p>
+    <hr>
+    <p>baz</p>
+- id: 76
+  md: |
+    Foo
+    bar
+    \---
+    baz
+  htm: |
+    <p>Foo
+    bar
+    ---
+    baz</p>
+- id: 77
+  md: |2
+        a simple
+          indented code block
+  htm: |
+    <pre><code>a simple
+      indented code block
+    </code></pre>
+- id: 78
+  md: |2
+      - foo
+
+        bar
+  htm: |
+    <ul>
+    <li>
+    <p>foo</p>
+    <p>bar</p>
+    </li>
+    </ul>
+- id: 79
+  md: |
+    1.  foo
+
+        - bar
+  htm: |
+    <ol>
+    <li>
+    <p>foo</p>
+    <ul>
+    <li>bar</li>
+    </ul>
+    </li>
+    </ol>
+- id: 80
+  md: |2
+        <a/>
+        *hi*
+
+        - one
+  htm: |
+    <pre><code>&lt;a/&gt;
+    *hi*
+
+    - one
+    </code></pre>
+- id: 81
+  md: |2
+        chunk1
+
+        chunk2
+      
+     
+     
+        chunk3
+  htm: |
+    <pre><code>chunk1
+
+    chunk2
+
+
+
+    chunk3
+    </code></pre>
+- id: 82
+  md: |2
+        chunk1
+          
+          chunk2
+  htm: |
+    <pre><code>chunk1
+      
+      chunk2
+    </code></pre>
+- id: 83
+  md: |+
+    Foo
+        bar
+
+  htm: |
+    <p>Foo
+    bar</p>
+- id: 84
+  md: |2
+        foo
+    bar
+  htm: |
+    <pre><code>foo
+    </code></pre>
+    <p>bar</p>
+- id: 85
+  md: |
+    # Heading
+        foo
+    Heading
+    ------
+        foo
+    ----
+  htm: |
+    <h1>Heading</h1>
+    <pre><code>foo
+    </code></pre>
+    <h2>Heading</h2>
+    <pre><code>foo
+    </code></pre>
+    <hr>
+- id: 86
+  md: |2
+            foo
+        bar
+  htm: |
+    <pre><code>    foo
+    bar
+    </code></pre>
+- id: 87
+  md: |2+
+
+        
+        foo
+        
+
+  htm: |
+    <pre><code>foo
+    </code></pre>
+- id: 88
+  md: |2
+        foo  
+  htm: |
+    <pre><code>foo  
+    </code></pre>
+- id: 89
+  md: |
+    ```
+    <
+     >
+    ```
+  htm: |
+    <pre><code>&lt;
+     &gt;
+    </code></pre>
+- id: 90
+  md: |
+    ~~~
+    <
+     >
+    ~~~
+  htm: |
+    <pre><code>&lt;
+     &gt;
+    </code></pre>
+- id: 91
+  md: |
+    ``
+    foo
+    ``
+  htm: |
+    <p><code>foo</code></p>
+- id: 92
+  md: |
+    ```
+    aaa
+    ~~~
+    ```
+  htm: |
+    <pre><code>aaa
+    ~~~
+    </code></pre>
+- id: 93
+  md: |
+    ~~~
+    aaa
+    ```
+    ~~~
+  htm: |
+    <pre><code>aaa
+    ```
+    </code></pre>
+- id: 94
+  md: |
+    ````
+    aaa
+    ```
+    ``````
+  htm: |
+    <pre><code>aaa
+    ```
+    </code></pre>
+- id: 95
+  md: |
+    ~~~~
+    aaa
+    ~~~
+    ~~~~
+  htm: |
+    <pre><code>aaa
+    ~~~
+    </code></pre>
+- id: 96
+  md: |
+    ```
+  htm: |
+    <pre><code></code></pre>
+- id: 97
+  md: |
+    `````
+
+    ```
+    aaa
+  htm: |
+    <pre><code>
+    ```
+    aaa
+    </code></pre>
+- id: 98
+  md: |
+    > ```
+    > aaa
+
+    bbb
+  htm: |
+    <blockquote>
+    <pre><code>aaa
+    </code></pre>
+    </blockquote>
+    <p>bbb</p>
+- id: 99
+  md: |
+    ```
+
+      
+    ```
+  htm: |
+    <pre><code>
+      
+    </code></pre>
+- id: 100
+  md: |
+    ```
+    ```
+  htm: |
+    <pre><code></code></pre>
+- id: 101
+  md: |2
+     ```
+     aaa
+    aaa
+    ```
+  htm: |
+    <pre><code>aaa
+    aaa
+    </code></pre>
+- id: 102
+  md: |2
+      ```
+    aaa
+      aaa
+    aaa
+      ```
+  htm: |
+    <pre><code>aaa
+    aaa
+    aaa
+    </code></pre>
+- id: 103
+  md: |2
+       ```
+       aaa
+        aaa
+      aaa
+       ```
+  htm: |
+    <pre><code>aaa
+     aaa
+    aaa
+    </code></pre>
+- id: 104
+  md: |2
+        ```
+        aaa
+        ```
+  htm: |
+    <pre><code>```
+    aaa
+    ```
+    </code></pre>
+- id: 105
+  md: |
+    ```
+    aaa
+      ```
+  htm: |
+    <pre><code>aaa
+    </code></pre>
+- id: 106
+  md: |2
+       ```
+    aaa
+      ```
+  htm: |
+    <pre><code>aaa
+    </code></pre>
+- id: 107
+  md: |
+    ```
+    aaa
+        ```
+  htm: |
+    <pre><code>aaa
+        ```
+    </code></pre>
+- id: 108
+  md: |
+    ``` ```
+    aaa
+  htm: |
+    <p><code> </code>
+    aaa</p>
+- id: 109
+  md: |
+    ~~~~~~
+    aaa
+    ~~~ ~~
+  htm: |
+    <pre><code>aaa
+    ~~~ ~~
+    </code></pre>
+- id: 110
+  md: |
+    foo
+    ```
+    bar
+    ```
+    baz
+  htm: |
+    <p>foo</p>
+    <pre><code>bar
+    </code></pre>
+    <p>baz</p>
+- id: 111
+  md: |
+    foo
+    ---
+    ~~~
+    bar
+    ~~~
+    # baz
+  htm: |
+    <h2>foo</h2>
+    <pre><code>bar
+    </code></pre>
+    <h1>baz</h1>
+- id: 112
+  md: |
+    ```ruby
+    def foo(x)
+      return 3
+    end
+    ```
+  htm: |
+    <pre><code class="language-ruby">def foo(x)
+      return 3
+    end
+    </code></pre>
+- id: 113
+  md: |
+    ~~~~    ruby startline=3 $%@#$
+    def foo(x)
+      return 3
+    end
+    ~~~~~~~
+  htm: |
+    <pre><code class="language-ruby">def foo(x)
+      return 3
+    end
+    </code></pre>
+- id: 114
+  md: |
+    ````;
+    ````
+  htm: |
+    <pre><code class="language-;"></code></pre>
+- id: 115
+  md: |
+    ``` aa ```
+    foo
+  htm: |
+    <p><code>aa</code>
+    foo</p>
+- id: 116
+  md: |
+    ~~~ aa ``` ~~~
+    foo
+    ~~~
+  htm: |
+    <pre><code class="language-aa">foo
+    </code></pre>
+- id: 117
+  md: |
+    ```
+    ``` aaa
+    ```
+  htm: |
+    <pre><code>``` aaa
+    </code></pre>
+- id: 118
+  md: |
+    <table><tr><td>
+    <pre>
+    **Hello**,
+
+    _world_.
+    </pre>
+    </td></tr></table>
+  htm: |
+    <table><tr><td>
+    <pre>
+    **Hello**,
+    <p><em>world</em>.
+    </pre></p>
+    </td></tr></table>
+- id: 119
+  md: |
+    <table>
+      <tr>
+        <td>
+               hi
+        </td>
+      </tr>
+    </table>
+
+    okay.
+  htm: |
+    <table>
+      <tr>
+        <td>
+               hi
+        </td>
+      </tr>
+    </table>
+    <p>okay.</p>
+- id: 120
+  md: |2
+     <div>
+      *hello*
+             <foo><a>
+  htm: |2
+     <div>
+      *hello*
+             <foo><a>
+- id: 121
+  md: |
+    </div>
+    *foo*
+  htm: |
+    </div>
+    *foo*
+- id: 122
+  md: |
+    <DIV CLASS="foo">
+
+    *Markdown*
+
+    </DIV>
+  htm: |
+    <DIV CLASS="foo">
+    <p><em>Markdown</em></p>
+    </DIV>
+- id: 123
+  md: |
+    <div id="foo"
+      class="bar">
+    </div>
+  htm: |
+    <div id="foo"
+      class="bar">
+    </div>
+- id: 124
+  md: |
+    <div id="foo" class="bar
+      baz">
+    </div>
+  htm: |
+    <div id="foo" class="bar
+      baz">
+    </div>
+- id: 125
+  md: |
+    <div>
+    *foo*
+
+    *bar*
+  htm: |
+    <div>
+    *foo*
+    <p><em>bar</em></p>
+- id: 126
+  md: |
+    <div id="foo"
+    *hi*
+  htm: |
+    <div id="foo"
+    *hi*
+- id: 127
+  md: |
+    <div class
+    foo
+  htm: |
+    <div class
+    foo
+- id: 128
+  md: |
+    <div *???-&&&-<---
+    *foo*
+  htm: |
+    <div *???-&&&-<---
+    *foo*
+- id: 129
+  md: |
+    <div><a href="bar">*foo*</a></div>
+  htm: |
+    <div><a href="bar">*foo*</a></div>
+- id: 130
+  md: |
+    <table><tr><td>
+    foo
+    </td></tr></table>
+  htm: |
+    <table><tr><td>
+    foo
+    </td></tr></table>
+- id: 131
+  md: |
+    <div></div>
+    ``` c
+    int x = 33;
+    ```
+  htm: |
+    <div></div>
+    ``` c
+    int x = 33;
+    ```
+- id: 132
+  md: |
+    <a href="foo">
+    *bar*
+    </a>
+  htm: |
+    <a href="foo">
+    *bar*
+    </a>
+- id: 133
+  md: |
+    <Warning>
+    *bar*
+    </Warning>
+  htm: |
+    <Warning>
+    *bar*
+    </Warning>
+- id: 134
+  md: |
+    <i class="foo">
+    *bar*
+    </i>
+  htm: |
+    <i class="foo">
+    *bar*
+    </i>
+- id: 135
+  md: |
+    </ins>
+    *bar*
+  htm: |
+    </ins>
+    *bar*
+- id: 136
+  md: |
+    <del>
+    *foo*
+    </del>
+  htm: |
+    <del>
+    *foo*
+    </del>
+- id: 137
+  md: |
+    <del>
+
+    *foo*
+
+    </del>
+  htm: |
+    <del>
+    <p><em>foo</em></p>
+    </del>
+- id: 138
+  md: |
+    <del>*foo*</del>
+  htm: |
+    <p><del><em>foo</em></del></p>
+- id: 139
+  md: |
+    <pre language="haskell"><code>
+    import Text.HTML.TagSoup
+
+    main :: IO ()
+    main = print $ parseTags tags
+    </code></pre>
+    okay
+  htm: |
+    <pre language="haskell"><code>
+    import Text.HTML.TagSoup
+
+    main :: IO ()
+    main = print $ parseTags tags
+    </code></pre>
+    <p>okay</p>
+- id: 140
+  md: |
+    <script type="text/javascript">
+    // JavaScript example
+
+    document.getElementById("demo").innerHTML = "Hello JavaScript!";
+    </script>
+    okay
+  htm: |
+    <script type="text/javascript">
+    // JavaScript example
+
+    document.getElementById("demo").innerHTML = "Hello JavaScript!";
+    </script>
+    <p>okay</p>
+- id: 141
+  md: |
+    <style
+      type="text/css">
+    h1 {color:red;}
+
+    p {color:blue;}
+    </style>
+    okay
+  htm: |
+    <style
+      type="text/css">
+    h1 {color:red;}
+
+    p {color:blue;}
+    </style>
+    <p>okay</p>
+- id: 142
+  md: |
+    <style
+      type="text/css">
+
+    foo
+  htm: |
+    <style
+      type="text/css">
+
+    foo
+- id: 143
+  md: |
+    > <div>
+    > foo
+
+    bar
+  htm: |
+    <blockquote>
+    <div>
+    foo
+    </blockquote>
+    <p>bar</p>
+- id: 144
+  md: |
+    - <div>
+    - foo
+  htm: |
+    <ul>
+    <li>
+    <div>
+    </li>
+    <li>foo</li>
+    </ul>
+- id: 145
+  md: |
+    <style>p{color:red;}</style>
+    *foo*
+  htm: |
+    <style>p{color:red;}</style>
+    <p><em>foo</em></p>
+- id: 146
+  md: |
+    <!-- foo -->*bar*
+    *baz*
+  htm: |
+    <!-- foo -->*bar*
+    <p><em>baz</em></p>
+- id: 147
+  md: |
+    <script>
+    foo
+    </script>1. *bar*
+  htm: |
+    <script>
+    foo
+    </script>1. *bar*
+- id: 148
+  md: |
+    <!-- Foo
+
+    bar
+       baz -->
+    okay
+  htm: |
+    <!-- Foo
+
+    bar
+       baz -->
+    <p>okay</p>
+- id: 149
+  md: |
+    <?php
+
+      echo '>';
+
+    ?>
+    okay
+  htm: |
+    <?php
+
+      echo '>';
+
+    ?>
+    <p>okay</p>
+- id: 150
+  md: |
+    <!DOCTYPE html>
+  htm: |
+    <!DOCTYPE html>
+- id: 151
+  md: |
+    <![CDATA[
+    function matchwo(a,b)
+    {
+      if (a < b && a < 0) then {
+        return 1;
+
+      } else {
+
+        return 0;
+      }
+    }
+    ]]>
+    okay
+  htm: |
+    <![CDATA[
+    function matchwo(a,b)
+    {
+      if (a < b && a < 0) then {
+        return 1;
+
+      } else {
+
+        return 0;
+      }
+    }
+    ]]>
+    <p>okay</p>
+- id: 152
+  md: |2
+      <!-- foo -->
+
+        <!-- foo -->
+  htm: |2
+      <!-- foo -->
+    <pre><code>&lt;!-- foo --&gt;
+    </code></pre>
+- id: 153
+  md: |2
+      <div>
+
+        <div>
+  htm: |2
+      <div>
+    <pre><code>&lt;div&gt;
+    </code></pre>
+- id: 154
+  md: |
+    Foo
+    <div>
+    bar
+    </div>
+  htm: |
+    <p>Foo</p>
+    <div>
+    bar
+    </div>
+- id: 155
+  md: |
+    <div>
+    bar
+    </div>
+    *foo*
+  htm: |
+    <div>
+    bar
+    </div>
+    *foo*
+- id: 156
+  md: |
+    Foo
+    <a href="bar">
+    baz
+  htm: |
+    <p>Foo
+    <a href="bar">
+    baz</p>
+- id: 157
+  md: |
+    <div>
+
+    *Emphasized* text.
+
+    </div>
+  htm: |
+    <div>
+    <p><em>Emphasized</em> text.</p>
+    </div>
+- id: 158
+  md: |
+    <div>
+    *Emphasized* text.
+    </div>
+  htm: |
+    <div>
+    *Emphasized* text.
+    </div>
+- id: 159
+  md: |
+    <table>
+
+    <tr>
+
+    <td>
+    Hi
+    </td>
+
+    </tr>
+
+    </table>
+  htm: |
+    <table>
+    <tr>
+    <td>
+    Hi
+    </td>
+    </tr>
+    </table>
+- id: 160
+  md: |
+    <table>
+
+      <tr>
+
+        <td>
+          Hi
+        </td>
+
+      </tr>
+
+    </table>
+  htm: |
+    <table>
+      <tr>
+    <pre><code>&lt;td&gt;
+      Hi
+    &lt;/td&gt;
+    </code></pre>
+      </tr>
+    </table>
+- id: 161
+  md: |
+    [foo]: /url "title"
+
+    [foo]
+  htm: |
+    <p><a href="/url" title="title">foo</a></p>
+- id: 162
+  md: |2
+       [foo]: 
+          /url  
+               'the title'  
+
+    [foo]
+  htm: |
+    <p><a href="/url" title="the title">foo</a></p>
+- id: 163
+  md: |
+    [Foo*bar\]]:my_(url) 'title (with parens)'
+
+    [Foo*bar\]]
+  htm: |
+    <p><a href="my_(url)" title="title (with parens)">Foo*bar]</a></p>
+- id: 164
+  md: |
+    [Foo bar]:
+    <my url>
+    'title'
+
+    [Foo bar]
+  htm: |
+    <p><a href="my%20url" title="title">Foo bar</a></p>
+- id: 165
+  md: |
+    [foo]: /url '
+    title
+    line1
+    line2
+    '
+
+    [foo]
+  htm: |
+    <p><a href="/url" title="
+    title
+    line1
+    line2
+    ">foo</a></p>
+- id: 166
+  md: |
+    [foo]: /url 'title
+
+    with blank line'
+
+    [foo]
+  htm: |
+    <p>[foo]: /url 'title</p>
+    <p>with blank line'</p>
+    <p>[foo]</p>
+- id: 167
+  md: |
+    [foo]:
+    /url
+
+    [foo]
+  htm: |
+    <p><a href="/url">foo</a></p>
+- id: 168
+  md: |
+    [foo]:
+
+    [foo]
+  htm: |
+    <p>[foo]:</p>
+    <p>[foo]</p>
+- id: 169
+  md: |
+    [foo]: <>
+
+    [foo]
+  htm: |
+    <p><a href="">foo</a></p>
+- id: 170
+  md: |
+    [foo]: <bar>(baz)
+
+    [foo]
+  htm: |
+    <p>[foo]: <bar>(baz)</p>
+    <p>[foo]</p>
+- id: 171
+  md: |
+    [foo]: /url\bar\*baz "foo\"bar\baz"
+
+    [foo]
+  htm: |
+    <p><a href="/url%5Cbar*baz" title="foo&quot;bar\baz">foo</a></p>
+- id: 172
+  md: |
+    [foo]
+
+    [foo]: url
+  htm: |
+    <p><a href="url">foo</a></p>
+- id: 173
+  md: |
+    [foo]
+
+    [foo]: first
+    [foo]: second
+  htm: |
+    <p><a href="first">foo</a></p>
+- id: 174
+  md: |
+    [FOO]: /url
+
+    [Foo]
+  htm: |
+    <p><a href="/url">Foo</a></p>
+- id: 175
+  md: |
+    [ΑΓΩ]: /φου
+
+    [αγω]
+  htm: |
+    <p><a href="/%CF%86%CE%BF%CF%85">αγω</a></p>
+- id: 176
+  md: |
+    [foo]: /url
+  htm: ""
+- id: 177
+  md: |
+    [
+    foo
+    ]: /url
+    bar
+  htm: |
+    <p>bar</p>
+- id: 178
+  md: |
+    [foo]: /url "title" ok
+  htm: |
+    <p>[foo]: /url &quot;title&quot; ok</p>
+- id: 179
+  md: |
+    [foo]: /url
+    "title" ok
+  htm: |
+    <p>&quot;title&quot; ok</p>
+- id: 180
+  md: |2
+        [foo]: /url "title"
+
+    [foo]
+  htm: |
+    <pre><code>[foo]: /url &quot;title&quot;
+    </code></pre>
+    <p>[foo]</p>
+- id: 181
+  md: |
+    ```
+    [foo]: /url
+    ```
+
+    [foo]
+  htm: |
+    <pre><code>[foo]: /url
+    </code></pre>
+    <p>[foo]</p>
+- id: 182
+  md: |
+    Foo
+    [bar]: /baz
+
+    [bar]
+  htm: |
+    <p>Foo
+    [bar]: /baz</p>
+    <p>[bar]</p>
+- id: 183
+  md: |
+    # [Foo]
+    [foo]: /url
+    > bar
+  htm: |
+    <h1><a href="/url">Foo</a></h1>
+    <blockquote>
+    <p>bar</p>
+    </blockquote>
+- id: 184
+  md: |
+    [foo]: /url
+    bar
+    ===
+    [foo]
+  htm: |
+    <h1>bar</h1>
+    <p><a href="/url">foo</a></p>
+- id: 185
+  md: |
+    [foo]: /url
+    ===
+    [foo]
+  htm: |
+    <p>===
+    <a href="/url">foo</a></p>
+- id: 186
+  md: |
+    [foo]: /foo-url "foo"
+    [bar]: /bar-url
+      "bar"
+    [baz]: /baz-url
+
+    [foo],
+    [bar],
+    [baz]
+  htm: |
+    <p><a href="/foo-url" title="foo">foo</a>,
+    <a href="/bar-url" title="bar">bar</a>,
+    <a href="/baz-url">baz</a></p>
+- id: 187
+  md: |
+    [foo]
+
+    > [foo]: /url
+  htm: |
+    <p><a href="/url">foo</a></p>
+    <blockquote>
+    </blockquote>
+- id: 188
+  md: |
+    [foo]: /url
+  htm: ""
+- id: 189
+  md: |
+    aaa
+
+    bbb
+  htm: |
+    <p>aaa</p>
+    <p>bbb</p>
+- id: 190
+  md: |
+    aaa
+    bbb
+
+    ccc
+    ddd
+  htm: |
+    <p>aaa
+    bbb</p>
+    <p>ccc
+    ddd</p>
+- id: 191
+  md: |
+    aaa
+
+
+    bbb
+  htm: |
+    <p>aaa</p>
+    <p>bbb</p>
+- id: 192
+  md: |2
+      aaa
+     bbb
+  htm: |
+    <p>aaa
+    bbb</p>
+- id: 193
+  md: |
+    aaa
+                 bbb
+                                           ccc
+  htm: |
+    <p>aaa
+    bbb
+    ccc</p>
+- id: 194
+  md: |2
+       aaa
+    bbb
+  htm: |
+    <p>aaa
+    bbb</p>
+- id: 195
+  md: |2
+        aaa
+    bbb
+  htm: |
+    <pre><code>aaa
+    </code></pre>
+    <p>bbb</p>
+- id: 196
+  md: |
+    aaa     
+    bbb
+  htm: |
+    <p>aaa<br>
+    bbb</p>
+- id: 197
+  md: |2
+      
+
+    aaa
+      
+
+    # aaa
+
+  htm: |
+    <p>aaa</p>
+    <h1>aaa</h1>
+- id: 198
+  md: |
+    > # Foo
+    > bar
+    > baz
+  htm: |
+    <blockquote>
+    <h1>Foo</h1>
+    <p>bar
+    baz</p>
+    </blockquote>
+- id: 199
+  md: |
+    ># Foo
+    >bar
+    > baz
+  htm: |
+    <blockquote>
+    <h1>Foo</h1>
+    <p>bar
+    baz</p>
+    </blockquote>
+- id: 200
+  md: |2
+       > # Foo
+       > bar
+     > baz
+  htm: |
+    <blockquote>
+    <h1>Foo</h1>
+    <p>bar
+    baz</p>
+    </blockquote>
+- id: 201
+  md: |2
+        > # Foo
+        > bar
+        > baz
+  htm: |
+    <pre><code>&gt; # Foo
+    &gt; bar
+    &gt; baz
+    </code></pre>
+- id: 202
+  md: |
+    > # Foo
+    > bar
+    baz
+  htm: |
+    <blockquote>
+    <h1>Foo</h1>
+    <p>bar
+    baz</p>
+    </blockquote>
+- id: 203
+  md: |
+    > bar
+    baz
+    > foo
+  htm: |
+    <blockquote>
+    <p>bar
+    baz
+    foo</p>
+    </blockquote>
+- id: 204
+  md: |
+    > foo
+    ---
+  htm: |
+    <blockquote>
+    <p>foo</p>
+    </blockquote>
+    <hr>
+- id: 205
+  md: |
+    > - foo
+    - bar
+  htm: |
+    <blockquote>
+    <ul>
+    <li>foo</li>
+    </ul>
+    </blockquote>
+    <ul>
+    <li>bar</li>
+    </ul>
+- id: 206
+  md: |
+    >     foo
+        bar
+  htm: |
+    <blockquote>
+    <pre><code>foo
+    </code></pre>
+    </blockquote>
+    <pre><code>bar
+    </code></pre>
+- id: 207
+  md: |
+    > ```
+    foo
+    ```
+  htm: |
+    <blockquote>
+    <pre><code></code></pre>
+    </blockquote>
+    <p>foo</p>
+    <pre><code></code></pre>
+- id: 208
+  md: |
+    > foo
+        - bar
+  htm: |
+    <blockquote>
+    <p>foo
+    - bar</p>
+    </blockquote>
+- id: 209
+  md: |
+    >
+  htm: |
+    <blockquote>
+    </blockquote>
+- id: 210
+  md: |
+    >
+    >  
+    >
+  htm: |
+    <blockquote>
+    </blockquote>
+- id: 211
+  md: |
+    >
+    > foo
+    >
+  htm: |
+    <blockquote>
+    <p>foo</p>
+    </blockquote>
+- id: 212
+  md: |
+    > foo
+
+    > bar
+  htm: |
+    <blockquote>
+    <p>foo</p>
+    </blockquote>
+    <blockquote>
+    <p>bar</p>
+    </blockquote>
+- id: 213
+  md: |
+    > foo
+    > bar
+  htm: |
+    <blockquote>
+    <p>foo
+    bar</p>
+    </blockquote>
+- id: 214
+  md: |
+    > foo
+    >
+    > bar
+  htm: |
+    <blockquote>
+    <p>foo</p>
+    <p>bar</p>
+    </blockquote>
+- id: 215
+  md: |
+    foo
+    > bar
+  htm: |
+    <p>foo</p>
+    <blockquote>
+    <p>bar</p>
+    </blockquote>
+- id: 216
+  md: |
+    > aaa
+    ***
+    > bbb
+  htm: |
+    <blockquote>
+    <p>aaa</p>
+    </blockquote>
+    <hr>
+    <blockquote>
+    <p>bbb</p>
+    </blockquote>
+- id: 217
+  md: |
+    > bar
+    baz
+  htm: |
+    <blockquote>
+    <p>bar
+    baz</p>
+    </blockquote>
+- id: 218
+  md: |
+    > bar
+
+    baz
+  htm: |
+    <blockquote>
+    <p>bar</p>
+    </blockquote>
+    <p>baz</p>
+- id: 219
+  md: |
+    > bar
+    >
+    baz
+  htm: |
+    <blockquote>
+    <p>bar</p>
+    </blockquote>
+    <p>baz</p>
+- id: 220
+  md: |
+    > > > foo
+    bar
+  htm: |
+    <blockquote>
+    <blockquote>
+    <blockquote>
+    <p>foo
+    bar</p>
+    </blockquote>
+    </blockquote>
+    </blockquote>
+- id: 221
+  md: |
+    >>> foo
+    > bar
+    >>baz
+  htm: |
+    <blockquote>
+    <blockquote>
+    <blockquote>
+    <p>foo
+    bar
+    baz</p>
+    </blockquote>
+    </blockquote>
+    </blockquote>
+- id: 222
+  md: |
+    >     code
+
+    >    not code
+  htm: |
+    <blockquote>
+    <pre><code>code
+    </code></pre>
+    </blockquote>
+    <blockquote>
+    <p>not code</p>
+    </blockquote>
+- id: 223
+  md: |
+    A paragraph
+    with two lines.
+
+        indented code
+
+    > A block quote.
+  htm: |
+    <p>A paragraph
+    with two lines.</p>
+    <pre><code>indented code
+    </code></pre>
+    <blockquote>
+    <p>A block quote.</p>
+    </blockquote>
+- id: 224
+  md: |
+    1.  A paragraph
+        with two lines.
+
+            indented code
+
+        > A block quote.
+  htm: |
+    <ol>
+    <li>
+    <p>A paragraph
+    with two lines.</p>
+    <pre><code>indented code
+    </code></pre>
+    <blockquote>
+    <p>A block quote.</p>
+    </blockquote>
+    </li>
+    </ol>
+- id: 225
+  md: |
+    - one
+
+     two
+  htm: |
+    <ul>
+    <li>one</li>
+    </ul>
+    <p>two</p>
+- id: 226
+  md: |
+    - one
+
+      two
+  htm: |
+    <ul>
+    <li>
+    <p>one</p>
+    <p>two</p>
+    </li>
+    </ul>
+- id: 227
+  md: |2
+     -    one
+
+         two
+  htm: |
+    <ul>
+    <li>one</li>
+    </ul>
+    <pre><code> two
+    </code></pre>
+- id: 228
+  md: |2
+     -    one
+
+          two
+  htm: |
+    <ul>
+    <li>
+    <p>one</p>
+    <p>two</p>
+    </li>
+    </ul>
+- id: 229
+  md: |2
+       > > 1.  one
+    >>
+    >>     two
+  htm: |
+    <blockquote>
+    <blockquote>
+    <ol>
+    <li>
+    <p>one</p>
+    <p>two</p>
+    </li>
+    </ol>
+    </blockquote>
+    </blockquote>
+- id: 230
+  md: |
+    >>- one
+    >>
+      >  > two
+  htm: |
+    <blockquote>
+    <blockquote>
+    <ul>
+    <li>one</li>
+    </ul>
+    <p>two</p>
+    </blockquote>
+    </blockquote>
+- id: 231
+  md: |
+    -one
+
+    2.two
+  htm: |
+    <p>-one</p>
+    <p>2.two</p>
+- id: 232
+  md: |
+    - foo
+
+
+      bar
+  htm: |
+    <ul>
+    <li>
+    <p>foo</p>
+    <p>bar</p>
+    </li>
+    </ul>
+- id: 233
+  md: |
+    1.  foo
+
+        ```
+        bar
+        ```
+
+        baz
+
+        > bam
+  htm: |
+    <ol>
+    <li>
+    <p>foo</p>
+    <pre><code>bar
+    </code></pre>
+    <p>baz</p>
+    <blockquote>
+    <p>bam</p>
+    </blockquote>
+    </li>
+    </ol>
+- id: 234
+  md: |
+    - Foo
+
+          bar
+
+
+          baz
+  htm: |
+    <ul>
+    <li>
+    <p>Foo</p>
+    <pre><code>bar
+
+
+    baz
+    </code></pre>
+    </li>
+    </ul>
+- id: 235
+  md: |
+    123456789. ok
+  htm: |
+    <ol start="123456789">
+    <li>ok</li>
+    </ol>
+- id: 236
+  md: |
+    1234567890. not ok
+  htm: |
+    <p>1234567890. not ok</p>
+- id: 237
+  md: |
+    0. ok
+  htm: |
+    <ol start="0">
+    <li>ok</li>
+    </ol>
+- id: 238
+  md: |
+    003. ok
+  htm: |
+    <ol start="3">
+    <li>ok</li>
+    </ol>
+- id: 239
+  md: |
+    -1. not ok
+  htm: |
+    <p>-1. not ok</p>
+- id: 240
+  md: |
+    - foo
+
+          bar
+  htm: |
+    <ul>
+    <li>
+    <p>foo</p>
+    <pre><code>bar
+    </code></pre>
+    </li>
+    </ul>
+- id: 241
+  md: |2
+      10.  foo
+
+               bar
+  htm: |
+    <ol start="10">
+    <li>
+    <p>foo</p>
+    <pre><code>bar
+    </code></pre>
+    </li>
+    </ol>
+- id: 242
+  md: |2
+        indented code
+
+    paragraph
+
+        more code
+  htm: |
+    <pre><code>indented code
+    </code></pre>
+    <p>paragraph</p>
+    <pre><code>more code
+    </code></pre>
+- id: 243
+  md: |
+    1.     indented code
+
+       paragraph
+
+           more code
+  htm: |
+    <ol>
+    <li>
+    <pre><code>indented code
+    </code></pre>
+    <p>paragraph</p>
+    <pre><code>more code
+    </code></pre>
+    </li>
+    </ol>
+- id: 244
+  md: |
+    1.      indented code
+
+       paragraph
+
+           more code
+  htm: |
+    <ol>
+    <li>
+    <pre><code> indented code
+    </code></pre>
+    <p>paragraph</p>
+    <pre><code>more code
+    </code></pre>
+    </li>
+    </ol>
+- id: 245
+  md: |2
+       foo
+
+    bar
+  htm: |
+    <p>foo</p>
+    <p>bar</p>
+- id: 246
+  md: |
+    -    foo
+
+      bar
+  htm: |
+    <ul>
+    <li>foo</li>
+    </ul>
+    <p>bar</p>
+- id: 247
+  md: |
+    -  foo
+
+       bar
+  htm: |
+    <ul>
+    <li>
+    <p>foo</p>
+    <p>bar</p>
+    </li>
+    </ul>
+- id: 248
+  md: |
+    -
+      foo
+    -
+      ```
+      bar
+      ```
+    -
+          baz
+  htm: |
+    <ul>
+    <li>foo</li>
+    <li>
+    <pre><code>bar
+    </code></pre>
+    </li>
+    <li>
+    <pre><code>baz
+    </code></pre>
+    </li>
+    </ul>
+- id: 249
+  md: |
+    -   
+      foo
+  htm: |
+    <ul>
+    <li>foo</li>
+    </ul>
+- id: 250
+  md: |
+    -
+
+      foo
+  htm: |
+    <ul>
+    <li></li>
+    </ul>
+    <p>foo</p>
+- id: 251
+  md: |
+    - foo
+    -
+    - bar
+  htm: |
+    <ul>
+    <li>foo</li>
+    <li></li>
+    <li>bar</li>
+    </ul>
+- id: 252
+  md: |
+    - foo
+    -   
+    - bar
+  htm: |
+    <ul>
+    <li>foo</li>
+    <li></li>
+    <li>bar</li>
+    </ul>
+- id: 253
+  md: |
+    1. foo
+    2.
+    3. bar
+  htm: |
+    <ol>
+    <li>foo</li>
+    <li></li>
+    <li>bar</li>
+    </ol>
+- id: 254
+  md: |
+    *
+  htm: |
+    <ul>
+    <li></li>
+    </ul>
+- id: 255
+  md: |
+    foo
+    *
+
+    foo
+    1.
+  htm: |
+    <p>foo
+    *</p>
+    <p>foo
+    1.</p>
+- id: 256
+  md: |2
+     1.  A paragraph
+         with two lines.
+
+             indented code
+
+         > A block quote.
+  htm: |
+    <ol>
+    <li>
+    <p>A paragraph
+    with two lines.</p>
+    <pre><code>indented code
+    </code></pre>
+    <blockquote>
+    <p>A block quote.</p>
+    </blockquote>
+    </li>
+    </ol>
+- id: 257
+  md: |2
+      1.  A paragraph
+          with two lines.
+
+              indented code
+
+          > A block quote.
+  htm: |
+    <ol>
+    <li>
+    <p>A paragraph
+    with two lines.</p>
+    <pre><code>indented code
+    </code></pre>
+    <blockquote>
+    <p>A block quote.</p>
+    </blockquote>
+    </li>
+    </ol>
+- id: 258
+  md: |2
+       1.  A paragraph
+           with two lines.
+
+               indented code
+
+           > A block quote.
+  htm: |
+    <ol>
+    <li>
+    <p>A paragraph
+    with two lines.</p>
+    <pre><code>indented code
+    </code></pre>
+    <blockquote>
+    <p>A block quote.</p>
+    </blockquote>
+    </li>
+    </ol>
+- id: 259
+  md: |2
+        1.  A paragraph
+            with two lines.
+
+                indented code
+
+            > A block quote.
+  htm: |
+    <pre><code>1.  A paragraph
+        with two lines.
+
+            indented code
+
+        &gt; A block quote.
+    </code></pre>
+- id: 260
+  md: |2
+      1.  A paragraph
+    with two lines.
+
+              indented code
+
+          > A block quote.
+  htm: |
+    <ol>
+    <li>
+    <p>A paragraph
+    with two lines.</p>
+    <pre><code>indented code
+    </code></pre>
+    <blockquote>
+    <p>A block quote.</p>
+    </blockquote>
+    </li>
+    </ol>
+- id: 261
+  md: |2
+      1.  A paragraph
+        with two lines.
+  htm: |
+    <ol>
+    <li>A paragraph
+    with two lines.</li>
+    </ol>
+- id: 262
+  md: |
+    > 1. > Blockquote
+    continued here.
+  htm: |
+    <blockquote>
+    <ol>
+    <li>
+    <blockquote>
+    <p>Blockquote
+    continued here.</p>
+    </blockquote>
+    </li>
+    </ol>
+    </blockquote>
+- id: 263
+  md: |
+    > 1. > Blockquote
+    > continued here.
+  htm: |
+    <blockquote>
+    <ol>
+    <li>
+    <blockquote>
+    <p>Blockquote
+    continued here.</p>
+    </blockquote>
+    </li>
+    </ol>
+    </blockquote>
+- id: 264
+  md: |
+    - foo
+      - bar
+        - baz
+          - boo
+  htm: |
+    <ul>
+    <li>foo
+    <ul>
+    <li>bar
+    <ul>
+    <li>baz
+    <ul>
+    <li>boo</li>
+    </ul>
+    </li>
+    </ul>
+    </li>
+    </ul>
+    </li>
+    </ul>
+- id: 265
+  md: |
+    - foo
+     - bar
+      - baz
+       - boo
+  htm: |
+    <ul>
+    <li>foo</li>
+    <li>bar</li>
+    <li>baz</li>
+    <li>boo</li>
+    </ul>
+- id: 266
+  md: |
+    10) foo
+        - bar
+  htm: |
+    <ol start="10">
+    <li>foo
+    <ul>
+    <li>bar</li>
+    </ul>
+    </li>
+    </ol>
+- id: 267
+  md: |
+    10) foo
+       - bar
+  htm: |
+    <ol start="10">
+    <li>foo</li>
+    </ol>
+    <ul>
+    <li>bar</li>
+    </ul>
+- id: 268
+  md: |
+    - - foo
+  htm: |
+    <ul>
+    <li>
+    <ul>
+    <li>foo</li>
+    </ul>
+    </li>
+    </ul>
+- id: 269
+  md: |
+    1. - 2. foo
+  htm: |
+    <ol>
+    <li>
+    <ul>
+    <li>
+    <ol start="2">
+    <li>foo</li>
+    </ol>
+    </li>
+    </ul>
+    </li>
+    </ol>
+- id: 270
+  md: |
+    - # Foo
+    - Bar
+      ---
+      baz
+  htm: |
+    <ul>
+    <li>
+    <h1>Foo</h1>
+    </li>
+    <li>
+    <h2>Bar</h2>
+    baz</li>
+    </ul>
+- id: 271
+  md: |
+    - foo
+    - bar
+    + baz
+  htm: |
+    <ul>
+    <li>foo</li>
+    <li>bar</li>
+    </ul>
+    <ul>
+    <li>baz</li>
+    </ul>
+- id: 272
+  md: |
+    1. foo
+    2. bar
+    3) baz
+  htm: |
+    <ol>
+    <li>foo</li>
+    <li>bar</li>
+    </ol>
+    <ol start="3">
+    <li>baz</li>
+    </ol>
+- id: 273
+  md: |
+    Foo
+    - bar
+    - baz
+  htm: |
+    <p>Foo</p>
+    <ul>
+    <li>bar</li>
+    <li>baz</li>
+    </ul>
+- id: 274
+  md: |
+    The number of windows in my house is
+    14.  The number of doors is 6.
+  htm: |
+    <p>The number of windows in my house is
+    14.  The number of doors is 6.</p>
+- id: 275
+  md: |
+    The number of windows in my house is
+    1.  The number of doors is 6.
+  htm: |
+    <p>The number of windows in my house is</p>
+    <ol>
+    <li>The number of doors is 6.</li>
+    </ol>
+- id: 276
+  md: |
+    - foo
+
+    - bar
+
+
+    - baz
+  htm: |
+    <ul>
+    <li>
+    <p>foo</p>
+    </li>
+    <li>
+    <p>bar</p>
+    </li>
+    <li>
+    <p>baz</p>
+    </li>
+    </ul>
+- id: 277
+  md: |
+    - foo
+      - bar
+        - baz
+
+
+          bim
+  htm: |
+    <ul>
+    <li>foo
+    <ul>
+    <li>bar
+    <ul>
+    <li>
+    <p>baz</p>
+    <p>bim</p>
+    </li>
+    </ul>
+    </li>
+    </ul>
+    </li>
+    </ul>
+- id: 278
+  md: |
+    - foo
+    - bar
+
+    <!-- -->
+
+    - baz
+    - bim
+  htm: |
+    <ul>
+    <li>foo</li>
+    <li>bar</li>
+    </ul>
+    <!-- -->
+    <ul>
+    <li>baz</li>
+    <li>bim</li>
+    </ul>
+- id: 279
+  md: |
+    -   foo
+
+        notcode
+
+    -   foo
+
+    <!-- -->
+
+        code
+  htm: |
+    <ul>
+    <li>
+    <p>foo</p>
+    <p>notcode</p>
+    </li>
+    <li>
+    <p>foo</p>
+    </li>
+    </ul>
+    <!-- -->
+    <pre><code>code
+    </code></pre>
+- id: 280
+  md: |
+    - a
+     - b
+      - c
+       - d
+      - e
+     - f
+    - g
+  htm: |
+    <ul>
+    <li>a</li>
+    <li>b</li>
+    <li>c</li>
+    <li>d</li>
+    <li>e</li>
+    <li>f</li>
+    <li>g</li>
+    </ul>
+- id: 281
+  md: |
+    1. a
+
+      2. b
+
+       3. c
+  htm: |
+    <ol>
+    <li>
+    <p>a</p>
+    </li>
+    <li>
+    <p>b</p>
+    </li>
+    <li>
+    <p>c</p>
+    </li>
+    </ol>
+- id: 282
+  md: |
+    - a
+     - b
+      - c
+       - d
+        - e
+  htm: |
+    <ul>
+    <li>a</li>
+    <li>b</li>
+    <li>c</li>
+    <li>d
+    - e</li>
+    </ul>
+- id: 283
+  md: |
+    1. a
+
+      2. b
+
+        3. c
+  htm: |
+    <ol>
+    <li>
+    <p>a</p>
+    </li>
+    <li>
+    <p>b</p>
+    </li>
+    </ol>
+    <pre><code>3. c
+    </code></pre>
+- id: 284
+  md: |
+    - a
+    - b
+
+    - c
+  htm: |
+    <ul>
+    <li>
+    <p>a</p>
+    </li>
+    <li>
+    <p>b</p>
+    </li>
+    <li>
+    <p>c</p>
+    </li>
+    </ul>
+- id: 285
+  md: |
+    * a
+    *
+
+    * c
+  htm: |
+    <ul>
+    <li>
+    <p>a</p>
+    </li>
+    <li></li>
+    <li>
+    <p>c</p>
+    </li>
+    </ul>
+- id: 286
+  md: |
+    - a
+    - b
+
+      c
+    - d
+  htm: |
+    <ul>
+    <li>
+    <p>a</p>
+    </li>
+    <li>
+    <p>b</p>
+    <p>c</p>
+    </li>
+    <li>
+    <p>d</p>
+    </li>
+    </ul>
+- id: 287
+  md: |
+    - a
+    - b
+
+      [ref]: /url
+    - d
+  htm: |
+    <ul>
+    <li>
+    <p>a</p>
+    </li>
+    <li>
+    <p>b</p>
+    </li>
+    <li>
+    <p>d</p>
+    </li>
+    </ul>
+- id: 288
+  md: |
+    - a
+    - ```
+      b
+
+
+      ```
+    - c
+  htm: |
+    <ul>
+    <li>a</li>
+    <li>
+    <pre><code>b
+
+
+    </code></pre>
+    </li>
+    <li>c</li>
+    </ul>
+- id: 289
+  md: |
+    - a
+      - b
+
+        c
+    - d
+  htm: |
+    <ul>
+    <li>a
+    <ul>
+    <li>
+    <p>b</p>
+    <p>c</p>
+    </li>
+    </ul>
+    </li>
+    <li>d</li>
+    </ul>
+- id: 290
+  md: |
+    * a
+      > b
+      >
+    * c
+  htm: |
+    <ul>
+    <li>a
+    <blockquote>
+    <p>b</p>
+    </blockquote>
+    </li>
+    <li>c</li>
+    </ul>
+- id: 291
+  md: |
+    - a
+      > b
+      ```
+      c
+      ```
+    - d
+  htm: |
+    <ul>
+    <li>a
+    <blockquote>
+    <p>b</p>
+    </blockquote>
+    <pre><code>c
+    </code></pre>
+    </li>
+    <li>d</li>
+    </ul>
+- id: 292
+  md: |
+    - a
+  htm: |
+    <ul>
+    <li>a</li>
+    </ul>
+- id: 293
+  md: |
+    - a
+      - b
+  htm: |
+    <ul>
+    <li>a
+    <ul>
+    <li>b</li>
+    </ul>
+    </li>
+    </ul>
+- id: 294
+  md: |
+    1. ```
+       foo
+       ```
+
+       bar
+  htm: |
+    <ol>
+    <li>
+    <pre><code>foo
+    </code></pre>
+    <p>bar</p>
+    </li>
+    </ol>
+- id: 295
+  md: |
+    * foo
+      * bar
+
+      baz
+  htm: |
+    <ul>
+    <li>
+    <p>foo</p>
+    <ul>
+    <li>bar</li>
+    </ul>
+    <p>baz</p>
+    </li>
+    </ul>
+- id: 296
+  md: |
+    - a
+      - b
+      - c
+
+    - d
+      - e
+      - f
+  htm: |
+    <ul>
+    <li>
+    <p>a</p>
+    <ul>
+    <li>b</li>
+    <li>c</li>
+    </ul>
+    </li>
+    <li>
+    <p>d</p>
+    <ul>
+    <li>e</li>
+    <li>f</li>
+    </ul>
+    </li>
+    </ul>
+- id: 297
+  md: |
+    `hi`lo`
+  htm: |
+    <p><code>hi</code>lo`</p>
+- id: 298
+  md: |
+    \!\"\#\$\%\&\'\(\)\*\+\,\-\.\/\:\;\<\=\>\?\@\[\\\]\^\_\`\{\|\}\~
+  htm: |
+    <p>!&quot;#$%&amp;'()*+,-./:;&lt;=&gt;?@[\]^_`{|}~</p>
+- id: 299
+  md: |
+    \→\A\a\ \3\φ\«
+  htm: |
+    <p>\→\A\a\ \3\φ\«</p>
+- id: 300
+  md: |
+    \*not emphasized*
+    \<br/> not a tag
+    \[not a link](/foo)
+    \`not code`
+    1\. not a list
+    \* not a list
+    \# not a heading
+    \[foo]: /url "not a reference"
+    \&ouml; not a character entity
+  htm: |
+    <p>*not emphasized*
+    &lt;br/&gt; not a tag
+    [not a link](/foo)
+    `not code`
+    1. not a list
+    * not a list
+    # not a heading
+    [foo]: /url &quot;not a reference&quot;
+    &amp;ouml; not a character entity</p>
+- id: 301
+  md: |
+    \\*emphasis*
+  htm: |
+    <p>\<em>emphasis</em></p>
+- id: 302
+  md: |
+    foo\
+    bar
+  htm: |
+    <p>foo<br>
+    bar</p>
+- id: 303
+  md: |
+    `` \[\` ``
+  htm: |
+    <p><code>\[\`</code></p>
+- id: 304
+  md: |2
+        \[\]
+  htm: |
+    <pre><code>\[\]
+    </code></pre>
+- id: 305
+  md: |
+    ~~~
+    \[\]
+    ~~~
+  htm: |
+    <pre><code>\[\]
+    </code></pre>
+- id: 306
+  md: |
+    <http://example.com?find=\*>
+  htm: |
+    <p><a href="http://example.com?find=%5C*">http://example.com?find=\*</a></p>
+- id: 307
+  md: |
+    <a href="/bar\/)">
+  htm: |
+    <a href="/bar\/)">
+- id: 308
+  md: |
+    [foo](/bar\* "ti\*tle")
+  htm: |
+    <p><a href="/bar*" title="ti*tle">foo</a></p>
+- id: 309
+  md: |
+    [foo]
+
+    [foo]: /bar\* "ti\*tle"
+  htm: |
+    <p><a href="/bar*" title="ti*tle">foo</a></p>
+- id: 310
+  md: |
+    ``` foo\+bar
+    foo
+    ```
+  htm: |
+    <pre><code class="language-foo+bar">foo
+    </code></pre>
+- id: 311
+  md: |
+    &nbsp; &amp; &copy; &AElig; &Dcaron;
+    &frac34; &HilbertSpace; &DifferentialD;
+    &ClockwiseContourIntegral; &ngE;
+  htm: "<p>\_ &amp; © Æ Ď\n¾ ℋ ⅆ\n∲ ≧̸</p>\n"
+- id: 312
+  md: |
+    &#35; &#1234; &#992; &#0;
+  htm: |
+    <p># Ӓ Ϡ �</p>
+- id: 313
+  md: |
+    &#X22; &#XD06; &#xcab;
+  htm: |
+    <p>&quot; ആ ಫ</p>
+- id: 314
+  md: |
+    &nbsp &x; &#; &#x;
+    &#987654321;
+    &#abcdef0;
+    &ThisIsNotDefined; &hi?;
+  htm: |
+    <p>&amp;nbsp &amp;x; &amp;#; &amp;#x;
+    &amp;#987654321;
+    &amp;#abcdef0;
+    &amp;ThisIsNotDefined; &amp;hi?;</p>
+- id: 315
+  md: |
+    &copy
+  htm: |
+    <p>&amp;copy</p>
+- id: 316
+  md: |
+    &MadeUpEntity;
+  htm: |
+    <p>&amp;MadeUpEntity;</p>
+- id: 317
+  md: |
+    <a href="&ouml;&ouml;.html">
+  htm: |
+    <a href="&ouml;&ouml;.html">
+- id: 318
+  md: |
+    [foo](/f&ouml;&ouml; "f&ouml;&ouml;")
+  htm: |
+    <p><a href="/f%C3%B6%C3%B6" title="föö">foo</a></p>
+- id: 319
+  md: |
+    [foo]
+
+    [foo]: /f&ouml;&ouml; "f&ouml;&ouml;"
+  htm: |
+    <p><a href="/f%C3%B6%C3%B6" title="föö">foo</a></p>
+- id: 320
+  md: |
+    ``` f&ouml;&ouml;
+    foo
+    ```
+  htm: |
+    <pre><code class="language-föö">foo
+    </code></pre>
+- id: 321
+  md: |
+    `f&ouml;&ouml;`
+  htm: |
+    <p><code>f&amp;ouml;&amp;ouml;</code></p>
+- id: 322
+  md: |2
+        f&ouml;f&ouml;
+  htm: |
+    <pre><code>f&amp;ouml;f&amp;ouml;
+    </code></pre>
+- id: 323
+  md: |
+    &#42;foo&#42;
+    *foo*
+  htm: |
+    <p>*foo*
+    <em>foo</em></p>
+- id: 324
+  md: |
+    &#42; foo
+
+    * foo
+  htm: |
+    <p>* foo</p>
+    <ul>
+    <li>foo</li>
+    </ul>
+- id: 325
+  md: |
+    foo&#10;&#10;bar
+  htm: |
+    <p>foo
+
+    bar</p>
+- id: 326
+  md: |
+    &#9;foo
+  htm: |
+    <p>→foo</p>
+- id: 327
+  md: |
+    [a](url &quot;tit&quot;)
+  htm: |
+    <p>[a](url &quot;tit&quot;)</p>
+- id: 328
+  md: |
+    `foo`
+  htm: |
+    <p><code>foo</code></p>
+- id: 329
+  md: |
+    `` foo ` bar ``
+  htm: |
+    <p><code>foo ` bar</code></p>
+- id: 330
+  md: |
+    ` `` `
+  htm: |
+    <p><code>``</code></p>
+- id: 331
+  md: |
+    `  ``  `
+  htm: |
+    <p><code> `` </code></p>
+- id: 332
+  md: |
+    ` a`
+  htm: |
+    <p><code> a</code></p>
+- id: 333
+  md: "`\_b\_`\n"
+  htm: "<p><code>\_b\_</code></p>\n"
+- id: 334
+  md: "`\_`\n`  `\n"
+  htm: "<p><code>\_</code>\n<code>  </code></p>\n"
+- id: 335
+  md: |
+    ``
+    foo
+    bar  
+    baz
+    ``
+  htm: |
+    <p><code>foo bar   baz</code></p>
+- id: 336
+  md: |
+    ``
+    foo 
+    ``
+  htm: |
+    <p><code>foo </code></p>
+- id: 337
+  md: |
+    `foo   bar 
+    baz`
+  htm: |
+    <p><code>foo   bar  baz</code></p>
+- id: 338
+  md: |
+    `foo\`bar`
+  htm: |
+    <p><code>foo\</code>bar`</p>
+- id: 339
+  md: |
+    ``foo`bar``
+  htm: |
+    <p><code>foo`bar</code></p>
+- id: 340
+  md: |
+    ` foo `` bar `
+  htm: |
+    <p><code>foo `` bar</code></p>
+- id: 341
+  md: |
+    *foo`*`
+  htm: |
+    <p>*foo<code>*</code></p>
+- id: 342
+  md: |
+    [not a `link](/foo`)
+  htm: |
+    <p>[not a <code>link](/foo</code>)</p>
+- id: 343
+  md: |
+    `<a href="`">`
+  htm: |
+    <p><code>&lt;a href=&quot;</code>&quot;&gt;`</p>
+- id: 344
+  md: |
+    <a href="`">`
+  htm: |
+    <p><a href="`">`</p>
+- id: 345
+  md: |
+    `<http://foo.bar.`baz>`
+  htm: |
+    <p><code>&lt;http://foo.bar.</code>baz&gt;`</p>
+- id: 346
+  md: |
+    <http://foo.bar.`baz>`
+  htm: |
+    <p><a href="http://foo.bar.%60baz">http://foo.bar.`baz</a>`</p>
+- id: 347
+  md: |
+    ```foo``
+  htm: |
+    <p>```foo``</p>
+- id: 348
+  md: |
+    `foo
+  htm: |
+    <p>`foo</p>
+- id: 349
+  md: |
+    `foo``bar``
+  htm: |
+    <p>`foo<code>bar</code></p>
+- id: 350
+  md: |
+    *foo bar*
+  htm: |
+    <p><em>foo bar</em></p>
+- id: 351
+  md: |
+    a * foo bar*
+  htm: |
+    <p>a * foo bar*</p>
+- id: 352
+  md: |
+    a*"foo"*
+  htm: |
+    <p>a*&quot;foo&quot;*</p>
+- id: 353
+  md: "*\_a\_*\n"
+  htm: "<p>*\_a\_*</p>\n"
+- id: 354
+  md: |
+    foo*bar*
+  htm: |
+    <p>foo<em>bar</em></p>
+- id: 355
+  md: |
+    5*6*78
+  htm: |
+    <p>5<em>6</em>78</p>
+- id: 356
+  md: |
+    _foo bar_
+  htm: |
+    <p><em>foo bar</em></p>
+- id: 357
+  md: |
+    _ foo bar_
+  htm: |
+    <p>_ foo bar_</p>
+- id: 358
+  md: |
+    a_"foo"_
+  htm: |
+    <p>a_&quot;foo&quot;_</p>
+- id: 359
+  md: |
+    foo_bar_
+  htm: |
+    <p>foo_bar_</p>
+- id: 360
+  md: |
+    5_6_78
+  htm: |
+    <p>5_6_78</p>
+- id: 361
+  md: |
+    пристаням_стремятся_
+  htm: |
+    <p>пристаням_стремятся_</p>
+- id: 362
+  md: |
+    aa_"bb"_cc
+  htm: |
+    <p>aa_&quot;bb&quot;_cc</p>
+- id: 363
+  md: |
+    foo-_(bar)_
+  htm: |
+    <p>foo-<em>(bar)</em></p>
+- id: 364
+  md: |
+    _foo*
+  htm: |
+    <p>_foo*</p>
+- id: 365
+  md: |
+    *foo bar *
+  htm: |
+    <p>*foo bar *</p>
+- id: 366
+  md: |
+    *foo bar
+    *
+  htm: |
+    <p>*foo bar
+    *</p>
+- id: 367
+  md: |
+    *(*foo)
+  htm: |
+    <p>*(*foo)</p>
+- id: 368
+  md: |
+    *(*foo*)*
+  htm: |
+    <p><em>(<em>foo</em>)</em></p>
+- id: 369
+  md: |
+    *foo*bar
+  htm: |
+    <p><em>foo</em>bar</p>
+- id: 370
+  md: |
+    _foo bar _
+  htm: |
+    <p>_foo bar _</p>
+- id: 371
+  md: |
+    _(_foo)
+  htm: |
+    <p>_(_foo)</p>
+- id: 372
+  md: |
+    _(_foo_)_
+  htm: |
+    <p><em>(<em>foo</em>)</em></p>
+- id: 373
+  md: |
+    _foo_bar
+  htm: |
+    <p>_foo_bar</p>
+- id: 374
+  md: |
+    _пристаням_стремятся
+  htm: |
+    <p>_пристаням_стремятся</p>
+- id: 375
+  md: |
+    _foo_bar_baz_
+  htm: |
+    <p><em>foo_bar_baz</em></p>
+- id: 376
+  md: |
+    _(bar)_.
+  htm: |
+    <p><em>(bar)</em>.</p>
+- id: 377
+  md: |
+    **foo bar**
+  htm: |
+    <p><strong>foo bar</strong></p>
+- id: 378
+  md: |
+    ** foo bar**
+  htm: |
+    <p>** foo bar**</p>
+- id: 379
+  md: |
+    a**"foo"**
+  htm: |
+    <p>a**&quot;foo&quot;**</p>
+- id: 380
+  md: |
+    foo**bar**
+  htm: |
+    <p>foo<strong>bar</strong></p>
+- id: 381
+  md: |
+    __foo bar__
+  htm: |
+    <p><strong>foo bar</strong></p>
+- id: 382
+  md: |
+    __ foo bar__
+  htm: |
+    <p>__ foo bar__</p>
+- id: 383
+  md: |
+    __
+    foo bar__
+  htm: |
+    <p>__
+    foo bar__</p>
+- id: 384
+  md: |
+    a__"foo"__
+  htm: |
+    <p>a__&quot;foo&quot;__</p>
+- id: 385
+  md: |
+    foo__bar__
+  htm: |
+    <p>foo__bar__</p>
+- id: 386
+  md: |
+    5__6__78
+  htm: |
+    <p>5__6__78</p>
+- id: 387
+  md: |
+    пристаням__стремятся__
+  htm: |
+    <p>пристаням__стремятся__</p>
+- id: 388
+  md: |
+    __foo, __bar__, baz__
+  htm: |
+    <p><strong>foo, bar, baz</strong></p>
+- id: 389
+  md: |
+    foo-__(bar)__
+  htm: |
+    <p>foo-<strong>(bar)</strong></p>
+- id: 390
+  md: |
+    **foo bar **
+  htm: |
+    <p>**foo bar **</p>
+- id: 391
+  md: |
+    **(**foo)
+  htm: |
+    <p>**(**foo)</p>
+- id: 392
+  md: |
+    *(**foo**)*
+  htm: |
+    <p><em>(<strong>foo</strong>)</em></p>
+- id: 393
+  md: |
+    **Gomphocarpus (*Gomphocarpus physocarpus*, syn.
+    *Asclepias physocarpa*)**
+  htm: |
+    <p><strong>Gomphocarpus (<em>Gomphocarpus physocarpus</em>, syn.
+    <em>Asclepias physocarpa</em>)</strong></p>
+- id: 394
+  md: |
+    **foo "*bar*" foo**
+  htm: |
+    <p><strong>foo &quot;<em>bar</em>&quot; foo</strong></p>
+- id: 395
+  md: |
+    **foo**bar
+  htm: |
+    <p><strong>foo</strong>bar</p>
+- id: 396
+  md: |
+    __foo bar __
+  htm: |
+    <p>__foo bar __</p>
+- id: 397
+  md: |
+    __(__foo)
+  htm: |
+    <p>__(__foo)</p>
+- id: 398
+  md: |
+    _(__foo__)_
+  htm: |
+    <p><em>(<strong>foo</strong>)</em></p>
+- id: 399
+  md: |
+    __foo__bar
+  htm: |
+    <p>__foo__bar</p>
+- id: 400
+  md: |
+    __пристаням__стремятся
+  htm: |
+    <p>__пристаням__стремятся</p>
+- id: 401
+  md: |
+    __foo__bar__baz__
+  htm: |
+    <p><strong>foo__bar__baz</strong></p>
+- id: 402
+  md: |
+    __(bar)__.
+  htm: |
+    <p><strong>(bar)</strong>.</p>
+- id: 403
+  md: |
+    *foo [bar](/url)*
+  htm: |
+    <p><em>foo <a href="/url">bar</a></em></p>
+- id: 404
+  md: |
+    *foo
+    bar*
+  htm: |
+    <p><em>foo
+    bar</em></p>
+- id: 405
+  md: |
+    _foo __bar__ baz_
+  htm: |
+    <p><em>foo <strong>bar</strong> baz</em></p>
+- id: 406
+  md: |
+    _foo _bar_ baz_
+  htm: |
+    <p><em>foo <em>bar</em> baz</em></p>
+- id: 407
+  md: |
+    __foo_ bar_
+  htm: |
+    <p><em><em>foo</em> bar</em></p>
+- id: 408
+  md: |
+    *foo *bar**
+  htm: |
+    <p><em>foo <em>bar</em></em></p>
+- id: 409
+  md: |
+    *foo **bar** baz*
+  htm: |
+    <p><em>foo <strong>bar</strong> baz</em></p>
+- id: 410
+  md: |
+    *foo**bar**baz*
+  htm: |
+    <p><em>foo<strong>bar</strong>baz</em></p>
+- id: 411
+  md: |
+    *foo**bar*
+  htm: |
+    <p><em>foo**bar</em></p>
+- id: 412
+  md: |
+    ***foo** bar*
+  htm: |
+    <p><em><strong>foo</strong> bar</em></p>
+- id: 413
+  md: |
+    *foo **bar***
+  htm: |
+    <p><em>foo <strong>bar</strong></em></p>
+- id: 414
+  md: |
+    *foo**bar***
+  htm: |
+    <p><em>foo<strong>bar</strong></em></p>
+- id: 415
+  md: |
+    foo***bar***baz
+  htm: |
+    <p>foo<em><strong>bar</strong></em>baz</p>
+- id: 416
+  md: |
+    foo******bar*********baz
+  htm: |
+    <p>foo<strong>bar</strong>***baz</p>
+- id: 417
+  md: |
+    *foo **bar *baz* bim** bop*
+  htm: |
+    <p><em>foo <strong>bar <em>baz</em> bim</strong> bop</em></p>
+- id: 418
+  md: |
+    *foo [*bar*](/url)*
+  htm: |
+    <p><em>foo <a href="/url"><em>bar</em></a></em></p>
+- id: 419
+  md: |
+    ** is not an empty emphasis
+  htm: |
+    <p>** is not an empty emphasis</p>
+- id: 420
+  md: |
+    **** is not an empty strong emphasis
+  htm: |
+    <p>**** is not an empty strong emphasis</p>
+- id: 421
+  md: |
+    **foo [bar](/url)**
+  htm: |
+    <p><strong>foo <a href="/url">bar</a></strong></p>
+- id: 422
+  md: |
+    **foo
+    bar**
+  htm: |
+    <p><strong>foo
+    bar</strong></p>
+- id: 423
+  md: |
+    __foo _bar_ baz__
+  htm: |
+    <p><strong>foo <em>bar</em> baz</strong></p>
+- id: 424
+  md: |
+    __foo __bar__ baz__
+  htm: |
+    <p><strong>foo bar baz</strong></p>
+- id: 425
+  md: |
+    ____foo__ bar__
+  htm: |
+    <p><strong>foo bar</strong></p>
+- id: 426
+  md: |
+    **foo **bar****
+  htm: |
+    <p><strong>foo bar</strong></p>
+- id: 427
+  md: |
+    **foo *bar* baz**
+  htm: |
+    <p><strong>foo <em>bar</em> baz</strong></p>
+- id: 428
+  md: |
+    **foo*bar*baz**
+  htm: |
+    <p><strong>foo<em>bar</em>baz</strong></p>
+- id: 429
+  md: |
+    ***foo* bar**
+  htm: |
+    <p><strong><em>foo</em> bar</strong></p>
+- id: 430
+  md: |
+    **foo *bar***
+  htm: |
+    <p><strong>foo <em>bar</em></strong></p>
+- id: 431
+  md: |
+    **foo *bar **baz**
+    bim* bop**
+  htm: |
+    <p><strong>foo <em>bar <strong>baz</strong>
+    bim</em> bop</strong></p>
+- id: 432
+  md: |
+    **foo [*bar*](/url)**
+  htm: |
+    <p><strong>foo <a href="/url"><em>bar</em></a></strong></p>
+- id: 433
+  md: |
+    __ is not an empty emphasis
+  htm: |
+    <p>__ is not an empty emphasis</p>
+- id: 434
+  md: |
+    ____ is not an empty strong emphasis
+  htm: |
+    <p>____ is not an empty strong emphasis</p>
+- id: 435
+  md: |
+    foo ***
+  htm: |
+    <p>foo ***</p>
+- id: 436
+  md: |
+    foo *\**
+  htm: |
+    <p>foo <em>*</em></p>
+- id: 437
+  md: |
+    foo *_*
+  htm: |
+    <p>foo <em>_</em></p>
+- id: 438
+  md: |
+    foo *****
+  htm: |
+    <p>foo *****</p>
+- id: 439
+  md: |
+    foo **\***
+  htm: |
+    <p>foo <strong>*</strong></p>
+- id: 440
+  md: |
+    foo **_**
+  htm: |
+    <p>foo <strong>_</strong></p>
+- id: 441
+  md: |
+    **foo*
+  htm: |
+    <p>*<em>foo</em></p>
+- id: 442
+  md: |
+    *foo**
+  htm: |
+    <p><em>foo</em>*</p>
+- id: 443
+  md: |
+    ***foo**
+  htm: |
+    <p>*<strong>foo</strong></p>
+- id: 444
+  md: |
+    ****foo*
+  htm: |
+    <p>***<em>foo</em></p>
+- id: 445
+  md: |
+    **foo***
+  htm: |
+    <p><strong>foo</strong>*</p>
+- id: 446
+  md: |
+    *foo****
+  htm: |
+    <p><em>foo</em>***</p>
+- id: 447
+  md: |
+    foo ___
+  htm: |
+    <p>foo ___</p>
+- id: 448
+  md: |
+    foo _\__
+  htm: |
+    <p>foo <em>_</em></p>
+- id: 449
+  md: |
+    foo _*_
+  htm: |
+    <p>foo <em>*</em></p>
+- id: 450
+  md: |
+    foo _____
+  htm: |
+    <p>foo _____</p>
+- id: 451
+  md: |
+    foo __\___
+  htm: |
+    <p>foo <strong>_</strong></p>
+- id: 452
+  md: |
+    foo __*__
+  htm: |
+    <p>foo <strong>*</strong></p>
+- id: 453
+  md: |
+    __foo_
+  htm: |
+    <p>_<em>foo</em></p>
+- id: 454
+  md: |
+    _foo__
+  htm: |
+    <p><em>foo</em>_</p>
+- id: 455
+  md: |
+    ___foo__
+  htm: |
+    <p>_<strong>foo</strong></p>
+- id: 456
+  md: |
+    ____foo_
+  htm: |
+    <p>___<em>foo</em></p>
+- id: 457
+  md: |
+    __foo___
+  htm: |
+    <p><strong>foo</strong>_</p>
+- id: 458
+  md: |
+    _foo____
+  htm: |
+    <p><em>foo</em>___</p>
+- id: 459
+  md: |
+    **foo**
+  htm: |
+    <p><strong>foo</strong></p>
+- id: 460
+  md: |
+    *_foo_*
+  htm: |
+    <p><em><em>foo</em></em></p>
+- id: 461
+  md: |
+    __foo__
+  htm: |
+    <p><strong>foo</strong></p>
+- id: 462
+  md: |
+    _*foo*_
+  htm: |
+    <p><em><em>foo</em></em></p>
+- id: 463
+  md: |
+    ****foo****
+  htm: |
+    <p><strong>foo</strong></p>
+- id: 464
+  md: |
+    ____foo____
+  htm: |
+    <p><strong>foo</strong></p>
+- id: 465
+  md: |
+    ******foo******
+  htm: |
+    <p><strong>foo</strong></p>
+- id: 466
+  md: |
+    ***foo***
+  htm: |
+    <p><em><strong>foo</strong></em></p>
+- id: 467
+  md: |
+    _____foo_____
+  htm: |
+    <p><em><strong>foo</strong></em></p>
+- id: 468
+  md: |
+    *foo _bar* baz_
+  htm: |
+    <p><em>foo _bar</em> baz_</p>
+- id: 469
+  md: |
+    *foo __bar *baz bim__ bam*
+  htm: |
+    <p><em>foo <strong>bar *baz bim</strong> bam</em></p>
+- id: 470
+  md: |
+    **foo **bar baz**
+  htm: |
+    <p>**foo <strong>bar baz</strong></p>
+- id: 471
+  md: |
+    *foo *bar baz*
+  htm: |
+    <p>*foo <em>bar baz</em></p>
+- id: 472
+  md: |
+    *[bar*](/url)
+  htm: |
+    <p>*<a href="/url">bar*</a></p>
+- id: 473
+  md: |
+    _foo [bar_](/url)
+  htm: |
+    <p>_foo <a href="/url">bar_</a></p>
+- id: 474
+  md: |
+    *<img src="foo" title="*"/>
+  htm: |
+    <p>*<img src="foo" title="*"></p>
+- id: 475
+  md: |
+    **<a href="**">
+  htm: |
+    <p>**<a href="**"></p>
+- id: 476
+  md: |
+    __<a href="__">
+  htm: |
+    <p>__<a href="__"></p>
+- id: 477
+  md: |
+    *a `*`*
+  htm: |
+    <p><em>a <code>*</code></em></p>
+- id: 478
+  md: |
+    _a `_`_
+  htm: |
+    <p><em>a <code>_</code></em></p>
+- id: 479
+  md: |
+    **a<http://foo.bar/?q=**>
+  htm: |
+    <p>**a<a href="http://foo.bar/?q=**">http://foo.bar/?q=**</a></p>
+- id: 480
+  md: |
+    __a<http://foo.bar/?q=__>
+  htm: |
+    <p>__a<a href="http://foo.bar/?q=__">http://foo.bar/?q=__</a></p>
+- id: 481
+  md: |
+    [link](/uri "title")
+  htm: |
+    <p><a href="/uri" title="title">link</a></p>
+- id: 482
+  md: |
+    [link](/uri)
+  htm: |
+    <p><a href="/uri">link</a></p>
+- id: 483
+  md: |
+    [link]()
+  htm: |
+    <p><a href="">link</a></p>
+- id: 484
+  md: |
+    [link](<>)
+  htm: |
+    <p><a href="">link</a></p>
+- id: 485
+  md: |
+    [link](/my uri)
+  htm: |
+    <p>[link](/my uri)</p>
+- id: 486
+  md: |
+    [link](</my uri>)
+  htm: |
+    <p><a href="/my%20uri">link</a></p>
+- id: 487
+  md: |
+    [link](foo
+    bar)
+  htm: |
+    <p>[link](foo
+    bar)</p>
+- id: 488
+  md: |
+    [link](<foo
+    bar>)
+  htm: |
+    <p>[link](<foo
+    bar>)</p>
+- id: 489
+  md: |
+    [a](<b)c>)
+  htm: |
+    <p><a href="b)c">a</a></p>
+- id: 490
+  md: |
+    [link](<foo\>)
+  htm: |
+    <p>[link](&lt;foo&gt;)</p>
+- id: 491
+  md: |
+    [a](<b)c
+    [a](<b)c>
+    [a](<b>c)
+  htm: |
+    <p>[a](&lt;b)c
+    [a](&lt;b)c&gt;
+    [a](<b>c)</p>
+- id: 492
+  md: |
+    [link](\(foo\))
+  htm: |
+    <p><a href="(foo)">link</a></p>
+- id: 493
+  md: |
+    [link](foo(and(bar)))
+  htm: |
+    <p><a href="foo(and(bar))">link</a></p>
+- id: 494
+  md: |
+    [link](foo\(and\(bar\))
+  htm: |
+    <p><a href="foo(and(bar)">link</a></p>
+- id: 495
+  md: |
+    [link](<foo(and(bar)>)
+  htm: |
+    <p><a href="foo(and(bar)">link</a></p>
+- id: 496
+  md: |
+    [link](foo\)\:)
+  htm: |
+    <p><a href="foo):">link</a></p>
+- id: 497
+  md: |
+    [link](#fragment)
+
+    [link](http://example.com#fragment)
+
+    [link](http://example.com?foo=3#frag)
+  htm: |
+    <p><a href="#fragment">link</a></p>
+    <p><a href="http://example.com#fragment">link</a></p>
+    <p><a href="http://example.com?foo=3#frag">link</a></p>
+- id: 498
+  md: |
+    [link](foo\bar)
+  htm: |
+    <p><a href="foo%5Cbar">link</a></p>
+- id: 499
+  md: |
+    [link](foo%20b&auml;)
+  htm: |
+    <p><a href="foo%20b%C3%A4">link</a></p>
+- id: 500
+  md: |
+    [link]("title")
+  htm: |
+    <p><a href="%22title%22">link</a></p>
+- id: 501
+  md: |
+    [link](/url "title")
+    [link](/url 'title')
+    [link](/url (title))
+  htm: |
+    <p><a href="/url" title="title">link</a>
+    <a href="/url" title="title">link</a>
+    <a href="/url" title="title">link</a></p>
+- id: 502
+  md: |
+    [link](/url "title \"&quot;")
+  htm: |
+    <p><a href="/url" title="title &quot;&quot;">link</a></p>
+- id: 503
+  md: "[link](/url\_\"title\")\n"
+  htm: |
+    <p><a href="/url%C2%A0%22title%22">link</a></p>
+- id: 504
+  md: |
+    [link](/url "title "and" title")
+  htm: |
+    <p>[link](/url &quot;title &quot;and&quot; title&quot;)</p>
+- id: 505
+  md: |
+    [link](/url 'title "and" title')
+  htm: |
+    <p><a href="/url" title="title &quot;and&quot; title">link</a></p>
+- id: 506
+  md: |
+    [link](   /uri
+      "title"  )
+  htm: |
+    <p><a href="/uri" title="title">link</a></p>
+- id: 507
+  md: |
+    [link] (/uri)
+  htm: |
+    <p>[link] (/uri)</p>
+- id: 508
+  md: |
+    [link [foo [bar]]](/uri)
+  htm: |
+    <p><a href="/uri">link [foo [bar]]</a></p>
+- id: 509
+  md: |
+    [link] bar](/uri)
+  htm: |
+    <p>[link] bar](/uri)</p>
+- id: 510
+  md: |
+    [link [bar](/uri)
+  htm: |
+    <p>[link <a href="/uri">bar</a></p>
+- id: 511
+  md: |
+    [link \[bar](/uri)
+  htm: |
+    <p><a href="/uri">link [bar</a></p>
+- id: 512
+  md: |
+    [link *foo **bar** `#`*](/uri)
+  htm: |
+    <p><a href="/uri">link <em>foo <strong>bar</strong> <code>#</code></em></a></p>
+- id: 513
+  md: |
+    [![moon](moon.jpg)](/uri)
+  htm: |
+    <p><a href="/uri"><img src="moon.jpg" alt="moon"></a></p>
+- id: 514
+  md: |
+    [foo [bar](/uri)](/uri)
+  htm: |
+    <p>[foo <a href="/uri">bar</a>](/uri)</p>
+- id: 515
+  md: |
+    [foo *[bar [baz](/uri)](/uri)*](/uri)
+  htm: |
+    <p>[foo <em>[bar <a href="/uri">baz</a>](/uri)</em>](/uri)</p>
+- id: 516
+  md: |
+    ![[[foo](uri1)](uri2)](uri3)
+  htm: |
+    <p><img src="uri3" alt="[foo](uri2)"></p>
+- id: 517
+  md: |
+    *[foo*](/uri)
+  htm: |
+    <p>*<a href="/uri">foo*</a></p>
+- id: 518
+  md: |
+    [foo *bar](baz*)
+  htm: |
+    <p><a href="baz*">foo *bar</a></p>
+- id: 519
+  md: |
+    *foo [bar* baz]
+  htm: |
+    <p><em>foo [bar</em> baz]</p>
+- id: 520
+  md: |
+    [foo <bar attr="](baz)">
+  htm: |
+    <p>[foo <bar attr="](baz)"></p>
+- id: 521
+  md: |
+    [foo`](/uri)`
+  htm: |
+    <p>[foo<code>](/uri)</code></p>
+- id: 522
+  md: |
+    [foo<http://example.com/?search=](uri)>
+  htm: |
+    <p>[foo<a href="http://example.com/?search=%5D(uri)">http://example.com/?search=](uri)</a></p>
+- id: 523
+  md: |
+    [foo][bar]
+
+    [bar]: /url "title"
+  htm: |
+    <p><a href="/url" title="title">foo</a></p>
+- id: 524
+  md: |
+    [link [foo [bar]]][ref]
+
+    [ref]: /uri
+  htm: |
+    <p><a href="/uri">link [foo [bar]]</a></p>
+- id: 525
+  md: |
+    [link \[bar][ref]
+
+    [ref]: /uri
+  htm: |
+    <p><a href="/uri">link [bar</a></p>
+- id: 526
+  md: |
+    [link *foo **bar** `#`*][ref]
+
+    [ref]: /uri
+  htm: |
+    <p><a href="/uri">link <em>foo <strong>bar</strong> <code>#</code></em></a></p>
+- id: 527
+  md: |
+    [![moon](moon.jpg)][ref]
+
+    [ref]: /uri
+  htm: |
+    <p><a href="/uri"><img src="moon.jpg" alt="moon"></a></p>
+- id: 528
+  md: |
+    [foo [bar](/uri)][ref]
+
+    [ref]: /uri
+  htm: |
+    <p>[foo <a href="/uri">bar</a>]<a href="/uri">ref</a></p>
+- id: 529
+  md: |
+    [foo *bar [baz][ref]*][ref]
+
+    [ref]: /uri
+  htm: |
+    <p>[foo <em>bar <a href="/uri">baz</a></em>]<a href="/uri">ref</a></p>
+- id: 530
+  md: |
+    *[foo*][ref]
+
+    [ref]: /uri
+  htm: |
+    <p>*<a href="/uri">foo*</a></p>
+- id: 531
+  md: |
+    [foo *bar][ref]
+
+    [ref]: /uri
+  htm: |
+    <p><a href="/uri">foo *bar</a></p>
+- id: 532
+  md: |
+    [foo <bar attr="][ref]">
+
+    [ref]: /uri
+  htm: |
+    <p>[foo <bar attr="][ref]"></p>
+- id: 533
+  md: |
+    [foo`][ref]`
+
+    [ref]: /uri
+  htm: |
+    <p>[foo<code>][ref]</code></p>
+- id: 534
+  md: |
+    [foo<http://example.com/?search=][ref]>
+
+    [ref]: /uri
+  htm: |
+    <p>[foo<a href="http://example.com/?search=%5D%5Bref%5D">http://example.com/?search=][ref]</a></p>
+- id: 535
+  md: |
+    [foo][BaR]
+
+    [bar]: /url "title"
+  htm: |
+    <p><a href="/url" title="title">foo</a></p>
+- id: 536
+  md: |
+    [Толпой][Толпой] is a Russian word.
+
+    [ТОЛПОЙ]: /url
+  htm: |
+    <p><a href="/url">Толпой</a> is a Russian word.</p>
+- id: 537
+  md: |
+    [Foo
+      bar]: /url
+
+    [Baz][Foo bar]
+  htm: |
+    <p><a href="/url">Baz</a></p>
+- id: 538
+  md: |
+    [foo] [bar]
+
+    [bar]: /url "title"
+  htm: |
+    <p>[foo] <a href="/url" title="title">bar</a></p>
+- id: 539
+  md: |
+    [foo]
+    [bar]
+
+    [bar]: /url "title"
+  htm: |
+    <p>[foo]
+    <a href="/url" title="title">bar</a></p>
+- id: 540
+  md: |
+    [foo]: /url1
+
+    [foo]: /url2
+
+    [bar][foo]
+  htm: |
+    <p><a href="/url1">bar</a></p>
+- id: 541
+  md: |
+    [bar][foo\!]
+
+    [foo!]: /url
+  htm: |
+    <p>[bar][foo!]</p>
+- id: 542
+  md: |
+    [foo][ref[]
+
+    [ref[]: /uri
+  htm: |
+    <p>[foo][ref[]</p>
+    <p>[ref[]: /uri</p>
+- id: 543
+  md: |
+    [foo][ref[bar]]
+
+    [ref[bar]]: /uri
+  htm: |
+    <p>[foo][ref[bar]]</p>
+    <p>[ref[bar]]: /uri</p>
+- id: 544
+  md: |
+    [[[foo]]]
+
+    [[[foo]]]: /url
+  htm: |
+    <p>[[[foo]]]</p>
+    <p>[[[foo]]]: /url</p>
+- id: 545
+  md: |
+    [foo][ref\[]
+
+    [ref\[]: /uri
+  htm: |
+    <p><a href="/uri">foo</a></p>
+- id: 546
+  md: |
+    [bar\\]: /uri
+
+    [bar\\]
+  htm: |
+    <p><a href="/uri">bar\</a></p>
+- id: 547
+  md: |
+    []
+
+    []: /uri
+  htm: |
+    <p>[]</p>
+    <p>[]: /uri</p>
+- id: 548
+  md: |
+    [
+     ]
+
+    [
+     ]: /uri
+  htm: |
+    <p>[
+    ]</p>
+    <p>[
+    ]: /uri</p>
+- id: 549
+  md: |
+    [foo][]
+
+    [foo]: /url "title"
+  htm: |
+    <p><a href="/url" title="title">foo</a></p>
+- id: 550
+  md: |
+    [*foo* bar][]
+
+    [*foo* bar]: /url "title"
+  htm: |
+    <p><a href="/url" title="title"><em>foo</em> bar</a></p>
+- id: 551
+  md: |
+    [Foo][]
+
+    [foo]: /url "title"
+  htm: |
+    <p><a href="/url" title="title">Foo</a></p>
+- id: 552
+  md: |
+    [foo] 
+    []
+
+    [foo]: /url "title"
+  htm: |
+    <p><a href="/url" title="title">foo</a>
+    []</p>
+- id: 553
+  md: |
+    [foo]
+
+    [foo]: /url "title"
+  htm: |
+    <p><a href="/url" title="title">foo</a></p>
+- id: 554
+  md: |
+    [*foo* bar]
+
+    [*foo* bar]: /url "title"
+  htm: |
+    <p><a href="/url" title="title"><em>foo</em> bar</a></p>
+- id: 555
+  md: |
+    [[*foo* bar]]
+
+    [*foo* bar]: /url "title"
+  htm: |
+    <p>[<a href="/url" title="title"><em>foo</em> bar</a>]</p>
+- id: 556
+  md: |
+    [[bar [foo]
+
+    [foo]: /url
+  htm: |
+    <p>[[bar <a href="/url">foo</a></p>
+- id: 557
+  md: |
+    [Foo]
+
+    [foo]: /url "title"
+  htm: |
+    <p><a href="/url" title="title">Foo</a></p>
+- id: 558
+  md: |
+    [foo] bar
+
+    [foo]: /url
+  htm: |
+    <p><a href="/url">foo</a> bar</p>
+- id: 559
+  md: |
+    \[foo]
+
+    [foo]: /url "title"
+  htm: |
+    <p>[foo]</p>
+- id: 560
+  md: |
+    [foo*]: /url
+
+    *[foo*]
+  htm: |
+    <p>*<a href="/url">foo*</a></p>
+- id: 561
+  md: |
+    [foo][bar]
+
+    [foo]: /url1
+    [bar]: /url2
+  htm: |
+    <p><a href="/url2">foo</a></p>
+- id: 562
+  md: |
+    [foo][]
+
+    [foo]: /url1
+  htm: |
+    <p><a href="/url1">foo</a></p>
+- id: 563
+  md: |
+    [foo]()
+
+    [foo]: /url1
+  htm: |
+    <p><a href="">foo</a></p>
+- id: 564
+  md: |
+    [foo](not a link)
+
+    [foo]: /url1
+  htm: |
+    <p><a href="/url1">foo</a>(not a link)</p>
+- id: 565
+  md: |
+    [foo][bar][baz]
+
+    [baz]: /url
+  htm: |
+    <p>[foo]<a href="/url">bar</a></p>
+- id: 566
+  md: |
+    [foo][bar][baz]
+
+    [baz]: /url1
+    [bar]: /url2
+  htm: |
+    <p><a href="/url2">foo</a><a href="/url1">baz</a></p>
+- id: 567
+  md: |
+    [foo][bar][baz]
+
+    [baz]: /url1
+    [foo]: /url2
+  htm: |
+    <p>[foo]<a href="/url1">bar</a></p>
+- id: 568
+  md: |
+    ![foo](/url "title")
+  htm: |
+    <p><img src="/url" alt="foo" title="title"></p>
+- id: 569
+  md: |
+    ![foo *bar*]
+
+    [foo *bar*]: train.jpg "train & tracks"
+  htm: |
+    <p><img src="train.jpg" alt="foo bar" title="train &amp; tracks"></p>
+- id: 570
+  md: |
+    ![foo ![bar](/url)](/url2)
+  htm: |
+    <p><img src="/url2" alt="foo bar"></p>
+- id: 571
+  md: |
+    ![foo [bar](/url)](/url2)
+  htm: |
+    <p><img src="/url2" alt="foo bar"></p>
+- id: 572
+  md: |
+    ![foo *bar*][]
+
+    [foo *bar*]: train.jpg "train & tracks"
+  htm: |
+    <p><img src="train.jpg" alt="foo bar" title="train &amp; tracks"></p>
+- id: 573
+  md: |
+    ![foo *bar*][foobar]
+
+    [FOOBAR]: train.jpg "train & tracks"
+  htm: |
+    <p><img src="train.jpg" alt="foo bar" title="train &amp; tracks"></p>
+- id: 574
+  md: |
+    ![foo](train.jpg)
+  htm: |
+    <p><img src="train.jpg" alt="foo"></p>
+- id: 575
+  md: |
+    My ![foo bar](/path/to/train.jpg  "title"   )
+  htm: |
+    <p>My <img src="/path/to/train.jpg" alt="foo bar" title="title"></p>
+- id: 576
+  md: |
+    ![foo](<url>)
+  htm: |
+    <p><img src="url" alt="foo"></p>
+- id: 577
+  md: |
+    ![](/url)
+  htm: |
+    <p><img src="/url" alt=""></p>
+- id: 578
+  md: |
+    ![foo][bar]
+
+    [bar]: /url
+  htm: |
+    <p><img src="/url" alt="foo"></p>
+- id: 579
+  md: |
+    ![foo][bar]
+
+    [BAR]: /url
+  htm: |
+    <p><img src="/url" alt="foo"></p>
+- id: 580
+  md: |
+    ![foo][]
+
+    [foo]: /url "title"
+  htm: |
+    <p><img src="/url" alt="foo" title="title"></p>
+- id: 581
+  md: |
+    ![*foo* bar][]
+
+    [*foo* bar]: /url "title"
+  htm: |
+    <p><img src="/url" alt="foo bar" title="title"></p>
+- id: 582
+  md: |
+    ![Foo][]
+
+    [foo]: /url "title"
+  htm: |
+    <p><img src="/url" alt="Foo" title="title"></p>
+- id: 583
+  md: |
+    ![foo] 
+    []
+
+    [foo]: /url "title"
+  htm: |
+    <p><img src="/url" alt="foo" title="title">
+    []</p>
+- id: 584
+  md: |
+    ![foo]
+
+    [foo]: /url "title"
+  htm: |
+    <p><img src="/url" alt="foo" title="title"></p>
+- id: 585
+  md: |
+    ![*foo* bar]
+
+    [*foo* bar]: /url "title"
+  htm: |
+    <p><img src="/url" alt="foo bar" title="title"></p>
+- id: 586
+  md: |
+    ![[foo]]
+
+    [[foo]]: /url "title"
+  htm: |
+    <p>![[foo]]</p>
+    <p>[[foo]]: /url &quot;title&quot;</p>
+- id: 587
+  md: |
+    ![Foo]
+
+    [foo]: /url "title"
+  htm: |
+    <p><img src="/url" alt="Foo" title="title"></p>
+- id: 588
+  md: |
+    !\[foo]
+
+    [foo]: /url "title"
+  htm: |
+    <p>![foo]</p>
+- id: 589
+  md: |
+    \![foo]
+
+    [foo]: /url "title"
+  htm: |
+    <p>!<a href="/url" title="title">foo</a></p>
+- id: 590
+  md: |
+    <http://foo.bar.baz>
+  htm: |
+    <p><a href="http://foo.bar.baz">http://foo.bar.baz</a></p>
+- id: 591
+  md: |
+    <http://foo.bar.baz/test?q=hello&id=22&boolean>
+  htm: |
+    <p><a href="http://foo.bar.baz/test?q=hello&amp;id=22&amp;boolean">http://foo.bar.baz/test?q=hello&amp;id=22&amp;boolean</a></p>
+- id: 592
+  md: |
+    <irc://foo.bar:2233/baz>
+  htm: |
+    <p><a href="irc://foo.bar:2233/baz">irc://foo.bar:2233/baz</a></p>
+- id: 593
+  md: |
+    <MAILTO:FOO@BAR.BAZ>
+  htm: |
+    <p><a href="MAILTO:FOO@BAR.BAZ">MAILTO:FOO@BAR.BAZ</a></p>
+- id: 594
+  md: |
+    <a+b+c:d>
+  htm: |
+    <p><a href="a+b+c:d">a+b+c:d</a></p>
+- id: 595
+  md: |
+    <made-up-scheme://foo,bar>
+  htm: |
+    <p><a href="made-up-scheme://foo,bar">made-up-scheme://foo,bar</a></p>
+- id: 596
+  md: |
+    <http://../>
+  htm: |
+    <p><a href="http://../">http://../</a></p>
+- id: 597
+  md: |
+    <localhost:5001/foo>
+  htm: |
+    <p><a href="localhost:5001/foo">localhost:5001/foo</a></p>
+- id: 598
+  md: |
+    <http://foo.bar/baz bim>
+  htm: |
+    <p>&lt;http://foo.bar/baz bim&gt;</p>
+- id: 599
+  md: |
+    <http://example.com/\[\>
+  htm: |
+    <p><a href="http://example.com/%5C%5B%5C">http://example.com/\[\</a></p>
+- id: 600
+  md: |
+    <foo@bar.example.com>
+  htm: |
+    <p><a href="mailto:foo@bar.example.com">foo@bar.example.com</a></p>
+- id: 601
+  md: |
+    <foo+special@Bar.baz-bar0.com>
+  htm: |
+    <p><a href="mailto:foo+special@Bar.baz-bar0.com">foo+special@Bar.baz-bar0.com</a></p>
+- id: 602
+  md: |
+    <foo\+@bar.example.com>
+  htm: |
+    <p>&lt;foo+@bar.example.com&gt;</p>
+- id: 603
+  md: |
+    <>
+  htm: |
+    <p>&lt;&gt;</p>
+- id: 604
+  md: |
+    < http://foo.bar >
+  htm: |
+    <p>&lt; http://foo.bar &gt;</p>
+- id: 605
+  md: |
+    <m:abc>
+  htm: |
+    <p>&lt;m:abc&gt;</p>
+- id: 606
+  md: |
+    <foo.bar.baz>
+  htm: |
+    <p>&lt;foo.bar.baz&gt;</p>
+- id: 607
+  md: |
+    http://example.com
+  htm: |
+    <p>http://example.com</p>
+- id: 608
+  md: |
+    foo@bar.example.com
+  htm: |
+    <p>foo@bar.example.com</p>
+- id: 609
+  md: |
+    <a><bab><c2c>
+  htm: |
+    <p><a><bab><c2c></p>
+- id: 610
+  md: |
+    <a/><b2/>
+  htm: |
+    <p><a/><b2/></p>
+- id: 611
+  md: |
+    <a  /><b2
+    data="foo" >
+  htm: |
+    <p><a  /><b2
+    data="foo" ></p>
+- id: 612
+  md: |
+    <a foo="bar" bam = 'baz <em>"</em>'
+    _boolean zoop:33=zoop:33 />
+  htm: |
+    <p><a foo="bar" bam = 'baz <em>"</em>'
+    _boolean zoop:33=zoop:33 /></p>
+- id: 613
+  md: |
+    Foo <responsive-image src="foo.jpg" />
+  htm: |
+    <p>Foo <responsive-image src="foo.jpg" /></p>
+- id: 614
+  md: |
+    <33> <__>
+  htm: |
+    <p>&lt;33&gt; &lt;__&gt;</p>
+- id: 615
+  md: |
+    <a h*#ref="hi">
+  htm: |
+    <p>&lt;a h*#ref=&quot;hi&quot;&gt;</p>
+- id: 616
+  md: |
+    <a href="hi'> <a href=hi'>
+  htm: |
+    <p>&lt;a href=&quot;hi'&gt; &lt;a href=hi'&gt;</p>
+- id: 617
+  md: |
+    < a><
+    foo><bar/ >
+    <foo bar=baz
+    bim!bop />
+  htm: |
+    <p>&lt; a&gt;&lt;
+    foo&gt;&lt;bar/ &gt;
+    &lt;foo bar=baz
+    bim!bop /&gt;</p>
+- id: 618
+  md: |
+    <a href='bar'title=title>
+  htm: |
+    <p>&lt;a href='bar'title=title&gt;</p>
+- id: 619
+  md: |
+    </a></foo >
+  htm: |
+    <p></a></foo ></p>
+- id: 620
+  md: |
+    </a href="foo">
+  htm: |
+    <p>&lt;/a href=&quot;foo&quot;&gt;</p>
+- id: 621
+  md: |
+    foo <!-- this is a --
+    comment - with hyphens -->
+  htm: |
+    <p>foo <!-- this is a --
+    comment - with hyphens --></p>
+- id: 622
+  md: |
+    foo <!--> foo -->
+
+    foo <!---> foo -->
+  htm: |
+    <p>foo <!--> foo --&gt;</p>
+    <p>foo <!---> foo --&gt;</p>
+- id: 623
+  md: |
+    foo <?php echo $a; ?>
+  htm: |
+    <p>foo <?php echo $a; ?></p>
+- id: 624
+  md: |
+    foo <!ELEMENT br EMPTY>
+  htm: |
+    <p>foo <!ELEMENT br EMPTY></p>
+- id: 625
+  md: |
+    foo <![CDATA[>&<]]>
+  htm: |
+    <p>foo <![CDATA[>&<]]></p>
+- id: 626
+  md: |
+    foo <a href="&ouml;">
+  htm: |
+    <p>foo <a href="&ouml;"></p>
+- id: 627
+  md: |
+    foo <a href="\*">
+  htm: |
+    <p>foo <a href="\*"></p>
+- id: 628
+  md: |
+    <a href="\"">
+  htm: |
+    <p>&lt;a href=&quot;&quot;&quot;&gt;</p>
+- id: 629
+  md: |
+    foo  
+    baz
+  htm: |
+    <p>foo<br>
+    baz</p>
+- id: 630
+  md: |
+    foo\
+    baz
+  htm: |
+    <p>foo<br>
+    baz</p>
+- id: 631
+  md: |
+    foo       
+    baz
+  htm: |
+    <p>foo<br>
+    baz</p>
+- id: 632
+  md: |
+    foo  
+         bar
+  htm: |
+    <p>foo<br>
+    bar</p>
+- id: 633
+  md: |
+    foo\
+         bar
+  htm: |
+    <p>foo<br>
+    bar</p>
+- id: 634
+  md: |
+    *foo  
+    bar*
+  htm: |
+    <p><em>foo<br>
+    bar</em></p>
+- id: 635
+  md: |
+    *foo\
+    bar*
+  htm: |
+    <p><em>foo<br>
+    bar</em></p>
+- id: 636
+  md: |
+    `code  
+    span`
+  htm: |
+    <p><code>code   span</code></p>
+- id: 637
+  md: |
+    `code\
+    span`
+  htm: |
+    <p><code>code\ span</code></p>
+- id: 638
+  md: |
+    <a href="foo  
+    bar">
+  htm: |
+    <p><a href="foo  
+    bar"></p>
+- id: 639
+  md: |
+    <a href="foo\
+    bar">
+  htm: |
+    <p><a href="foo\
+    bar"></p>
+- id: 640
+  md: |
+    foo\
+  htm: |
+    <p>foo\</p>
+- id: 641
+  md: |
+    foo
+  htm: |
+    <p>foo</p>
+- id: 642
+  md: |
+    ### foo\
+  htm: |
+    <h3>foo\</h3>
+- id: 643
+  md: |
+    ### foo
+  htm: |
+    <h3>foo</h3>
+- id: 644
+  md: |
+    foo
+    baz
+  htm: |
+    <p>foo
+    baz</p>
+- id: 645
+  md: |
+    foo 
+     baz
+  htm: |
+    <p>foo
+    baz</p>
+- id: 646
+  md: |
+    hello $.;'there
+  htm: |
+    <p>hello $.;'there</p>
+- id: 647
+  md: |
+    Foo χρῆν
+  htm: |
+    <p>Foo χρῆν</p>
+- id: 648
+  md: |
+    Multiple     spaces
+  htm: |
+    <p>Multiple     spaces</p>

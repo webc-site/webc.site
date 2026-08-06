@@ -1,0 +1,60 @@
+mdContent: |
+  # Documento de presentación de rebajas
+  Esta es una demostración de Streaming Rendering.
+  ## Estilo básico
+  - **Negrita** y *Cursiva*
+  - ~~ tachado ~~
+  - `inline_code` código en línea
+  - [Sitio web oficial de las Naciones Unidas](https://un.org) Demostración del enlace
+  ## Cotizaciones y listas
+  > Esta es una cita de una sola línea.
+
+  > Esta es una cotización de varias líneas.
+  > Un efecto visual para mostrar referencias de varias líneas.
+
+  - Primer artículo desordenado
+    - Subartículo uno desordenado
+    - Subelemento dos desordenado
+  - Segundo artículo desordenado
+
+  > [!NOTE]
+  > `> [!NOTE]` Mensajes y notas generales
+
+  > [!TIP]
+  > `> [!TIP]` Consejos y sugerencias útiles
+
+  > [!IMPORTANT]
+  > `> [!IMPORTANT]` Consejos e inquietudes importantes
+
+  > [!WARNING]
+  > `> [!WARNING]` Advertencias y notas de riesgo
+
+  > [!CAUTION]
+  > `> [!CAUTION]` ADVERTENCIA DE PELIGRO Y RIESGO EXTREMO
+
+  ---
+
+  ## lista de tareas
+  - [ ] Esta es una tarea de transmisión inacabada.
+  - [x] Esta es una tarea de transmisión completa.
+  - [X] Esta es una tarea de transmisión completada (X mayúscula)
+
+  ---
+
+  1. Primer artículo pedido
+     1. Artículo pedido uno
+     2. Subartículo dos ordenado
+  2. Ordenó el segundo mandato.
+  ## hoja
+  | Tarea | estado | cronograma |
+  | :--- | :---: | ---: |
+  | Tarea uno | Terminado | 100% |
+  | Tarea 2 | en curso | 50% |
+  ## bloque de código
+  ```js
+  const hello = () => {
+    console.log("Hello, WebC!");
+  };
+  ```
+  ## imagen
+  ![Imagen de demostración](https://i-01.eu.org/demo-green.avif)

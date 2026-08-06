@@ -1,0 +1,6 @@
+load: 加载中
+tip: 按上图顺序，点击下图中的图标
+suc: 验证成功
+fail: 验证失败，一秒后刷新
+refresh: 刷新
+validImg: 验证码图片

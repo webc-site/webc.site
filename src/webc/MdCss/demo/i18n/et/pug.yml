@@ -1,0 +1,38 @@
+basicTitle: Põhistiil
+bold: Paks
+italic: kaldkiri
+del: läbi kriipsutatud
+inlineCode: tekstisisene kood
+linkPrefix: Lingi ees ja järel on tekst, nt
+link: ÜRO ametlik veebisait
+linkSuffix: on link.
+quoteSingle: See on üherealine tsitaat.
+quoteMultiLine1: See on mitmerealine tsitaat.
+quoteMultiLine2: Visuaalne efekt mitmerealiste viidete kuvamiseks.
+note: Üldised teated ja märkmed
+tip: Näpunäiteid ja kasulikke näpunäiteid
+important: Olulised näpunäited ja mured
+warning: Riskihoiatused ja ettevaatusabinõud
+caution: HOIATUS OHT JA ÄÄRMISE OHTU HOIATUS
+listTitle: Tsitaadid ja nimekirjad
+taskTitle: ülesannete loend
+todoItem: See on lõpetamata CSS-ülesanne
+doneItem: See on lõpetatud CSS-ülesanne
+ulItem1: Tellimata esimene kaup
+ulSubItem1: Järjestamata alamartikkel üks
+ulSubItem2: Järjestamata alapunkt kaks
+ulItem2: Tellimata teine ​​kaup
+olItem1: Tellitud esimene kaup
+olSubItem1: Tellitud üksus
+olSubItem2: Tellitud alamartikkel kaks
+olItem2: Tellitud teiseks perioodiks
+tableTitle: leht
+col1: projekt
+col2: olek
+col3: skoor
+row1Col1: staatiline
+row1Col2: Lõpetatud
+row2Col1: voogesitus
+row2Col2: Renderdamine
+codeTitle: koodiplokk
+imageTitle: pilt

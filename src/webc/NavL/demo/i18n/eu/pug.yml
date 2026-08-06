@@ -1,0 +1,7 @@
+desc: Zehaztu eta aldatu automatikoki nabigazio-menua edo atzera botoia uneko ibilbidean oinarrituta bistaratzeko
+desktop_title: Mahaigaineko pantaila
+desktop_desc: Adierazitako menuaren ibilbidean, bistaratu menuko elementuen fitxak; bestela, bistaratu atzera botoia
+mobile_title: Pantaila mugikorra
+mobile_desc: Adierazitako menu-ibilbidean dagoenean, ikono-botoi batean tolesten da eta menutik ateratzea onartzen du; bestela atzera botoia bistaratzen du
+normal_state: Nabigazioaren egoera (c-nav-menu)
+back_state: Fallback egoera (c-back)

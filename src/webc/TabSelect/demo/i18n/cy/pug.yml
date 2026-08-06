@@ -1,0 +1,9 @@
+language: iaith
+os: system
+about: am
+jsInfo: Mae JavaScript yn iaith sgriptio a ddefnyddir yn helaeth wrth ddatblygu gwe ochr y cleient.
+rsInfo: Mae Rust yn iaith rhaglennu systemau sy'n canolbwyntio ar ddiogelwch, cyflymder a chyfoes.
+pyInfo: Iaith raglennu gyfrifiadurol wedi'i dehongli yw Python.
+macInfo: Mae macOS yn system weithredu graffigol seiliedig ar Unix a ddatblygwyd gan Apple.
+winInfo: Mae Windows yn system weithredu gyfrifiadurol bersonol a ddefnyddir yn eang a ddatblygwyd gan Microsoft Corporation.
+aboutInfo: Rydym wedi ymrwymo i ddatblygu cydrannau pen blaen ffynhonnell agored o ansawdd uchel, ac mae croeso i chi gymryd rhan.

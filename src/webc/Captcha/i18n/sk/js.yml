@@ -1,0 +1,6 @@
+load: načítavanie
+tip: Vo vyššie uvedenom poradí kliknite na ikony na obrázku nižšie
+suc: Overenie bolo úspešné
+fail: Overenie zlyhalo, obnovte ho po jednej sekunde
+refresh: osviežiť
+validImg: Obrázok overovacieho kódu

@@ -1,0 +1,4 @@
+default: Predvolené tlačidlo
+main: hlavné tlačidlo
+link: tlačidlo odkazu
+icon: Tlačidlo ikony (.BtnC)

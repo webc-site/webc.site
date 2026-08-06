@@ -1,0 +1,7 @@
+desc: Samodejno določite in preklopite na prikaz navigacijskega menija ali gumba za nazaj glede na trenutno pot
+desktop_title: Namizni zaslon
+desktop_desc: Ko ste na deklarirani poti menija, prikažite ploščice elementov menija; sicer prikažite gumb za nazaj
+mobile_title: Mobilni zaslon
+mobile_desc: Ko je na deklarirani poti menija, se strne v gumb z ikono in podpira drsenje iz menija; sicer prikaže gumb za nazaj
+normal_state: Stanje navigacije (c-nav-menu)
+back_state: Nadomestni status (c-back)

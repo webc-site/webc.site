@@ -1,0 +1,60 @@
+mdContent: |
+  # Dokument tal-preżentazzjoni tal-markdown
+  Din hija turija ta' Streaming Rendering.
+  ## Stil bażiku
+  - **Grassett** u *Korsiv*
+  - ~~strikethrough~~
+  - `inline_code` kodiċi inline
+  - [Websajt uffiċjali tan-Nazzjonijiet Uniti](https://un.org) Dimostrazzjoni tal-link
+  ## Kwotazzjonijiet u Listi
+  > Din hija kwotazzjoni ta 'linja waħda.
+
+  > Din hija kwotazzjoni b'ħafna linji.
+  > Effett viżwali għall-wiri ta 'referenzi b'ħafna linji.
+
+  - L-ewwel oġġett mhux ordnat
+    - Suboġġett wieħed mhux ordnat
+    - Subitem tnejn mhux ordnat
+  - It-tieni oġġett mhux ordnat
+
+  > [!NOTE]
+  > `> [!NOTE]` Messaġġi u noti ġenerali
+
+  > [!TIP]
+  > `> [!TIP]` Suġġerimenti u pariri ta' għajnuna
+
+  > [!IMPORTANT]
+  > `> [!IMPORTANT]` Suġġerimenti u tħassib importanti
+
+  > [!WARNING]
+  > `> [!WARNING]` Twissijiet u Noti dwar Riskju
+
+  > [!CAUTION]
+  > `> [!CAUTION]` TWISSIJA TA' PERIKOLU U RISKJU ESTREM
+
+  ---
+
+  ## lista tal-kompiti
+  - [ ] Dan huwa kompitu ta 'streaming mhux mitmum
+  - [x] Dan huwa kompitu ta 'streaming komplut
+  - [X] Dan huwa kompitu ta' streaming komplut (kapital X)
+
+  ---
+
+  1. Ordnat l-ewwel oġġett
+     1. Oġġett ordnat wieħed
+     2. Ordnat is-subpunt tnejn
+  2. Ordnat it-tieni terminu
+  ## folja
+  | Kompitu | istat | iskeda |
+  | :--- | :---: | ---: |
+  | Kompitu wieħed | Imlesta | 100% |
+  | Kompitu 2 | fil-progress | 50% |
+  ## blokk tal-kodiċi
+  ```js
+  const hello = () => {
+    console.log("Hello, WebC!");
+  };
+  ```
+  ## stampa
+  ![Stampa Demo](https://i-01.eu.org/demo-green.avif)

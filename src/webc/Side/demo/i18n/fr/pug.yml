@@ -1,0 +1,46 @@
+open: Ouvrir la barre latérale
+userName: Marcheur geek
+userTitle: Concepteur web senior
+statFollowers: Abonné
+statFollowing: se concentrer sur
+statProjects: projet
+groupCore: Fonctions de base
+groupSystem: Gestion du système
+groupData: analyse des données
+groupCollaboration: Travail d'équipe
+widgetTitle: Utilisation de l'espace de stockage
+widgetTasks: Mes tâches à faire
+task1: Développement interactif Side complet
+task2: Esthétique visuelle liquide
+task3: Optimiser la convivialité et les détails des composants
+navHome: Page d'accueil du tableau de bord
+navProfile: Centre personnel
+navSettings: Paramètres système
+navMessages: Actualités du site
+navNotifications: Rappel des notifications
+navPrivacy: Confidentialité et sécurité
+navHelp: Aide et commentaires
+navAnalytics: rapport d'analyse
+navCloud: Espace de stockage cloud
+navTeam: membre de l'équipe
+navTasks: Coordination des tâches
+logout: Se déconnecter
+upgradeTitle: Mise à niveau vers l'édition professionnelle
+upgradeDesc: Débloquez un stockage cloud illimité et une collaboration avancée
+upgradeBtn: Mettre à niveau maintenant
+task4: Examiner les engagements de relations publiques et fusionner les branches
+task5: Écrire un nouveau journal de version de WebC
+widgetOnline: Membres de l'équipe en ligne
+member1: Lisa
+member2: David
+member3: Anna
+statusOnline: en ligne
+statusOffline: Hors ligne
+statusBusy: Occupé
+widgetFiles: fichiers récents
+file1: Spécification de conception de produit v2.4.pdf
+file2: Projet de plan du troisième trimestre 2026.docx
+file3: Démonstration d'animation de composants.mp4
+tagDesign: conception
+tagDev: développer
+tagPm: produit

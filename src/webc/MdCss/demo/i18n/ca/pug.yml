@@ -1,0 +1,38 @@
+basicTitle: Estil bàsic
+bold: Atrevit
+italic: cursiva
+del: ratllat
+inlineCode: codi en línia
+linkPrefix: Hi ha text abans i després de l'enllaç, com ara
+link: Lloc web oficial de les Nacions Unides
+linkSuffix: és un enllaç.
+quoteSingle: Aquesta és una cita d'una sola línia.
+quoteMultiLine1: Aquesta és una cita de diverses línies.
+quoteMultiLine2: Un efecte visual per mostrar referències de diverses línies.
+note: Missatges i notes generals
+tip: Consells i consells útils
+important: Consells i preocupacions importants
+warning: Advertències i precaucions de risc
+caution: ADVERTIMENT DE PERILL I RISC EXTREM
+listTitle: Cites i Llistes
+taskTitle: llista de tasques
+todoItem: Aquesta és una tasca CSS inacabada
+doneItem: Aquesta és una tasca CSS completada
+ulItem1: Primer article no ordenat
+ulSubItem1: Subelement 1 no ordenat
+ulSubItem2: Subelement dos no ordenats
+ulItem2: Segon article no ordenat
+olItem1: Primer article encarregat
+olSubItem1: Article 1 demanat
+olSubItem2: Subitem dos ordenats
+olItem2: Segon trimestre ordenat
+tableTitle: fulla
+col1: projecte
+col2: estat
+col3: puntuació
+row1Col1: estàtica
+row1Col2: Completat
+row2Col1: streaming
+row2Col2: Renderització
+codeTitle: bloc de codi
+imageTitle: imatge

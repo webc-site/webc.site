@@ -1,0 +1,6 @@
+load: indlæsning
+tip: I den rækkefølge, der er vist ovenfor, skal du klikke på ikonerne på billedet nedenfor
+suc: Bekræftelsen lykkedes
+fail: Bekræftelse mislykkedes. Opdater efter et sekund
+refresh: opfriske
+validImg: Bekræftelseskode billede

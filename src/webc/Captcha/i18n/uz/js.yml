@@ -1,0 +1,6 @@
+load: yuklash
+tip: Yuqorida ko'rsatilgan tartibda quyidagi rasmdagi belgilarni bosing
+suc: Tasdiqlash muvaffaqiyatli
+fail: Tekshirish amalga oshmadi, bir soniyadan keyin yangilang
+refresh: yangilash
+validImg: Tasdiqlash kodi rasm

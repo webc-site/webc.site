@@ -1,0 +1,46 @@
+open: Mbukak sidebar
+userName: Geek Walker
+userTitle: Desainer web senior
+statFollowers: langganan
+statFollowing: fokus ing
+statProjects: proyek
+groupCore: Fungsi inti
+groupSystem: Manajemen sistem
+groupData: analisis data
+groupCollaboration: Kerja tim
+widgetTitle: Panggunaan papan panyimpenan
+widgetTasks: Tugas-tugasku
+task1: Pangembangan interaktif sisih lengkap
+task2: Desain estetika visual Cairan
+task3: Ngoptimalake panggunaan komponen lan rincian
+navHome: Kaca Ngarep Dashboard
+navProfile: Pusat Pribadi
+navSettings: Setelan sistem
+navMessages: Warta situs
+navNotifications: Pangeling kabar
+navPrivacy: Privasi lan keamanan
+navHelp: Bantuan lan saran
+navAnalytics: laporan analisis
+navCloud: Ruang panyimpenan awan
+navTeam: anggota tim
+navTasks: Koordinasi tugas
+logout: metu
+upgradeTitle: Nganyarke menyang Edisi Profesional
+upgradeDesc: Mbukak kunci panyimpenan maya tanpa watesan lan kolaborasi lanjut
+upgradeBtn: Nganyarke saiki
+task4: Deleng PR komit lan gabung cabang
+task5: Tulis log rilis versi anyar saka WebC
+widgetOnline: Anggota tim online
+member1: Lisa
+member2: david
+member3: Anna
+statusOnline: online
+statusOffline: Offline
+statusBusy: rame
+widgetFiles: file anyar
+file1: Spesifikasi Desain Produk v2.4.pdf
+file2: Draf Rencana Q3 2026.docx
+file3: Demonstrasi animasi komponen.mp4
+tagDesign: desain
+tagDev: berkembang
+tagPm: produk

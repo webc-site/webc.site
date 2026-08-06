@@ -1,0 +1,38 @@
+basicTitle: سبک پایه
+bold: پررنگ
+italic: مورب
+del: خط خطی
+inlineCode: کد درون خطی
+linkPrefix: متن قبل و بعد از لینک وجود دارد، مانند
+link: وب سایت رسمی سازمان ملل متحد
+linkSuffix: یک لینک است.
+quoteSingle: این نقل قول تک خطی است.
+quoteMultiLine1: این یک نقل قول چند خطی است.
+quoteMultiLine2: یک جلوه بصری برای نمایش مراجع چند خطی.
+note: پیام ها و یادداشت های عمومی
+tip: نکات و نکات مفید
+important: نکات و نگرانی های مهم
+warning: هشدارهای خطر و اقدامات احتیاطی
+caution: هشدار خطر و خطر شدید
+listTitle: نقل قول ها و فهرست ها
+taskTitle: لیست وظایف
+todoItem: این یک کار CSS ناتمام است
+doneItem: این یک کار CSS تکمیل شده است
+ulItem1: اولین مورد بدون سفارش
+ulSubItem1: زیرمجموعه یک نامرتب
+ulSubItem2: زیرمجموعه دو نامرتب
+ulItem2: مورد دوم بدون سفارش
+olItem1: اولین مورد را سفارش داد
+olSubItem1: مورد یک را سفارش داد
+olSubItem2: زیرمجموعه دو را سفارش داد
+olItem2: ترم دوم سفارش داد
+tableTitle: ورق
+col1: پروژه
+col2: دولت
+col3: نمره
+row1Col1: ایستا
+row1Col2: تکمیل شد
+row2Col1: جریان
+row2Col2: رندرینگ
+codeTitle: بلوک کد
+imageTitle: تصویر

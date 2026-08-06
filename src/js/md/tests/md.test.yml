@@ -1,0 +1,315 @@
+- id: 20001
+  md: |
+    | Name | Age |
+    | ---- | --- |
+    | Alice | 20 |
+
+    Hello World
+  htm: |
+    <table>
+    <thead>
+    <tr>
+    <th>Name</th>
+    <th>Age</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+    <td>Alice</td>
+    <td>20</td>
+    </tr>
+    </tbody>
+    </table>
+    <p>Hello World</p>
+  desc: table_spec_10001
+- id: 20002
+  md: |
+    | Name | Age |
+    | ---- | --- |
+    | Alice | 20 |
+    Hello World
+  htm: |
+    <table>
+    <thead>
+    <tr>
+    <th>Name</th>
+    <th>Age</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+    <td>Alice</td>
+    <td>20</td>
+    </tr>
+    </tbody>
+    </table>
+    <p>Hello World</p>
+  desc: table_spec_10002
+- id: 20003
+  md: |
+    > This is a blockquote.
+    > Second line.
+  htm: |
+    <blockquote>
+      <p>This is a blockquote.<br>Second line.</p>
+    </blockquote>
+  desc: blockquotes
+- id: 20004
+  md: |
+    - Item 1
+
+    * Item 2
+
+    - Item 3
+  htm: |
+    <ul>
+      <li>Item 1</li>
+    </ul>
+    <ul>
+      <li>Item 2</li>
+    </ul>
+    <ul>
+      <li>Item 3</li>
+    </ul>
+  desc: unordered_lists
+- id: 20005
+  md: |
+    | Name  | Age | Style  |
+    | :---- | --: | :----: |
+    | Alice |  20 | Center |
+    | Bob   |  25 | Right  |
+  htm: |
+    <table>
+      <thead>
+        <tr>
+          <th class="left">Name</th>
+          <th class="right">Age</th>
+          <th class="center">Style</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="left">Alice</td>
+          <td class="right">20</td>
+          <td class="center">Center</td>
+        </tr>
+        <tr>
+          <td class="left">Bob</td>
+          <td class="right">25</td>
+          <td class="center">Right</td>
+        </tr>
+      </tbody>
+    </table>
+  desc: tables
+- id: 20006
+  md: |
+    ```js
+    const a = 1;
+    console.log(a);
+    ```
+  htm: |
+    <pre><code class="language-js">const a = 1;
+    console.log(a);
+    </code></pre>
+  desc: code_blocks
+- id: 20007
+  md: |
+    Hello **world**, this is _italic_ and ~~strikethrough~~.
+    `code` and [link](https://example.com) and ![image](img.png)
+  htm: |
+    <p>Hello <strong>world</strong>, this is <em>italic</em> and <del>strikethrough</del>.<br><code>code</code> and <a href="https://example.com">link</a> and <img src="img.png" alt="image"></p>
+  desc: paragraphs_inline
+- id: 20008
+  md: |
+    ---
+    ---
+
+    ---
+
+    ---
+  htm: |
+    <hr>
+    <hr>
+    <hr>
+    <hr>
+  desc: thematic_breaks
+- id: 20009
+  md: |
+    # Header 1
+
+    ## Header 2
+
+    ### Header 3
+
+    #### Header 4
+
+    ##### Header 5
+
+    ###### Header 6
+  htm: |
+    <h1>Header 1</h1>
+    <h2>Header 2</h2>
+    <h3>Header 3</h3>
+    <h4>Header 4</h4>
+    <h5>Header 5</h5>
+    <h6>Header 6</h6>
+  desc: headers
+- id: 20010
+  md: |
+    > [!NOTE]
+    > This is a note alert.
+  htm: |
+    <blockquote class="q note">
+      <b class="qt"><i class="qi"></i>NOTE</b>
+      <p>This is a note alert.</p>
+    </blockquote>
+  desc: alert_blockquotes
+- id: 20020
+  md: |
+    > [!NOTE] 常规消息与注意
+  htm: |
+    <blockquote class="q note"><b class="qt"><i class="qi"></i>NOTE</b><p>常规消息与注意</p></blockquote>
+  desc: alert_blockquotes_note_zh
+- id: 20021
+  md: |
+    > [!TIP] 提示与实用小窍门
+  htm: |
+    <blockquote class="q tip"><b class="qt"><i class="qi"></i>TIP</b><p>提示与实用小窍门</p></blockquote>
+  desc: alert_blockquotes_tip_zh
+- id: 20022
+  md: |
+    > [!IMPORTANT] 重要提示与关注点
+  htm: |
+    <blockquote class="q important"><b class="qt"><i class="qi"></i>IMPORTANT</b><p>重要提示与关注点</p></blockquote>
+  desc: alert_blockquotes_important_zh
+- id: 20023
+  md: |
+    > [!WARNING] 风险警告与注意事项
+  htm: |
+    <blockquote class="q warning"><b class="qt"><i class="qi"></i>WARNING</b><p>风险警告与注意事项</p></blockquote>
+  desc: alert_blockquotes_warning_zh
+- id: 20024
+  md: |
+    > [!CAUTION] 危险与极高风险警告
+  htm: |
+    <blockquote class="q caution"><b class="qt"><i class="qi"></i>CAUTION</b><p>危险与极高风险警告</p></blockquote>
+  desc: alert_blockquotes_caution_zh
+- id: 20011
+  md: |
+    - [ ] Todo
+    - [x] Done
+  htm: |
+    <ul>
+      <li><input type="checkbox" disabled> Todo</li>
+      <li><input type="checkbox" disabled checked> Done</li>
+    </ul>
+  desc: task_lists
+- id: 20012
+  md: |
+    1. First
+    2. Second
+  htm: |
+    <ol>
+      <li>First</li>
+      <li>Second</li>
+    </ol>
+  desc: ordered_lists
+- id: 20013
+  md: |
+    Lift($L$) can be determined by Lift Coefficient ($C_L$) like the following equation.
+
+    $$
+    L = \frac{1}{2} \rho v^2 S C_L
+    $$
+  htm: |
+    <p>Lift(<c-math>L</c-math>) can be determined by Lift Coefficient (<c-math>C_L</c-math>) like the following equation.</p>
+    <c-math>
+    L = \frac{1}{2} \rho v^2 S C_L
+    </c-math>
+  desc: math_formulas
+- id: 20014
+  md: |
+    <foo@bar.com>
+  htm: |
+    <p><a href="mailto:foo@bar.com">foo@bar.com</a></p>
+  desc: ascii_email_autolink
+- id: 20015
+  md: |
+    <foo@测试.中文>
+  htm: |
+    <p>&lt;foo@测试.中文&gt;</p>
+  desc: non_ascii_email_autolink
+- id: 20016
+  md: |
+    <http://测试.中文/页面>
+  htm: |
+    <p><a href="http://%E6%B5%8B%E8%AF%95.%E4%B8%AD%E6%96%87/%E9%A1%B5%E9%9D%A2">http://测试.中文/页面</a></p>
+  desc: unicode_uri_autolink
+- id: 20025
+  md: |
+    > 一
+    > 二
+  htm: |
+    <blockquote>
+      <p>一<br>二</p>
+    </blockquote>
+  desc: blockquote_cjk_linebreaks
+- id: 20026
+  md: |
+    ## 使用
+
+    为元素添加类名：
+
+    ```html
+    <!-- 普通按钮 -->
+    <button class="Btn">确认</button>
+
+    <!-- 主要高亮 -->
+    <button class="Btn Main">提交</button>
+
+    <!-- 链接按钮 -->
+    <a class="Btn" href="https://github.com">链接按钮</a>
+
+    <!-- 图标按钮 -->
+    <button class="BtnC"><i class="Ico"></i></button>
+    ```
+
+    ## 图标样式
+
+    可通过 `background-image` 自定义 `BtnC` 的图标：
+
+    ```html
+    <style>
+    .BtnC.add . Ico {
+      background-image: var(--btnSvgAdd);
+    }
+    </style>
+    <button class="BtnC add"><i class="Ico"></i></button>
+    ```
+
+    行内代码对 `<` 和 `>` 转义，如 `<a>` 和 `<b>`。
+  htm: |
+    <h2>使用</h2>
+    <p>为元素添加类名：</p>
+    <pre><code class="language-html">&#60;!-- 普通按钮 --&#62;
+    &#60;button class=&#34;Btn&#34;&#62;确认&#60;/button&#62;
+
+    &#60;!-- 主要高亮 --&#62;
+    &#60;button class=&#34;Btn Main&#34;&#62;提交&#60;/button&#62;
+
+    &#60;!-- 链接按钮 --&#62;
+    &#60;a class=&#34;Btn&#34; href=&#34;https://github.com&#34;&#62;链接按钮&#60;/a&#62;
+
+    &#60;!-- 图标按钮 --&#62;
+    &#60;button class=&#34;BtnC&#34;&#62;&#60;i class=&#34;Ico&#34;&#62;&#60;/i&#62;&#60;/button&#62;</code></pre>
+    <h2>图标样式</h2>
+    <p>可通过 <code>background-image</code> 自定义 <code>BtnC</code> 的图标：</p>
+    <pre><code class="language-html">&#60;style&#62;
+    .BtnC.add . Ico {
+      background-image: var(--btnSvgAdd);
+    }
+    &#60;/style&#62;
+    &#60;button class=&#34;BtnC add&#34;&#62;&#60;i class=&#34;Ico&#34;&#62;&#60;/i&#62;&#60;/button&#62;</code></pre>
+    <p>行内代码对 <code>&#60;</code> 和 <code>&#62;</code> 转义，如 <code>&#60;a&#62;</code> 和 <code>&#60;b&#62;</code>。</p>
+  desc: code_html_escaping
+

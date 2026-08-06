@@ -1,0 +1,6 @@
+load: lasting
+tip: I rekkefølgen vist ovenfor, klikk på ikonene i bildet nedenfor
+suc: Bekreftelsen var vellykket
+fail: Bekreftelsen mislyktes. Last inn på nytt etter ett sekund
+refresh: forfriske
+validImg: Verifikasjonskodebilde

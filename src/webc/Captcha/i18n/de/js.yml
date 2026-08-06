@@ -1,0 +1,6 @@
+load: Laden
+tip: Klicken Sie in der oben gezeigten Reihenfolge auf die Symbole im Bild unten
+suc: Verifizierung erfolgreich
+fail: Die Überprüfung ist fehlgeschlagen. Aktualisierung nach einer Sekunde
+refresh: auffrischen
+validImg: Bild des Bestätigungscodes

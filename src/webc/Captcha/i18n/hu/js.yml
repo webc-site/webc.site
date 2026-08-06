@@ -1,0 +1,6 @@
+load: terhelés
+tip: A fenti sorrendben kattintson az alábbi képen látható ikonokra
+suc: Az ellenőrzés sikeres
+fail: Az ellenőrzés nem sikerült, frissítsen egy másodperc múlva
+refresh: frissíteni
+validImg: Ellenőrző kód kép

@@ -1,0 +1,7 @@
+desc: Automātiski noteikt un pārslēgties, lai parādītu navigācijas izvēlni vai pogu Atpakaļ, pamatojoties uz pašreizējo maršrutu
+desktop_title: Darbvirsmas displejs
+desktop_desc: Atrodoties deklarētajā izvēlnes maršrutā, parādīt izvēlnes elementus flīzes; pretējā gadījumā parādīt atpakaļ pogu
+mobile_title: Mobilais displejs
+mobile_desc: Atrodoties deklarētajā izvēlnes maršrutā, sabrūk ikonas pogā un atbalsta izvēlnes izslīdēšanu; pretējā gadījumā tiek parādīta poga Atpakaļ
+normal_state: Navigācijas statuss (c-nav-menu)
+back_state: Atkāpšanās statuss (c-back)

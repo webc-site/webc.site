@@ -1,0 +1,6 @@
+load: caricamento
+tip: Nell'ordine mostrato sopra, clicca sulle icone nell'immagine qui sotto
+suc: Verifica riuscita
+fail: Verifica non riuscita, aggiorna dopo un secondo
+refresh: aggiornare
+validImg: Immagine del codice di verifica

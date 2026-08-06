@@ -1,0 +1,6 @@
+load: chargement
+tip: Dans l'ordre indiqué ci-dessus, cliquez sur les icônes dans l'image ci-dessous
+suc: Vérification réussie
+fail: La vérification a échoué, actualisez après une seconde
+refresh: rafraîchir
+validImg: Image du code de vérification

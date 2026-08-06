@@ -1,0 +1,60 @@
+mdContent: |
+  # Dokumento sa presentasyon sa markdown
+  Kini usa ka **static rendering** nga demonstrasyon.
+  ## Batakang estilo
+  - **Bold** ug *Italic*
+  - ~~paglusot~~
+  - `inline_code` inline nga code
+  - [Opisyal nga website sa United Nations](https://un.org) Link demonstration
+  ## Mga Quote ug Listahan
+  > Kini usa ka linya nga kinutlo.
+
+  > Kini usa ka multi-line quote.
+  > Usa ka biswal nga epekto alang sa pagpakita sa daghang linya nga mga pakisayran.
+
+  - Unordered una nga butang
+    - Unordered subitem uno
+    - Dili order nga subitem nga duha
+  - Dili order nga ikaduhang butang
+
+  > [!NOTE]
+  > `> [!NOTE]` Kinatibuk-ang mga mensahe ug mga nota
+
+  > [!TIP]
+  > `> [!TIP]` Mga tip ug makatabang nga mga tip
+
+  > [!IMPORTANT]
+  > `> [!IMPORTANT]` Importante nga mga tip ug kabalaka
+
+  > [!WARNING]
+  > `> [!WARNING]` Mga Pasidaan sa Peligro ug Mga Nota
+
+  > [!CAUTION]
+  > `> [!CAUTION]` KAKUYAW UG LABING RISGO WARNING
+
+  ---
+
+  ## listahan sa buluhaton
+  - [ ] Kini usa ka wala mahuman nga lista sa mga buluhaton
+  - [x] Kini usa ka kompleto nga buluhaton sa listahan
+  - [X] Kini usa ka kompleto nga buluhaton sa listahan (kapital X)
+
+  ---
+
+  1. Nag-order sa una nga butang
+     1. Nag-order sa usa ka butang
+     2. Gi-order nga subitem nga duha
+  2. Gi-order ang ikaduhang termino
+  ## panid
+  | proyekto | estado | iskor |
+  | :--- | :---: | ---: |
+  | static | Nakompleto | 100 |
+  | streaming | Paghubad | 95 |
+  ## block sa code
+  ```js
+  const hello = () => {
+    console.log("Hello, WebC!");
+  };
+  ```
+  ## hulagway
+  ![Demo nga hulagway](https://i-01.eu.org/demo-green.avif)

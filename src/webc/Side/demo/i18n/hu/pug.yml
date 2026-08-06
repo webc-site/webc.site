@@ -1,0 +1,46 @@
+open: Nyissa meg az oldalsávot
+userName: Geek Walker
+userTitle: Vezető webdesigner
+statFollowers: Előfizető
+statFollowing: összpontosítani
+statProjects: projektet
+groupCore: Alapfunkciók
+groupSystem: Rendszermenedzsment
+groupData: adatelemzés
+groupCollaboration: Csapatmunka
+widgetTitle: Tárhelyhasználat
+widgetTasks: A teendőim
+task1: Teljes Side interaktív fejlesztés
+task2: Design Folyékony vizuális esztétika
+task3: Optimalizálja az összetevők használhatóságát és részleteit
+navHome: Irányítópult kezdőlap
+navProfile: Személyes Központ
+navSettings: Rendszerbeállítások
+navMessages: Az oldal hírei
+navNotifications: Értesítési emlékeztető
+navPrivacy: Adatvédelem és biztonság
+navHelp: Segítség és visszajelzés
+navAnalytics: elemzési jelentés
+navCloud: Felhő tárhely
+navTeam: csapattag
+navTasks: Feladat koordináció
+logout: Jelentkezzen ki
+upgradeTitle: Frissítsen Professional Edition verzióra
+upgradeDesc: Felszabadítja a korlátlan felhőtárhelyet és a fejlett együttműködést
+upgradeBtn: Frissítsen most
+task4: Tekintse át a PR-kötelezettségeket, és egyesítse az ágakat
+task5: Írja meg a WebC új verziójának kiadási naplóját
+widgetOnline: Online csapattagok
+member1: Lisa
+member2: David
+member3: Anna
+statusOnline: online
+statusOffline: Offline
+statusBusy: Elfoglalt
+widgetFiles: legutóbbi fájlok
+file1: Terméktervezési specifikáció v2.4.pdf
+file2: 2026 3. negyedévi tervtervezet.docx
+file3: Komponens animációs bemutató.mp4
+tagDesign: tervezés
+tagDev: fejleszteni
+tagPm: termék

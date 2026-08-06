@@ -1,0 +1,7 @@
+desc: Përcaktoni automatikisht dhe kaloni për të shfaqur menynë e lundrimit ose butonin e kthimit bazuar në itinerarin aktual
+desktop_title: Ekrani i desktopit
+desktop_desc: Kur jeni në rrugën e deklaruar të menusë, shfaqni pllakat e artikujve të menusë; përndryshe shfaq butonin e pasme
+mobile_title: Ekran celular
+mobile_desc: Kur është në rrugën e deklaruar të menysë, paloset në një buton ikone dhe mbështet rrëshqitjen jashtë menysë; përndryshe shfaq një buton prapa
+normal_state: Statusi i navigimit (c-nav-menu)
+back_state: Statusi i kthimit (c-back)

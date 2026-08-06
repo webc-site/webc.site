@@ -1,0 +1,10 @@
+t1: A WebC v2.0 hivatalos megjelenése: minimalista komponensarchitektúra a modern webhez
+s1: |-
+  Fél év rekonstrukció után hivatalosan is megérkezett a WebC v2.0. Az újonnan tervezett **Light DOM** architektúra tökéletesen kombinálható a natív `Custom Elements`-vel, hogy páratlan teljesítményjavulásokat érjen el.
+t2: Natív CSS-beágyazás, mélyreható gyakorlat és teljesítményoptimalizálás
+s2: |-
+  Napjainkban a `CSS Nesting` teljes mértékben támogató modern böngészőkkel az előfeldolgozó beágyazási szintjei és a natív szolgáltatások kombinációja nagyban leegyszerűsíti a stílus karbantartási költségeit. Ez a cikk bemutatja annak fő előnyeit és bevált gyakorlatait.
+t3: A nulla függőségű felhasználói felület komponenskönyvtárának felépítési filozófiája
+s3: |-
+  Térjen vissza a webes natív technológiai halmazhoz: Nincs szükség bonyolult felépítési folyamatokra és hatalmas függőségi fákra, nagy teljesítményű felhasználói felületeket építhet csak natív JavaScript és webes szabványok segítségével.
+btn: Kattintson ide az olvasáshoz

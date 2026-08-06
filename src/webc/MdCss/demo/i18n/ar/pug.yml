@@ -1,0 +1,38 @@
+basicTitle: النمط الأساسي
+bold: عريض
+italic: مائل
+del: يتوسطه خط
+inlineCode: رمز مضمن
+linkPrefix: يوجد نص قبل الرابط وبعده، مثل
+link: الموقع الرسمي للأمم المتحدة
+linkSuffix: هو الرابط.
+quoteSingle: هذا اقتباس من سطر واحد.
+quoteMultiLine1: هذا اقتباس متعدد الأسطر.
+quoteMultiLine2: تأثير مرئي لعرض المراجع متعددة الأسطر.
+note: رسائل وملاحظات عامة
+tip: نصائح وإرشادات مفيدة
+important: نصائح واهتمامات هامة
+warning: تحذيرات المخاطر والاحتياطات
+caution: تحذير من الخطر والمخاطر الشديدة
+listTitle: الاقتباسات والقوائم
+taskTitle: قائمة المهام
+todoItem: هذه مهمة CSS غير مكتملة
+doneItem: هذه مهمة CSS مكتملة
+ulItem1: العنصر الأول غير مرتب
+ulSubItem1: البند الفرعي الأول غير مرتب
+ulSubItem2: البند الفرعي الثاني غير مرتب
+ulItem2: البند الثاني غير مرتبة
+olItem1: أمرت العنصر الأول
+olSubItem1: أمرت البند واحد
+olSubItem2: أمرت البند الفرعي الثاني
+olItem2: أمرت الفصل الدراسي الثاني
+tableTitle: ملزمة
+col1: مشروع
+col2: ولاية
+col3: نتيجة
+row1Col1: ثابت
+row1Col2: مكتمل
+row2Col1: جاري
+row2Col2: التقديم
+codeTitle: كتلة التعليمات البرمجية
+imageTitle: صورة

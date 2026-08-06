@@ -1,0 +1,9 @@
+language: valodu
+os: sistēma
+about: par
+jsInfo: JavaScript ir skriptu valoda, ko plaši izmanto klienta puses tīmekļa izstrādē.
+rsInfo: Rust ir sistēmu programmēšanas valoda, kas vērsta uz drošību, ātrumu un vienlaicību.
+pyInfo: Python ir uz objektu orientēta, interpretēta datorprogrammēšanas valoda.
+macInfo: macOS ir uz Unix balstīta grafiskā operētājsistēma, ko izstrādājis Apple.
+winInfo: Windows ir plaši izmantota personālo datoru operētājsistēma, ko izstrādājusi Microsoft Corporation.
+aboutInfo: Mēs esam apņēmušies izstrādāt augstas kvalitātes atvērtā pirmkoda priekšgala komponentus, un jūs esat laipni aicināti piedalīties.

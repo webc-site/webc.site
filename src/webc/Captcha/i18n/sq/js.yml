@@ -1,0 +1,6 @@
+load: ngarkim
+tip: Në rendin e treguar më sipër, klikoni në ikonat në foton më poshtë
+suc: Verifikimi i suksesshëm
+fail: Verifikimi dështoi, rifresko pas një sekonde
+refresh: freskoj
+validImg: Fotografia e kodit të verifikimit

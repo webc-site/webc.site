@@ -1,0 +1,6 @@
+load: načítání
+tip: Ve výše uvedeném pořadí klikněte na ikony na obrázku níže
+suc: Ověření proběhlo úspěšně
+fail: Ověření se nezdařilo, obnovte jej po jedné sekundě
+refresh: osvěžit
+validImg: Obrázek ověřovacího kódu

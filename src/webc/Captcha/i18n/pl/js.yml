@@ -1,0 +1,6 @@
+load: załadunek
+tip: W kolejności pokazanej powyżej kliknij ikony na obrazku poniżej
+suc: Weryfikacja przebiegła pomyślnie
+fail: Weryfikacja nie powiodła się, odśwież po jednej sekundzie
+refresh: odświeżać
+validImg: Zdjęcie kodu weryfikacyjnego

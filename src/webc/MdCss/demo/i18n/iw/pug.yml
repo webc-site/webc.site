@@ -1,0 +1,38 @@
+basicTitle: סגנון בסיסי
+bold: נוֹעָז
+italic: אוֹתִיוֹת מוּטוֹת
+del: קו חוצה
+inlineCode: קוד מוטבע
+linkPrefix: יש טקסט לפני ואחרי הקישור, כגון
+link: האתר הרשמי של האו"ם
+linkSuffix: הוא קישור.
+quoteSingle: זהו ציטוט בשורה אחת.
+quoteMultiLine1: זהו ציטוט רב שורות.
+quoteMultiLine2: אפקט חזותי להצגת הפניות מרובות שורות.
+note: הודעות והערות כלליות
+tip: טיפים וטיפים שימושיים
+important: טיפים וחששות חשובים
+warning: אזהרות ואמצעי זהירות על סיכון
+caution: אזהרת סכנה וסיכון קיצוני
+listTitle: ציטוטים ורשימות
+taskTitle: רשימת משימות
+todoItem: זוהי משימת CSS שלא הסתיימה
+doneItem: זוהי משימת CSS שהושלמה
+ulItem1: פריט ראשון שלא הוזמן
+ulSubItem1: תת פריט ראשון לא מסודר
+ulSubItem2: סעיף משנה שני לא מסודר
+ulItem2: פריט שני לא מסומן
+olItem1: הזמין פריט ראשון
+olSubItem1: הזמין פריט ראשון
+olSubItem2: הזמין סעיף שני
+olItem2: הוזמן קדנציה שנייה
+tableTitle: דַף
+col1: פּרוֹיֶקט
+col2: מְדִינָה
+col3: צִיוּן
+row1Col1: סטָטִי
+row1Col2: הושלם
+row2Col1: נְהִירָה
+row2Col2: טִיוּחַ
+codeTitle: בלוק קוד
+imageTitle: תְמוּנָה

@@ -1,0 +1,6 @@
+load: yükleniyor
+tip: Yukarıda gösterilen sırayla aşağıdaki resimdeki simgelere tıklayın
+suc: Doğrulama başarılı
+fail: Doğrulama başarısız oldu, bir saniye sonra yenileyin
+refresh: yenileme
+validImg: Doğrulama kodu resmi

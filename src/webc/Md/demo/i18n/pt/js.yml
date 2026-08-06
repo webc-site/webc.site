@@ -1,0 +1,60 @@
+mdContent: |
+  # Documento de apresentação de Markdown
+  Esta é uma demonstração de **renderização estática**.
+  ## Estilo básico
+  - **Negrito** e *Itálico*
+  - ~~tachado~~
+  - `inline_code` código embutido
+  - [Site oficial das Nações Unidas](https://un.org) Demonstração do link
+  ## Citações e listas
+  > Esta é uma citação de uma única linha.
+
+  > Esta é uma cotação multilinha.
+  > Um efeito visual para exibir referências multilinhas.
+
+  - Primeiro item não ordenado
+    - Subitem um não ordenado
+    - Subitem dois não ordenado
+  - Segundo item não ordenado
+
+  > [!NOTE]
+  > `> [!NOTE]` Mensagens e notas gerais
+
+  > [!TIP]
+  > `> [!TIP]` Dicas e sugestões úteis
+
+  > [!IMPORTANT]
+  > `> [!IMPORTANT]` Dicas e preocupações importantes
+
+  > [!WARNING]
+  > `> [!WARNING]` Avisos e notas de risco
+
+  > [!CAUTION]
+  > `> [!CAUTION]` AVISO DE PERIGO E RISCO EXTREMO
+
+  ---
+
+  ## lista de tarefas
+  - [ ] Esta é uma lista inacabada de tarefas
+  - [x] Esta é uma tarefa de lista concluída
+  - [X] Esta é uma tarefa de lista concluída (X maiúsculo)
+
+  ---
+
+  1. Primeiro item pedido
+     1. Item pedido um
+     2. Subitem pedido dois
+  2. Segundo mandato ordenado
+  ## folha
+  | projeto | estado | pontuação |
+  | :--- | :---: | ---: |
+  | estático | Concluído | 100 |
+  | transmissão | Renderização | 95 |
+  ## bloco de código
+  ```js
+  const hello = () => {
+    console.log("Hello, WebC!");
+  };
+  ```
+  ## foto
+  ![Imagem de demonstração](https://i-01.eu.org/demo-green.avif)

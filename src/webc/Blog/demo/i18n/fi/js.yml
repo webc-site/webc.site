@@ -1,0 +1,10 @@
+t1: Virallisesti julkaistu WebC v2.0: minimalistinen komponenttiarkkitehtuuri nykyaikaiseen verkkoon
+s1: |-
+  Puolen vuoden jälleenrakennuksen jälkeen WebC v2.0 on virallisesti saapunut. Äskettäin suunniteltu **Light DOM** -arkkitehtuuri on yhdistetty täydellisesti alkuperäiseen `Custom Elements` -arkkitehtuuriin, mikä tuo vertaansa vailla olevia suorituskyvyn parannuksia.
+t2: Natiivi CSS Nesting perusteellinen käytäntö ja suorituskyvyn optimointi
+s2: |-
+  Nykyään, kun modernit selaimet tukevat täysin `CSS Nesting` , esiprosessorin sisäkkäisten tasojen ja alkuperäisten ominaisuuksien yhdistelmä yksinkertaistaa huomattavasti tyylien ylläpitokustannuksia. Tässä artikkelissa tarkastellaan sen tärkeimpiä etuja ja parhaita käytäntöjä.
+t3: Nollariippuvuuden käyttöliittymäkomponenttikirjaston rakennusfilosofia
+s3: |-
+  Paluu web-natiiviteknologiapinoon: Et tarvitse monimutkaisia ​​rakennusputkistoja ja valtavia riippuvuuspuita, voit rakentaa tehokkaita käyttöliittymiä vain alkuperäisellä JavaScriptillä ja verkkostandardeilla.
+btn: Napsauta tästä lukeaksesi

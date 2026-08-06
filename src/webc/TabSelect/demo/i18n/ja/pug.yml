@@ -1,0 +1,9 @@
+language: 言語
+os: システム
+about: について
+jsInfo: JavaScript は、クライアント側の Web 開発で広く使用されているスクリプト言語です。
+rsInfo: Rust は、安全性、速度、同時実行性に重点を置いたシステム プログラミング言語です。
+pyInfo: Python は、オブジェクト指向の解釈型コンピューター プログラミング言語です。
+macInfo: macOS は、Apple が開発した Unix ベースのグラフィカル オペレーティング システムです。
+winInfo: Windows は、Microsoft Corporation によって開発され、広く使用されているパーソナル コンピュータのオペレーティング システムです。
+aboutInfo: 私たちは高品質のオープンソース フロントエンド コンポーネントの開発に取り組んでいますので、ぜひご参加ください。

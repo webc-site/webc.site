@@ -1,0 +1,9 @@
+language: ဘာသာစကား
+os: စနစ်
+about: အကြောင်း
+jsInfo: JavaScript သည် client-side web development တွင် အသုံးများသော scripting language တစ်ခုဖြစ်သည်။
+rsInfo: Rust သည် ဘေးကင်းမှု၊ မြန်နှုန်းနှင့် ဆက်စပ်မှုအပေါ် အာရုံစိုက်သည့် စနစ်ပရိုဂရမ်ဘာသာစကားတစ်ခုဖြစ်သည်။
+pyInfo: Python သည် object-oriented, interpreted computer programming language ဖြစ်သည်။
+macInfo: macOS သည် Apple မှထုတ်လုပ်သော Unix-based graphical operating system တစ်ခုဖြစ်သည်။
+winInfo: Windows သည် မိုက်ခရိုဆော့ဖ် ကော်ပိုရေးရှင်းမှ တီထွင်အသုံးပြုသော တစ်ကိုယ်ရေသုံး ကွန်ပျူတာလည်ပတ်မှုစနစ်ဖြစ်သည်။
+aboutInfo: ကျွန်ုပ်တို့သည် အရည်အသွေးမြင့် open source front-end အစိတ်အပိုင်းများကို ဖော်ဆောင်ရန် ကတိပြုထားပြီး သင်ပါဝင်ရန် ကြိုဆိုပါသည်။

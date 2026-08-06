@@ -1,0 +1,60 @@
+mdContent: |
+  # Dokumento ng pagtatanghal ng markdown
+  Ito ay isang **static na pag-render** na demonstrasyon.
+  ## Pangunahing istilo
+  - **Bold** at *Italic*
+  - ~~strikethrough~~
+  - `inline_code` inline na code
+  - [Opisyal na website ng United Nations](https://un.org) Link demonstration
+  ## Mga Quote at Listahan
+  > Ito ay isang solong linya na quote.
+
+  > Ito ay isang multi-line na quote.
+  > Isang visual effect para sa pagpapakita ng mga multi-line na sanggunian.
+
+  - Unordered unang item
+    - Unordered subitem one
+    - Hindi nakaayos na subitem na dalawa
+  - Hindi na-order ang pangalawang item
+
+  > [!NOTE]
+  > `> [!NOTE]` Mga pangkalahatang mensahe at tala
+
+  > [!TIP]
+  > `> [!TIP]` Mga tip at kapaki-pakinabang na tip
+
+  > [!IMPORTANT]
+  > `> [!IMPORTANT]` Mahahalagang tip at alalahanin
+
+  > [!WARNING]
+  > `> [!WARNING]` Mga Babala at Tala sa Panganib
+
+  > [!CAUTION]
+  > `> [!CAUTION]` PANGANIB AT SOBRANG RISK BABALA
+
+  ---
+
+  ## listahan ng gawain
+  - [ ] Ito ay isang hindi natapos na listahan ng mga gawain
+  - [x] Ito ay isang kumpletong gawain sa listahan
+  - [X] Ito ay isang nakumpletong gawain sa listahan (capital X)
+
+  ---
+
+  1. Nag-order ng unang item
+     1. Nag-order ng isang item
+     2. Nag-order ng subitem na dalawa
+  2. Inutusan ang pangalawang termino
+  ## sheet
+  | proyekto | estado | puntos |
+  | :--- | :---: | ---: |
+  | static | Nakumpleto | 100 |
+  | streaming | Nagre-render | 95 |
+  ## bloke ng code
+  ```js
+  const hello = () => {
+    console.log("Hello, WebC!");
+  };
+  ```
+  ## larawan
+  ![Demo na larawan](https://i-01.eu.org/demo-green.avif)

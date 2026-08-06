@@ -1,0 +1,60 @@
+mdContent: |
+  # Markdown taqdimot hujjati
+  Bu Streaming Renderingning namoyishi.
+  ## Asosiy uslub
+  - **Qalin** va *Kursiv*
+  - ~~chiziq ~~
+  - `inline_code` ichki kod
+  - [Birlashgan Millatlar Tashkilotining rasmiy veb-sayti](https://un.org) havola namoyishi
+  ## Iqtibos va ro'yxatlar
+  > Bu bitta qatorli iqtibos.
+
+  > Bu ko'p qatorli iqtibos.
+  > Ko'p qatorli havolalarni ko'rsatish uchun vizual effekt.
+
+  - Tartibsiz birinchi element
+    - Tartibsiz pastki element
+    - Tartibsiz ikkinchi kichik band
+  - Tartibsiz ikkinchi element
+
+  > [!NOTE]
+  > `> [!NOTE]` Umumiy xabarlar va eslatmalar
+
+  > [!TIP]
+  > `> [!TIP]` Maslahatlar va foydali maslahatlar
+
+  > [!IMPORTANT]
+  > `> [!IMPORTANT]` Muhim maslahatlar va tashvishlar
+
+  > [!WARNING]
+  > `> [!WARNING]` Xavf haqida ogohlantirishlar va eslatmalar
+
+  > [!CAUTION]
+  > `> [!CAUTION]` XAVF VA O'TA XAVF OGOHLANTIRISH
+
+  ---
+
+  ## vazifalar ro'yxati
+  - [ ] Bu tugallanmagan oqim vazifasi
+  - [x] Bu tugallangan oqim vazifasi
+  - [X] Bu bajarilgan striming vazifasi (X harfi)
+
+  ---
+
+  1. Buyurtma qilingan birinchi mahsulot
+     1. Buyurtma qilingan birinchi narsa
+     2. Buyurtma qilingan ikkinchi kichik band
+  2. Ikkinchi muddatga buyurtma berildi
+  ## varaq
+  | Vazifa | davlat | jadval |
+  | :--- | :---: | ---: |
+  | Birinchi vazifa | Bajarildi | 100% |
+  | Vazifa 2 | jarayonda | 50% |
+  ## kod bloki
+  ```js
+  const hello = () => {
+    console.log("Hello, WebC!");
+  };
+  ```
+  ## rasm
+  ![Demo rasm](https://i-01.eu.org/demo-green.avif)

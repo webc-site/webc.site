@@ -1,0 +1,38 @@
+basicTitle: Basis Stil
+bold: Fett
+italic: kursiv
+del: duerchstrecken
+inlineCode: inline Code
+linkPrefix: Et gëtt Text virum an nom Link, wéi z
+link: Offiziell Websäit vun de Vereenten Natiounen
+linkSuffix: ass e Link.
+quoteSingle: Dëst ass eng eenzeg Zeil Zitat.
+quoteMultiLine1: Dëst ass e Multi-Linn Zitat.
+quoteMultiLine2: E visuellen Effekt fir Multi-Linn Referenzen ze weisen.
+note: Allgemeng Messagen an Notizen
+tip: Tipps an nëtzlech Tipps
+important: Wichteg Tipps a Bedenken
+warning: Risiko Warnungen a Virsiichtsmoossnamen
+caution: DANGER AN EXTREM RISICO WARNUNG
+listTitle: Zitater a Lëschte
+taskTitle: Aufgab Lëscht
+todoItem: Dëst ass eng ongeschloss CSS Aufgab
+doneItem: Dëst ass eng fäerdeg CSS Aufgab
+ulItem1: Onbestallt éischt Element
+ulSubItem1: Onbestallt Ënnerdeel 1
+ulSubItem2: Unordered subitem zwee
+ulItem2: Onbestallt zweet Element
+olItem1: Éischten Artikel bestallt
+olSubItem1: Artikel 1 bestallt
+olSubItem2: Bestallt Ënnerartikel zwee
+olItem2: Bestallt zweete Begrëff
+tableTitle: Blat
+col1: Projet
+col2: Staat
+col3: Punktzuel
+row1Col1: statesch
+row1Col2: Ofgeschloss
+row2Col1: streaming
+row2Col2: Rendering
+codeTitle: Code Block
+imageTitle: Bild

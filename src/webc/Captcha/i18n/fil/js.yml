@@ -1,0 +1,6 @@
+load: naglo-load
+tip: Sa pagkakasunud-sunod na ipinapakita sa itaas, mag-click sa mga icon sa larawan sa ibaba
+suc: Matagumpay ang pag-verify
+fail: Nabigo ang pag-verify, i-refresh pagkatapos ng isang segundo
+refresh: i-refresh
+validImg: Larawan ng verification code

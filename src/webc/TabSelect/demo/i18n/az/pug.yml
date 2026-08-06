@@ -1,0 +1,9 @@
+language: dil
+os: sistemi
+about: haqqında
+jsInfo: JavaScript müştəri tərəfi veb inkişafında geniş istifadə olunan skript dilidir.
+rsInfo: Rust təhlükəsizlik, sürət və paralelliyə yönəlmiş sistem proqramlaşdırma dilidir.
+pyInfo: Python obyekt yönümlü, şərh olunan kompüter proqramlaşdırma dilidir.
+macInfo: macOS, Apple tərəfindən hazırlanmış Unix əsaslı qrafik əməliyyat sistemidir.
+winInfo: Windows, Microsoft Korporasiyası tərəfindən hazırlanmış geniş istifadə olunan fərdi kompüter əməliyyat sistemidir.
+aboutInfo: Biz yüksək keyfiyyətli açıq mənbəli front-end komponentlərini inkişaf etdirməyə sadiqik və siz də iştirak edə bilərsiniz.

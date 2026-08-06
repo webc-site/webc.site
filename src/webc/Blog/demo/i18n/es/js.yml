@@ -1,0 +1,10 @@
+t1: Lanzamiento oficial de WebC v2.0: arquitectura de componentes minimalista para la web moderna
+s1: |-
+  Después de medio año de reconstrucción, WebC v2.0 ha llegado oficialmente. La arquitectura **Light DOM** recientemente diseñada se combina perfectamente con la `Custom Elements` nativa para brindar mejoras de rendimiento incomparables.
+t2: Práctica en profundidad de anidamiento de CSS nativo y optimización del rendimiento
+s2: |-
+  Hoy en día, con los navegadores modernos totalmente compatibles con `CSS Nesting`, la combinación de niveles de anidamiento de preprocesador y características nativas simplifica enormemente los costos de mantenimiento de estilos. Este artículo explora sus principales beneficios y mejores prácticas.
+t3: La filosofía de construcción de la biblioteca de componentes de UI sin dependencia
+s3: |-
+  Regrese a la pila de tecnología nativa de la web: no necesita procesos de compilación complejos ni enormes árboles de dependencia; puede crear interfaces de usuario de alto rendimiento solo con JavaScript nativo y estándares web.
+btn: Haga clic aquí para leer

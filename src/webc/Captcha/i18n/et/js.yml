@@ -1,0 +1,6 @@
+load: laadimine
+tip: Ülal näidatud järjekorras klõpsake alloleval pildil olevaid ikoone
+suc: Kinnitamine õnnestus
+fail: Kinnitamine ebaõnnestus, värskendage ühe sekundi pärast
+refresh: värskenda
+validImg: Kinnituskoodi pilt
