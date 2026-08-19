@@ -1,0 +1,6 @@
+load: nalaganje
+tip: V zgornjem vrstnem redu kliknite ikone na spodnji sliki
+suc: Preverjanje uspešno
+fail: Preverjanje ni uspelo, osvežite po eni sekundi
+refresh: osveži
+validImg: Slika kode za preverjanje

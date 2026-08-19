@@ -1,0 +1,10 @@
+t1: Oficialiai išleista WebC v2.0: minimalistinė komponentų architektūra šiuolaikiniam žiniatinkliui
+s1: |-
+  Po pusę metų trukusios rekonstrukcijos oficialiai atkeliavo WebC v2.0. Naujai sukurta **Light DOM** architektūra puikiai derinama su vietine `Custom Elements`, kad būtų pasiektas neprilygstamas našumo patobulinimas.
+t2: Gimtoji CSS įterpimo praktika ir našumo optimizavimas
+s2: |-
+  Šiandien, kai šiuolaikinės naršyklės visiškai palaiko `CSS Nesting` , išankstinio procesoriaus įdėjimo lygių ir savųjų funkcijų derinys labai supaprastina stiliaus priežiūros išlaidas. Šiame straipsnyje nagrinėjami pagrindiniai jo pranašumai ir geriausia praktika.
+t3: Nulinės priklausomybės vartotojo sąsajos komponentų bibliotekos konstravimo filosofija
+s3: |-
+  Grįžkite į žiniatinklio savąsias technologijas: nereikia sudėtingų konfigūravimo vamzdynų ir didžiulių priklausomybių medžių, galite kurti didelio našumo vartotojo sąsajas tik naudodami savąją „JavaScript“ ir žiniatinklio standartus.
+btn: Spauskite čia norėdami perskaityti

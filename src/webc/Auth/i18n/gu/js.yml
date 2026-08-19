@@ -1,0 +1,29 @@
+mail: મેલ
+phone: સેલ ફોન
+signin: લોગ ઇન કરો
+signup: નોંધણી કરો
+get_code: ચકાસણી કોડ મેળવો
+agree_prefix: લૉગ ઇન કરીને તમે સંમત થાઓ છો
+terms: વપરાશકર્તા કરાર
+code_mail_sent: પર ચકાસણી કોડ મોકલવામાં આવ્યો છે
+welcome: પાછા સ્વાગત છે
+code_sent: પર ચકાસણી કોડ મોકલવામાં આવ્યો છે
+input_code: પુષ્ટિકરણ કોડ દાખલ કરો
+code: ચકાસણી કોડ
+name: સ્ક્રીન નામ
+pwd: પાસવર્ડ
+verify: ચકાસો
+no_code: ચકાસણી કોડ પ્રાપ્ત થયો નથી?
+resend: ફરીથી પોસ્ટ કરવા માટે અહીં ક્લિક કરો
+resend_cd: સેકન્ડ પછી ફરીથી મોકલી શકાય છે
+forget_pwd: તમારો પાસવર્ડ ભૂલી ગયા છો?
+reset_pwd: રીસેટ કરવા માટે અહીં ક્લિક કરો
+oauth_hint_title: બીજી પદ્ધતિનો ઉપયોગ કરીને લૉગ ઇન કરો
+oauth_hint_tip: આ ઇમેઇલ તૃતીય-પક્ષ લોગિન માટે બંધાયેલ છે, ચાલુ રાખવા માટે કૃપા કરીને નીચેની પદ્ધતિ પસંદ કરો
+oauth_google: Google સાથે ચાલુ રાખો
+oauth_apple: Apple સાથે ચાલુ રાખો
+oauth_wechat: WeChat નો ઉપયોગ કરવાનું ચાલુ રાખો
+oauth_github: GitHub નો ઉપયોગ કરવાનું ચાલુ રાખો
+oauth_microsoft: Microsoft સાથે ચાલુ રાખો
+more: વધુ
+err_format: ફોર્મેટ ભૂલ

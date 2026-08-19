@@ -1,0 +1,56 @@
+# Autentifikazio-saioa eta erregistroa
+
+Integratu posta elektronikoa eta telefono mugikorreko zenbakien erregistroa eta saioa, egiaztapen-kodea egiaztatzea, pasahitza saioa eta hirugarrenen saioa azkarra.
+
+- Helbide elektronikoaren eta telefono mugikorraren zenbakiaren artean fitxa aldatzea onartzen du
+- Beira likidoaren ehundura duten etiketa flotagarriak
+- Herrialde anitzeko eremu-kodea hautatzea eta SMS egiaztatzeko kodea atzerako kontaketa onartzen ditu
+- Onartu hirugarrenen OAuth-en saio-hasiera azkarra eta loturiko orientabideak
+
+## Erabili demoa
+
+```html
+<c-auth></c-auth>
+
+<script type="module">
+import "webc.site/Auth.js";
+
+const auth = document.querySelector("c-auth");
+
+auth.onMail = async (mail) => {
+  // Itzuli egoera-kodea: 1 egiaztapen-kodea erregistratzeko, 2 pasahitz saioa hasteko edo hirugarrenen saio-hasierako array itzultzeko ["google", "apple"]
+  return 2;
+};
+
+auth.onLogin = async (mail, password) => {
+  return [0, mail];
+};
+
+auth.addEventListener("auth", (e) => {
+  console.log("Autentifikazioa arrakastatsua:", e.detail);
+});
+</script>
+```
+
+## egoera konstantea
+
+- `0` (`STATE_MAIL`): posta elektronikoaren sarrera
+- `1` (`STATE_CODE`): posta elektronikoa egiaztatzeko kodea erregistratzea
+- `2` (`STATE_PASSWD`): posta elektroniko bidezko pasahitza saioa hasteko
+- `10` (`STATE_PHONE`): Idatzi mugikorraren zenbakia
+- `11` (`STATE_SMS_CODE`): SMS egiaztatzeko kodea egiaztatzea
+- `Array` (`OAUTH_HINT`): hirugarrenen saioa hasteko gida zerrenda
+
+## Propietateak eta kako funtzioak
+
+- `step`: uneko egoera (zenbakia edo matrizea)
+- `mail`: Posta elektronikoa
+- `phone`: telefono-zenbakia
+- `cc`: nazioarteko markatze-kodea (86 lehenetsia)
+- `onMail(mail)`: posta elektronikoa egiaztatzeko deia
+- `onSignup(mail, name, password)`: Erregistratu deia itzultzeko
+- `onLogin(mail, password)`: pasahitza saioa hasteko deia
+- `onSmsSend(phone, cc)`: Bidali SMS egiaztapen-kodea deia
+- `onSmsVerify(phone, cc, code)`: egiaztapen-SMS egiaztapen-kodearen itzulera
+- `onPassport(provider)`: Hirugarrenen saioa hasteko deia azkarra
+- `onReset(mail)`: Pasahitza berrezartzeko deia ahaztu zait

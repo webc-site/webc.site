@@ -1,0 +1,7 @@
+desc: Determina e cambia automaticamente para mostrar o menú de navegación ou o botón Atrás en función da ruta actual
+desktop_title: Pantalla de escritorio
+desktop_desc: Cando esteas na ruta do menú declarada, amosa os mosaicos dos elementos do menú; se non, mostra o botón de volta
+mobile_title: Pantalla móbil
+mobile_desc: Cando se atopa na ruta do menú declarada, colápsase nun botón de icona e admite o desprazamento do menú; en caso contrario, mostra un botón para atrás
+normal_state: Estado da navegación (c-nav-menu)
+back_state: Estado de reserva (c-back)

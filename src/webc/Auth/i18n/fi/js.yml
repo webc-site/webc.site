@@ -1,0 +1,29 @@
+mail: Mail
+phone: matkapuhelin
+signin: Kirjaudu sisään
+signup: rekisteröidy
+get_code: Hanki vahvistuskoodi
+agree_prefix: Kirjautumalla sisään hyväksyt
+terms: Käyttösopimus
+code_mail_sent: Vahvistuskoodi on lähetetty osoitteeseen
+welcome: tervetuloa takaisin
+code_sent: Vahvistuskoodi on lähetetty osoitteeseen
+input_code: syötä vahvistuskoodi
+code: Vahvistuskoodi
+name: Näytön nimi
+pwd: salasana
+verify: vahvistaa
+no_code: Etkö saanut vahvistuskoodia?
+resend: Napsauta tätä lähettääksesi uudelleen
+resend_cd: Voidaan lähettää uudelleen sekuntien kuluttua
+forget_pwd: Unohditko salasanasi?
+reset_pwd: Napsauta tätä nollataksesi
+oauth_hint_title: Kirjaudu sisään toisella menetelmällä
+oauth_hint_tip: Tämä sähköposti on sidottu kolmannen osapuolen kirjautumiseen, jatka valitsemalla seuraava tapa
+oauth_google: Jatka Googlella
+oauth_apple: Jatka Applella
+oauth_wechat: Jatka WeChatin käyttöä
+oauth_github: Jatka GitHubin käyttöä
+oauth_microsoft: Jatka Microsoftilla
+more: Lisää
+err_format: Muotoiluvirhe

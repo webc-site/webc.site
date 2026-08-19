@@ -1,0 +1,60 @@
+mdContent: |
+  # Markdown presentationsdokument
+  Detta är en demonstration av Streaming Rendering.
+  ## Grundläggande stil
+  - **Fet** och *kursiv*
+  - ~~genomstrykning~~
+  - `inline_code` inline-kod
+  - [FN:s officiella webbplats](https://un.org) Länkdemonstration
+  ## Citat och listor
+  > Detta är ett citat på en rad.
+
+  > Detta är ett citat med flera rader.
+  > En visuell effekt för att visa referenser med flera rader.
+
+  - Obeställd första vara
+    - Oordnad delpost ett
+    - Oordnad delpost två
+  - Obeställd andra vara
+
+  > [!NOTE]
+  > `> [!NOTE]` Allmänna meddelanden och anteckningar
+
+  > [!TIP]
+  > `> [!TIP]` Tips och användbara tips
+
+  > [!IMPORTANT]
+  > `> [!IMPORTANT]` Viktiga tips och problem
+
+  > [!WARNING]
+  > `> [!WARNING]` Riskvarningar och anmärkningar
+
+  > [!CAUTION]
+  > `> [!CAUTION]` VARNING FÖR FARA OCH EXTREM RISK
+
+  ---
+
+  ## uppgiftslista
+  - [ ] Detta är en oavslutad streaminguppgift
+  - [x] Detta är en avslutad streaminguppgift
+  - [X] Detta är en avslutad streaminguppgift (stort X)
+
+  ---
+
+  1. Beställde första vara
+     1. Beställd artikel ett
+     2. Beställde underartikel två
+  2. Beställd andra termin
+  ## ark
+  | Uppgift | ange | schema |
+  | :--- | :---: | ---: |
+  | Uppgift ett | Avslutad | 100% |
+  | Uppgift 2 | pågår | 50% |
+  ## kodblock
+  ```js
+  const hello = () => {
+    console.log("Hello, WebC!");
+  };
+  ```
+  ## bild
+  ![Demobild](https://i-01.eu.org/demo-green.avif)

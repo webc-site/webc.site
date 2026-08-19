@@ -1,0 +1,10 @@
+t1: WebC v2.0 offiziell verëffentlecht: minimalistesch Komponentarchitektur fir de modernen Web
+s1: |-
+  No engem hallwe Joer Rekonstruktioun ass WebC v2.0 offiziell ukomm. Déi nei entworf **Light DOM** Architektur ass perfekt kombinéiert mat gebierteg `Custom Elements` fir oniwwertraff Leeschtungsverbesserungen ze bréngen.
+t2: Native CSS Nesting am-Déift Praxis a Performance Optimisatioun
+s2: |-
+  Haut, mat modernen Browser déi `CSS Nesting` voll ënnerstëtzen, vereinfacht d'Kombinatioun vu Preprocessor Nestingsniveauen an native Features d'Stil Ënnerhaltskäschte staark. Dësen Artikel entdeckt seng Haaptvirdeeler a bescht Praktiken.
+t3: D'Konstruktiounsphilosophie vun der Null-Ofhängegkeet UI Komponentbibliothéik
+s3: |-
+  Zréck op de Web-native Technologie Stack: Kee Besoin fir komplexe Bauleitungen a rieseg Ofhängegkeetsbeem, Dir kënnt High-Performance UIs mat nëmmen native JavaScript a Web Standards bauen.
+btn: Klickt hei fir ze liesen

@@ -1,0 +1,6 @@
+load: kargatzen
+tip: Goian erakusten den ordenan, egin klik beheko irudiko ikonoetan
+suc: Egiaztapena arrakastatsua da
+fail: Egiaztapenak huts egin du. Freskatu segundo bat igaro ondoren
+refresh: freskatu
+validImg: Egiaztapen-kodearen irudia

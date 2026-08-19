@@ -1,0 +1,29 @@
+mail: मेल
+phone: सेल फोन
+signin: लॉग इन करा
+signup: नोंदणी करा
+get_code: सत्यापन कोड मिळवा
+agree_prefix: लॉग इन करून तुम्ही सहमत आहात
+terms: वापरकर्ता करार
+code_mail_sent: वर पडताळणी कोड पाठवला आहे
+welcome: परत स्वागत आहे
+code_sent: वर पडताळणी कोड पाठवला आहे
+input_code: पुष्टीकरण कोड प्रविष्ट करा
+code: सत्यापन कोड
+name: स्क्रीनचे नाव
+pwd: पासवर्ड
+verify: सत्यापित करा
+no_code: सत्यापन कोड प्राप्त झाला नाही?
+resend: पुन्हा पोस्ट करण्यासाठी येथे क्लिक करा
+resend_cd: सेकंदांनंतर पुन्हा पाठवले जाऊ शकते
+forget_pwd: तुमचा पासवर्ड विसरलात?
+reset_pwd: रीसेट करण्यासाठी येथे क्लिक करा
+oauth_hint_title: दुसरी पद्धत वापरून लॉग इन करा
+oauth_hint_tip: हा ईमेल तृतीय-पक्ष लॉगिनसाठी बांधील आहे, कृपया सुरू ठेवण्यासाठी खालील पद्धत निवडा
+oauth_google: Google सह सुरू ठेवा
+oauth_apple: Apple सह सुरू ठेवा
+oauth_wechat: WeChat वापरणे सुरू ठेवा
+oauth_github: GitHub वापरणे सुरू ठेवा
+oauth_microsoft: Microsoft सह सुरू ठेवा
+more: अधिक
+err_format: स्वरूप त्रुटी

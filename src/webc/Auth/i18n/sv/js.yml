@@ -1,0 +1,29 @@
+mail: Post
+phone: mobiltelefon
+signin: Logga in
+signup: register
+get_code: Få verifieringskod
+agree_prefix: Genom att logga in godkänner du
+terms: Användaravtal
+code_mail_sent: Verifieringskod har skickats till
+welcome: välkommen tillbaka
+code_sent: Verifieringskod har skickats till
+input_code: ange bekräftelsekod
+code: Verifieringskod
+name: Skärmnamn
+pwd: lösenord
+verify: kontrollera
+no_code: Fick du inte verifieringskoden?
+resend: Klicka här för att lägga om
+resend_cd: Kan skickas om efter sekunder
+forget_pwd: Glömt ditt lösenord?
+reset_pwd: Klicka här för att återställa
+oauth_hint_title: Logga in med en annan metod
+oauth_hint_tip: Detta e-postmeddelande har kopplats till en tredjepartsinloggning, välj följande metod för att fortsätta
+oauth_google: Fortsätt med Google
+oauth_apple: Fortsätt med Apple
+oauth_wechat: Fortsätt använda WeChat
+oauth_github: Fortsätt använda GitHub
+oauth_microsoft: Fortsätt med Microsoft
+more: Mer
+err_format: Formateringsfel

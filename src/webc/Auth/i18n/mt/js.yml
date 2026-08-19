@@ -1,0 +1,29 @@
+mail: Posta
+phone: mowbajl
+signin: Idħol
+signup: jirreġistra
+get_code: Ikseb kodiċi ta 'verifika
+agree_prefix: Billi tidħol taqbel
+terms: Ftehim tal-Utent
+code_mail_sent: Kodiċi ta' verifika intbagħat lil
+welcome: merħba lura
+code_sent: Kodiċi ta' verifika intbagħat lil
+input_code: daħħal il-kodiċi ta' konferma
+code: Kodiċi ta' verifika
+name: Isem tal-iskrin
+pwd: password
+verify: jivverifika
+no_code: Ma rċevejtx il-kodiċi ta' verifika?
+resend: Ikklikkja hawn biex tirreposta
+resend_cd: Jista 'jiġi resent wara sekondi
+forget_pwd: Insejt il-password tiegħek?
+reset_pwd: Ikklikkja hawn biex tirrisettja
+oauth_hint_title: Idħol billi tuża metodu ieħor
+oauth_hint_tip: Din l-email ġiet marbuta ma' login ta' parti terza, jekk jogħġbok agħżel il-metodu li ġej biex tkompli
+oauth_google: Kompli bil-Google
+oauth_apple: Kompli bl-Apple
+oauth_wechat: Kompli uża WeChat
+oauth_github: Kompli uża GitHub
+oauth_microsoft: Kompli ma' Microsoft
+more: Aktar
+err_format: Żball tal-format

@@ -1,0 +1,4 @@
+default: 기본 버튼
+main: 메인 버튼
+link: 링크 버튼
+icon: 아이콘 버튼(.BtnC)

@@ -1,0 +1,29 @@
+mail: Correu
+phone: telèfon mòbil
+signin: Inicieu sessió
+signup: registrar-se
+get_code: Obteniu el codi de verificació
+agree_prefix: En iniciar sessió, acceptes
+terms: Acord d'usuari
+code_mail_sent: S'ha enviat el codi de verificació a
+welcome: benvingut de nou
+code_sent: S'ha enviat el codi de verificació a
+input_code: introduïu el codi de confirmació
+code: Codi de verificació
+name: Nom de pantalla
+pwd: contrasenya
+verify: verificar
+no_code: No heu rebut el codi de verificació?
+resend: Feu clic aquí per tornar a publicar
+resend_cd: Es pot reenviar després de segons
+forget_pwd: Has oblidat la teva contrasenya?
+reset_pwd: Feu clic aquí per restablir
+oauth_hint_title: Inicieu sessió amb un altre mètode
+oauth_hint_tip: Aquest correu electrònic s'ha vinculat a un inici de sessió de tercers. Escolliu el mètode següent per continuar
+oauth_google: Continueu amb Google
+oauth_apple: Continueu amb Apple
+oauth_wechat: Continueu utilitzant WeChat
+oauth_github: Continueu utilitzant GitHub
+oauth_microsoft: Continueu amb Microsoft
+more: Més
+err_format: Error de format

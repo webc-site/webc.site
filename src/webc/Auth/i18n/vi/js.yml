@@ -1,0 +1,29 @@
+mail: Thư
+phone: điện thoại di động
+signin: Đăng nhập
+signup: đăng ký
+get_code: Nhận mã xác minh
+agree_prefix: Bằng cách đăng nhập bạn đồng ý
+terms: Thỏa thuận người dùng
+code_mail_sent: Mã xác minh đã được gửi tới
+welcome: chào mừng trở lại
+code_sent: Mã xác minh đã được gửi tới
+input_code: nhập mã xác nhận
+code: Mã xác minh
+name: Tên màn hình
+pwd: mật khẩu
+verify: xác minh
+no_code: Không nhận được mã xác minh?
+resend: Bấm vào đây để đăng lại
+resend_cd: Có thể gửi lại sau vài giây
+forget_pwd: Bạn quên mật khẩu?
+reset_pwd: Nhấn vào đây để thiết lập lại
+oauth_hint_title: Đăng nhập bằng phương pháp khác
+oauth_hint_tip: Email này đã được liên kết với thông tin đăng nhập của bên thứ ba, vui lòng chọn phương pháp sau để tiếp tục
+oauth_google: Tiếp tục với Google
+oauth_apple: Tiếp tục với Apple
+oauth_wechat: Tiếp tục sử dụng WeChat
+oauth_github: Tiếp tục sử dụng GitHub
+oauth_microsoft: Tiếp tục với Microsoft
+more: Hơn
+err_format: Lỗi định dạng

@@ -1,0 +1,29 @@
+mail: Post
+phone: mobiltelefon
+signin: Log ind
+signup: register
+get_code: Få bekræftelseskode
+agree_prefix: Ved at logge ind accepterer du
+terms: Brugeraftale
+code_mail_sent: Bekræftelseskode er blevet sendt til
+welcome: velkommen tilbage
+code_sent: Bekræftelseskode er blevet sendt til
+input_code: indtast bekræftelseskoden
+code: Bekræftelseskode
+name: Skærmnavn
+pwd: adgangskode
+verify: verificere
+no_code: Modtog du ikke bekræftelseskoden?
+resend: Klik her for at genindsende
+resend_cd: Kan sendes igen efter sekunder
+forget_pwd: Har du glemt din adgangskode?
+reset_pwd: Klik her for at nulstille
+oauth_hint_title: Log ind med en anden metode
+oauth_hint_tip: Denne e-mail er blevet bundet til et tredjepartslogin, vælg venligst følgende metode for at fortsætte
+oauth_google: Fortsæt med Google
+oauth_apple: Fortsæt med Apple
+oauth_wechat: Fortsæt med at bruge WeChat
+oauth_github: Fortsæt med at bruge GitHub
+oauth_microsoft: Fortsæt med Microsoft
+more: Mere
+err_format: Formateringsfejl

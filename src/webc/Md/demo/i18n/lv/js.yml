@@ -1,0 +1,60 @@
+mdContent: |
+  # Markdown prezentācijas dokuments
+  Šī ir **statiskās renderēšanas** demonstrācija.
+  ## Pamatstils
+  - **Treknraksts** un *Slīpraksts*
+  - ~~pārsvītrots~~
+  - `inline_code` iekļautais kods
+  - [Apvienoto Nāciju Organizācijas oficiālā vietne](https://un.org) Saites demonstrācija
+  ## Citāti un saraksti
+  > Šis ir vienas rindiņas citāts.
+
+  > Šis ir daudzrindu citāts.
+  > Vizuāls efekts vairāku rindu atsauču parādīšanai.
+
+  - Nepasūtīta pirmā prece
+    - Nesakārtots pirmais apakšpunkts
+    - Nesakārtots otrais apakšpunkts
+  - Nepasūtīta otrā prece
+
+  > [!NOTE]
+  > `> [!NOTE]` Vispārīgi ziņojumi un piezīmes
+
+  > [!TIP]
+  > `> [!TIP]` Padomi un noderīgi padomi
+
+  > [!IMPORTANT]
+  > `> [!IMPORTANT]` Svarīgi padomi un bažas
+
+  > [!WARNING]
+  > `> [!WARNING]` Brīdinājumi un piezīmes par risku
+
+  > [!CAUTION]
+  > `> [!CAUTION]` BRĪDINĀJUMS PAR APDRAUDĒŠANU UN ĀRKĒRĒJĀ RISKA
+
+  ---
+
+  ## uzdevumu saraksts
+  - [ ] Šis ir nepabeigts uzdevumu saraksts
+  - [x] Šis ir pabeigts saraksta uzdevums
+  - [X] Šis ir pabeigts saraksta uzdevums (lielais burts X)
+
+  ---
+
+  1. Pasūtīta pirmā prece
+     1. Pasūtīta prece viena
+     2. Pasūtīts otrais apakšpunkts
+  2. Pasūtīts otrais termiņš
+  ## lapa
+  | projektu | valsts | rezultāts |
+  | :--- | :---: | ---: |
+  | statisks | Pabeigts | 100 |
+  | straumēšana | Renderēšana | 95 |
+  ## koda bloks
+  ```js
+  const hello = () => {
+    console.log("Hello, WebC!");
+  };
+  ```
+  ## attēlu
+  ![Demo bilde](https://i-01.eu.org/demo-green.avif)

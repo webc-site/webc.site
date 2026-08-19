@@ -1,0 +1,29 @@
+mail: Post
+phone: ffôn symudol
+signin: Mewngofnodi
+signup: cofrestr
+get_code: Cael cod dilysu
+agree_prefix: Trwy fewngofnodi rydych chi'n cytuno
+terms: Cytundeb Defnyddiwr
+code_mail_sent: Mae'r cod dilysu wedi'i anfon at
+welcome: croeso yn ôl
+code_sent: Mae'r cod dilysu wedi'i anfon at
+input_code: rhowch y cod cadarnhau
+code: Cod dilysu
+name: Enw sgrin
+pwd: cyfrinair
+verify: gwirio
+no_code: Heb dderbyn y cod dilysu?
+resend: Cliciwch yma i ail-bostio
+resend_cd: Gellir digio ar ôl eiliadau
+forget_pwd: Wedi anghofio eich cyfrinair?
+reset_pwd: Cliciwch yma i ailosod
+oauth_hint_title: Mewngofnodwch gan ddefnyddio dull arall
+oauth_hint_tip: Mae'r e-bost hwn wedi'i rwymo i fewngofnod trydydd parti, dewiswch y dull canlynol i barhau
+oauth_google: Parhau gyda Google
+oauth_apple: Parhewch ag Apple
+oauth_wechat: Parhewch i ddefnyddio WeChat
+oauth_github: Parhewch i ddefnyddio GitHub
+oauth_microsoft: Parhewch gyda Microsoft
+more: Mwy
+err_format: Gwall fformat

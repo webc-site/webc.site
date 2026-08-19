@@ -1,0 +1,46 @@
+open: Otvoriť bočný panel
+userName: Geek Walker
+userTitle: Senior web dizajnér
+statFollowers: Predplatiteľ
+statFollowing: zamerať sa na
+statProjects: projektu
+groupCore: Základné funkcie
+groupSystem: Správa systému
+groupData: analýza údajov
+groupCollaboration: Tímová práca
+widgetTitle: Využitie úložného priestoru
+widgetTasks: Moje úlohy
+task1: Kompletný bočný interaktívny vývoj
+task2: Dizajn Tekutá vizuálna estetika
+task3: Optimalizujte použiteľnosť komponentov a detaily
+navHome: Domovská stránka informačného panela
+navProfile: Osobné centrum
+navSettings: Systémové nastavenia
+navMessages: Novinky na stránke
+navNotifications: Pripomenutie upozornenia
+navPrivacy: Súkromie a bezpečnosť
+navHelp: Pomoc a spätná väzba
+navAnalytics: správa o analýze
+navCloud: Úložný priestor v cloude
+navTeam: člen tímu
+navTasks: Koordinácia úloh
+logout: Odhláste sa
+upgradeTitle: Aktualizovať na profesionálnu verziu
+upgradeDesc: Odomknite neobmedzené cloudové úložisko a pokročilú spoluprácu
+upgradeBtn: Inovujte teraz
+task4: Preskúmajte záväzky PR a zlúčte pobočky
+task5: Napíšte denník vydania novej verzie WebC
+widgetOnline: Členovia online tímu
+member1: Lisa
+member2: Dávid
+member3: Anna
+statusOnline: online
+statusOffline: Offline
+statusBusy: Zaneprázdnený
+widgetFiles: posledné súbory
+file1: Špecifikácia dizajnu produktu v2.4.pdf
+file2: Návrh plánu 3. štvrťroka 2026.docx
+file3: Ukážka komponentovej animácie.mp4
+tagDesign: dizajn
+tagDev: rozvíjať
+tagPm: produkt

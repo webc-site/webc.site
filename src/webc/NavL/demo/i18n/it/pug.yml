@@ -1,0 +1,7 @@
+desc: Determina e passa automaticamente alla visualizzazione del menu di navigazione o del pulsante Indietro in base al percorso corrente
+desktop_title: Visualizzazione del desktop
+desktop_desc: Quando ci si trova nel percorso del menu dichiarato, vengono visualizzati i riquadri delle voci del menu; altrimenti visualizzare il pulsante Indietro
+mobile_title: Visualizzazione mobile
+mobile_desc: Quando si trova nel percorso del menu dichiarato, si comprime in un pulsante icona e supporta lo scorrimento del menu; altrimenti visualizza un pulsante Indietro
+normal_state: Stato della navigazione (c-nav-menu)
+back_state: Stato di fallback (c-back)

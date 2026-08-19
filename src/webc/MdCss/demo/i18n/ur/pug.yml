@@ -1,0 +1,38 @@
+basicTitle: بنیادی انداز
+bold: بولڈ
+italic: ترچھا
+del: ہڑتال
+inlineCode: ان لائن کوڈ
+linkPrefix: لنک سے پہلے اور بعد میں متن ہے، جیسے
+link: اقوام متحدہ کی سرکاری ویب سائٹ
+linkSuffix: ایک لنک ہے.
+quoteSingle: یہ ایک سطری اقتباس ہے۔
+quoteMultiLine1: یہ ایک کثیر سطری اقتباس ہے۔
+quoteMultiLine2: ملٹی لائن حوالہ جات کو ظاہر کرنے کے لیے ایک بصری اثر۔
+note: عام پیغامات اور نوٹ
+tip: تجاویز اور مفید مشورے۔
+important: اہم نکات اور خدشات
+warning: خطرے سے متعلق انتباہات اور احتیاطی تدابیر
+caution: خطرہ اور انتہائی خطرے کی وارننگ
+listTitle: اقتباسات اور فہرستیں۔
+taskTitle: کام کی فہرست
+todoItem: یہ ایک نامکمل CSS کام ہے۔
+doneItem: یہ ایک مکمل سی ایس ایس ٹاسک ہے۔
+ulItem1: غیر ترتیب شدہ پہلی چیز
+ulSubItem1: غیر ترتیب شدہ سب آئٹم ایک
+ulSubItem2: غیر ترتیب شدہ سب آئٹم دو
+ulItem2: غیر ترتیب شدہ دوسری آئٹم
+olItem1: پہلی چیز کا آرڈر دیا گیا۔
+olSubItem1: آرڈر شدہ آئٹم ایک
+olSubItem2: حکم دیا subitem دو
+olItem2: دوسری مدت کا حکم دیا۔
+tableTitle: شیٹ
+col1: پروجیکٹ
+col2: ریاست
+col3: سکور
+row1Col1: جامد
+row1Col2: مکمل
+row2Col1: سلسلہ بندی
+row2Col2: رینڈرنگ
+codeTitle: کوڈ بلاک
+imageTitle: تصویر

@@ -1,0 +1,38 @@
+basicTitle: بنيادي انداز
+bold: بزدل
+italic: اطالوي
+del: هڙتال
+inlineCode: ان لائن ڪوڊ
+linkPrefix: لنڪ کان اڳ ۽ بعد ۾ متن آهي، جهڙوڪ
+link: گڏيل قومن جي سرڪاري ويب سائيٽ
+linkSuffix: هڪ لنڪ آهي.
+quoteSingle: هي هڪ واحد اقتباس آهي.
+quoteMultiLine1: هي هڪ ملٽي لائن اقتباس آهي.
+quoteMultiLine2: ملٽي لائن حوالن کي ڏيکارڻ لاءِ هڪ بصري اثر.
+note: عام پيغام ۽ نوٽس
+tip: صلاحون ۽ مفيد مشورا
+important: اهم صلاحون ۽ خدشا
+warning: خطري جي ڊيڄاريندڙ ۽ احتياط
+caution: خطري ۽ انتهائي خطري وارننگ
+listTitle: اقتباس ۽ فهرست
+taskTitle: ڪم جي فهرست
+todoItem: هي هڪ نامڪمل CSS ڪم آهي
+doneItem: هي هڪ مڪمل CSS ڪم آهي
+ulItem1: غير ترتيب ڏنل پهرين شيء
+ulSubItem1: اڻ ترتيب ڏنل ذيلي شيون
+ulSubItem2: غير ترتيب ڏنل ذيلي شيون ٻه
+ulItem2: غير ترتيب ڏنل ٻي شيء
+olItem1: پهرين شيء جو حڪم ڏنو
+olSubItem1: آرڊر ٿيل شيون هڪ
+olSubItem2: ترتيب ڏنل ذيلي شيون ٻه
+olItem2: ٻي مدت جو حڪم ڏنو
+tableTitle: چادر
+col1: پروجيڪٽ
+col2: رياست
+col3: اسڪور
+row1Col1: جامد
+row1Col2: مڪمل ٿيو
+row2Col1: اسٽريمنگ
+row2Col2: رنڊڪ
+codeTitle: ڪوڊ بلاڪ
+imageTitle: تصوير

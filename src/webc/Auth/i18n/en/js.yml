@@ -1,0 +1,29 @@
+mail: Mail
+phone: Cell Phone
+signin: SignIn
+signup: SignUp
+get_code: Get verification code
+agree_prefix: By logging in you agree
+terms: User Agreement
+code_mail_sent: Verification code has been sent to
+welcome: Welcome Back
+code_sent: Verification code has been sent to
+input_code: Enter Confirmation Code
+code: Verification code
+name: Screen name
+pwd: Password
+verify: Verify
+no_code: Didn't receive the verification code?
+resend: Click here to repost
+resend_cd: Can be resent after seconds
+forget_pwd: Forgot your password?
+reset_pwd: Click here to reset
+oauth_hint_title: Log in using another method
+oauth_hint_tip: This email has been bound to a third-party login, please choose the following method to continue
+oauth_google: Continue with Google
+oauth_apple: Continue with Apple
+oauth_wechat: Continue using WeChat
+oauth_github: Continue using GitHub
+oauth_microsoft: Continue with Microsoft
+more: More
+err_format: format error

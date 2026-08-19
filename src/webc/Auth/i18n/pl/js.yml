@@ -1,0 +1,29 @@
+mail: Poczta
+phone: telefon komórkowy
+signin: Zaloguj się
+signup: rejestr
+get_code: Uzyskaj kod weryfikacyjny
+agree_prefix: Logując się wyrażasz zgodę
+terms: Umowa użytkownika
+code_mail_sent: Kod weryfikacyjny został wysłany do
+welcome: witaj ponownie
+code_sent: Kod weryfikacyjny został wysłany do
+input_code: wprowadź kod potwierdzający
+code: Kod weryfikacyjny
+name: Nazwa ekranu
+pwd: hasło
+verify: zweryfikować
+no_code: Nie otrzymałeś kodu weryfikacyjnego?
+resend: Kliknij tutaj, aby opublikować ponownie
+resend_cd: Można wysłać ponownie po kilku sekundach
+forget_pwd: Zapomniałeś hasła?
+reset_pwd: Kliknij tutaj, aby zresetować
+oauth_hint_title: Zaloguj się inną metodą
+oauth_hint_tip: Ten e-mail został powiązany z loginem strony trzeciej. Aby kontynuować, wybierz następującą metodę
+oauth_google: Kontynuuj z Google
+oauth_apple: Kontynuuj z Apple
+oauth_wechat: Kontynuuj korzystanie z WeChat
+oauth_github: Kontynuuj korzystanie z GitHuba
+oauth_microsoft: Kontynuuj współpracę z Microsoftem
+more: Więcej
+err_format: Błąd formatu

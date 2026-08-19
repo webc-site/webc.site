@@ -1,0 +1,1 @@
+# Používajte komponenty

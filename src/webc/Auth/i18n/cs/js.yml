@@ -1,0 +1,29 @@
+mail: Mail
+phone: mobilní telefon
+signin: Přihlaste se
+signup: rejstřík
+get_code: Získejte ověřovací kód
+agree_prefix: Přihlášením souhlasíte
+terms: Uživatelská smlouva
+code_mail_sent: Ověřovací kód byl odeslán na adresu
+welcome: vítej zpět
+code_sent: Ověřovací kód byl odeslán na adresu
+input_code: zadejte potvrzovací kód
+code: Ověřovací kód
+name: Název obrazovky
+pwd: heslo
+verify: ověřit
+no_code: Neobdrželi jste ověřovací kód?
+resend: Kliknutím sem přepošlete příspěvek
+resend_cd: Po sekundách lze odeslat znovu
+forget_pwd: Zapomněli jste heslo?
+reset_pwd: Klikněte zde pro resetování
+oauth_hint_title: Přihlaste se jiným způsobem
+oauth_hint_tip: Tento e-mail byl vázán na přihlášení třetí strany. Pokračujte prosím výběrem následující metody
+oauth_google: Pokračujte s Googlem
+oauth_apple: Pokračujte s Apple
+oauth_wechat: Pokračujte v používání WeChat
+oauth_github: Pokračujte v používání GitHubu
+oauth_microsoft: Pokračujte s Microsoftem
+more: Více
+err_format: Chyba formátu

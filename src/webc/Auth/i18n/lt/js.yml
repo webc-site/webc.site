@@ -1,0 +1,29 @@
+mail: paštas
+phone: mobilusis telefonas
+signin: Prisijunkite
+signup: užsiregistruoti
+get_code: Gaukite patvirtinimo kodą
+agree_prefix: Prisijungdami sutinkate
+terms: Vartotojo sutartis
+code_mail_sent: Patvirtinimo kodas išsiųstas
+welcome: sveiki sugrįžę
+code_sent: Patvirtinimo kodas išsiųstas
+input_code: įveskite patvirtinimo kodą
+code: Patvirtinimo kodas
+name: Ekrano pavadinimas
+pwd: slaptažodis
+verify: patikrinti
+no_code: Negavote patvirtinimo kodo?
+resend: Spustelėkite čia, jei norite pakartotinai paskelbti
+resend_cd: Po kelių sekundžių galima išsiųsti dar kartą
+forget_pwd: Pamiršote slaptažodį?
+reset_pwd: Spustelėkite čia, kad nustatytumėte iš naujo
+oauth_hint_title: Prisijunkite naudodami kitą būdą
+oauth_hint_tip: Šis el. laiškas buvo susietas su trečiosios šalies prisijungimu. Jei norite tęsti, pasirinkite šį metodą
+oauth_google: Tęskite su Google
+oauth_apple: Tęskite su Apple
+oauth_wechat: Toliau naudokitės „WeChat“.
+oauth_github: Toliau naudokite „GitHub“.
+oauth_microsoft: Tęskite su „Microsoft“.
+more: Daugiau
+err_format: Formato klaida

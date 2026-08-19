@@ -1,0 +1,10 @@
+t1: WebC v2.0 offiziell veröffentlicht: minimalistische Komponentenarchitektur für das moderne Web
+s1: |-
+  Nach einem halben Jahr der Rekonstruktion ist WebC v2.0 offiziell angekommen. Die neu gestaltete **Light DOM**-Architektur wird perfekt mit nativem `Custom Elements` kombiniert, um beispiellose Leistungsverbesserungen zu erzielen.
+t2: Ausführliche Praxis und Leistungsoptimierung für natives CSS-Nesting
+s2: |-
+  Heutzutage, da moderne Browser `CSS Nesting` vollständig unterstützen, vereinfacht die Kombination aus Präprozessor-Verschachtelungsebenen und nativen Funktionen die Kosten für die Stilpflege erheblich. In diesem Artikel werden die wichtigsten Vorteile und Best Practices erläutert.
+t3: Die Konstruktionsphilosophie einer UI-Komponentenbibliothek ohne Abhängigkeiten
+s3: |-
+  Kehren Sie zum webnativen Technologie-Stack zurück: Es sind keine komplexen Build-Pipelines und riesigen Abhängigkeitsbäume erforderlich. Sie können leistungsstarke Benutzeroberflächen nur mit nativem JavaScript und Webstandards erstellen.
+btn: Klicken Sie hier, um zu lesen

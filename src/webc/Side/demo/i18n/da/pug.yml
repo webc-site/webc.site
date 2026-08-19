@@ -1,0 +1,46 @@
+open: Åbn sidepanelet
+userName: Nørd Walker
+userTitle: Senior webdesigner
+statFollowers: Abonnent
+statFollowing: fokus på
+statProjects: projekt
+groupCore: Kernefunktioner
+groupSystem: Systemstyring
+groupData: dataanalyse
+groupCollaboration: Samarbejde
+widgetTitle: Brug af lagerplads
+widgetTasks: Mine to-do opgaver
+task1: Komplet Side interaktiv udvikling
+task2: Design Flydende visuel æstetik
+task3: Optimer komponentbrugbarhed og detaljer
+navHome: Dashboard Hjemmeside
+navProfile: Personligt center
+navSettings: Systemindstillinger
+navMessages: Site nyheder
+navNotifications: Notifikationspåmindelse
+navPrivacy: Privatliv og sikkerhed
+navHelp: Hjælp og feedback
+navAnalytics: analyserapport
+navCloud: Cloud lagerplads
+navTeam: teammedlem
+navTasks: Opgavekoordinering
+logout: Log ud
+upgradeTitle: Opgrader til Professional Edition
+upgradeDesc: Lås op for ubegrænset lagerplads i skyen og avanceret samarbejde
+upgradeBtn: Opgrader nu
+task4: Gennemgå PR-forpligtelser og flet filialer
+task5: Skriv en ny versionsudgivelseslog af WebC
+widgetOnline: Online teammedlemmer
+member1: Lisa
+member2: david
+member3: Anna
+statusOnline: online
+statusOffline: Offline
+statusBusy: Optaget
+widgetFiles: seneste filer
+file1: Produktdesignspecifikation v2.4.pdf
+file2: 2026 Q3 Udkast til Plan.docx
+file3: Komponent animation demonstration.mp4
+tagDesign: design
+tagDev: udvikle
+tagPm: produkt

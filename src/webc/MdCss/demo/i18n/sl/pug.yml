@@ -1,0 +1,38 @@
+basicTitle: Osnovni slog
+bold: Krepko
+italic: poševno
+del: prečrtano
+inlineCode: vgrajena koda
+linkPrefix: Pred in za povezavo je besedilo, kot npr
+link: Uradna spletna stran Združenih narodov
+linkSuffix: je povezava.
+quoteSingle: To je enovrstični citat.
+quoteMultiLine1: To je večvrstični citat.
+quoteMultiLine2: Vizualni učinek za prikaz večvrstičnih referenc.
+note: Splošna sporočila in opombe
+tip: Nasveti in koristni nasveti
+important: Pomembni nasveti in pomisleki
+warning: Opozorila glede tveganja in previdnostni ukrepi
+caution: OPOZORILO NA NEVARNOST IN IZREDNO TVEGANJE
+listTitle: Citati in seznami
+taskTitle: seznam opravil
+todoItem: To je nedokončana naloga CSS
+doneItem: To je dokončana naloga CSS
+ulItem1: Neurejen prvi artikel
+ulSubItem1: Neurejen podpostavka ena
+ulSubItem2: Neurejen podtočka dva
+ulItem2: Nenaročen drugi predmet
+olItem1: Naročen prvi artikel
+olSubItem1: Naročen artikel ena
+olSubItem2: Naročena podtočka dva
+olItem2: Naročen drugi termin
+tableTitle: list
+col1: projekt
+col2: stanje
+col3: rezultat
+row1Col1: statična
+row1Col2: Dokončano
+row2Col1: pretakanje
+row2Col2: Upodabljanje
+codeTitle: kodni blok
+imageTitle: slika

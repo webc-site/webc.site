@@ -1,0 +1,29 @@
+mail: Mel
+phone: telefon bimbit
+signin: Log masuk
+signup: mendaftar
+get_code: Dapatkan kod pengesahan
+agree_prefix: Dengan log masuk anda bersetuju
+terms: Perjanjian Pengguna
+code_mail_sent: Kod pengesahan telah dihantar ke
+welcome: selamat kembali
+code_sent: Kod pengesahan telah dihantar ke
+input_code: masukkan kod pengesahan
+code: Kod pengesahan
+name: Nama skrin
+pwd: kata laluan
+verify: mengesahkan
+no_code: Tidak menerima kod pengesahan?
+resend: Klik di sini untuk menyiarkan semula
+resend_cd: Boleh marah selepas beberapa saat
+forget_pwd: Terlupa kata laluan anda?
+reset_pwd: Klik di sini untuk menetapkan semula
+oauth_hint_title: Log masuk menggunakan kaedah lain
+oauth_hint_tip: E-mel ini telah terikat dengan log masuk pihak ketiga, sila pilih kaedah berikut untuk meneruskan
+oauth_google: Teruskan dengan Google
+oauth_apple: Teruskan dengan Apple
+oauth_wechat: Teruskan menggunakan WeChat
+oauth_github: Teruskan menggunakan GitHub
+oauth_microsoft: Teruskan dengan Microsoft
+more: Lagi
+err_format: Ralat format

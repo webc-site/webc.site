@@ -1,0 +1,1 @@
+# Komponentlardan foydalaning

@@ -1,0 +1,9 @@
+language: Sprache
+os: System
+about: um
+jsInfo: JavaScript ist eine Skriptsprache, die häufig in der clientseitigen Webentwicklung verwendet wird.
+rsInfo: Rust ist eine Systemprogrammiersprache, die sich auf Sicherheit, Geschwindigkeit und Parallelität konzentriert.
+pyInfo: Python ist eine objektorientierte, interpretierte Computerprogrammiersprache.
+macInfo: macOS ist ein von Apple entwickeltes Unix-basiertes grafisches Betriebssystem.
+winInfo: Windows ist ein weit verbreitetes PC-Betriebssystem, das von der Microsoft Corporation entwickelt wurde.
+aboutInfo: Wir engagieren uns für die Entwicklung hochwertiger Open-Source-Frontend-Komponenten und Sie sind herzlich willkommen, daran teilzunehmen.

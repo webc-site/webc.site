@@ -1,0 +1,29 @@
+mail: ٽپال
+phone: سيل فون
+signin: لاگ ان
+signup: رجسٽر
+get_code: تصديقي ڪوڊ حاصل ڪريو
+agree_prefix: لاگ ان ٿيڻ سان توهان متفق آهيو
+terms: استعمال ڪندڙ جو معاهدو
+code_mail_sent: تصديقي ڪوڊ موڪليو ويو آهي
+welcome: واپس ڀلي ڪري آيا
+code_sent: تصديقي ڪوڊ موڪليو ويو آهي
+input_code: تصديقي ڪوڊ داخل ڪريو
+code: تصديق ڪوڊ
+name: اسڪرين نالو
+pwd: پاسورڊ
+verify: تصديق ڪرڻ
+no_code: تصديقي ڪوڊ حاصل نه ڪيو؟
+resend: ٻيهر پوسٽ ڪرڻ لاءِ هتي ڪلڪ ڪريو
+resend_cd: سيڪنڊن کان پوءِ موڪلي سگھجي ٿو
+forget_pwd: پنهنجو پاسورڊ وساري ويٺا؟
+reset_pwd: ريٽ ڪرڻ لاءِ هتي ڪلڪ ڪريو
+oauth_hint_title: ٻيو طريقو استعمال ڪندي لاگ ان ڪريو
+oauth_hint_tip: هي اي ميل ٽئين پارٽي جي لاگ ان تي پابند آهي، مهرباني ڪري هيٺ ڏنل طريقو چونڊيو جاري رکڻ لاءِ
+oauth_google: گوگل سان جاري رکو
+oauth_apple: ايپل سان جاري رکو
+oauth_wechat: WeChat استعمال ڪرڻ جاري رکو
+oauth_github: GitHub استعمال ڪرڻ جاري رکو
+oauth_microsoft: Microsoft سان جاري رکو
+more: وڌيڪ
+err_format: فارميٽ جي غلطي

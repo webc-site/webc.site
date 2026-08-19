@@ -1,0 +1,7 @@
+desc: Penderfynwch yn awtomatig a newidiwch i ddangos y ddewislen llywio neu'r botwm yn ôl yn seiliedig ar y llwybr presennol
+desktop_title: Arddangosfa bwrdd gwaith
+desktop_desc: Pan fyddwch yn y llwybr dewislen datganedig, arddangoswch y teils eitemau bwydlen; fel arall dangoswch y botwm cefn
+mobile_title: Arddangosfa symudol
+mobile_desc: Pan yn y llwybr dewislen datganedig, yn cwympo i mewn i botwm eicon ac yn cefnogi llithro allan y ddewislen; fel arall yn dangos botwm cefn
+normal_state: Statws llywio (c-nav-menu)
+back_state: Statws wrth gefn (c-back)

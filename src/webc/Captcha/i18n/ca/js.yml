@@ -1,0 +1,6 @@
+load: carregant
+tip: En l'ordre que es mostra a dalt, feu clic a les icones de la imatge següent
+suc: Verificació correcta
+fail: La verificació ha fallat, s'actualitza al cap d'un segon
+refresh: refrescar
+validImg: Imatge del codi de verificació

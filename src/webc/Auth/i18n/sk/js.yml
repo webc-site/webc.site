@@ -1,0 +1,29 @@
+mail: Mail
+phone: mobilný telefón
+signin: Prihláste sa
+signup: registrovať
+get_code: Získajte overovací kód
+agree_prefix: Prihlásením súhlasíte
+terms: Používateľská zmluva
+code_mail_sent: Overovací kód bol odoslaný na adresu
+welcome: vitaj späť
+code_sent: Overovací kód bol odoslaný na adresu
+input_code: zadajte potvrdzovací kód
+code: Overovací kód
+name: Názov obrazovky
+pwd: heslo
+verify: overiť
+no_code: Nedostali ste overovací kód?
+resend: Kliknutím sem znova uverejníte
+resend_cd: Dá sa znova odoslať po sekundách
+forget_pwd: Zabudli ste heslo?
+reset_pwd: Kliknutím sem resetujete
+oauth_hint_title: Prihláste sa iným spôsobom
+oauth_hint_tip: Tento e-mail bol viazaný na prihlasovacie meno tretej strany. Ak chcete pokračovať, vyberte nasledujúci spôsob
+oauth_google: Pokračujte v službe Google
+oauth_apple: Pokračujte s Apple
+oauth_wechat: Pokračujte v používaní služby WeChat
+oauth_github: Pokračujte v používaní GitHub
+oauth_microsoft: Pokračujte so spoločnosťou Microsoft
+more: Viac
+err_format: Chyba formátu

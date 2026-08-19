@@ -1,0 +1,29 @@
+mail: Barua
+phone: simu ya mkononi
+signin: Ingia
+signup: kujiandikisha
+get_code: Pata nambari ya kuthibitisha
+agree_prefix: Kwa kuingia unakubali
+terms: Mkataba wa Mtumiaji
+code_mail_sent: Nambari ya kuthibitisha imetumwa kwa
+welcome: karibu tena
+code_sent: Nambari ya kuthibitisha imetumwa kwa
+input_code: ingiza msimbo wa uthibitishaji
+code: Msimbo wa uthibitishaji
+name: Jina la skrini
+pwd: nenosiri
+verify: thibitisha
+no_code: Hukupokea nambari ya kuthibitisha?
+resend: Bofya hapa ili kuchapisha upya
+resend_cd: Inaweza kurejeshwa baada ya sekunde
+forget_pwd: Je, umesahau nenosiri lako?
+reset_pwd: Bofya hapa ili kuweka upya
+oauth_hint_title: Ingia kwa kutumia njia nyingine
+oauth_hint_tip: Barua pepe hii imeunganishwa na kuingia kwa wahusika wengine, tafadhali chagua njia ifuatayo ili kuendelea
+oauth_google: Endelea na Google
+oauth_apple: Endelea na Apple
+oauth_wechat: Endelea kutumia WeChat
+oauth_github: Endelea kutumia GitHub
+oauth_microsoft: Endelea na Microsoft
+more: Zaidi
+err_format: Hitilafu ya umbizo

@@ -1,0 +1,9 @@
+language: jezik
+os: sistem
+about: o
+jsInfo: JavaScript je skriptni jezik koji se široko koristi u web razvoju na strani klijenta.
+rsInfo: Rust je sistemski programski jezik fokusiran na sigurnost, brzinu i konkurentnost.
+pyInfo: Python je objektno orijentisan, interpretiran kompjuterski programski jezik.
+macInfo: macOS je grafički operativni sistem baziran na Unixu koji je razvio Apple.
+winInfo: Windows je široko korišćen operativni sistem za personalne računare koji je razvio Microsoft Corporation.
+aboutInfo: Posvećeni smo razvoju visokokvalitetnih front-end komponenti otvorenog koda, a vi ste dobrodošli da učestvujete.

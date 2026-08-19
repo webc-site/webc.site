@@ -1,0 +1,29 @@
+mail: 邮箱
+phone: 手机
+signin: 登录
+signup: 注册
+get_code: 获取验证码
+agree_prefix: 登录即代表您同意
+terms: 用户协议
+code_mail_sent: 验证码已发送至
+welcome: 欢迎回来
+code_sent: 验证码已发送至
+input_code: 输入验证码
+code: 验证码
+name: 网名
+pwd: 密码
+verify: 验证
+no_code: 没收到验证码？
+resend: 点此重发
+resend_cd: 秒后可重发
+forget_pwd: 忘记密码了？
+reset_pwd: 点此重置
+oauth_hint_title: 换个方式登录
+oauth_hint_tip: 此邮箱已绑定第三方登录，请选择以下方式继续
+oauth_google: 使用 Google 继续
+oauth_apple: 使用 Apple 继续
+oauth_wechat: 使用 WeChat 继续
+oauth_github: 使用 GitHub 继续
+oauth_microsoft: 使用 Microsoft 继续
+more: 更多
+err_format: 格式错误

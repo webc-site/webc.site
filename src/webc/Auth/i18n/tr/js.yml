@@ -1,0 +1,29 @@
+mail: Posta
+phone: cep telefonu
+signin: Giriş yapmak
+signup: kayıt olmak
+get_code: Doğrulama kodunu alın
+agree_prefix: Giriş yaparak kabul etmiş oluyorsunuz
+terms: Kullanıcı Sözleşmesi
+code_mail_sent: Doğrulama kodu şu adrese gönderildi:
+welcome: tekrar hoşgeldiniz
+code_sent: Doğrulama kodu şu adrese gönderildi:
+input_code: onay kodunu girin
+code: Doğrulama kodu
+name: Ekran Adı
+pwd: şifre
+verify: doğrulamak
+no_code: Doğrulama kodunu almadınız mı?
+resend: Yeniden yayınlamak için burayı tıklayın
+resend_cd: Saniyeler sonra tekrar gönderilebilir
+forget_pwd: Şifrenizi mi unuttunuz?
+reset_pwd: Sıfırlamak için burayı tıklayın
+oauth_hint_title: Başka bir yöntem kullanarak giriş yapın
+oauth_hint_tip: Bu e-posta üçüncü taraf giriş bilgilerine bağlandı. Devam etmek için lütfen aşağıdaki yöntemi seçin
+oauth_google: Google ile devam et
+oauth_apple: Apple'la devam et
+oauth_wechat: WeChat'i kullanmaya devam edin
+oauth_github: GitHub'u kullanmaya devam edin
+oauth_microsoft: Microsoft'la devam edin
+more: Daha
+err_format: Biçim hatası

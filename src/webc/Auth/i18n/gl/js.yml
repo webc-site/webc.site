@@ -1,0 +1,29 @@
+mail: Correo
+phone: teléfono móbil
+signin: Iniciar sesión
+signup: rexistrarse
+get_code: Obter código de verificación
+agree_prefix: Ao iniciar sesión estás de acordo
+terms: Acordo de usuario
+code_mail_sent: Enviouse o código de verificación a
+welcome: benvido de novo
+code_sent: Enviouse o código de verificación a
+input_code: introduza o código de confirmación
+code: Código de verificación
+name: Nome de pantalla
+pwd: contrasinal
+verify: verificar
+no_code: Non recibiches o código de verificación?
+resend: Fai clic aquí para volver a publicar
+resend_cd: Pódese reenviar despois de segundos
+forget_pwd: Esqueceches o teu contrasinal?
+reset_pwd: Fai clic aquí para restablecer
+oauth_hint_title: Inicia sesión usando outro método
+oauth_hint_tip: Este correo electrónico está vinculado a un inicio de sesión de terceiros, escolla o seguinte método para continuar
+oauth_google: Continúa con Google
+oauth_apple: Continúa con Apple
+oauth_wechat: Continúa usando WeChat
+oauth_github: Continúa usando GitHub
+oauth_microsoft: Continúa con Microsoft
+more: Máis
+err_format: Erro de formato

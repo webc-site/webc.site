@@ -1,0 +1,29 @@
+mail: 信箱
+phone: 智慧型手機
+signin: 登入
+signup: 註冊
+get_code: 取得驗證碼
+agree_prefix: 登入即代表您同意
+terms: 使用者協定
+code_mail_sent: 驗證碼已發送至
+welcome: 歡迎回來
+code_sent: 驗證碼已發送至
+input_code: 輸入驗證碼
+code: 驗證碼
+name: 網名
+pwd: 密碼
+verify: 驗證
+no_code: 沒收到驗證碼？
+resend: 點此重發
+resend_cd: 秒後可重發
+forget_pwd: 忘記密碼了？
+reset_pwd: 點此重置
+oauth_hint_title: 換個方式登入
+oauth_hint_tip: 此郵箱已綁定第三方登錄，請選擇以下方式繼續
+oauth_google: 使用 Google 繼續
+oauth_apple: 使用 Apple 繼續
+oauth_wechat: 使用 WeChat 繼續
+oauth_github: 使用 GitHub 繼續
+oauth_microsoft: 使用 Microsoft 繼續
+more: 更多
+err_format: 格式錯誤

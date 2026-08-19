@@ -1,0 +1,7 @@
+desc: Automatiškai nustatykite ir perjunkite, kad būtų rodomas navigacijos meniu arba mygtukas atgal pagal dabartinį maršrutą
+desktop_title: Darbalaukio ekranas
+desktop_desc: Patekę į deklaruotą meniu maršrutą, rodyti meniu punktų plyteles; kitu atveju parodykite atgal mygtuką
+mobile_title: Mobilusis ekranas
+mobile_desc: Kai nurodytas meniu maršrutas, susitraukia į piktogramos mygtuką ir palaiko meniu išstumimą; kitu atveju rodomas grįžimo mygtukas
+normal_state: Navigacijos būsena (c-nav-menu)
+back_state: Atsarginė būsena (c-back)

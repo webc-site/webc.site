@@ -1,0 +1,5 @@
+desc: Les liens sont affichés en mosaïque sur le bureau et repliés en boutons d'icônes sur le mobile
+desktop_title: Bureau
+desktop_desc: Affichage des tuiles
+mobile_title: Terminal mobile
+mobile_desc: Réduire en bouton icône, cliquez pour faire glisser le menu latéral

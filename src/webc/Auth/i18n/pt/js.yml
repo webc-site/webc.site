@@ -1,0 +1,29 @@
+mail: Correspondência
+phone: telefone celular
+signin: Conecte-se
+signup: registrar
+get_code: Obtenha o código de verificação
+agree_prefix: Ao fazer login você concorda
+terms: Contrato do usuário
+code_mail_sent: O código de verificação foi enviado para
+welcome: bem vindo de volta
+code_sent: O código de verificação foi enviado para
+input_code: introduza o código de confirmação
+code: Código de verificação
+name: Nome de Tela
+pwd: senha
+verify: verificar
+no_code: Não recebeu o código de verificação?
+resend: Clique aqui para repassar
+resend_cd: Pode ser reenviado após segundos
+forget_pwd: Esqueceu sua senha?
+reset_pwd: Clique aqui para redefinir
+oauth_hint_title: Faça login usando outro método
+oauth_hint_tip: Este e-mail foi vinculado a um login de terceiros. Escolha o método a seguir para continuar
+oauth_google: Continuar com o Google
+oauth_apple: Continuar com a Apple
+oauth_wechat: Continue usando o WeChat
+oauth_github: Continue usando o GitHub
+oauth_microsoft: Continuar com a Microsoft
+more: Mais
+err_format: Erro de formato

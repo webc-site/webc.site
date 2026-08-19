@@ -1,0 +1,29 @@
+mail: Mail
+phone: Handy
+signin: Mellt Iech un
+signup: aschreiwen
+get_code: Kritt Verifikatiounscode
+agree_prefix: Andeems Dir Iech aloggen averstanen
+terms: Benotzer Accord
+code_mail_sent: Verifikatiounscode gouf geschéckt
+welcome: Wëllkomm zréck
+code_sent: Verifikatiounscode gouf geschéckt
+input_code: gitt Confirmatiouns Code
+code: Verifikatiounscode
+name: Écran Numm
+pwd: Passwuert
+verify: z'iwwerpréiwen
+no_code: Huet de Verifizéierungscode net kritt?
+resend: Klickt hei fir nei ze posten
+resend_cd: Kann no Sekonnen resent ginn
+forget_pwd: passwuert vergiess?
+reset_pwd: Klickt hei fir zréckzesetzen
+oauth_hint_title: Aloggen mat enger anerer Method
+oauth_hint_tip: Dës E-Mail gouf un en Drëtt-Partei-Login gebonnen, wielt w.e.g. déi folgend Method fir weiderzemaachen
+oauth_google: Fuert weider mat Google
+oauth_apple: Weider mat Apple
+oauth_wechat: Fuert weider WeChat ze benotzen
+oauth_github: Fuert weider GitHub ze benotzen
+oauth_microsoft: Fuert weider mat Microsoft
+more: Méi
+err_format: Format Feeler

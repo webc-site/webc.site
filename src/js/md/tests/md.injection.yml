@@ -1,0 +1,66 @@
+- id: 30001
+  md: |
+    [xss](javascript:alert(1))
+  htm: |
+    <p><a href="javascript:alert(1)">xss</a></p>
+  desc: sanitize_javascript_simple
+- id: 30002
+  md: |
+    [xss](java&#10;script:alert(1))
+  htm: |
+    <p><a href="java script:alert(1)">xss</a></p>
+  desc: sanitize_javascript_html_entity_newline
+- id: 30003
+  md: |
+    [xss](data:text/html,xss)
+  htm: |
+    <p><a href="data:text/html,xss">xss</a></p>
+  desc: sanitize_data_protocol
+- id: 30004
+  md: |
+    [xss](vbscript:alert(1))
+  htm: |
+    <p><a href="vbscript:alert(1)">xss</a></p>
+  desc: sanitize_vbscript_protocol
+- id: 30005
+  md: |
+    [xss](中文协议:alert(1))
+  htm: |
+    <p><a href="%E4%B8%AD%E6%96%87%E5%8D%8F%E8%AE%AE:alert(1)">xss</a></p>
+  desc: sanitize_non_ascii_scheme
+- id: 30006
+  md: |
+    [google](https://google.com)
+  htm: |
+    <p><a href="https://google.com">google</a></p>
+  desc: normal_http_link
+- id: 30007
+  md: |
+    [local](localhost:8080/index.html)
+  htm: |
+    <p><a href="localhost:8080/index.html">local</a></p>
+  desc: normal_port_link
+- id: 30008
+  md: |
+    <a href="javascript:alert(1)">xss</a>
+  htm: |
+    <p><a href="javascript:alert(1)">xss</a></p>
+  desc: html_raw_a_tag_javascript
+- id: 30009
+  md: |
+    <a href="https://google.com">google</a>
+  htm: |
+    <p><a href="https://google.com">google</a></p>
+  desc: html_raw_a_tag_normal
+- id: 30010
+  md: |
+    <a href="javascript:alert(1)">1</a> <a href="http://google.com">2</a>
+  htm: |
+    <p><a href="javascript:alert(1)">1</a> <a href="http://google.com">2</a></p>
+  desc: html_inline_multiple_a_tags
+- id: 30011
+  md: |
+    ![img](data:image/png;base64,iVBORw0KGgoAAAANS)
+  htm: |
+    <p><img src="data:image/png;base64,iVBORw0KGgoAAAANS" alt="img"></p>
+  desc: allow_data_image_protocol

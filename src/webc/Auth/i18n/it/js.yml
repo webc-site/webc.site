@@ -1,0 +1,29 @@
+mail: Posta
+phone: cellulare
+signin: Login
+signup: registro
+get_code: Ottieni il codice di verifica
+agree_prefix: Effettuando l'accesso accetti
+terms: Contratto d'uso
+code_mail_sent: Il codice di verifica è stato inviato a
+welcome: Bentornato
+code_sent: Il codice di verifica è stato inviato a
+input_code: Inserire il codice di conferma
+code: Codice di verifica
+name: Nome della schermata
+pwd: password
+verify: verificare
+no_code: Non hai ricevuto il codice di verifica?
+resend: Clicca qui per ripubblicare
+resend_cd: Può essere inviato nuovamente dopo pochi secondi
+forget_pwd: Hai dimenticato la password?
+reset_pwd: Fare clic qui per reimpostare
+oauth_hint_title: Accedi utilizzando un altro metodo
+oauth_hint_tip: Questa email è stata associata a un accesso di terze parti, scegli il seguente metodo per continuare
+oauth_google: Continua con Google
+oauth_apple: Continua con Apple
+oauth_wechat: Continua a utilizzare WeChat
+oauth_github: Continua a utilizzare GitHub
+oauth_microsoft: Continua con Microsoft
+more: Di più
+err_format: Errore di formato

@@ -1,0 +1,7 @@
+desc: Awtomatikong pagtino ug pagbalhin aron ipakita ang navigation menu o back button base sa kasamtangang ruta
+desktop_title: Pagpakita sa desktop
+desktop_desc: Kung naa sa gideklarar nga ruta sa menu, ipakita ang mga tile sa menu item; kung dili ipakita ang back button
+mobile_title: Mobile display
+mobile_desc: Kung naa sa gideklarar nga ruta sa menu, nahugno sa usa ka buton sa icon ug nagsuporta sa pag-slide sa menu; kung dili magpakita ug back button
+normal_state: Status sa nabigasyon (c-nav-menu)
+back_state: Fallback status (c-back)

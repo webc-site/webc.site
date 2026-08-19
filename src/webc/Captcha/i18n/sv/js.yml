@@ -1,0 +1,6 @@
+load: belastning
+tip: I den ordning som visas ovan, klicka på ikonerna i bilden nedan
+suc: Verifieringen lyckades
+fail: Verifieringen misslyckades, uppdatera efter en sekund
+refresh: uppdatera
+validImg: Verifieringskodbild

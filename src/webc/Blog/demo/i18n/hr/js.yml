@@ -1,0 +1,10 @@
+t1: WebC v2.0 službeno objavljen: minimalistička arhitektura komponenti za moderni web
+s1: |-
+  Nakon pola godine rekonstrukcije službeno je stigao WebC v2.0. Novo dizajnirana **Light DOM** arhitektura savršeno se kombinira s izvornim `Custom Elements` kako bi donijela neusporediva poboljšanja performansi.
+t2: Native CSS Nesting dubinska praksa i optimizacija performansi
+s2: |-
+  Danas, s modernim preglednicima koji u potpunosti podržavaju `CSS Nesting`, kombinacija razina ugniježđenja pretprocesora i izvornih značajki uvelike pojednostavljuje troškove održavanja stila. Ovaj članak istražuje njegove temeljne prednosti i najbolje primjere iz prakse.
+t3: Filozofija konstrukcije biblioteke komponenti korisničkog sučelja bez ovisnosti
+s3: |-
+  Povratak na hrpu tehnologije koja je izvorna za web: Nema potrebe za složenim cjevovodima izgradnje i ogromnim stablima ovisnosti, možete izgraditi sučelja visokih performansi samo s izvornim JavaScriptom i web standardima.
+btn: Kliknite ovdje za čitanje

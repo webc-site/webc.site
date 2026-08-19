@@ -1,0 +1,29 @@
+mail: Póstur
+phone: farsíma
+signin: Skráðu þig inn
+signup: skrá sig
+get_code: Fáðu staðfestingarkóða
+agree_prefix: Með því að skrá þig inn samþykkir þú
+terms: Notendasamningur
+code_mail_sent: Staðfestingarkóði hefur verið sendur til
+welcome: velkominn aftur
+code_sent: Staðfestingarkóði hefur verið sendur til
+input_code: sláðu inn staðfestingarkóða
+code: Staðfestingarkóði
+name: Skjánafn
+pwd: lykilorð
+verify: sannreyna
+no_code: Fékkstu ekki staðfestingarkóðann?
+resend: Smelltu hér til að endurpósta
+resend_cd: Hægt að senda aftur eftir sekúndur
+forget_pwd: Gleymt lykilorðinu þínu?
+reset_pwd: Smelltu hér til að endurstilla
+oauth_hint_title: Skráðu þig inn með annarri aðferð
+oauth_hint_tip: Þessi tölvupóstur hefur verið bundinn við innskráningu þriðja aðila, vinsamlega veldu eftirfarandi aðferð til að halda áfram
+oauth_google: Haltu áfram með Google
+oauth_apple: Haltu áfram með Apple
+oauth_wechat: Haltu áfram að nota WeChat
+oauth_github: Haltu áfram að nota GitHub
+oauth_microsoft: Haltu áfram með Microsoft
+more: Meira
+err_format: Snið villa

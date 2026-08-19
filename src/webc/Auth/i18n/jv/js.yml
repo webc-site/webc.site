@@ -1,0 +1,29 @@
+mail: layang
+phone: ponsel
+signin: mlebu log
+signup: ndhaftar
+get_code: Njaluk kode verifikasi
+agree_prefix: Kanthi mlebu sampeyan setuju
+terms: Persetujuan pangguna
+code_mail_sent: Kode verifikasi wis dikirim menyang
+welcome: sugeng rawuh
+code_sent: Kode verifikasi wis dikirim menyang
+input_code: ketik kode konfirmasi
+code: Kode verifikasi
+name: Jeneng layar
+pwd: sandi
+verify: verifikasi
+no_code: Ora nampa kode verifikasi?
+resend: Klik kene kanggo repost
+resend_cd: Bisa resent sawise detik
+forget_pwd: Kelalen sandi?
+reset_pwd: Klik kene kanggo ngreset
+oauth_hint_title: Mlebu nggunakake cara liya
+oauth_hint_tip: Email iki wis disambungake menyang login pihak katelu, pilih cara ing ngisor iki kanggo nerusake
+oauth_google: Terus nganggo Google
+oauth_apple: Terusake karo Apple
+oauth_wechat: Terus nggunakake WeChat
+oauth_github: Terus nggunakake GitHub
+oauth_microsoft: Terusake karo Microsoft
+more: More
+err_format: Kesalahan format

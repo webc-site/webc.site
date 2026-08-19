@@ -1,0 +1,6 @@
+load: loading
+tip: Gore prikazanim redoslijedom kliknite na ikone na slici ispod
+suc: Verifikacija je uspjela
+fail: Provjera nije uspjela, osvježite nakon jedne sekunde
+refresh: osvježiti
+validImg: Slika verifikacionog koda

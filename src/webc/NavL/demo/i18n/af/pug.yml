@@ -1,0 +1,7 @@
+desc: Bepaal outomaties en skakel oor om die navigasiekieslys of terugknoppie te vertoon gebaseer op die huidige roete
+desktop_title: Werkskermskerm
+desktop_desc: Wanneer in die verklaarde spyskaartroete, vertoon die spyskaart-items teëls; anders vertoon die terug-knoppie
+mobile_title: Mobiele vertoning
+mobile_desc: Wanneer in die verklaarde spyskaartroete, vou ineen in 'n ikoonknoppie en ondersteun die uitgly van die spyskaart; andersins vertoon 'n terug-knoppie
+normal_state: Navigasiestatus (c-nav-kieslys)
+back_state: Terugvalstatus (c-terug)

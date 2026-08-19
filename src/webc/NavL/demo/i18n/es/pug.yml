@@ -1,0 +1,7 @@
+desc: Determinar y cambiar automáticamente para mostrar el menú de navegación o el botón Atrás según la ruta actual
+desktop_title: pantalla de escritorio
+desktop_desc: Cuando esté en la ruta del menú declarada, muestre los mosaicos de elementos del menú; de lo contrario, muestra el botón Atrás
+mobile_title: Pantalla móvil
+mobile_desc: Cuando se encuentra en la ruta del menú declarada, se colapsa en un botón de icono y permite deslizar el menú hacia afuera; de lo contrario muestra un botón Atrás
+normal_state: Estado de navegación (c-nav-menu)
+back_state: Estado de reserva (c-back)

@@ -1,0 +1,29 @@
+mail: Poçt
+phone: mobil telefon
+signin: Daxil ol
+signup: qeydiyyatdan keçin
+get_code: Doğrulama kodunu əldə edin
+agree_prefix: Daxil olmaqla razılaşırsınız
+terms: İstifadəçi Müqaviləsi
+code_mail_sent: Doğrulama kodu göndərildi
+welcome: xoş gəlmisiniz
+code_sent: Doğrulama kodu göndərildi
+input_code: təsdiq kodunu daxil edin
+code: Doğrulama kodu
+name: Ekran adı
+pwd: parol
+verify: yoxlayın
+no_code: Doğrulama kodunu almamısınız?
+resend: Yenidən yerləşdirmək üçün bura klikləyin
+resend_cd: Saniyələr sonra yenidən göndərilə bilər
+forget_pwd: Şifrənizi unutmusunuz?
+reset_pwd: Sıfırlamaq üçün bura klikləyin
+oauth_hint_title: Başqa bir üsuldan istifadə edərək daxil olun
+oauth_hint_tip: Bu e-poçt üçüncü tərəf girişinə bağlanıb, davam etmək üçün aşağıdakı üsulu seçin
+oauth_google: Google ilə davam edin
+oauth_apple: Apple ilə davam edin
+oauth_wechat: WeChat istifadə etməyə davam edin
+oauth_github: GitHub istifadə etməyə davam edin
+oauth_microsoft: Microsoft ilə davam edin
+more: Daha çox
+err_format: Format xətası

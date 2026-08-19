@@ -1,0 +1,29 @@
+mail: Post
+phone: Handy
+signin: Einloggen
+signup: registrieren
+get_code: Holen Sie sich den Bestätigungscode
+agree_prefix: Mit der Anmeldung stimmen Sie zu
+terms: Benutzervereinbarung
+code_mail_sent: Der Bestätigungscode wurde an gesendet
+welcome: Willkommen zurück
+code_sent: Der Bestätigungscode wurde an gesendet
+input_code: Geben Sie den Bestätigungscode ein
+code: Bestätigungscode
+name: Künstlername
+pwd: Passwort
+verify: verifizieren
+no_code: Sie haben den Bestätigungscode nicht erhalten?
+resend: Klicken Sie hier, um erneut zu posten
+resend_cd: Kann nach Sekunden erneut gesendet werden
+forget_pwd: Passwort vergessen?
+reset_pwd: Klicken Sie hier, um zurückzusetzen
+oauth_hint_title: Melden Sie sich mit einer anderen Methode an
+oauth_hint_tip: Diese E-Mail wurde mit einem Drittanbieter-Login verknüpft. Bitte wählen Sie die folgende Methode, um fortzufahren
+oauth_google: Weiter mit Google
+oauth_apple: Weiter mit Apple
+oauth_wechat: Verwenden Sie weiterhin WeChat
+oauth_github: Verwenden Sie weiterhin GitHub
+oauth_microsoft: Weiter mit Microsoft
+more: Mehr
+err_format: Formatfehler

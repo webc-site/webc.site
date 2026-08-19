@@ -1,0 +1,29 @@
+mail: Surat
+phone: ponsel
+signin: Masuk
+signup: daftar
+get_code: Dapatkan kode verifikasi
+agree_prefix: Dengan masuk Anda setuju
+terms: Perjanjian Pengguna
+code_mail_sent: Kode verifikasi telah dikirim ke
+welcome: Selamat Datang kembali
+code_sent: Kode verifikasi telah dikirim ke
+input_code: masukkan kode konfirmasi
+code: Kode verifikasi
+name: Nama layar
+pwd: kata sandi
+verify: memeriksa
+no_code: Tidak menerima kode verifikasi?
+resend: Klik di sini untuk memposting ulang
+resend_cd: Dapat dikirim ulang setelah beberapa detik
+forget_pwd: Lupa kata sandi Anda?
+reset_pwd: Klik di sini untuk mengatur ulang
+oauth_hint_title: Masuk menggunakan metode lain
+oauth_hint_tip: Email ini terikat dengan login pihak ketiga, silakan pilih metode berikut untuk melanjutkan
+oauth_google: Lanjutkan dengan Google
+oauth_apple: Lanjutkan dengan Apple
+oauth_wechat: Lanjutkan menggunakan WeChat
+oauth_github: Lanjutkan menggunakan GitHub
+oauth_microsoft: Lanjutkan dengan Microsoft
+more: Lagi
+err_format: Kesalahan format

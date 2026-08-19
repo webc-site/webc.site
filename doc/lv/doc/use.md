@@ -1,0 +1,1 @@
+# Izmantojiet sastāvdaļas

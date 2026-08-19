@@ -1,0 +1,29 @@
+mail: Mail
+phone: telefon mobil
+signin: Log in
+signup: registru
+get_code: Obțineți codul de verificare
+agree_prefix: Prin autentificare sunteți de acord
+terms: Acordul utilizatorului
+code_mail_sent: Codul de verificare a fost trimis către
+welcome: Bine ai revenit
+code_sent: Codul de verificare a fost trimis către
+input_code: introduceți codul de confirmare
+code: Cod de verificare
+name: Nume pe ecran
+pwd: parolă
+verify: verifica
+no_code: Nu ați primit codul de verificare?
+resend: Click aici pentru a reposta
+resend_cd: Poate fi retrimis după secunde
+forget_pwd: Ați uitat parola?
+reset_pwd: Faceți clic aici pentru a reseta
+oauth_hint_title: Conectați-vă folosind o altă metodă
+oauth_hint_tip: Acest e-mail a fost legat de o autentificare terță parte, alegeți următoarea metodă pentru a continua
+oauth_google: Continuați cu Google
+oauth_apple: Continuați cu Apple
+oauth_wechat: Continuați să utilizați WeChat
+oauth_github: Continuați să utilizați GitHub
+oauth_microsoft: Continuați cu Microsoft
+more: Mai mult
+err_format: Eroare de format

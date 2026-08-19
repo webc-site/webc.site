@@ -1,0 +1,46 @@
+open: Buksan ang sidebar
+userName: Geek Walker
+userTitle: Senior web designer
+statFollowers: Subscriber
+statFollowing: tumutok sa
+statProjects: proyekto
+groupCore: Mga pangunahing pag-andar
+groupSystem: Pamamahala ng system
+groupData: pagsusuri ng datos
+groupCollaboration: Pagtutulungan ng magkakasama
+widgetTitle: Paggamit ng espasyo sa imbakan
+widgetTasks: Ang mga gawain ko
+task1: Kumpletuhin ang Side interactive na pag-unlad
+task2: Disenyo ng Liquid visual aesthetics
+task3: I-optimize ang kakayahang magamit at mga detalye ng bahagi
+navHome: Dashboard Home Page
+navProfile: Personal Center
+navSettings: Mga setting ng system
+navMessages: Balita sa site
+navNotifications: Paalala ng abiso
+navPrivacy: Pagkapribado at seguridad
+navHelp: Tulong at puna
+navAnalytics: ulat ng pagsusuri
+navCloud: Cloud storage space
+navTeam: miyembro ng pangkat
+navTasks: Koordinasyon ng gawain
+logout: Log out
+upgradeTitle: Mag-upgrade sa Professional Edition
+upgradeDesc: I-unlock ang walang limitasyong cloud storage at advanced na pakikipagtulungan
+upgradeBtn: Mag-upgrade ngayon
+task4: Suriin ang PR commits at pagsamahin ang mga sangay
+task5: Sumulat ng bagong bersyon ng release log ng WebC
+widgetOnline: Mga miyembro ng online na koponan
+member1: Lisa
+member2: david
+member3: Anna
+statusOnline: online
+statusOffline: Offline
+statusBusy: Busy
+widgetFiles: kamakailang mga file
+file1: Detalye ng Disenyo ng Produkto v2.4.pdf
+file2: 2026 Q3 Draft Plan.docx
+file3: Component animation demonstration.mp4
+tagDesign: disenyo
+tagDev: bumuo
+tagPm: produkto

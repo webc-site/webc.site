@@ -1,0 +1,46 @@
+open: Hapni shiritin anësor
+userName: Geek Walker
+userTitle: Dizajner i lartë në internet
+statFollowers: Abonent
+statFollowing: përqëndrohen në
+statProjects: projekti
+groupCore: Funksionet kryesore
+groupSystem: Menaxhimi i sistemit
+groupData: analiza e të dhënave
+groupCollaboration: Puna ekipore
+widgetTitle: Përdorimi i hapësirës së ruajtjes
+widgetTasks: Detyrat e mia për të bërë
+task1: Zhvillimi i plotë interaktiv i Side
+task2: Design Estetikë vizuale e lëngshme
+task3: Optimizoni përdorshmërinë dhe detajet e komponentëve
+navHome: Faqja kryesore e panelit të kontrollit
+navProfile: Qendra Personale
+navSettings: Cilësimet e sistemit
+navMessages: Lajmet e faqes
+navNotifications: Përkujtues njoftimi
+navPrivacy: Privatësia dhe siguria
+navHelp: Ndihmë dhe komente
+navAnalytics: raport analize
+navCloud: Hapësira e ruajtjes në renë kompjuterike
+navTeam: anëtar i ekipit
+navTasks: Koordinimi i detyrave
+logout: Dilni
+upgradeTitle: Përmirëso në versionin profesional
+upgradeDesc: Zhbllokoni hapësirën e pakufizuar të cloud dhe bashkëpunimin e avancuar
+upgradeBtn: Përmirëso tani
+task4: Rishikoni angazhimet e PR dhe bashkoni degët
+task5: Shkruani një regjistër të ri të lëshimit të versionit të WebC
+widgetOnline: Anëtarët e ekipit në internet
+member1: Lisa
+member2: David
+member3: Anna
+statusOnline: online
+statusOffline: Jashtë linje
+statusBusy: I zënë
+widgetFiles: skedarët e fundit
+file1: Specifikimi i dizajnit të produktit v2.4.pdf
+file2: 2026 Draft Plani T3.docx
+file3: Demonstrimi i animacionit të komponentëve.mp4
+tagDesign: dizajni
+tagDev: zhvillojnë
+tagPm: produkt

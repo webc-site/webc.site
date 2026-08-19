@@ -1,0 +1,60 @@
+mdContent: |
+  # Markdown bemutató dokumentum
+  Ez egy **statikus renderelés** bemutató.
+  ## Alapstílus
+  - **félkövér** és *dőlt*
+  - ~~áthúzás~~
+  - `inline_code` soron belüli kód
+  - [Az Egyesült Nemzetek hivatalos weboldala](https://un.org) Linkbemutató
+  ## Idézetek és listák
+  > Ez egy egysoros idézet.
+
+  > Ez egy többsoros idézet.
+  > Vizuális hatás többsoros hivatkozások megjelenítéséhez.
+
+  - Rendeletlen első tétel
+    - Rendeletlen altétel
+    - Rendeletlen második altétel
+  - Rendeletlen második tétel
+
+  > [!NOTE]
+  > `> [!NOTE]` Általános üzenetek és megjegyzések
+
+  > [!TIP]
+  > `> [!TIP]` Tippek és hasznos tippek
+
+  > [!IMPORTANT]
+  > `> [!IMPORTANT]` Fontos tippek és aggályok
+
+  > [!WARNING]
+  > `> [!WARNING]` Kockázati figyelmeztetések és megjegyzések
+
+  > [!CAUTION]
+  > `> [!CAUTION]` VESZÉLY ÉS RENDKÍVÜLI KOCKÁZAT FIGYELMEZTETÉS
+
+  ---
+
+  ## feladatlista
+  - [ ] Ez a feladatok befejezetlen listája
+  - [x] Ez egy befejezett listás feladat
+  - [X] Ez egy befejezett listafeladat (nagybetűs X)
+
+  ---
+
+  1. Első megrendelt tétel
+     1. Megrendelt tétel egy
+     2. Második altétel megrendelve
+  2. Második ciklusban elrendelték
+  ## lap
+  | projektet | állami | pontszám |
+  | :--- | :---: | ---: |
+  | statikus | Befejezve | 100 |
+  | folyó | Rendering | 95 |
+  ## kódblokk
+  ```js
+  const hello = () => {
+    console.log("Hello, WebC!");
+  };
+  ```
+  ## kép
+  ![Demo kép](https://i-01.eu.org/demo-green.avif)

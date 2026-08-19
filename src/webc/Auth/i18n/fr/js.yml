@@ -1,0 +1,29 @@
+mail: Mail
+phone: téléphone portable
+signin: Se connecter
+signup: registre
+get_code: Obtenir le code de vérification
+agree_prefix: En vous connectant, vous acceptez
+terms: Contrat d'utilisation
+code_mail_sent: Le code de vérification a été envoyé à
+welcome: content de te revoir
+code_sent: Le code de vérification a été envoyé à
+input_code: Entrez le code de confirmation
+code: Le code de vérification
+name: Nom d'écran
+pwd: mot de passe
+verify: vérifier
+no_code: Vous n'avez pas reçu le code de vérification ?
+resend: Cliquez ici pour republier
+resend_cd: Peut être renvoyé après quelques secondes
+forget_pwd: Vous avez oublié votre mot de passe ?
+reset_pwd: Cliquez ici pour réinitialiser
+oauth_hint_title: Connectez-vous en utilisant une autre méthode
+oauth_hint_tip: Cet e-mail a été lié à une connexion tierce, veuillez choisir la méthode suivante pour continuer
+oauth_google: Continuer avec Google
+oauth_apple: Continuer avec Apple
+oauth_wechat: Continuer à utiliser WeChat
+oauth_github: Continuer à utiliser GitHub
+oauth_microsoft: Continuer avec Microsoft
+more: Plus
+err_format: Erreur de format

@@ -1,0 +1,29 @@
+mail: Pasts
+phone: mobilais telefons
+signin: Piesakieties
+signup: reģistrēties
+get_code: Saņemiet verifikācijas kodu
+agree_prefix: Piesakoties jūs piekrītat
+terms: Lietotāja līgums
+code_mail_sent: Verifikācijas kods ir nosūtīts uz
+welcome: laipni lūdzam atpakaļ
+code_sent: Verifikācijas kods ir nosūtīts uz
+input_code: ievadiet apstiprinājuma kodu
+code: Verifikācijas kods
+name: Ekrāna nosaukums
+pwd: parole
+verify: pārbaudīt
+no_code: Vai nesaņēmāt verifikācijas kodu?
+resend: Noklikšķiniet šeit, lai pārpublicētu
+resend_cd: Var nosūtīt atkārtoti pēc sekundēm
+forget_pwd: Aizmirsāt paroli?
+reset_pwd: Noklikšķiniet šeit, lai atiestatītu
+oauth_hint_title: Piesakieties, izmantojot citu metodi
+oauth_hint_tip: Šis e-pasta ziņojums ir saistīts ar trešās puses pieteikšanos. Lai turpinātu, lūdzu, izvēlieties tālāk norādīto metodi
+oauth_google: Turpiniet ar Google
+oauth_apple: Turpiniet ar Apple
+oauth_wechat: Turpiniet lietot WeChat
+oauth_github: Turpiniet izmantot GitHub
+oauth_microsoft: Turpiniet ar Microsoft
+more: Vairāk
+err_format: Formāta kļūda

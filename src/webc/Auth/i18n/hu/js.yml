@@ -1,0 +1,29 @@
+mail: Felad
+phone: mobiltelefon
+signin: Jelentkezzen be
+signup: nyilvántartás
+get_code: Szerezzen ellenőrző kódot
+agree_prefix: A bejelentkezéssel beleegyezel
+terms: Felhasználói szerződés
+code_mail_sent: Az ellenőrző kód elküldve a következő címre:
+welcome: üdvözlöm újra
+code_sent: Az ellenőrző kód elküldve a következő címre:
+input_code: írja be a megerősítő kódot
+code: Ellenőrző kód
+name: Képernyőnév
+pwd: jelszó
+verify: ellenőrizni
+no_code: Nem kapta meg az ellenőrző kódot?
+resend: Kattintson ide az újraküldéshez
+resend_cd: Másodpercek után újra elküldhető
+forget_pwd: Elfelejtette jelszavát?
+reset_pwd: Kattintson ide a visszaállításhoz
+oauth_hint_title: Jelentkezzen be egy másik módszerrel
+oauth_hint_tip: Ezt az e-mailt egy harmadik fél általi bejelentkezéshez kötöttük. A folytatáshoz válassza a következő módszert
+oauth_google: Folytassa a Google-lal
+oauth_apple: Folytassa az Apple-lel
+oauth_wechat: Folytassa a WeChat használatát
+oauth_github: Folytassa a GitHub használatát
+oauth_microsoft: Folytassa a Microsofttal
+more: Több
+err_format: Formázási hiba

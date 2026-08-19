@@ -1,0 +1,29 @@
+mail: Mail
+phone: mobilni telefon
+signin: Prijavite se
+signup: registar
+get_code: Nabavite verifikacioni kod
+agree_prefix: Prijavom se slažete
+terms: Korisnički ugovor
+code_mail_sent: Verifikacioni kod je poslan na
+welcome: dobrodošao nazad
+code_sent: Verifikacioni kod je poslan na
+input_code: unesite kod za potvrdu
+code: Verifikacioni kod
+name: Ekran ime
+pwd: lozinka
+verify: verify
+no_code: Niste primili verifikacioni kod?
+resend: Kliknite ovdje za repost
+resend_cd: Može se zamjeriti nakon nekoliko sekundi
+forget_pwd: Zaboravili ste lozinku?
+reset_pwd: Kliknite ovdje za resetiranje
+oauth_hint_title: Prijavite se na drugi način
+oauth_hint_tip: Ova e-pošta je vezana za prijavu treće strane, molimo odaberite sljedeću metodu da nastavite
+oauth_google: Nastavite s Googleom
+oauth_apple: Nastavite s Appleom
+oauth_wechat: Nastavite koristiti WeChat
+oauth_github: Nastavite koristiti GitHub
+oauth_microsoft: Nastavite s Microsoftom
+more: Više
+err_format: Greška u formatu

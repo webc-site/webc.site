@@ -1,0 +1,29 @@
+mail: Pošta
+phone: mobilni telefon
+signin: Prijavite se
+signup: register
+get_code: Pridobite kodo za preverjanje
+agree_prefix: S prijavo se strinjate
+terms: Uporabniška pogodba
+code_mail_sent: Koda za preverjanje je bila poslana na
+welcome: dobrodošel nazaj
+code_sent: Koda za preverjanje je bila poslana na
+input_code: vnesite potrditveno kodo
+code: Koda za preverjanje
+name: Prikazno ime
+pwd: geslo
+verify: preveriti
+no_code: Niste prejeli potrditvene kode?
+resend: Kliknite tukaj za ponovno objavo
+resend_cd: Ponovno se lahko pošlje po sekundah
+forget_pwd: Ste pozabili geslo?
+reset_pwd: Kliknite tukaj za ponastavitev
+oauth_hint_title: Prijavite se z drugo metodo
+oauth_hint_tip: To e-poštno sporočilo je bilo vezano na prijavo tretje osebe. Za nadaljevanje izberite naslednjo metodo
+oauth_google: Nadaljujte z Googlom
+oauth_apple: Nadaljujte z Appleom
+oauth_wechat: Nadaljujte z uporabo WeChat
+oauth_github: Še naprej uporabljajte GitHub
+oauth_microsoft: Nadaljujte z Microsoftom
+more: več
+err_format: Napaka formata

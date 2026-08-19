@@ -1,0 +1,29 @@
+mail: Mail
+phone: mobiiltelefon
+signin: Logi sisse
+signup: registreerima
+get_code: Hankige kinnituskood
+agree_prefix: Sisse logides nõustute
+terms: Kasutusleping
+code_mail_sent: Kinnituskood on saadetud aadressile
+welcome: tere tulemast tagasi
+code_sent: Kinnituskood on saadetud aadressile
+input_code: sisestage kinnituskood
+code: Kinnituskood
+name: Ekraaninimi
+pwd: parool
+verify: kontrollida
+no_code: Kas te ei saanud kinnituskoodi?
+resend: Uuesti postitamiseks klõpsake siin
+resend_cd: Saab mõne sekundi pärast uuesti saata
+forget_pwd: Unustasite parooli?
+reset_pwd: Lähtestamiseks klõpsake siin
+oauth_hint_title: Logige sisse mõne muu meetodi abil
+oauth_hint_tip: See e-kiri on seotud kolmanda osapoole sisselogimisega, jätkamiseks valige järgmine meetod
+oauth_google: Jätkake Google'iga
+oauth_apple: Jätkake Apple'iga
+oauth_wechat: Jätkake WeChati kasutamist
+oauth_github: Jätkake GitHubi kasutamist
+oauth_microsoft: Jätkake Microsoftiga
+more: Rohkem
+err_format: Vormingu viga

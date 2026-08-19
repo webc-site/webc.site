@@ -1,0 +1,29 @@
+mail: Mail
+phone: cellphone
+signin: Mag-log in
+signup: magparehistro
+get_code: Kunin ang verification code
+agree_prefix: Sa pamamagitan ng pag-log in ay sumasang-ayon ka
+terms: Kasunduan ng User
+code_mail_sent: Naipadala na ang verification code sa
+welcome: maligayang pagbabalik
+code_sent: Naipadala na ang verification code sa
+input_code: ilagay ang confirmation code
+code: Verification code
+name: Pangalan ng screen
+pwd: password
+verify: patunayan
+no_code: Hindi natanggap ang verification code?
+resend: Mag-click dito upang i-repost
+resend_cd: Maaaring magalit pagkatapos ng mga segundo
+forget_pwd: Nakalimutan ang iyong password?
+reset_pwd: Mag-click dito para i-reset
+oauth_hint_title: Mag-log in gamit ang ibang paraan
+oauth_hint_tip: Ang email na ito ay nakatali sa isang third-party na login, mangyaring piliin ang sumusunod na paraan upang magpatuloy
+oauth_google: Magpatuloy sa Google
+oauth_apple: Magpatuloy sa Apple
+oauth_wechat: Magpatuloy sa paggamit ng WeChat
+oauth_github: Magpatuloy sa paggamit ng GitHub
+oauth_microsoft: Magpatuloy sa Microsoft
+more: Higit pa
+err_format: Error sa format

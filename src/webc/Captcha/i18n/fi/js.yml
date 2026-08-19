@@ -1,0 +1,6 @@
+load: lastaus
+tip: Napsauta yllä olevan kuvan kuvakkeita yllä esitetyssä järjestyksessä
+suc: Vahvistus onnistui
+fail: Vahvistus epäonnistui, päivitä sekunnin kuluttua
+refresh: päivitä
+validImg: Vahvistuskoodin kuva

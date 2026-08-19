@@ -1,0 +1,29 @@
+mail: 郵便
+phone: 携帯電話
+signin: ログイン
+signup: 登録する
+get_code: 確認コードを取得する
+agree_prefix: ログインすると同意したことになります
+terms: ユーザー同意書
+code_mail_sent: 確認コードが送信されました
+welcome: おかえり
+code_sent: 確認コードが送信されました
+input_code: 認証コードを入力
+code: 検証コード
+name: ハンドルネーム
+pwd: パスワード
+verify: 確認する
+no_code: 確認コードを受け取っていませんか?
+resend: 再投稿するにはここをクリックしてください
+resend_cd: 数秒後に再送信可能
+forget_pwd: パスワードをお忘れですか？
+reset_pwd: リセットするにはここをクリックしてください
+oauth_hint_title: 別の方法でログインする
+oauth_hint_tip: このメールはサードパーティのログインにバインドされています。続行するには次の方法を選択してください
+oauth_google: Google を続ける
+oauth_apple: アップルを使い続ける
+oauth_wechat: WeChatを使い続ける
+oauth_github: GitHub を使い続ける
+oauth_microsoft: マイクロソフトを続ける
+more: もっと
+err_format: フォーマットエラー

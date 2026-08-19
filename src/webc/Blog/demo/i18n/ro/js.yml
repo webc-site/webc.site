@@ -1,0 +1,10 @@
+t1: WebC v2.0 lansat oficial: arhitectură de componente minimaliste pentru web-ul modern
+s1: |-
+  După o jumătate de an de reconstrucție, WebC v2.0 a sosit oficial. Arhitectura **Light DOM** nou proiectată este combinată perfect cu `Custom Elements` nativ pentru a aduce îmbunătățiri de performanță de neegalat.
+t2: Practică aprofundată de imbricare CSS nativă și optimizare a performanței
+s2: |-
+  Astăzi, cu browserele moderne care acceptă pe deplin `CSS Nesting` , combinația dintre nivelurile de imbricare a preprocesorului și caracteristicile native simplifică foarte mult costurile de întreținere a stilului. Acest articol explorează beneficiile sale principale și cele mai bune practici.
+t3: Filosofia de construcție a bibliotecii de componente UI cu dependență zero
+s3: |-
+  Reveniți la tehnologia nativă web: nu este nevoie de conducte complexe de construcție și arbori de dependență uriași, puteți crea interfețe de utilizare de înaltă performanță doar cu JavaScript nativ și standarde web.
+btn: Click aici pentru a citi

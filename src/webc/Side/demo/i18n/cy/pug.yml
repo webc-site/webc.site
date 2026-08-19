@@ -1,0 +1,46 @@
+open: Bar ochr agored
+userName: Geek Walker
+userTitle: Uwch ddylunydd gwe
+statFollowers: Tanysgrifiwr
+statFollowing: canolbwyntio ar
+statProjects: prosiect
+groupCore: Swyddogaethau craidd
+groupSystem: Rheoli system
+groupData: dadansoddi data
+groupCollaboration: Gwaith tîm
+widgetTitle: Defnydd o le storio
+widgetTasks: Fy tasgau i'w gwneud
+task1: Datblygiad rhyngweithiol Ochr cyflawn
+task2: Dyluniad Estheteg weledol hylifol
+task3: Optimeiddio defnyddioldeb cydrannau a manylion
+navHome: Tudalen Hafan Dangosfwrdd
+navProfile: Canolfan Bersonol
+navSettings: Gosodiadau system
+navMessages: Newyddion safle
+navNotifications: Nodyn atgoffa hysbysu
+navPrivacy: Preifatrwydd a diogelwch
+navHelp: Cymorth ac adborth
+navAnalytics: adroddiad dadansoddi
+navCloud: Gofod storio cwmwl
+navTeam: aelod tîm
+navTasks: Cydlynu tasgau
+logout: Allgofnodi
+upgradeTitle: Uwchraddio i Argraffiad Proffesiynol
+upgradeDesc: Datgloi storfa cwmwl diderfyn a chydweithio uwch
+upgradeBtn: Uwchraddio nawr
+task4: Adolygu ymrwymiadau cysylltiadau cyhoeddus ac uno canghennau
+task5: Ysgrifennwch log rhyddhau fersiwn newydd o WebC
+widgetOnline: Aelodau tîm ar-lein
+member1: Lisa
+member2: dewi
+member3: Anna
+statusOnline: ar-lein
+statusOffline: All-lein
+statusBusy: Prysur
+widgetFiles: ffeiliau diweddar
+file1: Manyleb Dylunio Cynnyrch v2.4.pdf
+file2: 2026 Cynllun Drafft Ch3.docx
+file3: Arddangosiad animeiddio cydran.mp4
+tagDesign: dylunio
+tagDev: datblygu
+tagPm: cynnyrch

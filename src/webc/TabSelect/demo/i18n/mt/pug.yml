@@ -1,0 +1,9 @@
+language: lingwa
+os: sistema
+about: dwar
+jsInfo: JavaScript hija lingwa ta' skript użata ħafna fl-iżvilupp tal-web fuq in-naħa tal-klijent.
+rsInfo: Rust hija lingwa ta 'programmar ta' sistemi ffukata fuq is-sigurtà, il-veloċità u l-konkorrenza.
+pyInfo: Python huwa lingwa ta' programmar tal-kompjuter interpretata orjentata lejn l-oġġetti.
+macInfo: macOS hija sistema operattiva grafika bbażata fuq Unix żviluppata minn Apple.
+winInfo: Windows hija sistema operattiva tal-kompjuter personali użata ħafna żviluppata minn Microsoft Corporation.
+aboutInfo: Aħna impenjati li niżviluppaw komponenti front-end ta 'sors miftuħ ta' kwalità għolja, u inti mistieden tipparteċipa.

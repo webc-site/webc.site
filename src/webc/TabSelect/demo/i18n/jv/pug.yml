@@ -1,0 +1,9 @@
+language: basa
+os: sistem
+about: babagan
+jsInfo: JavaScript minangka basa skrip sing akeh digunakake ing pangembangan web sisih klien.
+rsInfo: Rust minangka basa pemrograman sistem sing fokus ing safety, kacepetan, lan konkurensi.
+pyInfo: Python minangka basa pemrograman komputer sing diinterpretasikake obyek-obyek.
+macInfo: macOS minangka sistem operasi grafis berbasis Unix sing dikembangake dening Apple.
+winInfo: Windows minangka sistem operasi komputer pribadi sing akeh digunakake sing dikembangake dening Microsoft Corporation.
+aboutInfo: We are setya ngembangaken kualitas open source komponen ngarep-mburi, lan sampeyan olèh melu.

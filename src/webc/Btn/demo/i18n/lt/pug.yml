@@ -1,0 +1,4 @@
+default: Numatytasis mygtukas
+main: pagrindinis mygtukas
+link: nuorodos mygtuką
+icon: Piktogramos mygtukas (.BtnC)

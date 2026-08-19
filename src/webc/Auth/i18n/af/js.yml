@@ -1,0 +1,29 @@
+mail: Pos
+phone: selfoon
+signin: Meld aan
+signup: registreer
+get_code: Kry verifikasiekode
+agree_prefix: Deur aan te meld stem jy in
+terms: Gebruikersooreenkoms
+code_mail_sent: Verifikasiekode is gestuur na
+welcome: welkom terug
+code_sent: Verifikasiekode is gestuur na
+input_code: voer bevestigingskode in
+code: Verifikasiekode
+name: Skermnaam
+pwd: wagwoord
+verify: verifieer
+no_code: Het jy nie die verifikasiekode ontvang nie?
+resend: Klik hier om weer te plaas
+resend_cd: Kan na sekondes teruggestuur word
+forget_pwd: Het jy jou wagwoord vergeet?
+reset_pwd: Klik hier om terug te stel
+oauth_hint_title: Meld aan met 'n ander metode
+oauth_hint_tip: Hierdie e-pos is gekoppel aan 'n derdeparty-aanmelding, kies asseblief die volgende metode om voort te gaan
+oauth_google: Gaan voort met Google
+oauth_apple: Gaan voort met Apple
+oauth_wechat: Gaan voort om WeChat te gebruik
+oauth_github: Gaan voort om GitHub te gebruik
+oauth_microsoft: Gaan voort met Microsoft
+more: Meer
+err_format: Formateer fout

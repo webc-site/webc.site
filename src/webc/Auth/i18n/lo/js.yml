@@ -1,0 +1,29 @@
+mail: ຈົດໝາຍ
+phone: ໂທລະສັບມືຖື
+signin: ເຂົ້າສູ່ລະບົບ
+signup: ລົງທະບຽນ
+get_code: ເອົາລະຫັດຢືນຢັນ
+agree_prefix: ໂດຍການເຂົ້າສູ່ລະບົບ, ທ່ານຕົກລົງເຫັນດີ
+terms: ຂໍ້ຕົກລົງຜູ້ໃຊ້
+code_mail_sent: ລະຫັດຢືນຢັນຖືກສົ່ງໄປຫາ
+welcome: ຍິນດີຕ້ອນຮັບກັບຄືນ
+code_sent: ລະຫັດຢືນຢັນຖືກສົ່ງໄປຫາ
+input_code: ໃສ່ລະຫັດຢືນຢັນ
+code: ລະຫັດຢືນຢັນ
+name: ຊື່ໜ້າຈໍ
+pwd: ລະຫັດຜ່ານ
+verify: ກວດ​ສອບ
+no_code: ບໍ່ໄດ້ຮັບລະຫັດຢືນຢັນບໍ?
+resend: ຄລິກທີ່ນີ້ເພື່ອ repost
+resend_cd: ສາມາດຖືກໃຈຫຼັງຈາກວິນາທີ
+forget_pwd: ລືມລະຫັດຜ່ານຂອງທ່ານບໍ?
+reset_pwd: ຄລິກທີ່ນີ້ເພື່ອຣີເຊັດ
+oauth_hint_title: ເຂົ້າສູ່ລະບົບໂດຍໃຊ້ວິທີອື່ນ
+oauth_hint_tip: ອີເມວນີ້ຖືກຜູກມັດກັບການເຂົ້າສູ່ລະບົບຂອງພາກສ່ວນທີສາມ, ກະລຸນາເລືອກວິທີຕໍ່ໄປນີ້ເພື່ອສືບຕໍ່
+oauth_google: ສືບຕໍ່ກັບ Google
+oauth_apple: ສືບຕໍ່ກັບ Apple
+oauth_wechat: ສືບຕໍ່ນຳໃຊ້ WeChat
+oauth_github: ສືບຕໍ່ໃຊ້ GitHub
+oauth_microsoft: ສືບຕໍ່ກັບ Microsoft
+more: ເພີ່ມເຕີມ
+err_format: ຮູບແບບຜິດພາດ

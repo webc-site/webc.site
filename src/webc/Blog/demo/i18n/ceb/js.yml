@@ -1,0 +1,10 @@
+t1: Opisyal nga gipagawas ang WebC v2.0: minimalist nga arkitektura sa sangkap para sa modernong web
+s1: |-
+  Human sa tunga sa tuig nga pagtukod pag-usab, ang WebC v2.0 opisyal nang miabot. Ang bag-ong gidesinyo nga **Light DOM** nga arkitektura hingpit nga gihiusa uban sa lumad nga `Custom Elements` aron magdala og dili hitupngan nga mga pagpaayo sa performance.
+t2: Lumad nga CSS Nesting sa lawom nga praktis ug pag-optimize sa performance
+s2: |-
+  Karon, uban sa modernong mga browser nga hingpit nga nagsuporta sa `CSS Nesting` , ang kombinasyon sa preprocessor nesting nga lebel ug lumad nga mga feature nagpayano pag-ayo sa mga gasto sa pagmentinar sa estilo. Gisusi sa kini nga artikulo ang panguna nga mga benepisyo ug labing kaayo nga mga gawi niini.
+t3: Ang pilosopiya sa pagtukod sa zero-dependency nga UI component library
+s3: |-
+  Balik sa web-native nga teknolohiya stack: Dili kinahanglan alang sa komplikado nga pagtukod sa mga pipeline ug dagkong mga punoan sa dependency, mahimo ka nga magtukod og mga high-performance nga UI nga adunay lumad nga JavaScript ug Web Standards lamang.
+btn: I-klik dinhi aron mabasa

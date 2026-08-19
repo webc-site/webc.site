@@ -1,0 +1,29 @@
+mail: Posta
+phone: sakelako telefonoa
+signin: Hasi saioa
+signup: erregistratu
+get_code: Lortu egiaztapen-kodea
+agree_prefix: Saioa hasita ados zaude
+terms: Erabiltzaile-kontratua
+code_mail_sent: Hona bidali da egiaztapen-kodea
+welcome: ongi etorri bueltan
+code_sent: Hona bidali da egiaztapen-kodea
+input_code: sartu berrespen-kodea
+code: Egiaztapen-kodea
+name: Pantaila izena
+pwd: pasahitza
+verify: egiaztatu
+no_code: Ez al duzu jaso egiaztapen-kodea?
+resend: Egin klik hemen berriro bidaltzeko
+resend_cd: segundoren buruan bidal daiteke
+forget_pwd: Pasahitza ahaztu al duzu?
+reset_pwd: Egin klik hemen berrezartzeko
+oauth_hint_title: Hasi saioa beste metodo bat erabiliz
+oauth_hint_tip: Mezu elektroniko hau hirugarrenen saioa hasteko lotu da. Mesedez, aukeratu metodo hau jarraitzeko
+oauth_google: Jarraitu Google-rekin
+oauth_apple: Jarraitu Applerekin
+oauth_wechat: Jarraitu WeChat erabiltzen
+oauth_github: Jarraitu GitHub erabiltzen
+oauth_microsoft: Jarraitu Microsoft-ekin
+more: Gehiago
+err_format: Formateatu errorea

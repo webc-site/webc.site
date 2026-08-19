@@ -1,0 +1,29 @@
+mail: Pochta
+phone: Mobil telefon
+signin: Tizimga kirish
+signup: ro'yxatdan o'tish
+get_code: Tasdiqlash kodini oling
+agree_prefix: Tizimga kirish orqali siz rozilik bildirasiz
+terms: Foydalanuvchi shartnomasi
+code_mail_sent: Tasdiqlash kodi yuborildi
+welcome: qaytib kelganingizdan xursandmiz
+code_sent: Tasdiqlash kodi yuborildi
+input_code: tasdiqlash kodini kiriting
+code: Tasdiq kodi
+name: Taxallus
+pwd: parol
+verify: tekshirish
+no_code: Tasdiqlash kodini olmadingizmi?
+resend: Repost qilish uchun shu yerni bosing
+resend_cd: Bir necha soniyadan keyin qayta yuborilishi mumkin
+forget_pwd: Parolingiz esdan chiqdimi?
+reset_pwd: Qayta tiklash uchun shu yerni bosing
+oauth_hint_title: Boshqa usul yordamida tizimga kiring
+oauth_hint_tip: Bu e-pochta uchinchi tomon loginiga bog‘langan, davom etish uchun quyidagi usulni tanlang
+oauth_google: Google bilan davom eting
+oauth_apple: Apple bilan davom eting
+oauth_wechat: WeChat-dan foydalanishda davom eting
+oauth_github: GitHub-dan foydalanishda davom eting
+oauth_microsoft: Microsoft bilan davom eting
+more: Ko'proq
+err_format: Format xatosi

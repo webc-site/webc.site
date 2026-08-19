@@ -1,0 +1,29 @@
+mail: Mail
+phone: mobiele telefoon
+signin: Inloggen
+signup: register
+get_code: Verificatiecode verkrijgen
+agree_prefix: Door in te loggen gaat u akkoord
+terms: Gebruikersovereenkomst
+code_mail_sent: Verificatiecode is verzonden naar
+welcome: welkom terug
+code_sent: Verificatiecode is verzonden naar
+input_code: bevestigingscode invoeren
+code: Verificatiecode
+name: Schermnaam
+pwd: wachtwoord
+verify: verifiëren
+no_code: Heeft u de verificatiecode niet ontvangen?
+resend: Klik hier om opnieuw te posten
+resend_cd: Kan na enkele seconden opnieuw worden verzonden
+forget_pwd: Wachtwoord vergeten?
+reset_pwd: Klik hier om te resetten
+oauth_hint_title: Log in via een andere methode
+oauth_hint_tip: Deze e-mail is gekoppeld aan een login van derden. Kies de volgende methode om door te gaan
+oauth_google: Ga verder met Google
+oauth_apple: Ga verder met Apple
+oauth_wechat: Blijf WeChat gebruiken
+oauth_github: Ga door met het gebruiken van GitHub
+oauth_microsoft: Ga verder met Microsoft
+more: Meer
+err_format: Formaatfout

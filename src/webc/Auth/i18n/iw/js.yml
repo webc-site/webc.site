@@ -1,0 +1,29 @@
+mail: דוֹאַר
+phone: טֶלֶפוֹן סֶלוּלָרי
+signin: התחבר
+signup: לִרְשׁוֹם
+get_code: קבל קוד אימות
+agree_prefix: בכניסה אתה מסכים
+terms: הסכם משתמש
+code_mail_sent: קוד אימות נשלח אל
+welcome: ברוך שובך
+code_sent: קוד אימות נשלח אל
+input_code: הזן קוד אישור
+code: קוד אימות
+name: שם מסך
+pwd: סִיסמָה
+verify: לְאַמֵת
+no_code: לא קיבלת את קוד האימות?
+resend: לחץ כאן כדי לפרסם מחדש
+resend_cd: יכול להישלח שוב לאחר שניות
+forget_pwd: שכחת את הסיסמה שלך?
+reset_pwd: לחץ כאן כדי לאפס
+oauth_hint_title: היכנס באמצעות שיטה אחרת
+oauth_hint_tip: דוא"ל זה נקשר לכניסה של צד שלישי, אנא בחר בשיטה הבאה כדי להמשיך
+oauth_google: המשך עם גוגל
+oauth_apple: המשך עם אפל
+oauth_wechat: המשך להשתמש ב-WeChat
+oauth_github: המשך להשתמש ב- GitHub
+oauth_microsoft: המשך עם Microsoft
+more: יוֹתֵר
+err_format: שגיאת עיצוב

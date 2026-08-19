@@ -1,0 +1,10 @@
+t1: WebC v2.0 rəsmi olaraq buraxıldı: müasir veb üçün minimalist komponent arxitekturası
+s1: |-
+  Yarım illik yenidənqurmadan sonra WebC v2.0 rəsmi olaraq gəldi. Yeni dizayn edilmiş **Light DOM** arxitekturası misilsiz performans təkmilləşdirmələri gətirmək üçün yerli `Custom Elements` ilə mükəmməl birləşdirilib.
+t2: Native CSS Nesting dərin təcrübə və performans optimallaşdırması
+s2: |-
+  Bu gün `CSS Nesting` -i tam dəstəkləyən müasir brauzerlər ilə, preprosessor yuva səviyyələrinin və yerli funksiyaların birləşməsi üsluba qulluq xərclərini xeyli asanlaşdırır. Bu məqalə onun əsas üstünlüklərini və ən yaxşı təcrübələrini araşdırır.
+t3: Sıfır asılılıq UI komponent kitabxanasının tikinti fəlsəfəsi
+s3: |-
+  Veb-doğma texnologiya yığınına qayıdın: Mürəkkəb tikinti boru kəmərlərinə və böyük asılılıq ağaclarına ehtiyac yoxdur, siz yalnız yerli JavaScript və Veb Standartları ilə yüksək performanslı UI qura bilərsiniz.
+btn: Oxumaq üçün bura klikləyin

@@ -1,0 +1,29 @@
+mail: Postë
+phone: celular
+signin: Identifikohu
+signup: regjistrohen
+get_code: Merrni kodin e verifikimit
+agree_prefix: Duke u identifikuar ju jeni dakord
+terms: Marrëveshja e përdoruesit
+code_mail_sent: Kodi i verifikimit është dërguar te
+welcome: mirë se erdhe
+code_sent: Kodi i verifikimit është dërguar te
+input_code: fut kodin e konfirmimit
+code: Kodi i verifikimit
+name: Emri i ekranit
+pwd: fjalëkalimin
+verify: verifikoni
+no_code: Nuk e morët kodin e verifikimit?
+resend: Kliko këtu për të ripostuar
+resend_cd: Mund të ridërgohet pas sekondash
+forget_pwd: Keni harruar fjalëkalimin tuaj?
+reset_pwd: Kliko këtu për të rivendosur
+oauth_hint_title: Hyni duke përdorur një metodë tjetër
+oauth_hint_tip: Ky email është lidhur me një hyrje të palës së tretë, ju lutemi zgjidhni metodën e mëposhtme për të vazhduar
+oauth_google: Vazhdo me Google
+oauth_apple: Vazhdoni me Apple
+oauth_wechat: Vazhdoni të përdorni WeChat
+oauth_github: Vazhdoni të përdorni GitHub
+oauth_microsoft: Vazhdo me Microsoft
+more: Më shumë
+err_format: Gabim në format

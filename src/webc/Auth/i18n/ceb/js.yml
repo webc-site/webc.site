@@ -1,0 +1,29 @@
+mail: Mail
+phone: selpon
+signin: Log in
+signup: magparehistro
+get_code: Pagkuha ug verification code
+agree_prefix: Pinaagi sa pag-log in miuyon ka
+terms: Kasabutan sa Gumagamit
+code_mail_sent: Ang verification code gipadala sa
+welcome: maayong pagbalik
+code_sent: Ang verification code gipadala sa
+input_code: isulod ang confirmation code
+code: Verification code
+name: Ngalan sa screen
+pwd: password
+verify: verify
+no_code: Wala makadawat sa verification code?
+resend: I-klik dinhi aron i-repost
+resend_cd: Mahimong masuko human sa mga segundo
+forget_pwd: Nakalimot sa imong password?
+reset_pwd: Pag-klik dinhi aron ma-reset
+oauth_hint_title: Log in gamit ang laing pamaagi
+oauth_hint_tip: Kini nga email gigapos sa usa ka ikatulo nga partido nga pag-login, palihug pilia ang mosunod nga pamaagi aron magpadayon
+oauth_google: Padayon sa Google
+oauth_apple: Pagpadayon sa Apple
+oauth_wechat: Padayon sa paggamit sa WeChat
+oauth_github: Ipadayon ang paggamit sa GitHub
+oauth_microsoft: Pagpadayon sa Microsoft
+more: Dugang pa
+err_format: Sayop sa porma

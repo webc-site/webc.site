@@ -1,0 +1,6 @@
+load: pakrovimas
+tip: Aukščiau parodyta tvarka spustelėkite toliau esančiame paveikslėlyje esančias piktogramas
+suc: Patvirtinimas sėkmingas
+fail: Patvirtinti nepavyko, atnaujinkite po vienos sekundės
+refresh: atnaujinti
+validImg: Patvirtinimo kodo paveikslėlis

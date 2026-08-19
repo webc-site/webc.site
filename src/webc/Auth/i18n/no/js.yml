@@ -1,0 +1,29 @@
+mail: Post
+phone: mobiltelefon
+signin: Logg inn
+signup: register
+get_code: Få bekreftelseskode
+agree_prefix: Ved å logge inn samtykker du
+terms: Brukeravtale
+code_mail_sent: Bekreftelseskode er sendt til
+welcome: velkommen tilbake
+code_sent: Bekreftelseskode er sendt til
+input_code: angi bekreftelseskode
+code: Bekreftelseskode
+name: Skjermnavn
+pwd: passord
+verify: verifisere
+no_code: Mottok du ikke bekreftelseskoden?
+resend: Klikk her for å legge ut på nytt
+resend_cd: Kan sendes på nytt etter sekunder
+forget_pwd: Glemt passordet ditt?
+reset_pwd: Klikk her for å tilbakestille
+oauth_hint_title: Logg på med en annen metode
+oauth_hint_tip: Denne e-posten har blitt bundet til en tredjeparts pålogging. Velg følgende metode for å fortsette
+oauth_google: Fortsett med Google
+oauth_apple: Fortsett med Apple
+oauth_wechat: Fortsett å bruke WeChat
+oauth_github: Fortsett å bruke GitHub
+oauth_microsoft: Fortsett med Microsoft
+more: Flere
+err_format: Formatfeil

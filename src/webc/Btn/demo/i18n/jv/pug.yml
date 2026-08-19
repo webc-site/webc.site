@@ -1,0 +1,4 @@
+default: Tombol standar
+main: tombol utama
+link: tombol link
+icon: Tombol Ikon (.BtnC)

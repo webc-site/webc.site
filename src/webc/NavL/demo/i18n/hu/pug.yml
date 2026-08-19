@@ -1,0 +1,7 @@
+desc: A navigációs menü vagy a vissza gomb automatikus meghatározása és átváltása az aktuális útvonal alapján
+desktop_title: Asztali kijelző
+desktop_desc: Amikor a deklarált menüútvonalon van, jelenítse meg a menüelemek csempeit; ellenkező esetben jelenítse meg a vissza gombot
+mobile_title: Mobil kijelző
+mobile_desc: Amikor a deklarált menüútvonalon van, ikongombbá omlik össze, és támogatja a menü kicsúszását; egyébként egy vissza gombot jelenít meg
+normal_state: Navigációs állapot (c-nav-menu)
+back_state: Tartalék állapot (c-back)
