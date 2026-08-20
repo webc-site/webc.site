@@ -36,6 +36,7 @@ import { On } from "../js/On.js";
 import { fetchLang } from "../js/fetchLang.js";
 import conf from "@webc.site/api/auth/conf.js";
 import info from "@webc.site/api/auth/info.js";
+import signUpMail from "@webc.site/api/auth/signUpMail.js";
 import { PHONE as ACCOUNT_PHONE } from "@webc.site/api/auth/enum/AccountType.js";
 import {
   PHONE as AUTH_PHONE,
@@ -104,6 +105,19 @@ const TAG = "auth",
     }
   },
   onSubmit = (form, run) => On(form, { submit: onIng(form, run) }),
+  withCaptcha = async (run) => {
+    try {
+      const captcha = await Captcha();
+      if (!captcha) return;
+      setCaptcha(captcha);
+      return await run();
+    } catch {}
+  },
+  sendMail = async (host, mail) => {
+    const [cd] = await signUpMail(mail);
+    host.startCd(cd || 60);
+    return cd;
+  },
   sendSms = async (host, phone) => {
     const cd = host.onSmsSend ? await host.onSmsSend(phone) : 60;
     host.startCd(cd || 60);
@@ -188,6 +202,45 @@ const TAG = "auth",
     wrap.append(newBtnIcon(MORE, C_BTNC, SUBMIT));
     return wrap;
   },
+  makeResend = (host, i18n, form, onResend, input_code, is_reset) => {
+    const foot = is_reset ? newReset() : newEl("footer"),
+      renderFoot = () => {
+        foot.textContent = "";
+        const cd = host._cd;
+        if (cd > 0) {
+          const txt = cd + i18n[RESEND_CD];
+          if (is_reset) {
+            const b = newEl(B);
+            b.textContent = txt;
+            foot.append(b);
+          } else {
+            foot.textContent = txt;
+          }
+        } else {
+          const [b_txt, a_resend] = is_reset ? newLi(B, A) : [null, newEl(A)];
+          a_resend.textContent = i18n[RESEND];
+          On(a_resend, {
+            click: onIng(form, async () => {
+              await onResend();
+              if (input_code) {
+                input_code.value = "";
+                focus(input_code);
+              }
+            })
+          });
+          if (is_reset) {
+            b_txt.textContent = i18n[NO_CODE];
+            foot.append(b_txt, a_resend);
+          } else {
+            foot.append(i18n[NO_CODE] + " ", a_resend);
+          }
+        }
+      };
+    foot.className = is_reset ? RESET + " cd" : "cd";
+    foot._update = renderFoot;
+    renderFoot();
+    return foot;
+  },
   makeFooter = (i18n, terms_url) => {
     const [footer, a_terms] = newLi("footer", A);
     a_terms.href = terms_url || "/p/en/terms.html";
@@ -199,7 +252,7 @@ const TAG = "auth",
   render = (host) => {
     host.textContent = "";
     let { _step: step } = host;
-    const { _mail: mail, _phone: phone, _cd: cd, _i18n: i18n } = host;
+    const { _mail: mail, _phone: phone, _i18n: i18n } = host;
     if (!i18n) return;
 
     const [has_phone, prov_li] = authTypeLi();
@@ -219,7 +272,7 @@ const TAG = "auth",
         if (host.onPassport) host.onPassport(id);
       },
       onPassport = (e) => {
-        const p = e?.submitter?.dataset?.p;
+        const p = e.submitter?.dataset.p;
         if (p) {
           if (p === MORE) {
             host.setStep(prov_li);
@@ -252,7 +305,7 @@ const TAG = "auth",
       form.append(h3, p, prov_box, newReset(a_back));
 
       onSubmit(form, async (e) => {
-        const id = e?.submitter?.dataset?.p;
+        const id = e.submitter?.dataset.p;
         if (id) onOauth(Number(id));
       });
     } else if (step === STATE_MAIL) {
@@ -292,12 +345,10 @@ const TAG = "auth",
           host.setStep(STATE_SIGNIN);
           return;
         }
-        try {
-          const captcha = await Captcha();
-          if (!captcha) return;
-          setCaptcha(captcha);
+        await withCaptcha(async () => {
+          await sendMail(host, val);
           host.setStep(STATE_SIGNUP);
-        } catch {}
+        });
       });
       focus(input_mail);
     } else if (step === STATE_SIGNUP) {
@@ -315,22 +366,13 @@ const TAG = "auth",
           maxlength: 64
         }),
         [wrap_code, input_code] = makeCodeInput(i18n),
-        [foot, a_resend] = newLi("footer", A);
-
-      a_resend.textContent = i18n[RESEND];
-      On(a_resend, {
-        click: onIng(form, async () => {
-          try {
-            const captcha = await Captcha();
-            if (!captcha) return;
-            setCaptcha(captcha);
-            if (host.onResend) await host.onResend(mail);
-            input_code.value = "";
-            focus(input_code);
-          } catch {}
-        })
-      });
-      foot.append(i18n[NO_CODE] + " ", a_resend);
+        foot = makeResend(
+          host,
+          i18n,
+          form,
+          () => withCaptcha(() => sendMail(host, mail)),
+          input_code
+        );
 
       form.append(
         wrap_mail,
@@ -409,27 +451,9 @@ const TAG = "auth",
         btn_back = makeBack(() => host.setStep(STATE_PHONE)),
         btn_submit = newSubmit(i18n[VERIFY]),
         [wrap_code, input_code] = makeCodeInput(i18n),
-        foot_li = [];
+        foot = makeResend(host, i18n, form, () => sendSms(host, phone), input_code, true);
 
-      if (cd > 0) {
-        const b_cd = newEl(B);
-        b_cd.textContent = cd + i18n[RESEND_CD];
-        foot_li.push(b_cd);
-      } else {
-        const [b_txt, a_resend] = newLi(B, A);
-        b_txt.textContent = i18n[NO_CODE];
-        a_resend.textContent = i18n[RESEND];
-        On(a_resend, {
-          click: onIng(form, async () => {
-            await sendSms(host, phone);
-            input_code.value = "";
-            focus(input_code);
-          })
-        });
-        foot_li.push(b_txt, a_resend);
-      }
-
-      form.append(wrap_phone, wrap_code, newRow(btn_back, btn_submit), newReset(...foot_li));
+      form.append(wrap_phone, wrap_code, newRow(btn_back, btn_submit), foot);
 
       onSubmit(form, async () => {
         const c = input_code.value.trim();
@@ -478,12 +502,24 @@ export class Auth extends HTMLElement {
   startCd(n = 60) {
     this._cd = n;
     if (this._timer) clearInterval(this._timer);
+    const update = () => {
+      const cdEl = this.querySelector(".cd");
+      if (cdEl) {
+        if (cdEl._update) {
+          cdEl._update();
+        } else if (this._cd > 0) {
+          cdEl.textContent = this._cd + this._i18n[RESEND_CD];
+        } else {
+          render(this);
+        }
+      }
+    };
     this._timer = setInterval(() => {
       if (--this._cd <= 0) {
         clearInterval(this._timer);
         this._timer = null;
       }
-      render(this);
+      update();
     }, 1000);
     render(this);
   }
