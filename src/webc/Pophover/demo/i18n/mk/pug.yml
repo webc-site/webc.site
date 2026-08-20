@@ -5,3 +5,5 @@ bottom: Долу
 left: Лево
 right: право
 auto: автоматски
+longText: долг текст
+longTip: Автоматски завиткајте долг текст и долги врски: https://github.com/webc-site/webc.site/blob/main/src/webc/Pophover.js

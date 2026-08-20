@@ -5,3 +5,5 @@ bottom: Žemyn
 left: Kairė
 right: teisingai
 auto: automatinis
+longText: ilgas tekstas
+longTip: Automatiškai apvyniokite ilgą tekstą ir ilgas nuorodas: https://github.com/webc-site/webc.site/blob/main/src/webc/Pophover.js

@@ -5,3 +5,5 @@ bottom: Alas
 left: Vasen
 right: oikein
 auto: automaattinen
+longText: pitkä teksti
+longTip: Kääri pitkä teksti ja pitkät linkit automaattisesti: https://github.com/webc-site/webc.site/blob/main/src/webc/Pophover.js

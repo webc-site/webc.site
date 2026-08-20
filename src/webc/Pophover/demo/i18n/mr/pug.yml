@@ -5,3 +5,5 @@ bottom: खाली
 left: बाकी
 right: बरोबर
 auto: स्वयंचलित
+longText: लांब मजकूर
+longTip: लांब मजकूर आणि लांब दुवे स्वयंचलितपणे गुंडाळा: https://github.com/webc-site/webc.site/blob/main/src/webc/Pophover.js

@@ -5,3 +5,5 @@ bottom: তললৈ
 left: বাওঁ
 right: শুদ্ধ
 auto: স্বয়ংক্ৰিয়
+longText: দীঘলীয়া লিখনী
+longTip: স্বয়ংক্ৰিয়ভাৱে দীঘল লিখনী আৰু দীঘল লিংকসমূহ ৰেপ কৰক: https://github.com/webc-site/webc.site/blob/main/src/webc/Pophover.js

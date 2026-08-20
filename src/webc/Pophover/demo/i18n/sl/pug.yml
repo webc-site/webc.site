@@ -5,3 +5,5 @@ bottom: Dol
 left: levo
 right: desno
 auto: samodejno
+longText: dolgo besedilo
+longTip: Samodejno prelomi dolgo besedilo in dolge povezave: https://github.com/webc-site/webc.site/blob/main/src/webc/Pophover.js

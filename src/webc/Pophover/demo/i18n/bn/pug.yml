@@ -5,3 +5,5 @@ bottom: নিচে
 left: বাম
 right: অধিকার
 auto: স্বয়ংক্রিয়
+longText: দীর্ঘ পাঠ্য
+longTip: স্বয়ংক্রিয়ভাবে দীর্ঘ পাঠ্য এবং দীর্ঘ লিঙ্কগুলি মোড়ানো: https://github.com/webc-site/webc.site/blob/main/src/webc/Pophover.js

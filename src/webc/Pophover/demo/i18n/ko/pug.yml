@@ -5,3 +5,5 @@ bottom: 아래에
 left: 왼쪽
 right: 오른쪽
 auto: 오토매틱
+longText: 긴 텍스트
+longTip: 긴 텍스트와 긴 링크를 자동으로 줄 바꿈: https://github.com/webc-site/webc.site/blob/main/src/webc/Pophover.js

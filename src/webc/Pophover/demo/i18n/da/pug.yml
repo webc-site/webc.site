@@ -5,3 +5,5 @@ bottom: Ned
 left: Venstre
 right: højre
 auto: automatisk
+longText: lang tekst
+longTip: Ombryd automatisk lang tekst og lange links: https://github.com/webc-site/webc.site/blob/main/src/webc/Pophover.js

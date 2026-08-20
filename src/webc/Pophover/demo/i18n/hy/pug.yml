@@ -5,3 +5,5 @@ bottom: Ներքև
 left: Ձախ
 right: ճիշտ
 auto: ավտոմատ
+longText: երկար տեքստ
+longTip: Ավտոմատ կերպով փաթաթել երկար տեքստը և երկար հղումները՝ https://github.com/webc-site/webc.site/blob/main/src/webc/Pophover.js

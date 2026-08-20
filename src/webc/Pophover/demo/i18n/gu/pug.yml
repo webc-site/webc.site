@@ -5,3 +5,5 @@ bottom: નીચે
 left: ડાબી
 right: અધિકાર
 auto: આપોઆપ
+longText: લાંબું લખાણ
+longTip: લાંબી ટેક્સ્ટ અને લાંબી લિંક્સ આપમેળે લપેટી: https://github.com/webc-site/webc.site/blob/main/src/webc/Pophover.js

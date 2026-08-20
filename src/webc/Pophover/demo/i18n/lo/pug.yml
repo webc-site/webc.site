@@ -5,3 +5,5 @@ bottom: ລົງ
 left: ຊ້າຍ
 right: ຖືກຕ້ອງ
 auto: ອັດຕະໂນມັດ
+longText: ຂໍ້ຄວາມຍາວ
+longTip: ຫໍ່ຂໍ້ຄວາມຍາວ ແລະລິ້ງຍາວໂດຍອັດຕະໂນມັດ: https://github.com/webc-site/webc.site/blob/main/src/webc/Pophover.js

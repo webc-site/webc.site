@@ -5,3 +5,5 @@ bottom: Xuống
 left: Bên trái
 right: Phải
 auto: tự động
+longText: văn bản dài
+longTip: Tự động ngắt văn bản dài và liên kết dài: https://github.com/webc-site/webc.site/blob/main/src/webc/Pophover.js

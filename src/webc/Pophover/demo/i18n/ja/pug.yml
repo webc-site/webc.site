@@ -5,3 +5,5 @@ bottom: 下
 left: 左
 right: 右
 auto: 自動
+longText: 長い文章
+longTip: 長いテキストと長いリンクを自動的に折り返す: https://github.com/webc-site/webc.site/blob/main/src/webc/Pophover.js

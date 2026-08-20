@@ -5,3 +5,5 @@ bottom: Dolů
 left: Vlevo
 right: právo
 auto: automatický
+longText: dlouhý text
+longTip: Automaticky zalamovat dlouhý text a dlouhé odkazy: https://github.com/webc-site/webc.site/blob/main/src/webc/Pophover.js

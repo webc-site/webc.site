@@ -5,3 +5,5 @@ bottom: Alla
 left: Vasakule
 right: õige
 auto: automaatne
+longText: pikk tekst
+longTip: Mähkige pikk tekst ja pikad lingid automaatselt: https://github.com/webc-site/webc.site/blob/main/src/webc/Pophover.js

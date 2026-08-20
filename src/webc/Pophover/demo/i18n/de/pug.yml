@@ -5,3 +5,5 @@ bottom: Runter
 left: Links
 right: Rechts
 auto: automatisch
+longText: langer Text
+longTip: Langtext und lange Links automatisch umbrechen: https://github.com/webc-site/webc.site/blob/main/src/webc/Pophover.js

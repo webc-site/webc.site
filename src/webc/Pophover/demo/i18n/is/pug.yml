@@ -5,3 +5,5 @@ bottom: Niður
 left: Vinstri
 right: rétt
 auto: sjálfvirkur
+longText: langur texti
+longTip: Vefja sjálfkrafa inn langan texta og langa tengla: https://github.com/webc-site/webc.site/blob/main/src/webc/Pophover.js

@@ -5,3 +5,5 @@ bottom: Sa ubos
 left: Wala
 right: husto
 auto: awtomatiko
+longText: taas nga text
+longTip: Awtomatikong iputos ang taas nga teksto ug taas nga mga link: https://github.com/webc-site/webc.site/blob/main/src/webc/Popover.js

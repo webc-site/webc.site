@@ -5,3 +5,5 @@ bottom: Poshtë
 left: Majtas
 right: drejtë
 auto: automatike
+longText: tekst i gjatë
+longTip: Mbështillni automatikisht tekstin e gjatë dhe lidhjet e gjata: https://github.com/webc-site/webc.site/blob/main/src/webc/Pophover.js

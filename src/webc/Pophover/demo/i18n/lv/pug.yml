@@ -5,3 +5,5 @@ bottom: Uz leju
 left: Pa kreisi
 right: pareizi
 auto: automātiski
+longText: garš teksts
+longTip: Automātiski aplauzt garo tekstu un garās saites: https://github.com/webc-site/webc.site/blob/main/src/webc/Pophover.js

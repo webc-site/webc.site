@@ -5,3 +5,5 @@ bottom: Төмен
 left: Солға
 right: дұрыс
 auto: автоматты
+longText: ұзақ мәтін
+longTip: Ұзын мәтінді және ұзын сілтемелерді автоматты түрде орау: https://github.com/webc-site/webc.site/blob/main/src/webc/Pophover.js

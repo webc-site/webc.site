@@ -5,3 +5,5 @@ bottom: तल
 left: बायाँ
 right: सही
 auto: स्वचालित
+longText: लामो पाठ
+longTip: स्वचालित रूपमा लामो पाठ र लामो लिङ्कहरू बेर्नुहोस्: https://github.com/webc-site/webc.site/blob/main/src/webc/Pophover.js

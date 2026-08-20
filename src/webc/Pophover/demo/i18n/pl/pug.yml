@@ -5,3 +5,5 @@ bottom: W dół
 left: Lewy
 right: Prawidłowy
 auto: automatyczny
+longText: długi tekst
+longTip: Automatycznie zawijaj długi tekst i długie linki: https://github.com/webc-site/webc.site/blob/main/src/webc/Pophover.js

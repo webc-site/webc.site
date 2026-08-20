@@ -5,3 +5,5 @@ bottom: පහළට
 left: වම
 right: හරි
 auto: ස්වයංක්රීය
+longText: දිගු පෙළ
+longTip: දිගු පෙළ සහ දිගු සබැඳි ස්වයංක්‍රීයව ඔතා: https://github.com/webc-site/webc.site/blob/main/src/webc/Pophover.js

@@ -5,3 +5,5 @@ bottom: Down
 left: Left
 right: Right
 auto: Automatic
+longText: Long Text
+longTip: Automatically wrap long text and long links: https://github.com/webc-site/webc.site/blob/main/src/webc/Pophover.js

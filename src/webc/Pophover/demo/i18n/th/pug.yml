@@ -5,3 +5,5 @@ bottom: ลง
 left: ซ้าย
 right: ขวา
 auto: อัตโนมัติ
+longText: ข้อความยาว
+longTip: ตัดข้อความยาวและลิงก์ยาวโดยอัตโนมัติ: https://github.com/webc-site/webc.site/blob/main/src/webc/Popover.js

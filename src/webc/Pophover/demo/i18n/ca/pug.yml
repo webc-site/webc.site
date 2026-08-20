@@ -5,3 +5,5 @@ bottom: Avall
 left: Esquerra
 right: dret
 auto: automàtic
+longText: text llarg
+longTip: Embolcalla automàticament text llarg i enllaços llargs: https://github.com/webc-site/webc.site/blob/main/src/webc/Pophover.js
