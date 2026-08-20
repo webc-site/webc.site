@@ -1,4 +1,5 @@
 import { setApi, setFetch, setOnCaptcha, setOnErr } from "@1-/protoapi";
+import Captcha from "../webc/Captcha.js";
 import { langCode } from "./i18n.js";
 import { toastErr } from "./Toast.js";
 
@@ -9,9 +10,7 @@ setFetch((url, conf) => {
   return fetch(url, conf);
 });
 
-setOnCaptcha(() => {
-  console.log("todo setOnCaptcha");
-});
+setOnCaptcha(Captcha);
 
 setOnErr((err) => {
   toastErr((el) => {

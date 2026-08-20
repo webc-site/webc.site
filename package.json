@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "@1-/proto2js": "^0.1.5",
-    "@1-/protoapi": "^0.1.4"
+    "@1-/protoapi": "^0.1.5"
   },
   "devDependencies": {
     "@1-/format": "^0.1.0",

@@ -6,7 +6,7 @@
       "name": "webc.site",
       "dependencies": {
         "@1-/proto2js": "^0.1.5",
-        "@1-/protoapi": "^0.1.4",
+        "@1-/protoapi": "^0.1.5",
       },
       "devDependencies": {
         "@1-/format": "^0.1.0",
@@ -62,7 +62,7 @@
 
     "@1-/proto2js": ["@1-/proto2js@0.1.5", "", { "dependencies": { "@3-/log": "^0.1.9", "@3-/proto_remove_comment": "^0.1.5", "@3-/read": "^0.1.4", "@3-/walk": "^0.2.2", "@3-/write": "^0.1.2", "proto-parser": "^0.0.9", "yargs": "^18.1.0" }, "bin": { "proto2js": "cli.js" } }, "sha512-lnFa29aMdgwZMvqM0dJorDPSMZmv2n/c25LRBiqDPfw2bKdGWyhgTxvx5GxyxCGA2mTfsRVeiRB96WWbxua+TA=="],
 
-    "@1-/protoapi": ["@1-/protoapi@0.1.4", "", { "dependencies": { "@1-/proto": "^0.1.1", "@3-/utf8": "^0.1.1" } }, "sha512-CuQ3qe0VKg2OmMzf7mMnBlVo9oC1t7WhQzWJFpGCn7bOUSDYX4Rhhd3jifO9MdnTWh2JtvrvcEg/4tMznsFwXQ=="],
+    "@1-/protoapi": ["@1-/protoapi@0.1.5", "", { "dependencies": { "@1-/proto": "^0.1.1", "@3-/utf8": "^0.1.1" } }, "sha512-8mwoBN1uI/mES8E0v23tNm4Prh0s6DyUT9iG4XBKhRWBhHPAgkQP7fH1i86hPArQ/zvDMA1zx6B04UPUu7Tjzg=="],
 
     "@1-/read": ["@1-/read@0.1.1", "", {}, "sha512-Zz2eYvS6cQSTgOJkjEaB/4lk/0RUD8vJOhlw9nmubVT2ZqfSZmQ+YAr5XXIm75Bv375U6jsbh2BNPvzvWNvKYg=="],
 
