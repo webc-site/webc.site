@@ -2,9 +2,9 @@
 
 Integra r-reġistrazzjoni u l-login tal-email u tan-numru tat-telefon ċellulari, il-verifika tal-kodiċi tal-verifika, il-login tal-password u l-login rapidu ta’ partijiet terzi.
 
-- Jappoġġja l-qlib tat-tab bejn l-indirizz tal-email u n-numru tat-telefon ċellulari
+- Appoġġ email u numru tat-telefon ċellulari input
 - Tikketti li jżommu f'wiċċ l-ilma b'tessut tal-ħġieġ likwidu
-- Jappoġġja l-għażla tal-kodiċi taż-żona f'diversi pajjiżi u l-countdown tal-kodiċi tal-verifika tal-SMS
+- Appoġġ kodiċi ta 'verifika SMS countdown
 - Appoġġ ta 'parti terza login OAuth malajr u gwida marbuta
 
 ## Uża d-demo
@@ -17,9 +17,8 @@ import "webc.site/Auth.js";
 
 const auth = document.querySelector("c-auth");
 
-auth.onMail = async (mail) => {
-  // Irritorna l-kodiċi tal-istatus: 1 għar-reġistrazzjoni tal-kodiċi tal-verifika, 2 għall-login tal-password, jew irritorna array tal-login ta’ parti terza ["google", "apple"]
-  return 2;
+auth.onSignup = async (mail, name, password, code) => {
+  return [0, mail, name, code];
 };
 
 auth.onLogin = async (mail, password) => {
@@ -46,11 +45,10 @@ auth.addEventListener("auth", (e) => {
 - `step`: stat attwali (numru jew firxa)
 - `mail`: Email
 - `phone`: numru tat-telefon ċellulari
-- `cc`: kodiċi internazzjonali ta' tisselezzjona (default 86)
-- `onMail(mail)`: Iċċekkja callback bl-email
-- `onSignup(mail, name, password)`: Irreġistra callback
+- `onSignup(mail, name, password, code)`: Irreġistra callback
+- `onResend(mail)`: Ibgħat mill-ġdid callback tal-kodiċi tal-verifika
 - `onLogin(mail, password)`: Callback tal-login tal-password
-- `onSmsSend(phone, cc)`: Ibgħat sejħa lura tal-kodiċi ta' verifika ta' SMS
-- `onSmsVerify(phone, cc, code)`: Callback tal-kodiċi tal-verifika tal-SMS tal-verifika
+- `onSmsSend(phone)`: Ibgħat sejħa lura tal-kodiċi ta' verifika SMS
+- `onSmsVerify(phone, code)`: Callback tal-kodiċi tal-verifika tal-SMS tal-verifika
 - `onPassport(provider)`: Callback ta' login malajr ta' partijiet terzi
 - `onReset(mail)`: Insejt il-password reset callback

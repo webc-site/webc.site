@@ -2,9 +2,9 @@
 
 Integrálja az e-mail- és mobiltelefonszám-regisztrációt és bejelentkezést, az ellenőrző kód ellenőrzését, a jelszó-bejelentkezést és a harmadik féltől származó gyors bejelentkezést.
 
-- Támogatja az e-mail cím és a mobiltelefonszám közötti lapváltást
+- Támogatja az e-mail és a mobiltelefonszám bevitelét
 - Lebegő címkék folyékony üveg textúrával
-- Támogatja a több ország körzetszámának kiválasztását és az SMS-ellenőrző kód visszaszámlálását
+- Támogassa az SMS-ellenőrző kód visszaszámlálását
 - Támogatja a harmadik féltől származó OAuth gyors bejelentkezést és a kötött útmutatást
 
 ## Használd a demót
@@ -17,9 +17,8 @@ import "webc.site/Auth.js";
 
 const auth = document.querySelector("c-auth");
 
-auth.onMail = async (mail) => {
-  // Állapotkód visszaküldése: 1 az ellenőrző kód regisztrálásához, 2 a jelszó bejelentkezéshez, vagy visszaküldi harmadik fél bejelentkezési tömbjét ["google", "apple"]
-  return 2;
+auth.onSignup = async (mail, name, password, code) => {
+  return [0, mail, name, code];
 };
 
 auth.onLogin = async (mail, password) => {
@@ -46,11 +45,10 @@ auth.addEventListener("auth", (e) => {
 - `step`: jelenlegi állapot (szám vagy tömb)
 - `mail`: E-mail
 - `phone`: mobiltelefonszám
-- `cc`: nemzetközi hívószám (alapértelmezett 86)
-- `onMail(mail)`: E-mail ellenőrzés visszahívás
-- `onSignup(mail, name, password)`: Visszahívás regisztrálása
+- `onSignup(mail, name, password, code)`: Visszahívás regisztrálása
+- `onResend(mail)`: Ellenőrző kód visszahívásának újraküldése
 - `onLogin(mail, password)`: Jelszavas bejelentkezés visszahívása
-- `onSmsSend(phone, cc)`: SMS-ellenőrző kód visszahívása
-- `onSmsVerify(phone, cc, code)`: Ellenőrző SMS ellenőrző kód visszahívás
+- `onSmsSend(phone)`: SMS-ellenőrző kód visszahívása
+- `onSmsVerify(phone, code)`: Ellenőrző SMS ellenőrző kód visszahívás
 - `onPassport(provider)`: Harmadik fél gyors bejelentkezési visszahívása
 - `onReset(mail)`: Elfelejtett jelszó visszaállítása

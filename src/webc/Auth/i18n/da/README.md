@@ -2,9 +2,9 @@
 
 Integrer e-mail- og mobiltelefonnummerregistrering og -login, verifikationskodebekræftelse, adgangskodelogin og hurtig login fra tredjepart.
 
-- Understøtter faneskift mellem e-mailadresse og mobiltelefonnummer
+- Support e-mail og mobiltelefonnummer input
 - Flydende etiketter med flydende glasstruktur
-- Understøtter valg af områdenummer for flere lande og nedtælling af SMS-bekræftelseskode
+- Support SMS-bekræftelseskode nedtælling
 - Understøtte tredjeparts OAuth-hurtigt login og bundet vejledning
 
 ## Brug demoen
@@ -17,9 +17,8 @@ import "webc.site/Auth.js";
 
 const auth = document.querySelector("c-auth");
 
-auth.onMail = async (mail) => {
-  // Returner statuskode: 1 for verifikationskoderegistrering, 2 for adgangskodelogin, eller returner tredjepartslogin-array ["google", "apple"]
-  return 2;
+auth.onSignup = async (mail, name, password, code) => {
+  return [0, mail, name, code];
 };
 
 auth.onLogin = async (mail, password) => {
@@ -46,11 +45,10 @@ auth.addEventListener("auth", (e) => {
 - `step`: aktuel status (nummer eller matrix)
 - `mail`: E-mail
 - `phone`: mobiltelefonnummer
-- `cc`: international opkaldskode (standard 86)
-- `onMail(mail)`: E-mail check tilbagekald
-- `onSignup(mail, name, password)`: Registrer tilbagekald
+- `onSignup(mail, name, password, code)`: Registrer tilbagekald
+- `onResend(mail)`: Send bekræftelseskode tilbagekald igen
 - `onLogin(mail, password)`: Tilbagekald ved login med adgangskode
-- `onSmsSend(phone, cc)`: Send SMS-bekræftelseskode tilbagekald
-- `onSmsVerify(phone, cc, code)`: Bekræftelses-sms-bekræftelseskode tilbagekald
+- `onSmsSend(phone)`: Send SMS-bekræftelseskode tilbagekald
+- `onSmsVerify(phone, code)`: Bekræftelses-sms-bekræftelseskode tilbagekald
 - `onPassport(provider)`: Hurtigt login-tilbagekald fra tredjepart
 - `onReset(mail)`: Glemt adgangskode nulstil tilbagekald

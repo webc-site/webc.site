@@ -2,9 +2,9 @@
 
 Integratu posta elektronikoa eta telefono mugikorreko zenbakien erregistroa eta saioa, egiaztapen-kodea egiaztatzea, pasahitza saioa eta hirugarrenen saioa azkarra.
 
-- Helbide elektronikoaren eta telefono mugikorraren zenbakiaren artean fitxa aldatzea onartzen du
+- Onartu posta elektronikoa eta telefono mugikorra sartzeko
 - Beira likidoaren ehundura duten etiketa flotagarriak
-- Herrialde anitzeko eremu-kodea hautatzea eta SMS egiaztatzeko kodea atzerako kontaketa onartzen ditu
+- Onartu SMS egiaztatzeko kodea atzerako kontaketa
 - Onartu hirugarrenen OAuth-en saio-hasiera azkarra eta loturiko orientabideak
 
 ## Erabili demoa
@@ -17,9 +17,8 @@ import "webc.site/Auth.js";
 
 const auth = document.querySelector("c-auth");
 
-auth.onMail = async (mail) => {
-  // Itzuli egoera-kodea: 1 egiaztapen-kodea erregistratzeko, 2 pasahitz saioa hasteko edo hirugarrenen saio-hasierako array itzultzeko ["google", "apple"]
-  return 2;
+auth.onSignup = async (mail, name, password, code) => {
+  return [0, mail, name, code];
 };
 
 auth.onLogin = async (mail, password) => {
@@ -46,11 +45,10 @@ auth.addEventListener("auth", (e) => {
 - `step`: uneko egoera (zenbakia edo matrizea)
 - `mail`: Posta elektronikoa
 - `phone`: telefono-zenbakia
-- `cc`: nazioarteko markatze-kodea (86 lehenetsia)
-- `onMail(mail)`: posta elektronikoa egiaztatzeko deia
-- `onSignup(mail, name, password)`: Erregistratu deia itzultzeko
+- `onSignup(mail, name, password, code)`: Erregistratu deia itzultzeko
+- `onResend(mail)`: berriro bidali egiaztapen-kodearen deia
 - `onLogin(mail, password)`: pasahitza saioa hasteko deia
-- `onSmsSend(phone, cc)`: Bidali SMS egiaztapen-kodea deia
-- `onSmsVerify(phone, cc, code)`: egiaztapen-SMS egiaztapen-kodearen itzulera
+- `onSmsSend(phone)`: Bidali SMS egiaztapen-kodea deia
+- `onSmsVerify(phone, code)`: egiaztapen-SMS egiaztapen-kodearen itzulera
 - `onPassport(provider)`: Hirugarrenen saioa hasteko deia azkarra
 - `onReset(mail)`: Pasahitza berrezartzeko deia ahaztu zait

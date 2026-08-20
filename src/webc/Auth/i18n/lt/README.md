@@ -2,9 +2,9 @@
 
 Integruokite el. pašto ir mobiliojo telefono numerių registraciją ir prisijungimą, patvirtinimo kodo patvirtinimą, slaptažodžio prisijungimą ir trečiosios šalies greitą prisijungimą.
 
-- Palaiko skirtukų perjungimą tarp el. pašto adreso ir mobiliojo telefono numerio
+- Palaikykite el. pašto ir mobiliojo telefono numerio įvedimą
 - Plaukiojančios etiketės su skysto stiklo tekstūra
-- Palaiko kelių šalių vietovės kodo pasirinkimą ir SMS patvirtinimo kodo atgalinį skaičiavimą
+- Palaikykite SMS patvirtinimo kodo atgalinį skaičiavimą
 - Palaikykite trečiosios šalies „OAuth“ greitą prisijungimą ir susietas gaires
 
 ## Naudokite demonstracinę versiją
@@ -17,9 +17,8 @@ import "webc.site/Auth.js";
 
 const auth = document.querySelector("c-auth");
 
-auth.onMail = async (mail) => {
-  // Grąžinti būsenos kodą: 1 patvirtinimo kodo registracijai, 2 slaptažodžiui prisijungti arba grąžinti trečiosios šalies prisijungimo masyvą ["google", "apple"]
-  return 2;
+auth.onSignup = async (mail, name, password, code) => {
+  return [0, mail, name, code];
 };
 
 auth.onLogin = async (mail, password) => {
@@ -46,11 +45,10 @@ auth.addEventListener("auth", (e) => {
 - `step`: dabartinė būsena (skaičius arba masyvas)
 - `mail`: El. paštas
 - `phone`: mobiliojo telefono numeris
-- `cc`: tarptautinis rinkimo kodas (numatytasis 86)
-- `onMail(mail)`: el. pašto patikrinimo atgalinis skambutis
-- `onSignup(mail, name, password)`: užregistruokite atgalinį skambutį
+- `onSignup(mail, name, password, code)`: užregistruokite atgalinį skambutį
+- `onResend(mail)`: iš naujo išsiųsti patvirtinimo kodo atgalinį skambutį
 - `onLogin(mail, password)`: Prisijungimo slaptažodžiu atgalinis skambutis
-- `onSmsSend(phone, cc)`: siųskite SMS patvirtinimo kodo atgalinį skambutį
-- `onSmsVerify(phone, cc, code)`: patvirtinimo SMS patvirtinimo kodo atgalinis skambutis
+- `onSmsSend(phone)`: Siųsti SMS patvirtinimo kodo atgalinį skambutį
+- `onSmsVerify(phone, code)`: patvirtinimo SMS patvirtinimo kodo atgalinis skambutis
 - `onPassport(provider)`: trečiosios šalies greito prisijungimo atgalinis skambutis
 - `onReset(mail)`: Pamiršau slaptažodį iš naujo nustatyti atgalinį skambutį

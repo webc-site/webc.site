@@ -2,9 +2,9 @@
 
 Integrasikan pendaftaran dan log masuk nombor e-mel dan telefon bimbit, pengesahan kod pengesahan, log masuk kata laluan dan log masuk pantas pihak ketiga.
 
-- Menyokong penukaran tab antara alamat e-mel dan nombor telefon mudah alih
+- Menyokong input e-mel dan nombor telefon mudah alih
 - Label terapung dengan tekstur kaca cecair
-- Menyokong pemilihan kod kawasan berbilang negara dan undur kod pengesahan SMS
+- Sokong undur kod pengesahan SMS
 - Sokong log masuk pantas OAuth pihak ketiga dan panduan terikat
 
 ## Gunakan demo
@@ -17,9 +17,8 @@ import "webc.site/Auth.js";
 
 const auth = document.querySelector("c-auth");
 
-auth.onMail = async (mail) => {
-  // Kembalikan kod status: 1 untuk pendaftaran kod pengesahan, 2 untuk log masuk kata laluan atau kembalikan tatasusunan log masuk pihak ketiga ["google", "apple"]
-  return 2;
+auth.onSignup = async (mail, name, password, code) => {
+  return [0, mail, name, code];
 };
 
 auth.onLogin = async (mail, password) => {
@@ -46,11 +45,10 @@ auth.addEventListener("auth", (e) => {
 - `step`: status semasa (nombor atau tatasusunan)
 - `mail`: E-mel
 - `phone`: nombor telefon mudah alih
-- `cc`: kod dail antarabangsa (lalai 86)
-- `onMail(mail)`: Semakan panggilan balik e-mel
-- `onSignup(mail, name, password)`: Daftar panggilan balik
+- `onSignup(mail, name, password, code)`: Daftar panggilan balik
+- `onResend(mail)`: Hantar semula panggilan balik kod pengesahan
 - `onLogin(mail, password)`: Panggilan balik log masuk kata laluan
-- `onSmsSend(phone, cc)`: Hantar panggilan balik kod pengesahan SMS
-- `onSmsVerify(phone, cc, code)`: Pengesahan panggilan balik kod pengesahan SMS
+- `onSmsSend(phone)`: Hantar panggilan balik kod pengesahan SMS
+- `onSmsVerify(phone, code)`: Panggilan balik kod pengesahan SMS pengesahan
 - `onPassport(provider)`: Panggilan balik log masuk pantas pihak ketiga
 - `onReset(mail)`: Terlupa panggilan balik tetapan semula kata laluan

@@ -2,9 +2,9 @@
 
 Zintegruj rejestrację i logowanie za pomocą poczty elektronicznej i numeru telefonu komórkowego, weryfikację kodu weryfikacyjnego, logowanie hasłem i szybkie logowanie przez strony trzecie.
 
-- Obsługuje przełączanie zakładek między adresem e-mail a numerem telefonu komórkowego
+- Obsługa wprowadzania adresu e-mail i numeru telefonu komórkowego
 - Pływające etykiety z teksturą płynnego szkła
-- Obsługuje wybór numerów kierunkowych dla wielu krajów i odliczanie kodów weryfikacyjnych SMS
+- Obsługa odliczania kodu weryfikacyjnego SMS
 - Obsługa szybkiego logowania OAuth innych firm i powiązanych wskazówek
 
 ## Skorzystaj z wersji demonstracyjnej
@@ -17,9 +17,8 @@ import "webc.site/Auth.js";
 
 const auth = document.querySelector("c-auth");
 
-auth.onMail = async (mail) => {
-  // Zwróć kod stanu: 1 w celu rejestracji kodu weryfikacyjnego, 2 w celu logowania za pomocą hasła lub zwróć tablicę logowania innej firmy ["google", "apple"]
-  return 2;
+auth.onSignup = async (mail, name, password, code) => {
+  return [0, mail, name, code];
 };
 
 auth.onLogin = async (mail, password) => {
@@ -46,11 +45,10 @@ auth.addEventListener("auth", (e) => {
 - `step`: bieżący stan (liczba lub tablica)
 - `mail`: E-mail
 - `phone`: numer telefonu komórkowego
-- `cc`: międzynarodowy numer kierunkowy (domyślnie 86)
-- `onMail(mail)`: Oddzwonienie w celu sprawdzenia adresu e-mail
-- `onSignup(mail, name, password)`: Zarejestruj wywołanie zwrotne
+- `onSignup(mail, name, password, code)`: Zarejestruj wywołanie zwrotne
+- `onResend(mail)`: Wyślij ponownie wywołanie zwrotne kodu weryfikacyjnego
 - `onLogin(mail, password)`: Wywołanie zwrotne logowania hasłem
-- `onSmsSend(phone, cc)`: Wyślij SMS-a z kodem zwrotnym weryfikacyjnym
-- `onSmsVerify(phone, cc, code)`: Weryfikacyjny SMS-owy wywołanie zwrotne z kodem weryfikacyjnym
+- `onSmsSend(phone)`: Wyślij SMS-a z kodem zwrotnym weryfikacyjnym
+- `onSmsVerify(phone, code)`: Weryfikacyjny SMS-owy wywołanie zwrotne z kodem weryfikacyjnym
 - `onPassport(provider)`: Funkcja zwrotna szybkiego logowania innej firmy
 - `onReset(mail)`: Zapomniałem wywołania zwrotnego dotyczącego resetowania hasła

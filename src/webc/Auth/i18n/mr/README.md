@@ -2,9 +2,9 @@
 
 ईमेल आणि मोबाइल फोन नंबरची नोंदणी आणि लॉगिन, पडताळणी कोड पडताळणी, पासवर्ड लॉगिन आणि तृतीय-पक्ष द्रुत लॉगिन एकत्रित करा.
 
-- ईमेल पत्ता आणि मोबाइल फोन नंबर दरम्यान टॅब स्विचिंगला समर्थन देते
+- समर्थन ईमेल आणि मोबाइल फोन नंबर इनपुट
 - लिक्विड ग्लास टेक्सचरसह फ्लोटिंग लेबल
-- बहु-देश क्षेत्र कोड निवड आणि SMS सत्यापन कोड काउंटडाउनला समर्थन देते
+- समर्थन SMS सत्यापन कोड काउंटडाउन
 - तृतीय-पक्ष OAuth द्रुत लॉगिन आणि बंधनकारक मार्गदर्शनास समर्थन द्या
 
 ## डेमो वापरा
@@ -17,9 +17,8 @@ import "webc.site/Auth.js";
 
 const auth = document.querySelector("c-auth");
 
-auth.onMail = async (mail) => {
-  // रिटर्न स्टेटस कोड: सत्यापन कोड नोंदणीसाठी 1, पासवर्ड लॉगिनसाठी 2, किंवा तृतीय-पक्ष लॉगिन ॲरे ["google", "apple"] परत करा
-  return 2;
+auth.onSignup = async (mail, name, password, code) => {
+  return [0, mail, name, code];
 };
 
 auth.onLogin = async (mail, password) => {
@@ -46,11 +45,10 @@ auth.addEventListener("auth", (e) => {
 - `step`: वर्तमान स्थिती (संख्या किंवा ॲरे)
 - `mail`: ईमेल
 - `phone`: मोबाइल फोन नंबर
-- `cc`: आंतरराष्ट्रीय डायलिंग कोड (डिफॉल्ट ८६)
-- `onMail(mail)`: ईमेल चेक कॉलबॅक
-- `onSignup(mail, name, password)`: कॉलबॅकची नोंदणी करा
+- `onSignup(mail, name, password, code)`: कॉलबॅकची नोंदणी करा
+- `onResend(mail)`: सत्यापन कोड कॉलबॅक पुन्हा पाठवा
 - `onLogin(mail, password)`: पासवर्ड लॉगिन कॉलबॅक
-- `onSmsSend(phone, cc)`: SMS सत्यापन कोड कॉलबॅक पाठवा
-- `onSmsVerify(phone, cc, code)`: सत्यापन SMS सत्यापन कोड कॉलबॅक
+- `onSmsSend(phone)`: SMS सत्यापन कोड कॉलबॅक पाठवा
+- `onSmsVerify(phone, code)`: सत्यापन SMS सत्यापन कोड कॉलबॅक
 - `onPassport(provider)`: तृतीय-पक्ष द्रुत लॉगिन कॉलबॅक
 - `onReset(mail)`: पासवर्ड रीसेट कॉलबॅक विसरलात

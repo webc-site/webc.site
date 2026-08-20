@@ -2,9 +2,9 @@
 
 Integrera registrering och inloggning för e-post och mobilnummer, verifiering av verifieringskod, lösenordsinloggning och snabbinloggning från tredje part.
 
-- Stöder flikväxling mellan e-postadress och mobiltelefonnummer
+- Stöd inmatning av e-post och mobiltelefonnummer
 - Flytande etiketter med flytande glasstruktur
-- Stöder val av riktnummer för flera länder och nedräkning av SMS-verifieringskod
+- Stöd nedräkning för SMS-verifieringskod
 - Stöd tredjeparts OAuth snabbinloggning och bunden vägledning
 
 ## Använd demon
@@ -17,9 +17,8 @@ import "webc.site/Auth.js";
 
 const auth = document.querySelector("c-auth");
 
-auth.onMail = async (mail) => {
-  // Returnera statuskod: 1 för registrering av verifieringskod, 2 för lösenordsinloggning, eller returnera tredjepartsinloggningsarray ["google", "apple"]
-  return 2;
+auth.onSignup = async (mail, name, password, code) => {
+  return [0, mail, name, code];
 };
 
 auth.onLogin = async (mail, password) => {
@@ -46,11 +45,10 @@ auth.addEventListener("auth", (e) => {
 - `step`: aktuell status (nummer eller matris)
 - `mail`: E-post
 - `phone`: mobiltelefonnummer
-- `cc`: internationellt riktnummer (standard 86)
-- `onMail(mail)`: E-postkontroll återuppringning
-- `onSignup(mail, name, password)`: Registrera återuppringning
+- `onSignup(mail, name, password, code)`: Registrera återuppringning
+- `onResend(mail)`: Skicka återuppringning av verifieringskoden
 - `onLogin(mail, password)`: Återuppringning av lösenordsinloggning
-- `onSmsSend(phone, cc)`: Skicka SMS-verifieringskod återuppringning
-- `onSmsVerify(phone, cc, code)`: Återuppringning med verifierings-SMS-verifieringskod
+- `onSmsSend(phone)`: Skicka SMS-verifieringskod återuppringning
+- `onSmsVerify(phone, code)`: Återuppringning med verifierings-SMS-verifieringskod
 - `onPassport(provider)`: Snabbinloggning från tredje part
 - `onReset(mail)`: Glömt lösenordsåterställning återuppringning

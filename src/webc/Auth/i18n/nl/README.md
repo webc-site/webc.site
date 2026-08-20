@@ -2,9 +2,9 @@
 
 Integreer de registratie en login van e-mail- en mobiele telefoonnummers, verificatie van de verificatiecode, inloggen met wachtwoord en snel inloggen door derden.
 
-- Ondersteunt het schakelen tussen tabbladen tussen e-mailadres en mobiel telefoonnummer
+- Ondersteuning voor het invoeren van e-mail en mobiel telefoonnummer
 - Zwevende etiketten met vloeibare glastextuur
-- Ondersteunt selectie van netnummers voor meerdere landen en het aftellen van sms-verificatiecodes
+- Ondersteuning van het aftellen van de sms-verificatiecode
 - Ondersteuning van OAuth voor snel inloggen en gebonden begeleiding van derden
 
 ## Gebruik de demo
@@ -17,9 +17,8 @@ import "webc.site/Auth.js";
 
 const auth = document.querySelector("c-auth");
 
-auth.onMail = async (mail) => {
-  // Retourstatuscode: 1 voor registratie van verificatiecode, 2 voor inloggen met wachtwoord, of retourneert login-array van derden ["google", "apple"]
-  return 2;
+auth.onSignup = async (mail, name, password, code) => {
+  return [0, mail, name, code];
 };
 
 auth.onLogin = async (mail, password) => {
@@ -46,11 +45,10 @@ auth.addEventListener("auth", (e) => {
 - `step`: huidige status (nummer of array)
 - `mail`: e-mail
 - `phone`: mobiel telefoonnummer
-- `cc`: internationale toegangscode (standaard 86)
-- `onMail(mail)`: terugbellen via e-mailcontrole
-- `onSignup(mail, name, password)`: Terugbellen registreren
+- `onSignup(mail, name, password, code)`: Terugbellen registreren
+- `onResend(mail)`: Terugbelverzoek met verificatiecode opnieuw verzenden
 - `onLogin(mail, password)`: Terugbellen voor wachtwoordaanmelding
-- `onSmsSend(phone, cc)`: Terugbellen via sms-verificatiecode verzenden
-- `onSmsVerify(phone, cc, code)`: Verificatie SMS-verificatiecode terugbellen
+- `onSmsSend(phone)`: Terugbellen via sms-verificatiecode verzenden
+- `onSmsVerify(phone, code)`: Verificatie SMS-verificatiecode terugbellen
 - `onPassport(provider)`: snel terugbellen voor inloggen van derden
 - `onReset(mail)`: Terugbellen voor wachtwoord opnieuw instellen vergeten

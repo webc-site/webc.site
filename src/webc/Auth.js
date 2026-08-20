@@ -153,6 +153,13 @@ const TAG = "auth",
     wrap.append(input, label);
     return [wrap, input];
   },
+  makeCodeInput = (i18n) =>
+    makeInput(TEXT, "", i18n[CODE], {
+      inputmode: "numeric",
+      autocomplete: "one-time-code",
+      minlength: 6,
+      maxlength: 6
+    }),
   makeEdit = (val, label_txt, onEdit) => {
     const [wrap] = makeInput(TEXT, val, label_txt, {
       readonly: "",
@@ -306,16 +313,41 @@ const TAG = "auth",
           autocomplete: "off",
           minlength: 6,
           maxlength: 64
-        });
+        }),
+        [wrap_code, input_code] = makeCodeInput(i18n),
+        [foot, a_resend] = newLi("footer", A);
 
-      form.append(wrap_mail, wrap_name, wrap_pwd, newRow(btn_back, btn_submit, passport));
+      a_resend.textContent = i18n[RESEND];
+      On(a_resend, {
+        click: onIng(form, async () => {
+          try {
+            const captcha = await Captcha();
+            if (!captcha) return;
+            setCaptcha(captcha);
+            if (host.onResend) await host.onResend(mail);
+            input_code.value = "";
+            focus(input_code);
+          } catch {}
+        })
+      });
+      foot.append(i18n[NO_CODE] + " ", a_resend);
+
+      form.append(
+        wrap_mail,
+        wrap_name,
+        wrap_pwd,
+        wrap_code,
+        foot,
+        newRow(btn_back, btn_submit, passport)
+      );
 
       onSubmit(form, async (e) => {
         if (onPassport(e)) return;
         const n = input_name.value.trim(),
-          pwd = input_pwd.value.trim();
-        if (!n || !pwd) return;
-        const res = host.onSignup ? await host.onSignup(mail, n, pwd) : [0, mail, n];
+          pwd = input_pwd.value.trim(),
+          c = input_code.value.trim();
+        if (!n || !pwd || !c) return;
+        const res = host.onSignup ? await host.onSignup(mail, n, pwd, c) : [0, mail, n, c];
         emit(host, TAG, res);
       });
       focus(input_name);
@@ -376,12 +408,7 @@ const TAG = "auth",
       const wrap_phone = makeEdit(phone, i18n[PHONE], () => host.setStep(STATE_PHONE)),
         btn_back = makeBack(() => host.setStep(STATE_PHONE)),
         btn_submit = newSubmit(i18n[VERIFY]),
-        [wrap_code, input_code] = makeInput(TEXT, "", i18n[CODE], {
-          inputmode: "numeric",
-          autocomplete: "one-time-code",
-          minlength: 6,
-          maxlength: 6
-        }),
+        [wrap_code, input_code] = makeCodeInput(i18n),
         foot_li = [];
 
       if (cd > 0) {

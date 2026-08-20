@@ -2,9 +2,9 @@
 
 Integréiert E-Mail an Handysnummer Aschreiwung a Login, Verifizéierungscode Verifizéierung, Passwuert Login an Drëtt Partei Quick Login.
 
-- Ënnerstëtzt Tabswiessel tëscht E-Mail Adress an Handysnummer
+- Ënnerstëtzung E-Mail an Handysnummer Input
 - Floating Etiketten mat flëssege Glas Textur
-- Ënnerstëtzt Multi-Land Beräich Code Auswiel an SMS Verifizéierungscode Countdown
+- Ënnerstëtzung SMS Verifizéierungscode Countdown
 - Ënnerstëtzt Drëtt Partei OAuth séier Login a gebonnen Leedung
 
 ## Benotzt d'Demo
@@ -17,9 +17,8 @@ import "webc.site/Auth.js";
 
 const auth = document.querySelector("c-auth");
 
-auth.onMail = async (mail) => {
-  // Statuscode zréckginn: 1 fir d'Verifikatiounscoderegistréierung, 2 fir d'Passwuert Login, oder d'Drëtt-Partei Login Array zréckzeginn ["google", "apple"]
-  return 2;
+auth.onSignup = async (mail, name, password, code) => {
+  return [0, mail, name, code];
 };
 
 auth.onLogin = async (mail, password) => {
@@ -46,11 +45,10 @@ auth.addEventListener("auth", (e) => {
 - `step`: aktuelle Status (Nummer oder Array)
 - `mail`: E-Mail
 - `phone`: Handysnummer
-- `cc`: international Wielercode (Standard 86)
-- `onMail(mail)`: E-Mail Check Réckruff
-- `onSignup(mail, name, password)`: Réckruff registréieren
+- `onSignup(mail, name, password, code)`: Réckruff registréieren
+- `onResend(mail)`: Réckruff fir d'Verifikatiounscode nei ze schécken
 - `onLogin(mail, password)`: Passwuert Login Réckruff
-- `onSmsSend(phone, cc)`: Schéckt SMS-Verifikatiounscode Réckruff
-- `onSmsVerify(phone, cc, code)`: Verifizéierungs-SMS Verifikatiounscode Réckruff
+- `onSmsSend(phone)`: Schéckt SMS-Verifikatiounscode Réckruff
+- `onSmsVerify(phone, code)`: Verifizéierungs-SMS Verifikatiounscode Réckruff
 - `onPassport(provider)`: Drëtt Partei Quick Login Callback
 - `onReset(mail)`: Passwuert zréckgesat vergiessen Réckruff

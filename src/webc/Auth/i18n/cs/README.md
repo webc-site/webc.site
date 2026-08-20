@@ -2,9 +2,9 @@
 
 Integrujte registraci a přihlášení e-mailu a čísla mobilního telefonu, ověření ověřovacím kódem, přihlášení pomocí hesla a rychlé přihlášení třetích stran.
 
-- Podporuje přepínání karet mezi e-mailovou adresou a číslem mobilního telefonu
+- Podpora zadávání e-mailu a čísla mobilního telefonu
 - Plovoucí štítky s texturou tekutého skla
-- Podporuje výběr předvolby pro více zemí a odpočítávání SMS ověřovacího kódu
+- Podpora SMS ověřovacího kódu odpočítávání
 - Podporujte rychlé přihlášení OAuth třetích stran a vázané pokyny
 
 ## Použijte demo
@@ -17,9 +17,8 @@ import "webc.site/Auth.js";
 
 const auth = document.querySelector("c-auth");
 
-auth.onMail = async (mail) => {
-  // Vraťte stavový kód: 1 pro registraci ověřovacího kódu, 2 pro přihlášení pomocí hesla nebo vraťte pole přihlášení třetí strany ["google", "apple"]
-  return 2;
+auth.onSignup = async (mail, name, password, code) => {
+  return [0, mail, name, code];
 };
 
 auth.onLogin = async (mail, password) => {
@@ -46,11 +45,10 @@ auth.addEventListener("auth", (e) => {
 - `step`: aktuální stav (číslo nebo pole)
 - `mail`: E-mail
 - `phone`: číslo mobilního telefonu
-- `cc`: mezinárodní předvolba (výchozí 86)
-- `onMail(mail)`: Zpětné zavolání pro kontrolu e-mailu
-- `onSignup(mail, name, password)`: Zaregistrujte zpětné volání
+- `onSignup(mail, name, password, code)`: Zaregistrujte zpětné volání
+- `onResend(mail)`: Znovu odeslat zpětné volání ověřovacího kódu
 - `onLogin(mail, password)`: Zpětné volání pro přihlášení k heslu
-- `onSmsSend(phone, cc)`: Odeslat zpětné volání s ověřovacím kódem SMS
-- `onSmsVerify(phone, cc, code)`: Zpětné volání s ověřovacím SMS ověřovacím kódem
+- `onSmsSend(phone)`: Odeslat zpětné volání s ověřovacím kódem SMS
+- `onSmsVerify(phone, code)`: Zpětné volání s ověřovacím SMS ověřovacím kódem
 - `onPassport(provider)`: Zpětné volání pro rychlé přihlášení třetí strany
 - `onReset(mail)`: Zpětné volání pro resetování zapomenutého hesla

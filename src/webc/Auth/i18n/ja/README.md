@@ -2,9 +2,9 @@
 
 電子メールと携帯電話番号の登録とログイン、確認コードの検証、パスワードのログイン、サードパーティのクイック ログインを統合します。
 
-- メールアドレスと携帯電話番号のタブ切り替えをサポート
+- メールアドレスと携帯電話番号の入力をサポート
 - 液体ガラスのテクスチャーを備えたフローティングラベル
-- 複数国の市外局番の選択とSMS認証コードのカウントダウンをサポート
+- SMS認証コードカウントダウンをサポート
 - サードパーティの OAuth クイック ログインとバインドされたガイダンスをサポート
 
 ## デモを使用する
@@ -17,9 +17,8 @@ import "webc.site/Auth.js";
 
 const auth = document.querySelector("c-auth");
 
-auth.onMail = async (mail) => {
-  // ステータス コードを返します: 確認コード登録の場合は 1、パスワード ログインの場合は 2、またはサードパーティのログイン配列 ["google", "apple"] を返します。
-  return 2;
+auth.onSignup = async (mail, name, password, code) => {
+  return [0, mail, name, code];
 };
 
 auth.onLogin = async (mail, password) => {
@@ -46,11 +45,10 @@ auth.addEventListener("auth", (e) => {
 - `step`: 現在のステータス (数値または配列)
 - `mail`: 電子メール
 - `phone`: 携帯電話番号
-- `cc`: 国際ダイヤル番号 (デフォルトは 86)
-- `onMail(mail)`: 電子メール チェック コールバック
-- `onSignup(mail, name, password)`: コールバックを登録します
+- `onSignup(mail, name, password, code)`: コールバックを登録します
+- `onResend(mail)`: 確認コードのコールバックを再送信します
 - `onLogin(mail, password)`: パスワードログインコールバック
-- `onSmsSend(phone, cc)`: SMS 確認コード コールバックを送信します。
-- `onSmsVerify(phone, cc, code)`: 確認 SMS 確認コード コールバック
+- `onSmsSend(phone)`: SMS 確認コードのコールバックを送信します。
+- `onSmsVerify(phone, code)`: 確認 SMS 確認コード コールバック
 - `onPassport(provider)`: サードパーティのクイック ログイン コールバック
 - `onReset(mail)`: パスワードを忘れた場合のリセット コールバック

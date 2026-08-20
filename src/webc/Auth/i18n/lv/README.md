@@ -2,9 +2,9 @@
 
 Integrējiet e-pasta un mobilā tālruņa numura reģistrāciju un pieteikšanos, verifikācijas koda verifikāciju, paroles pieteikšanos un trešās puses ātro pieteikšanos.
 
-- Atbalsta cilnes pārslēgšanu starp e-pasta adresi un mobilā tālruņa numuru
+- Atbalstiet e-pasta un mobilā tālruņa numura ievadi
 - Peldošās etiķetes ar šķidrā stikla tekstūru
-- Atbalsta vairāku valstu apgabala koda atlasi un SMS verifikācijas koda atpakaļskaitīšanu
+- Atbalstiet SMS verifikācijas koda atpakaļskaitīšanu
 - Atbalstiet trešās puses OAuth ātro pieteikšanos un saistošus norādījumus
 
 ## Izmantojiet demonstrāciju
@@ -17,9 +17,8 @@ import "webc.site/Auth.js";
 
 const auth = document.querySelector("c-auth");
 
-auth.onMail = async (mail) => {
-  // Atgriezt statusa kodu: 1 verifikācijas koda reģistrācijai, 2 paroles pieteikšanai vai trešās puses pieteikšanās masīva atgriešanai ["google", "apple"]
-  return 2;
+auth.onSignup = async (mail, name, password, code) => {
+  return [0, mail, name, code];
 };
 
 auth.onLogin = async (mail, password) => {
@@ -46,11 +45,10 @@ auth.addEventListener("auth", (e) => {
 - `step`: pašreizējais statuss (skaitlis vai masīvs)
 - `mail`: e-pasts
 - `phone`: mobilā tālruņa numurs
-- `cc`: starptautiskais sastādīšanas kods (noklusējuma 86)
-- `onMail(mail)`: e-pasta pārbaudes atzvanīšana
-- `onSignup(mail, name, password)`: reģistrēt atzvanīšanu
+- `onSignup(mail, name, password, code)`: reģistrēt atzvanīšanu
+- `onResend(mail)`: atkārtoti nosūtiet verifikācijas koda atzvanu
 - `onLogin(mail, password)`: paroles pieteikšanās atpakaļzvans
-- `onSmsSend(phone, cc)`: nosūtiet SMS verifikācijas koda atzvanīšanu
-- `onSmsVerify(phone, cc, code)`: verifikācijas SMS verifikācijas koda atzvanīšana
+- `onSmsSend(phone)`: nosūtiet SMS verifikācijas koda atzvanīšanu
+- `onSmsVerify(phone, code)`: verifikācijas SMS verifikācijas koda atzvanīšana
 - `onPassport(provider)`: trešās puses ātrās pieteikšanās atzvans
 - `onReset(mail)`: aizmirsa paroles atiestatīšanas atzvanīšana

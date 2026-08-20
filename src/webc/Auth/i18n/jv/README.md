@@ -2,9 +2,9 @@
 
 Integrasi registrasi lan login nomer email lan ponsel, verifikasi kode verifikasi, login sandhi lan login cepet pihak katelu.
 
-- Ndhukung ngoper tab antarane alamat email lan nomer telpon seluler
+- Ndhukung input email lan nomer telpon seluler
 - Label ngambang kanthi tekstur kaca cair
-- Ndhukung pilihan kode area multi-negara lan countdown kode verifikasi SMS
+- Ndhukung countdown kode verifikasi SMS
 - Ndhukung login cepet OAuth pihak katelu lan panuntun dhumateng
 
 ## Gunakake demo
@@ -17,9 +17,8 @@ import "webc.site/Auth.js";
 
 const auth = document.querySelector("c-auth");
 
-auth.onMail = async (mail) => {
-  // Kode status bali: 1 kanggo registrasi kode verifikasi, 2 kanggo login sandi, utawa bali array login pihak katelu ["google", "apple"]
-  return 2;
+auth.onSignup = async (mail, name, password, code) => {
+  return [0, mail, name, code];
 };
 
 auth.onLogin = async (mail, password) => {
@@ -46,11 +45,10 @@ auth.addEventListener("auth", (e) => {
 - `step`: status saiki (nomer utawa larik)
 - `mail`: Email
 - `phone`: nomer telpon seluler
-- `cc`: kode telpon internasional (standar 86)
-- `onMail(mail)`: Email mriksa telpon bali
-- `onSignup(mail, name, password)`: Ndhaptar telpon bali
+- `onSignup(mail, name, password, code)`: Ndhaptar telpon bali
+- `onResend(mail)`: Kirim maneh kode verifikasi panggilan balik
 - `onLogin(mail, password)`: Panggilan mlebu sandhi
-- `onSmsSend(phone, cc)`: Kirimi kode verifikasi SMS callback
-- `onSmsVerify(phone, cc, code)`: Verifikasi SMS kode verifikasi callback
+- `onSmsSend(phone)`: Kirimi kode verifikasi SMS callback
+- `onSmsVerify(phone, code)`: Verifikasi SMS kode verifikasi callback
 - `onPassport(provider)`: Callback mlebu cepet pihak katelu
 - `onReset(mail)`: Kelalen reset tembung sandhi

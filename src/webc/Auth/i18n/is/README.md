@@ -2,9 +2,9 @@
 
 Samþætta skráningu tölvupósts og farsímanúmera og innskráningu, staðfestingu á staðfestingarkóða, innskráningu lykilorðs og skjótri innskráningu þriðja aðila.
 
-- Styður flipaskipti á milli netfangs og farsímanúmers
+- Stuðningur við innslátt tölvupósts og farsímanúmers
 - Fljótandi merkimiðar með fljótandi gleráferð
-- Styður val á svæðisnúmeri í mörgum löndum og niðurtalningu SMS-staðfestingarkóða
+- Styðja niðurtalningu SMS staðfestingarkóða
 - Styðjið OAuth hraðinnskráningu þriðja aðila og bundnar leiðbeiningar
 
 ## Notaðu kynninguna
@@ -17,9 +17,8 @@ import "webc.site/Auth.js";
 
 const auth = document.querySelector("c-auth");
 
-auth.onMail = async (mail) => {
-  // Skilaðu stöðukóða: 1 fyrir skráningu staðfestingarkóða, 2 fyrir innskráningu með lykilorði, eða skilaðu innskráningarfylki þriðja aðila ["google", "apple"]
-  return 2;
+auth.onSignup = async (mail, name, password, code) => {
+  return [0, mail, name, code];
 };
 
 auth.onLogin = async (mail, password) => {
@@ -46,11 +45,10 @@ auth.addEventListener("auth", (e) => {
 - `step`: núverandi staða (númer eða fylki)
 - `mail`: Tölvupóstur
 - `phone`: farsímanúmer
-- `cc`: alþjóðlegt símanúmer (sjálfgefið 86)
-- `onMail(mail)`: Tölvupóstathugun á svarhringingu
-- `onSignup(mail, name, password)`: Skráðu svarhringingu
+- `onSignup(mail, name, password, code)`: Skráðu svarhringingu
+- `onResend(mail)`: Endursenda staðfestingarkóða svarhringingu
 - `onLogin(mail, password)`: Innskráning með lykilorði
-- `onSmsSend(phone, cc)`: Sendu SMS staðfestingarkóða til baka
-- `onSmsVerify(phone, cc, code)`: Staðfestingar SMS staðfestingarkóði endurhringingu
+- `onSmsSend(phone)`: Sendu SMS staðfestingarkóða til baka
+- `onSmsVerify(phone, code)`: Staðfestingar SMS staðfestingarkóði endurhringingu
 - `onPassport(provider)`: Hraðinnskráning þriðja aðila
 - `onReset(mail)`: Gleymdi endurstillingu lykilorðs

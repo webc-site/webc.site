@@ -2,9 +2,9 @@
 
 Tích hợp đăng ký và đăng nhập email và số điện thoại di động, xác minh mã xác minh, đăng nhập mật khẩu và đăng nhập nhanh của bên thứ ba.
 
-- Hỗ trợ chuyển đổi tab giữa địa chỉ email và số điện thoại di động
+- Hỗ trợ nhập email và số điện thoại di động
 - Nhãn nổi với kết cấu thủy tinh lỏng
-- Hỗ trợ chọn mã vùng đa quốc gia và đếm ngược mã xác minh SMS
+- Hỗ trợ đếm ngược mã xác minh SMS
 - Hỗ trợ đăng nhập nhanh OAuth của bên thứ ba và hướng dẫn ràng buộc
 
 ## Sử dụng bản trình diễn
@@ -17,9 +17,8 @@ import "webc.site/Auth.js";
 
 const auth = document.querySelector("c-auth");
 
-auth.onMail = async (mail) => {
-  // Trả về mã trạng thái: 1 để đăng ký mã xác minh, 2 để đăng nhập bằng mật khẩu hoặc trả về mảng đăng nhập của bên thứ ba ["google", "apple"]
-  return 2;
+auth.onSignup = async (mail, name, password, code) => {
+  return [0, mail, name, code];
 };
 
 auth.onLogin = async (mail, password) => {
@@ -46,11 +45,10 @@ auth.addEventListener("auth", (e) => {
 - `step`: trạng thái hiện tại (số hoặc mảng)
 - `mail`: Email
 - `phone`: số điện thoại di động
-- `cc`: mã quay số quốc tế (mặc định 86)
-- `onMail(mail)`: Gọi lại kiểm tra email
-- `onSignup(mail, name, password)`: Đăng ký gọi lại
+- `onSignup(mail, name, password, code)`: Đăng ký gọi lại
+- `onResend(mail)`: Gửi lại lệnh gọi lại mã xác minh
 - `onLogin(mail, password)`: Gọi lại đăng nhập bằng mật khẩu
-- `onSmsSend(phone, cc)`: Gửi tin nhắn SMS gọi lại mã xác minh
-- `onSmsVerify(phone, cc, code)`: Gọi lại mã xác minh qua SMS xác minh
+- `onSmsSend(phone)`: Gửi tin nhắn SMS gọi lại mã xác minh
+- `onSmsVerify(phone, code)`: Gọi lại mã xác minh qua SMS xác minh
 - `onPassport(provider)`: Gọi lại đăng nhập nhanh của bên thứ ba
 - `onReset(mail)`: Quên gọi lại đặt lại mật khẩu

@@ -2,9 +2,9 @@
 
 整合信箱與手機號碼註冊登入、驗證碼驗證、密碼登入及第三方快速登入。
 
-- 支援信箱與手機號碼 Tab 切換
+- 支援郵箱與手機號輸入
 - 浮動標籤與液態玻璃質感
-- 支援多國區號選擇與簡訊驗證碼倒數計時
+- 支援簡訊驗證碼倒數計時
 - 支援第三方 OAuth 快捷登入及已綁定引導
 
 ## 使用演示
@@ -17,9 +17,8 @@ import "webc.site/Auth.js";
 
 const auth = document.querySelector("c-auth");
 
-auth.onMail = async (mail) => {
-  // 返回狀態碼：1 為驗證碼註冊，2 為密碼登錄，或返回第三方登入數組 ["google", "apple"]
-  return 2;
+auth.onSignup = async (mail, name, password, code) => {
+  return [0, mail, name, code];
 };
 
 auth.onLogin = async (mail, password) => {
@@ -46,11 +45,10 @@ auth.addEventListener("auth", (e) => {
 - `step`: 目前狀態（數字或陣列）
 - `mail`: 信箱
 - `phone`: 手機號
-- `cc`: 國際區號（預設 86）
-- `onMail(mail)`: 信箱檢查回調
-- `onSignup(mail, name, password)`: 註冊回呼
+- `onSignup(mail, name, password, code)`: 註冊回呼
+- `onResend(mail)`: 重新傳送驗證碼回調
 - `onLogin(mail, password)`: 密碼登入回呼
-- `onSmsSend(phone, cc)`: 傳簡訊驗證碼回調
-- `onSmsVerify(phone, cc, code)`: 驗證簡訊驗證碼回調
+- `onSmsSend(phone)`: 傳簡訊驗證碼回調
+- `onSmsVerify(phone, code)`: 驗證簡訊驗證碼回調
 - `onPassport(provider)`: 第三方快速登入回呼
 - `onReset(mail)`: 忘記密碼重設回調

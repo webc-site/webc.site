@@ -2,9 +2,9 @@
 
 Intégrez l'enregistrement et la connexion par e-mail et par numéro de téléphone mobile, la vérification du code de vérification, la connexion par mot de passe et la connexion rapide par un tiers.
 
-- Prend en charge le changement d'onglet entre l'adresse e-mail et le numéro de téléphone mobile
+- Prise en charge de la saisie d'e-mails et de numéros de téléphone portable
 - Étiquettes flottantes avec texture de verre liquide
-- Prend en charge la sélection de l'indicatif régional multi-pays et le compte à rebours du code de vérification SMS
+- Prise en charge du compte à rebours du code de vérification SMS
 - Prise en charge de la connexion rapide OAuth tiers et des conseils liés
 
 ## Utilisez la démo
@@ -17,9 +17,8 @@ import "webc.site/Auth.js";
 
 const auth = document.querySelector("c-auth");
 
-auth.onMail = async (mail) => {
-  // Renvoie le code d'état : 1 pour l'enregistrement du code de vérification, 2 pour la connexion par mot de passe ou renvoie un tableau de connexion tiers ["google", "apple"]
-  return 2;
+auth.onSignup = async (mail, name, password, code) => {
+  return [0, mail, name, code];
 };
 
 auth.onLogin = async (mail, password) => {
@@ -46,11 +45,10 @@ auth.addEventListener("auth", (e) => {
 - `step` : état actuel (numéro ou tableau)
 - `mail` : e-mail
 - `phone` : numéro de téléphone portable
-- `cc` : indicatif international (86 par défaut)
-- `onMail(mail)` : rappel de vérification par e-mail
-- `onSignup(mail, name, password)` : enregistrement du rappel
+- `onSignup(mail, name, password, code)` : enregistrement du rappel
+- `onResend(mail)` : Renvoyer le rappel du code de vérification
 - `onLogin(mail, password)` : rappel de connexion par mot de passe
-- `onSmsSend(phone, cc)` : envoyer un rappel du code de vérification par SMS
-- `onSmsVerify(phone, cc, code)` : Rappel du code de vérification par SMS de vérification
+- `onSmsSend(phone)` : envoyer un rappel du code de vérification par SMS
+- `onSmsVerify(phone, code)` : Rappel du code de vérification par SMS de vérification
 - `onPassport(provider)` : rappel de connexion rapide tiers
 - `onReset(mail)` : rappel de réinitialisation du mot de passe oublié

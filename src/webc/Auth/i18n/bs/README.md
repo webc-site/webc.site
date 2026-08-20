@@ -2,9 +2,9 @@
 
 Integrirajte registraciju i prijavu na broj e-pošte i mobilnog telefona, verifikaciju koda, prijavu lozinke i brzu prijavu treće strane.
 
-- Podržava prebacivanje kartica između adrese e-pošte i broja mobilnog telefona
+- Podržava unos e-pošte i broja mobilnog telefona
 - Plutajuće naljepnice s teksturom tekućeg stakla
-- Podržava izbor pozivnog broja za više zemalja i odbrojavanje SMS verifikacionog koda
+- Podrška odbrojavanju SMS verifikacionog koda
 - Podržava brzu prijavu na OAuth treće strane i vezana uputstva
 
 ## Koristite demo
@@ -17,9 +17,8 @@ import "webc.site/Auth.js";
 
 const auth = document.querySelector("c-auth");
 
-auth.onMail = async (mail) => {
-  // Vrati statusni kod: 1 za registraciju verifikacionog koda, 2 za prijavu lozinkom ili vrati polje za prijavu treće strane ["google", "apple"]
-  return 2;
+auth.onSignup = async (mail, name, password, code) => {
+  return [0, mail, name, code];
 };
 
 auth.onLogin = async (mail, password) => {
@@ -46,11 +45,10 @@ auth.addEventListener("auth", (e) => {
 - `step`: trenutni status (broj ili niz)
 - `mail`: E-pošta
 - `phone`: broj mobilnog telefona
-- `cc`: međunarodni pozivni broj (zadano 86)
-- `onMail(mail)`: povratni poziv za provjeru e-pošte
-- `onSignup(mail, name, password)`: Registrirajte povratni poziv
+- `onSignup(mail, name, password, code)`: Registrirajte povratni poziv
+- `onResend(mail)`: Ponovo pošalji povratni poziv koda za potvrdu
 - `onLogin(mail, password)`: Povratni poziv za prijavu lozinkom
-- `onSmsSend(phone, cc)`: Pošalji SMS verifikacioni kod za povratni poziv
-- `onSmsVerify(phone, cc, code)`: Povratni poziv s verifikacijskim SMS-om
+- `onSmsSend(phone)`: Pošalji SMS verifikacioni kod za povratni poziv
+- `onSmsVerify(phone, code)`: Povratni poziv s verifikacionim SMS kodom
 - `onPassport(provider)`: Povratni poziv za brzu prijavu treće strane
 - `onReset(mail)`: Zaboravljena lozinka za povratni poziv

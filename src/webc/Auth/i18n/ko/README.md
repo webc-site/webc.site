@@ -2,9 +2,9 @@
 
 이메일과 휴대폰 번호 등록 및 로그인, 인증코드 확인, 비밀번호 로그인, 제3자 빠른 로그인을 통합하세요.
 
-- 이메일 주소와 휴대폰 번호 간 탭 전환 지원
+- 이메일 및 휴대폰 번호 입력 지원
 - 액체 유리 질감의 플로팅 라벨
-- 다국가 지역번호 선택 및 SMS 인증코드 카운트다운 지원
+- SMS 인증 코드 카운트다운 지원
 - 타사 OAuth 빠른 로그인 및 바인딩 안내 지원
 
 ## 데모 사용
@@ -17,9 +17,8 @@ import "webc.site/Auth.js";
 
 const auth = document.querySelector("c-auth");
 
-auth.onMail = async (mail) => {
-  // 반환 상태 코드: 인증 코드 등록을 위한 1, 비밀번호 로그인을 위한 2 또는 타사 로그인 배열 반환 ["google", "apple"]
-  return 2;
+auth.onSignup = async (mail, name, password, code) => {
+  return [0, mail, name, code];
 };
 
 auth.onLogin = async (mail, password) => {
@@ -46,11 +45,10 @@ auth.addEventListener("auth", (e) => {
 - `step`: 현재 상태(숫자 또는 배열)
 - `mail`: 이메일
 - `phone`: 휴대전화번호
-- `cc`: 국제 전화 코드(기본값 86)
-- `onMail(mail)`: 이메일 확인 콜백
-- `onSignup(mail, name, password)`: 콜백 등록
+- `onSignup(mail, name, password, code)`: 콜백 등록
+- `onResend(mail)`: 인증 코드 콜백 재전송
 - `onLogin(mail, password)`: 비밀번호 로그인 콜백
-- `onSmsSend(phone, cc)`: SMS 확인 코드 콜백 보내기
-- `onSmsVerify(phone, cc, code)`: 확인 SMS 인증 코드 콜백
+- `onSmsSend(phone)`: SMS 확인 코드 콜백 보내기
+- `onSmsVerify(phone, code)`: 확인 SMS 인증 코드 콜백
 - `onPassport(provider)`: 타사 빠른 로그인 콜백
 - `onReset(mail)`: 비밀번호 재설정 콜백을 잊어버렸습니다.

@@ -2,9 +2,9 @@
 
 Elektron pochta va mobil telefon raqamlarini ro'yxatdan o'tkazish va kirish, tasdiqlash kodini tekshirish, parolga kirish va uchinchi tomon tezkor kirishni birlashtiring.
 
-- Elektron pochta manzili va mobil telefon raqami o'rtasida yorliq almashishni qo'llab-quvvatlaydi
+- Elektron pochta va mobil telefon raqamini kiritishni qo'llab-quvvatlash
 - Suyuq shisha teksturali suzuvchi teglar
-- Ko'p mamlakat hududi kodini tanlash va SMS tasdiqlash kodini ortga hisoblashni qo'llab-quvvatlaydi
+- SMS tasdiqlash kodini ortga hisoblashni qo'llab-quvvatlang
 - Uchinchi tomon OAuth tez kirish va bog'langan ko'rsatmalarni qo'llab-quvvatlang
 
 ## Ko‘rsatma ishlatish
@@ -17,9 +17,8 @@ import "webc.site/Auth.js";
 
 const auth = document.querySelector("c-auth");
 
-auth.onMail = async (mail) => {
-  // Qaytish holati kodi: tasdiqlash kodini ro'yxatdan o'tkazish uchun 1, parolga kirish uchun 2 yoki uchinchi tomon kirish massivini qaytarish ["google", "apple"]
-  return 2;
+auth.onSignup = async (mail, name, password, code) => {
+  return [0, mail, name, code];
 };
 
 auth.onLogin = async (mail, password) => {
@@ -46,11 +45,10 @@ auth.addEventListener("auth", (e) => {
 - `step`: joriy holat (raqam yoki massiv)
 - `mail`: Elektron pochta
 - `phone`: mobil telefon raqami
-- `cc`: xalqaro telefon kodi (standart 86)
-- `onMail(mail)`: E-pochta orqali qayta qo'ng'iroq qilish
-- `onSignup(mail, name, password)`: Qayta qo'ng'iroqni ro'yxatdan o'tkazing
+- `onSignup(mail, name, password, code)`: Qayta qo'ng'iroqni ro'yxatdan o'tkazing
+- `onResend(mail)`: Tasdiqlash kodini qayta yuborish
 - `onLogin(mail, password)`: Parol bilan qayta qo'ng'iroq qilish
-- `onSmsSend(phone, cc)`: SMS tasdiqlash kodini qayta qo'ng'iroq qilish
-- `onSmsVerify(phone, cc, code)`: Tekshirish SMS tasdiqlash kodi qayta qo'ng'iroq
+- `onSmsSend(phone)`: Tasdiqlash kodini SMS orqali qayta qo'ng'iroq qilish
+- `onSmsVerify(phone, code)`: Tekshirish SMS tasdiqlash kodi qayta qo'ng'iroq
 - `onPassport(provider)`: Uchinchi tomon tez kirish qo'ng'iroqlari
 - `onReset(mail)`: Parolni tiklashni unutdingizmi, qayta qo'ng'iroq qiling

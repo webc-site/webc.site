@@ -2,9 +2,9 @@
 
 Integroi sähköpostin ja matkapuhelinnumeron rekisteröinti ja kirjautuminen, vahvistuskoodin vahvistus, salasanan kirjautuminen ja kolmannen osapuolen nopea kirjautuminen.
 
-- Tukee välilehtien vaihtamista sähköpostiosoitteen ja matkapuhelinnumeron välillä
+- Tuki sähköpostin ja matkapuhelinnumeron syöttöön
 - Kelluvat etiketit nestemäisellä lasilla
-- Tukee usean maan suuntanumeron valintaa ja SMS-vahvistuskoodin lähtölaskentaa
+- Tukea SMS-vahvistuskoodin lähtölaskentaa
 - Tukee kolmannen osapuolen OAuth-pikakirjautumista ja sidottuja ohjeita
 
 ## Käytä demoa
@@ -17,9 +17,8 @@ import "webc.site/Auth.js";
 
 const auth = document.querySelector("c-auth");
 
-auth.onMail = async (mail) => {
-  // Palauta tilakoodi: 1 vahvistuskoodin rekisteröintiä varten, 2 salasanan kirjautumista varten tai palauta kolmannen osapuolen kirjautumistaulukko ["google", "apple"]
-  return 2;
+auth.onSignup = async (mail, name, password, code) => {
+  return [0, mail, name, code];
 };
 
 auth.onLogin = async (mail, password) => {
@@ -46,11 +45,10 @@ auth.addEventListener("auth", (e) => {
 - `step`: nykyinen tila (numero tai matriisi)
 - `mail`: Sähköposti
 - `phone`: matkapuhelinnumero
-- `cc`: kansainvälinen suuntanumero (oletus 86)
-- `onMail(mail)`: Sähköpostin tarkistussoitto
-- `onSignup(mail, name, password)`: Rekisteröi takaisinsoitto
+- `onSignup(mail, name, password, code)`: Rekisteröi takaisinsoitto
+- `onResend(mail)`: Lähetä vahvistuskoodin takaisinsoitto uudelleen
 - `onLogin(mail, password)`: Salasanan takaisinsoitto
-- `onSmsSend(phone, cc)`: Lähetä SMS-vahvistuskoodi takaisinsoitto
-- `onSmsVerify(phone, cc, code)`: Vahvistustekstiviestin vahvistuskoodin takaisinsoitto
+- `onSmsSend(phone)`: Lähetä SMS-vahvistuskoodi takaisinsoitto
+- `onSmsVerify(phone, code)`: Vahvistustekstiviestin vahvistuskoodin takaisinsoitto
 - `onPassport(provider)`: Kolmannen osapuolen pikakirjautumisen takaisinsoitto
 - `onReset(mail)`: Unohdin salasanan palautuksen

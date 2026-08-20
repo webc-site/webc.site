@@ -2,9 +2,9 @@
 
 ປະສົມປະສານການລົງທະບຽນແລະເຂົ້າສູ່ລະບົບອີເມວແລະໂທລະສັບມືຖື, ການກວດສອບລະຫັດຢືນຢັນ, ເຂົ້າສູ່ລະບົບລະຫັດຜ່ານແລະການເຂົ້າສູ່ລະບົບໄວຂອງພາກສ່ວນທີສາມ.
 
-- ຮອງຮັບການປ່ຽນແຖບລະຫວ່າງທີ່ຢູ່ອີເມວ ແລະເບີໂທລະສັບ
+- ຮອງຮັບການປ້ອນຂໍ້ມູນອີເມວ ແລະເບີໂທລະສັບ
 - ປ້າຍລອຍທີ່ມີໂຄງສ້າງແກ້ວແຫຼວ
-- ຮອງຮັບການເລືອກລະຫັດພື້ນທີ່ຫຼາຍປະເທດ ແລະລະຫັດຢືນຢັນ SMS ນັບຖອຍຫຼັງ
+- ຮອງຮັບການນັບຖອຍຫຼັງລະຫັດຢືນຢັນ SMS
 - ສະຫນັບສະຫນູນການເຂົ້າສູ່ລະບົບໄວ OAuth ພາກສ່ວນທີສາມແລະການຊີ້ນໍາທີ່ຜູກມັດ
 
 ## ໃຊ້ຕົວຢ່າງ
@@ -17,9 +17,8 @@ import "webc.site/Auth.js";
 
 const auth = document.querySelector("c-auth");
 
-auth.onMail = async (mail) => {
-  // ກັບຄືນລະຫັດສະຖານະ: 1 ສໍາລັບການລົງທະບຽນລະຫັດຢືນຢັນ, 2 ສໍາລັບການເຂົ້າສູ່ລະບົບລະຫັດຜ່ານ, ຫຼືກັບຄືນ array ເຂົ້າສູ່ລະບົບພາກສ່ວນທີສາມ ["google", "apple"]
-  return 2;
+auth.onSignup = async (mail, name, password, code) => {
+  return [0, mail, name, code];
 };
 
 auth.onLogin = async (mail, password) => {
@@ -46,11 +45,10 @@ auth.addEventListener("auth", (e) => {
 - `step`: ສະຖານະປັດຈຸບັນ (ຈໍານວນ ຫຼືອາເຣ)
 - `mail`: ອີເມວ
 - `phone`: ເບີໂທລະສັບ
-- `cc`: ລະຫັດໂທອອກຕ່າງປະເທດ (ຄ່າເລີ່ມຕົ້ນ 86)
-- `onMail(mail)`: ກວດເບິ່ງອີເມວຄືນ
-- `onSignup(mail, name, password)`: ລົງທະບຽນການໂທກັບ
+- `onSignup(mail, name, password, code)`: ລົງທະບຽນການໂທກັບ
+- `onResend(mail)`: ສົ່ງຄືນລະຫັດຢືນຢັນຄືນ
 - `onLogin(mail, password)`: ເຂົ້າສູ່ລະບົບລະຫັດຜ່ານ callback
-- `onSmsSend(phone, cc)`: ສົ່ງລະຫັດຢືນຢັນ SMS ໂທກັບ
-- `onSmsVerify(phone, cc, code)`: ຢືນຢັນ SMS ຢືນຢັນການໂທກັບ
+- `onSmsSend(phone)`: ສົ່ງລະຫັດຢືນຢັນ SMS ໂທກັບ
+- `onSmsVerify(phone, code)`: ຢືນຢັນ SMS ຢືນຢັນການໂທກັບ
 - `onPassport(provider)`: ໂທຫາບຸກຄົນທີສາມເຂົ້າສູ່ລະບົບດ່ວນ
 - `onReset(mail)`: ລືມ​ລະ​ຫັດ​ຜ່ານ reset callback

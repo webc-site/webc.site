@@ -2,9 +2,9 @@
 
 Integre registro e login de e-mail e número de celular, verificação de código de verificação, login de senha e login rápido de terceiros.
 
-- Suporta alternância de guias entre endereço de e-mail e número de celular
+- Suporte para entrada de e-mail e número de celular
 - Etiquetas flutuantes com textura de vidro líquido
-- Suporta seleção de código de área de vários países e contagem regressiva de código de verificação por SMS
+- Contagem regressiva do código de verificação de SMS de suporte
 - Suporte para login rápido e orientação vinculada de OAuth de terceiros
 
 ## Use a demonstração
@@ -17,9 +17,8 @@ import "webc.site/Auth.js";
 
 const auth = document.querySelector("c-auth");
 
-auth.onMail = async (mail) => {
-  // Retorna o código de status: 1 para registro do código de verificação, 2 para login com senha ou retorna array de login de terceiros ["google", "apple"]
-  return 2;
+auth.onSignup = async (mail, name, password, code) => {
+  return [0, mail, name, code];
 };
 
 auth.onLogin = async (mail, password) => {
@@ -46,11 +45,10 @@ auth.addEventListener("auth", (e) => {
 - `step`: status atual (número ou array)
 - `mail`: E-mail
 - `phone`: número de celular
-- `cc`: código de discagem internacional (padrão 86)
-- `onMail(mail)`: retorno de chamada de verificação de e-mail
-- `onSignup(mail, name, password)`: Registrar retorno de chamada
+- `onSignup(mail, name, password, code)`: Registrar retorno de chamada
+- `onResend(mail)`: reenviar retorno de chamada do código de verificação
 - `onLogin(mail, password)`: retorno de chamada de login com senha
-- `onSmsSend(phone, cc)`: Enviar retorno de chamada do código de verificação por SMS
-- `onSmsVerify(phone, cc, code)`: retorno de chamada do código de verificação por SMS de verificação
+- `onSmsSend(phone)`: Enviar retorno de chamada do código de verificação por SMS
+- `onSmsVerify(phone, code)`: retorno de chamada do código de verificação por SMS de verificação
 - `onPassport(provider)`: retorno de chamada de login rápido de terceiros
 - `onReset(mail)`: retorno de chamada de redefinição de senha esquecida

@@ -2,9 +2,9 @@
 
 Integrate email and mobile phone number registration and login, verification code verification, password login and third-party quick login.
 
-- Supports tab switching between email address and mobile phone number
+- Support email and mobile phone number input
 - Floating labels with liquid glass texture
-- Supports multi-country area code selection and SMS verification code countdown
+- Support SMS verification code countdown
 - Support third-party OAuth quick login and bound guidance
 
 ## Use the demo
@@ -17,9 +17,8 @@ import "webc.site/Auth.js";
 
 const auth = document.querySelector("c-auth");
 
-auth.onMail = async (mail) => {
-  //Return status code: 1 for verification code registration, 2 for password login, or return third-party login array ["google", "apple"]
-  return 2;
+auth.onSignup = async (mail, name, password, code) => {
+  return [0, mail, name, code];
 };
 
 auth.onLogin = async (mail, password) => {
@@ -46,11 +45,10 @@ auth.addEventListener("auth", (e) => {
 - `step`: current status (number or array)
 - `mail`: Email
 - `phone`: mobile phone number
-- `cc`: international dialing code (default 86)
-- `onMail(mail)`: Email check callback
-- `onSignup(mail, name, password)`: Register callback
+- `onSignup(mail, name, password, code)`: Register callback
+- `onResend(mail)`: Resend verification code callback
 - `onLogin(mail, password)`: Password login callback
-- `onSmsSend(phone, cc)`: Send SMS verification code callback
-- `onSmsVerify(phone, cc, code)`: Verification SMS verification code callback
+- `onSmsSend(phone)`: Send SMS verification code callback
+- `onSmsVerify(phone, code)`: Verification SMS verification code callback
 - `onPassport(provider)`: Third-party quick login callback
 - `onReset(mail)`: Forgot password reset callback

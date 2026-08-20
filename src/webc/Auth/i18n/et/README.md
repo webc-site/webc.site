@@ -2,9 +2,9 @@
 
 Integreerige e-posti ja mobiiltelefoni numbri registreerimine ja sisselogimine, kinnituskoodi kinnitamine, parooliga sisselogimine ja kolmanda osapoole kiire sisselogimine.
 
-- Toetab vahekaartide vahetamist e-posti aadressi ja mobiiltelefoni numbri vahel
+- Toetage e-posti ja mobiiltelefoni numbri sisestamist
 - Vedelklaasi tekstuuriga ujuvad sildid
-- Toetab mitme riigi suunakoodi valimist ja SMS-i kinnituskoodi loendurit
+- Toetage SMS-i kinnituskoodi loendurit
 - Toetage kolmanda osapoole OAuthi kiiret sisselogimist ja seotud juhiseid
 
 ## Kasutage demo
@@ -17,9 +17,8 @@ import "webc.site/Auth.js";
 
 const auth = document.querySelector("c-auth");
 
-auth.onMail = async (mail) => {
-  // Tagasta olekukood: 1 kinnituskoodi registreerimiseks, 2 parooliga sisselogimiseks või tagastab kolmanda osapoole sisselogimismassiivi ["google", "apple"]
-  return 2;
+auth.onSignup = async (mail, name, password, code) => {
+  return [0, mail, name, code];
 };
 
 auth.onLogin = async (mail, password) => {
@@ -46,11 +45,10 @@ auth.addEventListener("auth", (e) => {
 - `step`: praegune olek (arv või massiiv)
 - `mail`: e-post
 - `phone`: mobiiltelefoni number
-- `cc`: rahvusvaheline suunakood (vaikimisi 86)
-- `onMail(mail)`: e-posti kontrolli tagasihelistamine
-- `onSignup(mail, name, password)`: registreerige tagasihelistamine
+- `onSignup(mail, name, password, code)`: registreerige tagasihelistamine
+- `onResend(mail)`: saatke kinnituskoodi tagasihelistamine uuesti
 - `onLogin(mail, password)`: parooliga sisselogimise tagasihelistamine
-- `onSmsSend(phone, cc)`: saatke SMS-i kinnituskoodi tagasihelistamine
-- `onSmsVerify(phone, cc, code)`: SMS-i kinnituskoodi tagasihelistamine
+- `onSmsSend(phone)`: saatke SMS-i kinnituskoodi tagasihelistamine
+- `onSmsVerify(phone, code)`: SMS-i kinnituskoodi tagasihelistamine
 - `onPassport(provider)`: kolmanda osapoole kiire sisselogimise tagasihelistamine
 - `onReset(mail)`: unustasin parooli lähtestamise tagasihelistamise

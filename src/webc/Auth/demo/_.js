@@ -6,12 +6,19 @@ export default (root) => {
   const auth = root.querySelector("c-auth");
   if (!auth) return;
 
-  auth.onSignup = async (mail, name, _pwd) => {
+  auth.onSignup = async (mail, name, _pwd, code) => {
     await sleep(600);
     toast((el) => {
-      el.textContent = "注册成功: " + name + " (" + mail + ")";
+      el.textContent = "注册成功: " + name + " (" + mail + ") 验证码: " + code;
     });
-    return [0, mail, name];
+    return [0, mail, name, code];
+  };
+
+  auth.onResend = async (mail) => {
+    await sleep(500);
+    toast((el) => {
+      el.textContent = "验证码已重新发送至: " + mail;
+    });
   };
 
   auth.onLogin = async (mail, _pwd) => {
@@ -22,20 +29,20 @@ export default (root) => {
     return [0, mail];
   };
 
-  auth.onSmsSend = async (phone, cc) => {
+  auth.onSmsSend = async (phone) => {
     await sleep(500);
     toast((el) => {
-      el.textContent = "验证码已发送: +" + cc + " " + phone;
+      el.textContent = "验证码已发送: " + phone;
     });
     return 60;
   };
 
-  auth.onSmsVerify = async (phone, cc) => {
+  auth.onSmsVerify = async (phone, code) => {
     await sleep(600);
     toast((el) => {
-      el.textContent = "手机号验证成功: +" + cc + " " + phone;
+      el.textContent = "手机号验证成功: " + phone + " 验证码: " + code;
     });
-    return [0, "+" + cc + " " + phone];
+    return [0, phone];
   };
 
   auth.onPassport = (provider) => {

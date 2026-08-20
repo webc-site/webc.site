@@ -2,9 +2,9 @@
 
 Integreiddio cofrestriad a mewngofnodi e-bost a rhif ffôn symudol, dilysu cod dilysu, mewngofnodi cyfrinair a mewngofnodi cyflym trydydd parti.
 
-- Yn cefnogi newid tab rhwng cyfeiriad e-bost a rhif ffôn symudol
+- Cefnogi mewnbwn e-bost a rhif ffôn symudol
 - Labeli arnofio gyda gwead gwydr hylif
-- Yn cefnogi dewis cod ardal aml-wlad a chyfri'r cod dilysu SMS
+- Cefnogi cyfrif cod dilysu SMS
 - Cefnogi mewngofnodi cyflym OAuth trydydd parti ac arweiniad wedi'i rwymo
 
 ## Defnyddiwch y demo
@@ -17,9 +17,8 @@ import "webc.site/Auth.js";
 
 const auth = document.querySelector("c-auth");
 
-auth.onMail = async (mail) => {
-  // Dychwelyd cod statws: 1 ar gyfer cofrestru cod dilysu, 2 ar gyfer mewngofnodi cyfrinair, neu ddychwelyd arae mewngofnodi trydydd parti [ "google", "apple"]
-  return 2;
+auth.onSignup = async (mail, name, password, code) => {
+  return [0, mail, name, code];
 };
 
 auth.onLogin = async (mail, password) => {
@@ -46,11 +45,10 @@ auth.addEventListener("auth", (e) => {
 - `step`: statws cyfredol (rhif neu arae)
 - `mail`: E-bost
 - `phone`: rhif ffôn symudol
-- `cc`: cod deialu rhyngwladol (diofyn 86)
-- `onMail(mail)`: Galwad yn ôl siec e-bost
-- `onSignup(mail, name, password)`: Cofrestru galwad yn ôl
+- `onSignup(mail, name, password, code)`: Cofrestru galwad yn ôl
+- `onResend(mail)`: Ailanfon galwad cod dilysu yn ôl
 - `onLogin(mail, password)`: Galwad mewngofnodi cyfrinair yn ôl
-- `onSmsSend(phone, cc)`: Anfon galwad cod dilysu SMS yn ôl
-- `onSmsVerify(phone, cc, code)`: Galwad yn ôl cod dilysu SMS dilysu
+- `onSmsSend(phone)`: Anfon galwad cod dilysu SMS yn ôl
+- `onSmsVerify(phone, code)`: Galwad yn ôl cod dilysu SMS dilysu
 - `onPassport(provider)`: Galwad mewngofnodi cyflym trydydd parti yn ôl
 - `onReset(mail)`: Wedi anghofio ail-alwad cyfrinair

@@ -2,9 +2,9 @@
 
 Jumuisha usajili na kuingia kwa barua pepe na nambari ya simu ya rununu, uthibitishaji wa nambari ya uthibitishaji, kuingia kwa nenosiri na kuingia kwa haraka kwa wahusika wengine.
 
-- Inaauni ubadilishaji wa kichupo kati ya anwani ya barua pepe na nambari ya simu ya rununu
+- Msaada wa barua pepe na nambari ya simu ya rununu
 - Lebo zinazoelea zenye muundo wa glasi kioevu
-- Inaauni uteuzi wa msimbo wa eneo la nchi nyingi na uhesabuji wa msimbo wa uthibitishaji wa SMS
+- Inasaidia kuhesabu nambari ya kuthibitisha ya SMS
 - Inasaidia kuingia kwa haraka kwa OAuth ya wahusika wengine na mwongozo wa lazima
 
 ## Tumia onyesho
@@ -17,9 +17,8 @@ import "webc.site/Auth.js";
 
 const auth = document.querySelector("c-auth");
 
-auth.onMail = async (mail) => {
-  // Rejesha msimbo wa hali: 1 kwa usajili wa nambari ya uthibitishaji, 2 kwa kuingia kwa nenosiri, au rudisha safu ya kuingia ya mtu wa tatu ["google", "apple"]
-  return 2;
+auth.onSignup = async (mail, name, password, code) => {
+  return [0, mail, name, code];
 };
 
 auth.onLogin = async (mail, password) => {
@@ -46,11 +45,10 @@ auth.addEventListener("auth", (e) => {
 - `step`: hali ya sasa (nambari au safu)
 - `mail`: Barua pepe
 - `phone`: nambari ya simu ya rununu
-- `cc`: msimbo wa kimataifa wa kupiga simu (chaguo-msingi 86)
-- `onMail(mail)`: Barua pepe angalia kurudishiwa simu
-- `onSignup(mail, name, password)`: Sajili ya kupigiwa simu
+- `onSignup(mail, name, password, code)`: Sajili ya kupigiwa simu
+- `onResend(mail)`: Tuma tena nambari ya kuthibitisha
 - `onLogin(mail, password)`: Kupigiwa simu kwa kuingia kwa nenosiri
-- `onSmsSend(phone, cc)`: Tuma tena msimbo wa uthibitishaji wa SMS
-- `onSmsVerify(phone, cc, code)`: Kupigiwa simu kwa nambari ya kuthibitisha ya SMS
+- `onSmsSend(phone)`: Tuma tena msimbo wa uthibitishaji wa SMS
+- `onSmsVerify(phone, code)`: Kupigiwa simu kwa nambari ya kuthibitisha ya SMS
 - `onPassport(provider)`: Mwito wa kuingia kwa haraka wa wahusika wengine
 - `onReset(mail)`: Umesahau kupiga tena nenosiri la kuweka upya

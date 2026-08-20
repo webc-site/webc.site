@@ -2,9 +2,9 @@
 
 Integre o rexistro e o inicio de sesión do correo electrónico e do número de teléfono móbil, a verificación do código de verificación, o inicio de sesión do contrasinal e o inicio de sesión rápido de terceiros.
 
-- Admite o cambio de pestanas entre o enderezo de correo electrónico e o número de teléfono móbil
+- Admite correo electrónico e entrada de número de teléfono móbil
 - Etiquetas flotantes con textura de vidro líquido
-- Admite a selección de código de área de varios países e a conta atrás do código de verificación por SMS
+- Admite a conta atrás do código de verificación por SMS
 - Admite o inicio de sesión rápido de OAuth de terceiros e as orientacións vinculadas
 
 ## Use a demostración
@@ -17,9 +17,8 @@ import "webc.site/Auth.js";
 
 const auth = document.querySelector("c-auth");
 
-auth.onMail = async (mail) => {
-  // Devolve o código de estado: 1 para o rexistro do código de verificación, 2 para o inicio de sesión con contrasinal ou devolve unha matriz de inicio de sesión de terceiros ["google", "apple"]
-  return 2;
+auth.onSignup = async (mail, name, password, code) => {
+  return [0, mail, name, code];
 };
 
 auth.onLogin = async (mail, password) => {
@@ -46,11 +45,10 @@ auth.addEventListener("auth", (e) => {
 - `step`: estado actual (número ou matriz)
 - `mail`: correo electrónico
 - `phone`: número de teléfono móbil
-- `cc`: código de marcación internacional (86 predeterminado)
-- `onMail(mail)`: devolución de chamada de comprobación de correo electrónico
-- `onSignup(mail, name, password)`: rexistra a devolución de chamada
+- `onSignup(mail, name, password, code)`: rexistra a devolución de chamada
+- `onResend(mail)`: Volve enviar a devolución de chamada do código de verificación
 - `onLogin(mail, password)`: devolución de chamada de acceso ao contrasinal
-- `onSmsSend(phone, cc)`: enviar unha devolución de chamada de código de verificación por SMS
-- `onSmsVerify(phone, cc, code)`: devolución de chamada do código de verificación por SMS de verificación
+- `onSmsSend(phone)`: enviar unha devolución de chamada de código de verificación por SMS
+- `onSmsVerify(phone, code)`: devolución de chamada de código de verificación por SMS de verificación
 - `onPassport(provider)`: devolución de chamada de acceso rápido de terceiros
 - `onReset(mail)`: esquecín a devolución de chamada para restablecer o contrasinal

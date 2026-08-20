@@ -2,9 +2,9 @@
 
 Integrujte registráciu a prihlásenie e-mailu a čísla mobilného telefónu, overenie overovacím kódom, prihlásenie heslom a rýchle prihlásenie tretích strán.
 
-- Podporuje prepínanie kariet medzi e-mailovou adresou a číslom mobilného telefónu
+- Podpora zadávania e-mailu a čísla mobilného telefónu
 - Plávajúce etikety s textúrou tekutého skla
-- Podporuje výber predvoľby pre viacero krajín a odpočítavanie overovacieho kódu SMS
+- Podpora odpočítavania SMS overovacieho kódu
 - Podporujte rýchle prihlásenie OAuth tretích strán a viazané pokyny
 
 ## Použite demo
@@ -17,9 +17,8 @@ import "webc.site/Auth.js";
 
 const auth = document.querySelector("c-auth");
 
-auth.onMail = async (mail) => {
-  // Vrátiť stavový kód: 1 pre registráciu overovacieho kódu, 2 pre prihlásenie pomocou hesla alebo vrátiť pole prihlásenia tretej strany ["google", "apple"]
-  return 2;
+auth.onSignup = async (mail, name, password, code) => {
+  return [0, mail, name, code];
 };
 
 auth.onLogin = async (mail, password) => {
@@ -46,11 +45,10 @@ auth.addEventListener("auth", (e) => {
 - `step`: aktuálny stav (číslo alebo pole)
 - `mail`: E-mail
 - `phone`: číslo mobilného telefónu
-- `cc`: medzinárodná predvoľba (predvolená hodnota 86)
-- `onMail(mail)`: Spätné volanie na kontrolu e-mailu
-- `onSignup(mail, name, password)`: Zaregistrujte spätné volanie
+- `onSignup(mail, name, password, code)`: Zaregistrujte spätné volanie
+- `onResend(mail)`: Znova odoslať spätné volanie verifikačného kódu
 - `onLogin(mail, password)`: Spätné volanie pri prihlásení pomocou hesla
-- `onSmsSend(phone, cc)`: Odoslať spätné volanie s verifikačným kódom SMS
-- `onSmsVerify(phone, cc, code)`: Spätné volanie s verifikačným kódom SMS
+- `onSmsSend(phone)`: Odoslať spätné volanie s verifikačným kódom SMS
+- `onSmsVerify(phone, code)`: Spätné volanie s verifikačným kódom SMS
 - `onPassport(provider)`: Spätné volanie rýchleho prihlásenia tretej strany
 - `onReset(mail)`: Spätné volanie na obnovenie zabudnutého hesla

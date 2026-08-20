@@ -2,9 +2,9 @@
 
 I-integrate ang email ug mobile phone number registration ug login, verification code verification, password login ug third-party quick login.
 
-- Nagsuporta sa pagbalhin sa tab tali sa email address ug numero sa mobile phone
+- Suportahi email ug numero sa mobile phone input
 - Naglutaw nga mga label nga adunay texture nga likido nga bildo
-- Nagsuporta sa multi-country area code selection ug SMS verification code countdown
+- Suportahi ang SMS verification code countdown
 - Suportahi ang third-party nga OAuth nga dali nga pag-login ug gigapos nga giya
 
 ## Gamita ang demo
@@ -17,9 +17,8 @@ import "webc.site/Auth.js";
 
 const auth = document.querySelector("c-auth");
 
-auth.onMail = async (mail) => {
-  // Ibalik ang status code: 1 para sa verification code registration, 2 para sa password login, o ibalik ang third-party login array ["google", "apple"]
-  return 2;
+auth.onSignup = async (mail, name, password, code) => {
+  return [0, mail, name, code];
 };
 
 auth.onLogin = async (mail, password) => {
@@ -46,11 +45,10 @@ auth.addEventListener("auth", (e) => {
 - `step`: kasamtangan nga kahimtang (numero o laray)
 - `mail`: Email
 - `phone`: numero sa cellphone
-- `cc`: internasyonal nga dialing code (default 86)
-- `onMail(mail)`: Email check callback
-- `onSignup(mail, name, password)`: Irehistro ang callback
+- `onSignup(mail, name, password, code)`: Irehistro ang callback
+- `onResend(mail)`: Ipadala pag-usab ang verification code callback
 - `onLogin(mail, password)`: Password login callback
-- `onSmsSend(phone, cc)`: Ipadala ang SMS verification code callback
-- `onSmsVerify(phone, cc, code)`: Pag-verify sa SMS verification code callback
+- `onSmsSend(phone)`: Ipadala ang SMS verification code callback
+- `onSmsVerify(phone, code)`: Pag-verify sa SMS verification code callback
 - `onPassport(provider)`: Third-party quick login callback
 - `onReset(mail)`: Nakalimot sa pag-reset sa password callback

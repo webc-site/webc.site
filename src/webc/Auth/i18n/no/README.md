@@ -2,9 +2,9 @@
 
 Integrer registrering og pålogging av e-post og mobiltelefonnummer, bekreftelseskodebekreftelse, passordpålogging og hurtigpålogging fra tredjepart.
 
-- Støtter faneveksling mellom e-postadresse og mobiltelefonnummer
+- Støtte inntasting av e-post og mobiltelefonnummer
 - Flytende etiketter med flytende glasstekstur
-- Støtter valg av retningsnummer for flere land og nedtelling av SMS-bekreftelseskode
+- Støtte nedtelling for SMS-bekreftelseskode
 - Støtt tredjeparts OAuth rask pålogging og bundet veiledning
 
 ## Bruk demoen
@@ -17,9 +17,8 @@ import "webc.site/Auth.js";
 
 const auth = document.querySelector("c-auth");
 
-auth.onMail = async (mail) => {
-  // Returner statuskode: 1 for bekreftelseskoderegistrering, 2 for passordpålogging, eller returner tredjeparts påloggingsarray ["google", "apple"]
-  return 2;
+auth.onSignup = async (mail, name, password, code) => {
+  return [0, mail, name, code];
 };
 
 auth.onLogin = async (mail, password) => {
@@ -46,11 +45,10 @@ auth.addEventListener("auth", (e) => {
 - `step`: gjeldende status (nummer eller matrise)
 - `mail`: E-post
 - `phone`: mobiltelefonnummer
-- `cc`: internasjonal oppringingskode (standard 86)
-- `onMail(mail)`: E-postsjekk tilbakeringing
-- `onSignup(mail, name, password)`: Registrer tilbakeringing
+- `onSignup(mail, name, password, code)`: Registrer tilbakeringing
+- `onResend(mail)`: Send tilbakeringing av bekreftelseskoden på nytt
 - `onLogin(mail, password)`: Tilbakeringing av passordpålogging
-- `onSmsSend(phone, cc)`: Send SMS-bekreftelseskode tilbakeringing
-- `onSmsVerify(phone, cc, code)`: Tilbakeringing av bekreftelses-SMS-bekreftelseskode
+- `onSmsSend(phone)`: Send SMS-bekreftelseskode tilbakeringing
+- `onSmsVerify(phone, code)`: Tilbakeringing av bekreftelses-SMS-bekreftelseskode
 - `onPassport(provider)`: Hurtigpålogging fra tredjepart
 - `onReset(mail)`: Glemt tilbakeringing av passord

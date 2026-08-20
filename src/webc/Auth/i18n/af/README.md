@@ -2,9 +2,9 @@
 
 Integreer e-pos- en selfoonnommerregistrasie en -aanmelding, verifikasiekodeverifikasie, wagwoordaanmelding en vinnige aanmelding van derdepartye.
 
-- Ondersteun oortjiewisseling tussen e-posadres en selfoonnommer
+- Ondersteun e-pos en selfoonnommer invoer
 - Swaai etikette met vloeibare glastekstuur
-- Ondersteun multi-land area kode keuse en SMS verifikasie kode aftelling
+- Ondersteun SMS-verifikasiekode-aftelling
 - Ondersteun derdeparty OAuth vinnige aanmelding en gebonde leiding
 
 ## Gebruik die demo
@@ -17,9 +17,8 @@ import "webc.site/Auth.js";
 
 const auth = document.querySelector("c-auth");
 
-auth.onMail = async (mail) => {
-  // Gee statuskode terug: 1 vir verifikasiekode-registrasie, 2 vir wagwoordaanmelding, of stuur derdeparty-aanmeldingskikking ["google", "apple"]
-  return 2;
+auth.onSignup = async (mail, name, password, code) => {
+  return [0, mail, name, code];
 };
 
 auth.onLogin = async (mail, password) => {
@@ -46,11 +45,10 @@ auth.addEventListener("auth", (e) => {
 - `step`: huidige status (nommer of skikking)
 - `mail`: E-pos
 - `phone`: selfoonnommer
-- `cc`: internasionale skakelkode (verstek 86)
-- `onMail(mail)`: E-pos kontroleer terugbel
-- `onSignup(mail, name, password)`: Registreer terugbel
+- `onSignup(mail, name, password, code)`: Registreer terugbel
+- `onResend(mail)`: Stuur verifikasiekode terugbel
 - `onLogin(mail, password)`: Wagwoord aanmeld terugbel
-- `onSmsSend(phone, cc)`: Stuur SMS-verifikasiekode terugbel
-- `onSmsVerify(phone, cc, code)`: Verifikasie SMS verifikasie kode terugbel
+- `onSmsSend(phone)`: Stuur SMS-verifikasiekode terugbel
+- `onSmsVerify(phone, code)`: Verifikasie SMS verifikasie kode terugbel
 - `onPassport(provider)`: Derdeparty vinnige aanmelding terugbel
 - `onReset(mail)`: Wagwoord-terugbel vergeet

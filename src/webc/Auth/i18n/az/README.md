@@ -2,9 +2,9 @@
 
 E-poçt və mobil telefon nömrəsinin qeydiyyatı və girişi, doğrulama kodunun yoxlanılması, parol girişi və üçüncü tərəfin sürətli girişini birləşdirin.
 
-- E-poçt ünvanı və mobil telefon nömrəsi arasında tab keçidini dəstəkləyir
+- E-poçt və mobil telefon nömrəsinin daxil edilməsini dəstəkləyin
 - Maye şüşə teksturalı üzən etiketlər
-- Çox ölkə ərazi kodu seçimini və SMS doğrulama kodunu geri saymağı dəstəkləyir
+- SMS doğrulama kodunu geri saymağı dəstəkləyin
 - Üçüncü tərəfin OAuth sürətli girişini və bağlı təlimatı dəstəkləyin
 
 ## Demodan istifadə edin
@@ -17,9 +17,8 @@ import "webc.site/Auth.js";
 
 const auth = document.querySelector("c-auth");
 
-auth.onMail = async (mail) => {
-  // Vəziyyət kodunu qaytarın: doğrulama kodunun qeydiyyatı üçün 1, parol girişi üçün 2 və ya üçüncü tərəf giriş massivini qaytarın ["google", "apple"]
-  return 2;
+auth.onSignup = async (mail, name, password, code) => {
+  return [0, mail, name, code];
 };
 
 auth.onLogin = async (mail, password) => {
@@ -46,11 +45,10 @@ auth.addEventListener("auth", (e) => {
 - `step`: cari status (nömrə və ya massiv)
 - `mail`: E-poçt
 - `phone`: mobil telefon nömrəsi
-- `cc`: beynəlxalq yığım kodu (defolt 86)
-- `onMail(mail)`: E-poçtu yoxlayın
-- `onSignup(mail, name, password)`: Geri zəngi qeyd edin
+- `onSignup(mail, name, password, code)`: Geri zəngi qeyd edin
+- `onResend(mail)`: Doğrulama kodunu yenidən göndərin
 - `onLogin(mail, password)`: Parolla daxil olmaq üçün geri çağırış
-- `onSmsSend(phone, cc)`: SMS doğrulama kodunu geri çağırış göndərin
-- `onSmsVerify(phone, cc, code)`: Doğrulama SMS doğrulama kodu geri çağırış
+- `onSmsSend(phone)`: SMS doğrulama kodunu geri çağırış göndərin
+- `onSmsVerify(phone, code)`: Doğrulama SMS doğrulama kodu geri çağırış
 - `onPassport(provider)`: Üçüncü tərəf sürətli giriş geri zəngi
 - `onReset(mail)`: Parol sıfırlamasını unutdum geriyə zəng
