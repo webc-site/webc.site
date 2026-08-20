@@ -5,3 +5,5 @@ bottom: Pababa
 left: Kaliwa
 right: tama
 auto: awtomatiko
+longText: mahabang text
+longTip: Awtomatikong i-wrap ang mahabang text at mahabang link: https://github.com/webc-site/webc.site/blob/main/src/webc/Popover.js

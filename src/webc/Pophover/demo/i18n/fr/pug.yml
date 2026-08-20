@@ -5,3 +5,5 @@ bottom: Vers le bas
 left: Gauche
 right: droite
 auto: automatique
+longText: long texte
+longTip: Envelopper automatiquement le texte long et les liens longs : https://github.com/webc-site/webc.site/blob/main/src/webc/Pophover.js

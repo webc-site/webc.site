@@ -5,3 +5,5 @@ bottom: Bawah
 left: kiri
 right: betul
 auto: automatik
+longText: teks panjang
+longTip: Balut teks panjang dan pautan panjang secara automatik: https://github.com/webc-site/webc.site/blob/main/src/webc/Popover.js

@@ -5,3 +5,5 @@ bottom: Уніз
 left: налева
 right: справа
 auto: аўтаматычны
+longText: доўгі тэкст
+longTip: Аўтаматычна пераносіць доўгі тэкст і доўгія спасылкі: https://github.com/webc-site/webc.site/blob/main/src/webc/Pophover.js

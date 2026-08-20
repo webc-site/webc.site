@@ -5,3 +5,5 @@ bottom: پایین
 left: سمت چپ
 right: درست است
 auto: خودکار
+longText: متن طولانی
+longTip: بسته بندی خودکار متن طولانی و پیوندهای طولانی: https://github.com/webc-site/webc.site/blob/main/src/webc/Pophover.js

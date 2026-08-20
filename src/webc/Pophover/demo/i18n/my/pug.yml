@@ -5,3 +5,5 @@ bottom: ဆင်းတယ်။
 left: ဝဲ
 right: မှန်တယ်
 auto: အလိုအလျောက်
+longText: စာသားအရှည်
+longTip: ရှည်လျားသော စာသားနှင့် လင့်ခ်ရှည်များကို အလိုအလျောက် ထုပ်ပါ- https://github.com/webc-site/webc.site/blob/main/src/webc/Pophover.js

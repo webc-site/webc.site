@@ -5,3 +5,5 @@ bottom: Behera
 left: Ezkerra
 right: eskubidea
 auto: automatikoa
+longText: testu luzea
+longTip: Testu luzea eta esteka luzeak automatikoki bildu: https://github.com/webc-site/webc.site/blob/main/src/webc/Pophover.js

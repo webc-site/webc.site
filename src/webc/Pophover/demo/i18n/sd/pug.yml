@@ -5,3 +5,5 @@ bottom: هيٺ
 left: کاٻو
 right: ساڄو
 auto: خودڪار
+longText: ڊگهو متن
+longTip: خودڪار طور تي ڊگھي ٽيڪسٽ ۽ ڊگھي لنڪس لپيٽ ڪريو: https://github.com/webc-site/webc.site/blob/main/src/webc/Pophover.js

@@ -5,3 +5,5 @@ bottom: Jos
 left: Stânga
 right: corect
 auto: automat
+longText: text lung
+longTip: Încheiere automat text lung și linkuri lungi: https://github.com/webc-site/webc.site/blob/main/src/webc/Pophover.js

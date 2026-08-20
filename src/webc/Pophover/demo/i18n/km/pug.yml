@@ -5,3 +5,5 @@ bottom: ចុះ
 left: ឆ្វេង
 right: ត្រឹមត្រូវ។
 auto: ស្វ័យប្រវត្តិ
+longText: អត្ថបទវែង
+longTip: រុំអត្ថបទវែង និងតំណវែងដោយស្វ័យប្រវត្តិ៖ https://github.com/webc-site/webc.site/blob/main/src/webc/Pophover.js

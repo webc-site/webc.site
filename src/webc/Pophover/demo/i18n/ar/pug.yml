@@ -5,3 +5,5 @@ bottom: تحت
 left: غادر
 right: يمين
 auto: تلقائي
+longText: نص طويل
+longTip: التفاف النص الطويل والروابط الطويلة تلقائيًا: https://github.com/webc-site/webc.site/blob/main/src/webc/Pophover.js

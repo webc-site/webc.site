@@ -5,3 +5,5 @@ bottom: Le
 left: Balra
 right: jobbra
 auto: automatikus
+longText: hosszú szöveg
+longTip: A hosszú szöveg és a hosszú linkek automatikus tördelése: https://github.com/webc-site/webc.site/blob/main/src/webc/Pophover.js

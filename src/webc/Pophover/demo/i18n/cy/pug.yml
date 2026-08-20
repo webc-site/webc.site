@@ -5,3 +5,5 @@ bottom: I lawr
 left: Chwith
 right: iawn
 auto: awtomatig
+longText: testun hir
+longTip: Lapiwch destun hir a dolenni hir yn awtomatig: https://github.com/webc-site/webc.site/blob/main/src/webc/Pophover.js

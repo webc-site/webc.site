@@ -5,3 +5,5 @@ bottom: Pastga
 left: Chapga
 right: to'g'ri
 auto: avtomatik
+longText: uzun matn
+longTip: Uzoq matn va uzun havolalarni avtomatik oʻrash: https://github.com/webc-site/webc.site/blob/main/src/webc/Pophover.js

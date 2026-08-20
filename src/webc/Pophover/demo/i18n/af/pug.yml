@@ -5,3 +5,5 @@ bottom: Af
 left: Links
 right: reg
 auto: outomaties
+longText: lang teks
+longTip: Wikkel outomaties lang teks en lang skakels: https://github.com/webc-site/webc.site/blob/main/src/webc/Pophover.js

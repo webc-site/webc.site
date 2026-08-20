@@ -5,3 +5,5 @@ bottom: dolje
 left: Lijevo
 right: pravo
 auto: automatski
+longText: dugačak tekst
+longTip: Automatski prelomi dugački tekst i duge veze: https://github.com/webc-site/webc.site/blob/main/src/webc/Pophover.js

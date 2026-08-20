@@ -5,3 +5,5 @@ bottom: Κάτω
 left: Αριστερά
 right: δικαίωμα
 auto: αυτόματο
+longText: μακρύ κείμενο
+longTip: Αυτόματη αναδίπλωση μεγάλου κειμένου και μεγάλων συνδέσμων: https://github.com/webc-site/webc.site/blob/main/src/webc/Pophover.js

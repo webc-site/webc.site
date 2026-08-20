@@ -5,3 +5,5 @@ bottom: Aşağı
 left: Sol
 right: Sağ
 auto: otomatik
+longText: uzun metin
+longTip: Uzun metni ve uzun bağlantıları otomatik olarak kaydır: https://github.com/webc-site/webc.site/blob/main/src/webc/Pophover.js

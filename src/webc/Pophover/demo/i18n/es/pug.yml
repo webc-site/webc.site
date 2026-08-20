@@ -5,3 +5,5 @@ bottom: Abajo
 left: Izquierda
 right: bien
 auto: automático
+longText: texto largo
+longTip: Ajustar automáticamente texto largo y enlaces largos: https://github.com/webc-site/webc.site/blob/main/src/webc/Pophover.js

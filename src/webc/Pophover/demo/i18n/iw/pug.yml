@@ -5,3 +5,5 @@ bottom: לְמַטָה
 left: שְׁמֹאל
 right: יָמִינָה
 auto: אוֹטוֹמָטִי
+longText: טקסט ארוך
+longTip: עטוף אוטומטית טקסט ארוך וקישורים ארוכים: https://github.com/webc-site/webc.site/blob/main/src/webc/Pophover.js

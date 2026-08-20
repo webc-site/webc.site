@@ -5,3 +5,5 @@ bottom: ಕೆಳಗೆ
 left: ಎಡಕ್ಕೆ
 right: ಬಲ
 auto: ಸ್ವಯಂಚಾಲಿತ
+longText: ದೀರ್ಘ ಪಠ್ಯ
+longTip: ಉದ್ದವಾದ ಪಠ್ಯ ಮತ್ತು ದೀರ್ಘ ಲಿಂಕ್‌ಗಳನ್ನು ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಸುತ್ತಿ: https://github.com/webc-site/webc.site/blob/main/src/webc/Pophover.js

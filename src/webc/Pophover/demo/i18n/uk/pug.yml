@@ -5,3 +5,5 @@ bottom: вниз
 left: Ліворуч
 right: правильно
 auto: автоматичний
+longText: довгий текст
+longTip: Автоматично обтікати довгий текст і довгі посилання: https://github.com/webc-site/webc.site/blob/main/src/webc/Pophover.js

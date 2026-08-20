@@ -5,3 +5,5 @@ bottom: Mudhun
 left: Ngiwa
 right: bener
 auto: otomatis
+longText: teks dawa
+longTip: Bungkus teks dawa lan tautan dawa kanthi otomatis: https://github.com/webc-site/webc.site/blob/main/src/webc/Popover.js

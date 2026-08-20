@@ -5,3 +5,5 @@ bottom: கீழே
 left: விட்டு
 right: சரி
 auto: தானியங்கி
+longText: நீண்ட உரை
+longTip: நீண்ட உரை மற்றும் நீண்ட இணைப்புகளைத் தானாக மடிக்க: https://github.com/webc-site/webc.site/blob/main/src/webc/Pophover.js

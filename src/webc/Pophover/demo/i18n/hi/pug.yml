@@ -5,3 +5,5 @@ bottom: नीचे
 left: बाएं
 right: सही
 auto: स्वचालित
+longText: लंबा पाठ
+longTip: लंबे टेक्स्ट और लंबे लिंक को स्वचालित रूप से लपेटें: https://github.com/webc-site/webc.site/blob/main/src/webc/Pophover.js

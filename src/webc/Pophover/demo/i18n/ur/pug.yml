@@ -5,3 +5,5 @@ bottom: نیچے
 left: بائیں
 right: صحیح
 auto: خودکار
+longText: طویل متن
+longTip: لمبے متن اور لمبے لنکس کو خود بخود لپیٹیں: https://github.com/webc-site/webc.site/blob/main/src/webc/Pophover.js

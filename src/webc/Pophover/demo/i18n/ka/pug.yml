@@ -5,3 +5,5 @@ bottom: ქვემოთ
 left: მარცხენა
 right: უფლება
 auto: ავტომატური
+longText: გრძელი ტექსტი
+longTip: გრძელი ტექსტისა და გრძელი ბმულების ავტომატურად შეფუთვა: https://github.com/webc-site/webc.site/blob/main/src/webc/Pophover.js
